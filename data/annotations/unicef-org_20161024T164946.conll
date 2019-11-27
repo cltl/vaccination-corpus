@@ -1,0 +1,838 @@
+sent_id	token_id	word	lemma	pos	head	deprel	offset_start	offset_end	event	attr_content	attr_source	attr_cue	claim	apred0	apred1	apred2	apred3	apred4	apred5	apred6	apred7	apred8
+1	1	_	_	NN	2	compound	0	12	B-event-64344	_	_	_	_	B-ARG0	O	O	O	O	O	O
+1	2	_	_	NNS	11	nsubj	13	18	_	_	_	_	_	B-V	O	O	O	O	O	O
+1	3	_	_	IN	4	mark	19	21	_	_	_	_	_	B-ARGM-MNR	O	O	O	O	O	O
+1	4	_	_	VBG	2	acl	22	30	B-event-64345	_	_	_	_	I-ARGM-MNR	B-V	O	O	O	O	O
+1	5	_	_	DT	6	det	31	34	_	_	B-source-32905	_	_	I-ARGM-MNR	B-ARG1	O	O	O	O	O
+1	6	_	_	NN	4	dobj	35	39	_	_	I-source-32905	_	_	I-ARGM-MNR	I-ARG1	O	O	O	O	O
+1	7	_	_	IN	8	mark	40	44	_	_	_	_	_	I-ARGM-MNR	B-ARG2	O	O	O	O	O
+1	8	_	_	VBG	4	advcl	45	54	_	_	_	B-cue-32906	_	I-ARGM-MNR	I-ARG2	B-V	O	O	O	O
+1	9	_	_	PRP	8	dobj	55	57	_	B-content-32907:32906-Cue_32905-Source	_	_	_	I-ARGM-MNR	I-ARG2	B-ARG1	O	B-ARG0	O	O
+1	10	_	_	VBZ	11	aux	58	60	_	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	B-V	O	O	O
+1	11	_	_	VBG	0	ROOT	61	73	_	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	B-V	O	O
+1	12	_	_	DT	14	det	74	75	_	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	B-ARG1	O	O
+1	13	_	_	JJ	14	amod	76	86	_	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARG1	O	O
+1	14	_	_	NN	11	dobj	87	95	B-event-64346	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARG1	O	O
+1	15	_	_	IN	18	case	96	98	_	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARG1	O	O
+1	16	_	_	DT	18	det	99	101	_	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARG1	O	O
+1	17	_	_	JJ	18	amod	102	112	B-event-64347	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARG1	O	O
+1	18	_	_	NN	11	nmod	113	118	_	I-content-32907	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARG1	O	O
+1	19	_	_	IN	25	mark	119	121	_	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	B-ARGM-PRP	O	O
+1	20	_	_	IN	19	mwe	122	126	_	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	O	O
+1	21	_	_	DT	23	det	127	130	_	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	B-ARG0	B-ARG0
+1	22	_	_	JJ	23	amod	131	137	_	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	I-ARG0	I-ARG0
+1	23	_	_	NN	25	nsubj	138	144	_	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	I-ARG0	I-ARG0
+1	24	_	_	MD	25	aux	145	148	_	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	B-V	B-ARGM-MOD
+1	25	_	_	VB	11	advcl	149	156	B-event-64348	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	B-ARG1	B-V
+1	26	_	_	PRP$	27	nmod:poss	157	160	_	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	I-ARG1	B-ARG1
+1	27	_	_	NNS	25	dobj	161	169	B-event-64349	_	_	_	_	I-ARGM-MNR	I-ARG2	I-ARG1	O	I-ARGM-PRP	I-ARG1	I-ARG1
+1	28	_	_	.	11	punct	169	170	_	_	_	_	_	O	O	O	O	O	O	O
+
+2	1	_	_	IN	2	case	171	177	_	_	_	_	_	O	B-ARGM-TMP	B-ARGM-TMP	O	O
+2	2	_	_	NN	11	nmod	178	189	B-event-64350	_	_	_	_	O	I-ARGM-TMP	I-ARGM-TMP	O	O
+2	3	_	_	,	11	punct	189	190	_	_	_	_	_	O	O	O	O	O
+2	4	_	_	DT	6	det	191	192	_	_	_	_	_	O	B-ARG1	O	O	O
+2	5	_	_	JJ	6	amod	193	201	_	_	_	_	_	O	I-ARG1	O	O	O
+2	6	_	_	NN	11	nsubjpass	202	209	_	_	_	_	_	O	I-ARG1	O	O	O
+2	7	_	_	IN	9	case	210	212	_	_	_	_	_	O	I-ARG1	O	O	O
+2	8	_	_	DT	9	det	213	214	_	_	_	_	_	O	I-ARG1	O	O	O
+2	9	_	_	NN	6	nmod	215	219	_	_	_	_	_	O	I-ARG1	O	O	O
+2	10	_	_	VBZ	11	auxpass	220	222	_	_	_	_	_	B-V	O	O	O	O
+2	11	_	_	VBN	0	ROOT	223	233	B-event-64351	_	_	_	_	O	B-V	O	O	O
+2	12	_	_	TO	14	case	234	236	_	_	_	_	_	O	B-ARG2	O	O	O
+2	13	_	_	DT	14	det	237	240	_	_	_	_	_	O	I-ARG2	O	O	O
+2	14	_	_	NN	11	nmod	241	245	_	_	_	_	_	O	I-ARG2	O	O	O
+2	15	_	_	CC	11	cc	246	249	_	_	_	_	_	O	O	O	O	O
+2	16	_	_	DT	18	det	250	253	_	_	_	_	_	O	O	B-ARG0	B-ARG0	O
+2	17	_	_	JJ	18	amod	254	260	_	_	_	_	_	O	O	I-ARG0	I-ARG0	O
+2	18	_	_	NN	19	nsubj	261	267	_	_	_	_	_	O	O	I-ARG0	I-ARG0	O
+2	19	_	_	VBZ	11	conj	268	276	B-event-64352	_	_	_	_	O	O	B-V	O	O
+2	20	_	_	IN	21	mark	277	279	_	_	_	_	_	O	O	B-ARG2	O	O
+2	21	_	_	VBG	19	advcl	280	289	B-event-64353	_	_	_	_	O	O	I-ARG2	B-V	O
+2	22	_	_	NNS	21	dobj	290	300	_	_	_	_	_	O	O	I-ARG2	B-ARG1	O
+2	23	_	_	TO	24	mark	301	303	_	_	_	_	_	O	O	I-ARG2	I-ARG1	O
+2	24	_	_	VB	21	advcl	304	310	B-event-64354	_	_	_	_	O	O	I-ARG2	I-ARG1	B-V
+2	25	_	_	DT	26	det	311	314	_	_	_	_	_	O	O	I-ARG2	I-ARG1	B-ARG1
+2	26	_	_	NN	24	dobj	315	323	B-event-64355	_	_	_	_	O	O	I-ARG2	I-ARG1	I-ARG1
+2	27	_	_	.	11	punct	323	324	_	_	_	_	_	O	O	O	O	O
+
+3	1	_	_	RB	8	advmod	325	335	_	_	_	_	_	B-ARGM-TMP	O	O	O	O
+3	2	_	_	,	8	punct	335	336	_	_	_	_	_	O	O	O	O	O
+3	3	_	_	DT	4	det	337	338	_	_	_	_	_	B-ARG1	O	O	O	O
+3	4	_	_	NN	8	nsubj	339	345	_	_	_	_	_	I-ARG1	O	O	O	O
+3	5	_	_	IN	7	case	346	348	_	_	_	_	_	I-ARG1	O	O	O	O
+3	6	_	_	DT	7	det	349	353	_	_	_	_	_	I-ARG1	O	O	O	O
+3	7	_	_	NN	4	nmod	355	363	B-event-64356	_	_	_	_	I-ARG1	O	O	O	O
+3	8	_	_	VBZ	0	ROOT	365	372	_	_	_	_	_	B-V	O	O	O	O
+3	9	_	_	RB	16	mark	373	375	_	_	_	_	_	B-ARGM-PNC	O	O	O	O
+3	10	_	_	IN	9	mwe	376	380	_	_	_	_	_	I-ARGM-PNC	O	O	O	O
+3	11	_	_	DT	13	det	381	384	_	_	_	_	_	I-ARGM-PNC	O	B-ARG0	B-ARG0	O
+3	12	_	_	JJ	13	amod	385	391	_	_	_	_	_	I-ARGM-PNC	O	I-ARG0	I-ARG0	O
+3	13	_	_	NN	16	nsubj	392	398	_	_	_	_	_	I-ARGM-PNC	O	I-ARG0	I-ARG0	O
+3	14	_	_	MD	16	aux	399	402	_	_	_	_	_	I-ARGM-PNC	O	B-ARGM-MOD	B-ARGM-MOD	O
+3	15	_	_	RB	16	advmod	403	410	_	_	_	_	_	I-ARGM-PNC	O	B-ARGM-MNR	B-ARGM-MNR	O
+3	16	_	_	VB	8	advcl	411	420	B-event-64357	_	_	_	_	I-ARGM-PNC	O	B-V	O	O
+3	17	_	_	CC	16	cc	421	424	_	_	_	_	_	I-ARGM-PNC	O	O	O	O
+3	18	_	_	VB	16	conj	425	435	B-event-64358	_	_	_	_	I-ARGM-PNC	O	O	B-V	O
+3	19	_	_	JJ	20	amod	436	451	B-event-64359	_	_	_	_	I-ARGM-PNC	O	B-ARG1	B-ARG1	O
+3	20	_	_	NNS	16	dobj	452	458	_	_	_	_	_	I-ARGM-PNC	O	I-ARG1	I-ARG1	O
+3	21	_	_	WRB	23	advmod	459	463	_	_	_	_	_	I-ARGM-PNC	O	B-ARGM-TMP	B-ARGM-TMP	B-ARGM-TMP
+3	22	_	_	PRP	23	nsubj	464	468	_	_	_	_	_	I-ARGM-PNC	O	I-ARGM-TMP	I-ARGM-TMP	B-ARG1
+3	23	_	_	VBP	16	advcl	469	475	B-event-64360	_	_	_	_	I-ARGM-PNC	O	I-ARGM-TMP	I-ARGM-TMP	B-V
+3	24	_	_	.	8	punct	475	476	_	_	_	_	_	O	O	O	O	O
+
+4	1	_	_	DT	2	det	477	480	_	_	_	_	_	B-ARG0	O	O	O	O	O	O
+4	2	_	_	JJ	8	nsubj	481	488	_	_	_	_	_	I-ARG0	O	O	O	O	O	O
+4	3	_	_	VBN	2	acl	489	498	_	_	_	_	_	B-V	O	O	O	O	O	O
+4	4	_	_	DT	5	det	499	500	_	_	_	_	_	B-ARG1	O	O	O	O	O	O
+4	5	_	_	NN	3	dobj	501	508	_	_	_	_	_	I-ARG1	O	O	O	O	O	O
+4	6	_	_	IN	7	case	509	511	_	_	_	_	_	I-ARG1	O	O	O	O	O	O
+4	7	_	_	NN	5	nmod	512	523	B-event-64361	_	_	_	_	I-ARG1	B-ARG1	O	O	O	O	O
+4	8	_	_	VBN	0	ROOT	524	530	_	_	_	_	_	I-ARG1	B-V	O	O	O	O	O
+4	9	_	_	NN	8	dobj	531	542	B-event-64362	_	_	_	_	I-ARG1	B-ARG2	O	O	O	O	O
+4	10	_	_	IN	13	case	543	545	_	_	_	_	_	B-ARGM-TMP	O	B-ARGM-TMP	O	O	O	O
+4	11	_	_	DT	13	det	546	549	_	_	_	_	_	I-ARGM-TMP	O	I-ARGM-TMP	O	O	O	O
+4	12	_	_	JJ	13	amod	550	554	_	_	_	_	_	I-ARGM-TMP	O	I-ARGM-TMP	O	O	O	O
+4	13	_	_	NN	8	nmod	555	562	_	_	_	_	_	I-ARGM-TMP	O	I-ARGM-TMP	O	O	O	O
+4	14	_	_	WRB	16	advmod	563	567	_	_	_	_	_	B-ARGM-TMP	O	B-R-ARGM-TMP	O	O	O	O
+4	15	_	_	PRP	16	nsubj	568	572	_	_	B-source-32908	_	_	I-ARGM-TMP	O	B-ARG0	O	O	O	O
+4	16	_	_	VBD	8	advcl	573	583	_	_	_	B-cue-32909	_	I-ARGM-TMP	O	B-V	O	O	O	O
+4	17	_	_	PRP	19	nsubj	584	588	_	B-content-32910:32909-Cue_32908-Source	_	_	_	I-ARGM-TMP	O	B-ARG1	O	B-ARG0	O	O
+4	18	_	_	MD	19	aux	589	594	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	B-V	B-ARGM-MOD	O	O
+4	19	_	_	VB	16	ccomp	595	602	B-event-64363	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	B-V	O	O
+4	20	_	_	NN	19	dobj	603	611	B-event-64364	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	B-ARG1	O	O
+4	21	_	_	IN	22	mark	612	614	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	B-ARGM-MNR	O	O
+4	22	_	_	VBG	19	advcl	615	623	B-event-64365	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	B-V	O
+4	23	_	_	DT	25	det	624	625	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	B-ARG1	O
+4	24	_	_	JJ	25	amod	626	633	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG1	O
+4	25	_	_	NN	22	dobj	634	640	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG1	O
+4	26	_	_	TO	27	mark	641	643	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	B-ARG2	O
+4	27	_	_	VB	22	advcl	644	650	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	B-V
+4	28	_	_	IN	30	case	651	655	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	O
+4	29	_	_	DT	30	det	656	659	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	O
+4	30	_	_	NNS	27	nmod	660	667	B-event-64366	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	O
+4	31	_	_	IN	34	case	668	670	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	O
+4	32	_	_	DT	34	det	671	673	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	O
+4	33	_	_	JJ	34	amod	674	682	B-event-64367	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	O
+4	34	_	_	NN	30	nmod	683	689	_	I-content-32910	_	_	_	I-ARGM-TMP	O	I-ARG1	O	I-ARGM-MNR	I-ARG2	O
+4	35	_	_	.	8	punct	689	690	_	_	_	_	_	O	O	O	O	O	O	O
+
+5	1	_	_	IN	2	case	691	693	_	_	_	_	_	B-ARGM-TMP	O	O
+5	2	_	_	CD	11	nmod	694	698	_	_	_	_	_	I-ARGM-TMP	O	O
+5	3	_	_	,	11	punct	698	699	_	_	_	_	_	O	O	O
+5	4	_	_	NNP	5	compound	700	706	_	_	_	_	_	B-ARG0	O	O
+5	5	_	_	NNP	11	nsubj	707	713	_	_	_	_	_	I-ARG0	O	O
+5	6	_	_	,	5	punct	713	714	_	_	_	_	_	I-ARG0	O	O
+5	7	_	_	DT	9	det	715	717	_	_	_	_	_	I-ARG0	O	O
+5	8	_	_	JJ	9	amod	718	725	_	_	_	_	_	I-ARG0	O	O
+5	9	_	_	NN	5	appos	726	732	_	_	_	_	_	I-ARG0	O	O
+5	10	_	_	,	5	punct	732	733	_	_	_	_	_	I-ARG0	O	O
+5	11	_	_	VBD	0	ROOT	734	743	_	_	_	_	_	B-V	O	O
+5	12	_	_	DT	14	det	744	747	_	_	_	_	_	B-ARG1	O	O
+5	13	_	_	JJ	14	amod	748	753	_	_	_	_	_	I-ARG1	O	O
+5	14	_	_	NN	11	dobj	754	765	B-event-64368	_	_	_	_	I-ARG1	O	O
+5	15	_	_	IN	16	case	766	768	_	_	_	_	_	B-ARGM-LOC	O	O
+5	16	_	_	NNP	11	nmod	769	775	_	_	_	_	_	I-ARGM-LOC	O	O
+5	17	_	_	WRB	19	advmod	776	780	_	_	_	_	_	B-ARGM-TMP	B-ARGM-TMP	O
+5	18	_	_	PRP	19	nsubj	781	783	_	_	_	_	_	I-ARGM-TMP	B-ARG0	B-ARG0
+5	19	_	_	VBD	11	advcl	784	788	_	_	_	_	_	I-ARGM-TMP	B-V	O
+5	20	_	_	DT	22	det	789	790	_	_	_	_	_	I-ARGM-TMP	B-ARG1	O
+5	21	_	_	NN	22	compound	791	797	_	_	_	_	_	I-ARGM-TMP	I-ARG1	O
+5	22	_	_	NN	19	dobj	798	803	_	_	_	_	_	I-ARGM-TMP	I-ARG1	O
+5	23	_	_	TO	24	mark	804	806	_	_	_	_	_	I-ARGM-TMP	B-ARG2	O
+5	24	_	_	VB	19	advcl	807	816	B-event-64369	_	_	_	_	I-ARGM-TMP	I-ARG2	B-V
+5	25	_	_	DT	27	det	817	818	_	_	_	_	_	I-ARGM-TMP	I-ARG2	B-ARG2
+5	26	_	_	JJ	27	amod	819	824	_	_	_	_	_	I-ARGM-TMP	I-ARG2	I-ARG2
+5	27	_	_	NN	24	dobj	825	828	_	_	_	_	_	I-ARGM-TMP	I-ARG2	I-ARG2
+5	28	_	_	IN	33	case	829	836	_	_	_	_	_	I-ARGM-TMP	I-ARG2	B-ARGM-PNC
+5	29	_	_	DT	33	det	837	840	_	_	_	_	_	I-ARGM-TMP	I-ARG2	I-ARGM-PNC
+5	30	_	_	RBR	31	advmod	841	845	_	_	_	_	_	I-ARGM-TMP	I-ARG2	I-ARGM-PNC
+5	31	_	_	JJ	33	amod	846	852	_	_	_	_	_	I-ARGM-TMP	I-ARG2	I-ARGM-PNC
+5	32	_	_	NN	33	compound	853	861	B-event-64370	_	_	_	_	I-ARGM-TMP	I-ARG2	I-ARGM-PNC
+5	33	_	_	NN	27	nmod	862	867	B-event-64371	_	_	_	_	I-ARGM-TMP	I-ARG2	I-ARGM-PNC
+5	34	_	_	.	11	punct	867	868	_	_	_	_	_	O	O	O
+
+6	1	_	_	CD	0	ROOT	869	870	_	_	_	_	_	O
+6	2	_	_	NNP	3	compound	870	873	_	_	_	_	_	B-ARG0
+6	3	_	_	NNP	4	nsubj	874	880	_	_	_	_	_	I-ARG0
+6	4	_	_	VBD	1	acl:relcl	881	887	B-event-64373	_	_	_	_	B-V
+6	5	_	_	DT	7	det	888	892	_	_	_	_	_	B-ARG1
+6	6	_	_	NN	7	compound	893	900	_	_	_	_	_	I-ARG1
+6	7	_	_	NN	4	dobj	901	912	B-event-64372	_	_	_	_	B-ARG2
+6	8	_	_	IN	11	case	913	918	_	_	_	_	_	I-ARG2
+6	9	_	_	DT	11	det	919	922	_	_	_	_	_	I-ARG2
+6	10	_	_	NNP	11	compound	923	928	_	_	_	_	_	I-ARG2
+6	11	_	_	NN	7	nmod	929	933	_	_	_	_	_	I-ARG2
+6	12	_	_	IN	13	case	934	937	_	_	_	_	_	I-ARG2
+6	13	_	_	NN	11	nmod	938	941	_	_	_	_	_	I-ARG2
+6	14	_	_	,	7	punct	941	942	_	_	_	_	_	I-ARG2
+6	15	_	_	NN	7	appos	943	948	_	_	_	_	_	I-ARG2
+6	16	_	_	.	7	punct	948	949	_	_	_	_	_	O
+6	17	_	_	SYM	7	dep	949	950	_	_	_	_	_	O
+
+7	1	_	_	NN	3	nmod:tmod	951	956	_	_	_	_	_	B-ARGM-TMP
+7	2	_	_	EX	3	expl	957	962	_	_	_	_	_	O
+7	3	_	_	VBP	0	ROOT	963	966	_	_	_	_	_	B-V
+7	4	_	_	JJ	5	amod	967	974	_	_	_	_	_	B-ARG1
+7	5	_	_	NNS	3	nsubj	975	980	_	_	_	_	_	I-ARG1
+7	6	_	_	IN	7	case	981	983	_	_	_	_	_	I-ARG1
+7	7	_	_	NNS	5	nmod	984	992	_	_	_	_	_	I-ARG1
+7	8	_	_	.	3	punct	992	993	_	_	_	_	_	O
+
+8	1	_	_	DT	14	nsubj	994	998	_	_	_	_	_	B-ARG1	O	O	O	O	O	O	O	O
+8	2	_	_	,	8	punct	998	999	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	3	_	_	JJ	8	case	1000	1004	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	4	_	_	IN	3	mwe	1005	1007	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	5	_	_	DT	8	det	1008	1011	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	6	_	_	JJ	8	amod	1012	1016	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	7	_	_	NNP	8	compound	1017	1022	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	8	_	_	NN	14	dep	1023	1030	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	9	_	_	CD	11	nummod	1031	1032	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	10	_	_	NN	11	compound	1032	1035	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	11	_	_	NN	8	dep	1035	1036	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	12	_	_	,	8	punct	1036	1037	_	_	_	_	_	I-ARG1	O	O	O	O	O	O	O	O
+8	13	_	_	VBP	14	cop	1038	1041	_	_	_	_	_	B-V	O	O	O	O	O	O	O	O
+8	14	_	_	JJ	16	ccomp	1042	1046	_	_	_	_	_	B-ARG2	O	B-ARG0	O	O	O	O	O	O
+8	15	_	_	,	16	punct	1046	1047	_	_	_	_	_	I-ARG2	O	I-ARG0	O	O	O	O	O	O
+8	16	_	_	VBD	0	ROOT	1049	1059	B-event-64374	_	_	_	_	I-ARG2	B-V	I-ARG0	O	O	O	O	O	O
+8	17	_	_	NNS	16	nsubj	1061	1069	_	_	_	_	_	I-ARG2	B-ARG1	I-ARG0	O	O	O	O	O	O
+8	18	_	_	WDT	19	nsubj	1070	1075	_	_	_	_	_	I-ARG2	O	B-R-ARG0	O	O	O	O	O	O
+8	19	_	_	VBZ	17	ccomp	1076	1081	_	_	_	_	_	I-ARG2	O	B-V	O	O	O	O	O	O
+8	20	_	_	DT	21	det	1082	1085	_	_	_	_	_	I-ARG2	O	B-ARG1	O	O	B-ARG1	O	O	O
+8	21	_	_	NN	24	nsubjpass	1086	1091	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARG1	O	O	O
+8	22	_	_	VBZ	24	aux	1092	1095	_	_	_	_	_	I-ARG2	O	I-ARG1	B-V	O	O	O	O	O
+8	23	_	_	VBN	24	auxpass	1096	1100	_	_	_	_	_	I-ARG2	O	I-ARG1	O	B-V	O	O	O	O
+8	24	_	_	VBN	19	ccomp	1101	1109	B-event-64375	_	_	_	_	I-ARG2	O	I-ARG1	O	O	B-V	O	O	O
+8	25	_	_	IN	28	mark	1110	1112	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	B-ARGM-PRP	O	O	O
+8	26	_	_	IN	25	mwe	1113	1117	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	O	O
+8	27	_	_	PRP	28	nsubj	1118	1120	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	B-ARG0	O	B-ARG0
+8	28	_	_	VBZ	24	advcl	1121	1131	B-event-64376	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	B-V	O	O
+8	29	_	_	NN	30	compound	1132	1140	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	B-ARG1	O	O
+8	30	_	_	NN	28	dobj	1141	1151	B-event-64377	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	I-ARG1	O	O
+8	31	_	_	,	28	punct	1151	1152	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	O	O
+8	32	_	_	CC	28	cc	1153	1156	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	O	O
+8	33	_	_	VBZ	35	aux	1157	1161	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	B-V	O
+8	34	_	_	RB	35	neg	1162	1165	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	O	B-ARGM-NEG
+8	35	_	_	VB	28	conj	1166	1171	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	O	B-V
+8	36	_	_	DT	37	det	1172	1175	_	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	O	B-ARG1
+8	37	_	_	NN	35	dobj	1176	1183	B-event-64378	_	_	_	_	I-ARG2	O	I-ARG1	O	O	I-ARGM-PRP	O	O	I-ARG1
+8	38	_	_	.	16	punct	1183	1184	_	_	_	_	_	O	O	O	O	O	O	O	O	O
+
+9	1	_	_	NNS	8	nsubj	1185	1191	_	_	_	_	_	B-ARG0	O	O
+9	2	_	_	JJ	7	case	1192	1196	_	_	_	_	_	I-ARG0	O	O
+9	3	_	_	IN	2	mwe	1197	1199	_	_	_	_	_	I-ARG0	O	O
+9	4	_	_	DT	7	det	1200	1203	_	_	_	_	_	I-ARG0	O	O
+9	5	_	_	JJ	7	amod	1205	1215	_	_	_	_	_	I-ARG0	O	O
+9	6	_	_	NN	7	compound	1217	1226	_	_	_	_	_	I-ARG0	O	O
+9	7	_	_	NN	1	nmod	1227	1234	_	_	_	_	_	I-ARG0	O	O
+9	8	_	_	VBP	0	ROOT	1235	1238	_	_	_	_	_	B-V	O	O
+9	9	_	_	DT	8	dobj	1239	1241	_	_	_	_	_	B-ARG1	O	B-ARG0
+9	10	_	_	VBN	9	acl	1242	1253	B-event-64379	_	_	_	_	I-ARG1	O	I-ARG0
+9	11	_	_	,	10	punct	1253	1254	_	_	_	_	_	I-ARG1	O	I-ARG0
+9	12	_	_	CC	10	cc	1255	1257	_	_	_	_	_	I-ARG1	O	I-ARG0
+9	13	_	_	VBN	10	conj	1258	1264	B-event-64380	_	_	_	_	I-ARG1	B-V	I-ARG0
+9	14	_	_	,	9	punct	1264	1265	_	_	_	_	_	I-ARG1	O	I-ARG0
+9	15	_	_	NN	9	appos	1266	1271	_	_	_	_	_	I-ARG1	B-ARG1	I-ARG0
+9	16	_	_	WDT	18	nsubj	1272	1276	_	_	_	_	_	I-ARG1	O	B-R-ARG0
+9	17	_	_	RB	18	advmod	1277	1282	_	_	_	_	_	I-ARG1	O	B-ARGM-TMP
+9	18	_	_	VBZ	15	acl:relcl	1283	1291	B-event-64381	_	_	_	_	I-ARG1	O	B-V
+9	19	_	_	DT	21	det	1292	1294	_	_	_	_	_	I-ARG1	O	B-ARG1
+9	20	_	_	JJ	21	amod	1295	1301	_	_	_	_	_	I-ARG1	O	I-ARG1
+9	21	_	_	NN	18	dobj	1302	1310	B-event-64382	_	_	_	_	I-ARG1	O	I-ARG1
+9	22	_	_	.	8	punct	1310	1311	_	_	_	_	_	O	O	O
+
+10	1	_	_	NN	2	compound	1312	1319	_	_	_	_	_	O	B-ARG1	O
+10	2	_	_	NN	18	nsubj	1320	1326	_	_	_	_	_	O	I-ARG1	O
+10	3	_	_	CD	5	nummod	1327	1328	_	_	_	_	_	O	I-ARG1	O
+10	4	_	_	NN	5	compound	1328	1330	_	_	_	_	_	O	I-ARG1	O
+10	5	_	_	NN	2	dep	1330	1331	_	_	_	_	_	O	I-ARG1	O
+10	6	_	_	,	2	punct	1331	1332	_	_	_	_	_	O	I-ARG1	O
+10	7	_	_	DT	8	det	1333	1336	_	_	_	_	_	B-ARG3	I-ARG1	O
+10	8	_	_	NN	2	appos	1337	1344	_	_	_	_	_	I-ARG3	I-ARG1	O
+10	9	_	_	WDT	10	nsubj	1345	1349	_	_	_	_	_	B-R-ARG3	I-ARG1	O
+10	10	_	_	VBZ	8	acl:relcl	1350	1358	B-event-64383	_	_	_	_	B-V	I-ARG1	O
+10	11	_	_	NNS	10	dobj	1359	1366	_	_	_	_	_	B-ARG1	I-ARG1	O
+10	12	_	_	CC	11	cc	1367	1370	_	_	_	_	_	I-ARG1	I-ARG1	O
+10	13	_	_	NNS	11	conj	1371	1379	_	_	_	_	_	I-ARG1	I-ARG1	O
+10	14	_	_	IN	15	case	1380	1384	_	_	_	_	_	B-ARG2	I-ARG1	O
+10	15	_	_	NN	10	nmod	1385	1392	B-event-64384	_	_	_	_	I-ARG2	I-ARG1	O
+10	16	_	_	,	2	punct	1392	1393	_	_	_	_	_	O	I-ARG1	O
+10	17	_	_	VBZ	18	cop	1394	1396	_	_	_	_	_	O	B-V	O
+10	18	_	_	DT	0	ROOT	1397	1398	_	_	_	_	_	O	B-ARG2	O
+10	19	_	_	VBN	18	acl	1399	1409	B-event-64385	_	_	_	_	O	I-ARG2	O
+10	20	_	_	NN	19	dobj	1410	1417	_	_	_	_	_	O	I-ARG2	O
+10	21	_	_	IN	26	case	1418	1420	_	_	_	_	_	O	I-ARG2	O
+10	22	_	_	DT	26	det	1421	1424	_	_	_	_	_	O	I-ARG2	B-ARG0
+10	23	_	_	NN	26	compound	1425	1430	_	_	_	_	_	O	I-ARG2	I-ARG0
+10	24	_	_	CD	26	nummod	1431	1432	_	_	_	_	_	O	I-ARG2	I-ARG0
+10	25	_	_	NN	26	compound	1432	1438	_	_	_	_	_	O	I-ARG2	I-ARG0
+10	26	_	_	NN	20	nmod	1438	1439	_	_	_	_	_	O	I-ARG2	I-ARG0
+10	27	_	_	WDT	28	nsubj	1440	1444	_	_	_	_	_	O	I-ARG2	B-R-ARG0
+10	28	_	_	VBZ	26	acl:relcl	1445	1451	_	_	_	_	_	O	I-ARG2	B-V
+10	29	_	_	DT	30	det	1452	1455	_	_	_	_	_	O	I-ARG2	B-ARG1
+10	30	_	_	NN	28	dobj	1456	1463	B-event-64386	_	_	_	_	O	I-ARG2	I-ARG1
+10	31	_	_	.	18	punct	1463	1464	_	_	_	_	_	O	O	O
+
+11	1	_	_	DT	3	det	1465	1466	_	_	_	_	_	B-ARG0	O
+11	2	_	_	JJ	3	amod	1467	1473	_	_	_	_	_	I-ARG0	O
+11	3	_	_	NN	19	nsubj	1474	1481	_	_	_	_	_	I-ARG0	O
+11	4	_	_	IN	5	case	1482	1484	_	_	_	_	_	I-ARG0	O
+11	5	_	_	NN	3	nmod	1485	1492	_	_	_	_	_	I-ARG0	O
+11	6	_	_	,	3	punct	1492	1493	_	_	_	_	_	I-ARG0	O
+11	7	_	_	JJ	9	case	1494	1498	_	_	_	_	_	I-ARG0	O
+11	8	_	_	IN	7	mwe	1499	1501	_	_	_	_	_	I-ARG0	O
+11	9	_	_	DT	3	nmod	1502	1506	_	_	_	_	_	I-ARG0	O
+11	10	_	_	IN	13	case	1507	1510	_	_	_	_	_	I-ARG0	O
+11	11	_	_	JJ	13	amod	1511	1522	B-event-64387	_	_	_	_	I-ARG0	O
+11	12	_	_	NN	13	compound	1523	1533	I-event-64387	_	_	_	_	I-ARG0	O
+11	13	_	_	NN	9	nmod	1534	1538	I-event-64387	_	_	_	_	I-ARG0	O
+11	14	_	_	NN	17	compound	1539	1540	I-event-64387	_	_	_	_	I-ARG0	O
+11	15	_	_	CD	17	nummod	1541	1542	_	_	_	_	_	I-ARG0	O
+11	16	_	_	NN	17	compound	1542	1545	B-event-64388	_	_	_	_	I-ARG0	O
+11	17	_	_	NN	13	dep	1545	1546	_	_	_	_	_	I-ARG0	O
+11	18	_	_	,	3	punct	1546	1547	_	_	_	_	_	I-ARG0	O
+11	19	_	_	VBZ	0	ROOT	1548	1552	_	_	_	_	_	B-V	O
+11	20	_	_	RB	22	advmod	1553	1557	_	_	_	_	_	B-ARG1	B-ARG0
+11	21	_	_	DT	22	det	1558	1561	_	_	_	_	_	I-ARG1	I-ARG0
+11	22	_	_	NNS	19	dobj	1562	1572	_	_	_	_	_	I-ARG1	I-ARG0
+11	23	_	_	IN	25	case	1573	1575	_	_	_	_	_	I-ARG1	I-ARG0
+11	24	_	_	DT	25	det	1576	1579	_	_	_	_	_	I-ARG1	I-ARG0
+11	25	_	_	NN	22	nmod	1580	1585	_	_	_	_	_	I-ARG1	I-ARG0
+11	26	_	_	CC	25	cc	1586	1588	_	_	_	_	_	I-ARG1	I-ARG0
+11	27	_	_	NNS	25	conj	1589	1597	_	_	_	_	_	I-ARG1	I-ARG0
+11	28	_	_	WDT	29	nsubj	1598	1602	_	_	_	_	_	I-ARG1	B-R-ARG0
+11	29	_	_	VBP	22	acl:relcl	1603	1610	B-event-64389	_	_	_	_	I-ARG1	B-V
+11	30	_	_	DT	32	det	1611	1613	_	_	_	_	_	I-ARG1	B-ARG1
+11	31	_	_	JJ	32	amod	1614	1620	_	_	_	_	_	I-ARG1	I-ARG1
+11	32	_	_	NN	29	dobj	1621	1629	B-event-64390	_	_	_	_	I-ARG1	I-ARG1
+11	33	_	_	.	19	punct	1629	1630	_	_	_	_	_	O	O
+
+12	1	_	_	NNS	3	nsubj	1631	1638	_	_	_	_	_	O	B-ARG0
+12	2	_	_	MD	3	aux	1639	1642	_	_	_	_	_	B-V	B-ARGM-MOD
+12	3	_	_	VB	0	ROOT	1643	1647	B-event-64391	_	_	_	_	O	B-V
+12	4	_	_	IN	5	case	1648	1650	I-event-64391	_	_	_	_	O	O
+12	5	_	_	NN	3	nmod	1651	1659	B-event-64392	_	_	_	_	O	B-ARG1
+12	6	_	_	TO	8	case	1660	1662	_	_	_	_	_	O	B-ARG2
+12	7	_	_	PRP$	8	nmod:poss	1663	1668	_	_	_	_	_	O	I-ARG2
+12	8	_	_	NNS	3	nmod	1669	1675	_	_	_	_	_	O	I-ARG2
+12	9	_	_	IN	11	case	1676	1682	_	_	_	_	_	O	B-ARGM-LOC
+12	10	_	_	DT	11	det	1683	1686	_	_	_	_	_	O	I-ARGM-LOC
+12	11	_	_	NN	3	nmod	1687	1695	_	_	_	_	_	O	I-ARGM-LOC
+12	12	_	_	IN	15	case	1696	1702	_	_	_	_	_	O	B-ARGM-TMP
+12	13	_	_	DT	15	det	1703	1706	_	_	_	_	_	O	I-ARGM-TMP
+12	14	_	_	JJ	15	amod	1707	1712	_	_	_	_	_	O	I-ARGM-TMP
+12	15	_	_	NNS	3	nmod	1713	1719	_	_	_	_	_	O	I-ARGM-TMP
+12	16	_	_	IN	17	case	1720	1722	_	_	_	_	_	O	I-ARGM-TMP
+12	17	_	_	NN	15	nmod	1723	1732	B-event-64393	_	_	_	_	O	I-ARGM-TMP
+12	18	_	_	.	3	punct	1732	1733	_	_	_	_	_	O	O
+
+13	1	_	_	DT	2	det	1734	1737	_	_	_	_	B-claim-239042	O	B-ARG1	O	O	O	O
+13	2	_	_	NN	6	nsubj	1738	1744	_	_	_	_	I-claim-239042	O	I-ARG1	O	O	O	O
+13	3	_	_	IN	5	case	1745	1747	_	_	_	_	I-claim-239042	O	I-ARG1	O	O	O	O
+13	4	_	_	VBN	5	amod	1748	1757	B-event-64394	_	_	_	I-claim-239042	B-V	I-ARG1	O	O	O	O
+13	5	_	_	NN	2	nmod	1758	1766	B-event-64395	_	_	_	I-claim-239042	B-ARG1	I-ARG1	O	O	O	O
+13	6	_	_	VBZ	0	ROOT	1767	1773	_	_	_	_	I-claim-239042	O	O	O	O	O	O
+13	7	_	_	IN	8	case	1774	1776	_	_	_	_	I-claim-239042	O	O	O	O	O	O
+13	8	_	_	NN	6	nmod	1777	1784	B-event-64396	_	_	_	I-claim-239042	O	O	O	O	O	O
+13	9	_	_	CC	6	cc	1785	1788	_	_	_	_	I-claim-239042	O	O	O	O	O	O
+13	10	_	_	VBZ	13	cop	1789	1791	_	_	_	_	I-claim-239042	O	B-V	O	O	O	O
+13	11	_	_	DT	13	det	1792	1794	_	_	_	_	I-claim-239042	O	B-ARG2	O	O	O	O
+13	12	_	_	JJ	13	amod	1795	1804	_	_	_	_	I-claim-239042	O	I-ARG2	O	O	O	O
+13	13	_	_	NN	6	conj	1805	1811	_	_	_	_	I-claim-239042	O	I-ARG2	O	O	O	O
+13	14	_	_	IN	15	mark	1812	1814	_	_	_	_	I-claim-239042	O	I-ARG2	O	O	O	O
+13	15	_	_	VBG	13	acl	1815	1823	B-event-64397	_	_	_	I-claim-239042	O	I-ARG2	B-V	O	O	O
+13	16	_	_	WRB	21	advmod	1824	1828	_	_	_	_	I-claim-239042	O	I-ARG2	B-ARG1	O	O	B-ARGM-TMP
+13	17	_	_	DT	18	det	1829	1830	_	_	_	_	I-claim-239042	O	I-ARG2	I-ARG1	O	O	B-ARG1
+13	18	_	_	NN	21	nsubjpass	1831	1836	_	_	_	_	I-claim-239042	O	I-ARG2	I-ARG1	O	O	I-ARG1
+13	19	_	_	MD	21	aux	1837	1843	_	_	_	_	I-claim-239042	O	I-ARG2	I-ARG1	B-V	O	B-ARGM-MOD
+13	20	_	_	VB	21	auxpass	1844	1846	_	_	_	_	I-claim-239042	O	I-ARG2	I-ARG1	O	B-V	O
+13	21	_	_	VBN	15	advcl	1847	1856	B-event-64398	_	_	_	I-claim-239042	O	I-ARG2	I-ARG1	O	O	B-V
+13	22	_	_	.	6	punct	1856	1857	_	_	_	_	_	O	O	O	O	O	O
+
+14	1	_	_	DT	2	det	1858	1859	_	_	_	_	_	O	B-ARG0
+14	2	_	_	NN	4	nmod:poss	1860	1866	_	_	_	_	_	O	I-ARG0
+14	3	_	_	POS	2	case	1866	1868	_	_	_	_	_	O	I-ARG0
+14	4	_	_	NNS	6	nsubj	1869	1879	_	_	_	_	_	O	I-ARG0
+14	5	_	_	MD	6	aux	1880	1883	_	_	_	_	_	B-V	B-ARGM-MOD
+14	6	_	_	VB	0	ROOT	1884	1891	B-event-64399	_	_	_	_	O	B-V
+14	7	_	_	DT	8	det	1892	1893	_	_	_	_	_	O	B-ARG1
+14	8	_	_	NN	6	dobj	1894	1899	_	_	_	_	_	O	I-ARG1
+14	9	_	_	IN	10	case	1900	1904	_	_	_	_	_	O	B-ARG2
+14	10	_	_	NNS	6	nmod	1905	1912	B-event-64400	_	_	_	_	O	I-ARG2
+14	11	_	_	IN	15	case	1913	1916	_	_	_	_	_	O	B-ARGM-TMP
+14	12	_	_	CD	14	compound	1917	1918	_	_	_	_	_	O	I-ARGM-TMP
+14	13	_	_	TO	14	dep	1919	1921	_	_	_	_	_	O	I-ARGM-TMP
+14	14	_	_	CD	15	nummod	1922	1924	_	_	_	_	_	O	I-ARGM-TMP
+14	15	_	_	NNS	10	nmod	1925	1931	_	_	_	_	_	O	I-ARGM-TMP
+14	16	_	_	.	6	punct	1931	1932	_	_	_	_	_	O	O
+
+15	1	_	_	CC	14	cc	1933	1936	_	_	_	_	_	O	B-ARGM-DIS
+15	2	_	_	,	14	punct	1936	1937	_	_	_	_	_	O	O
+15	3	_	_	IN	5	case	1938	1940	_	_	_	_	_	O	B-ARGM-ADV
+15	4	_	_	DT	5	det	1941	1944	_	_	_	_	_	O	I-ARGM-ADV
+15	5	_	_	NN	14	nmod	1945	1949	_	_	_	_	_	O	I-ARGM-ADV
+15	6	_	_	IN	7	case	1950	1952	_	_	_	_	_	O	I-ARGM-ADV
+15	7	_	_	NNS	5	nmod	1953	1961	B-event-64401	_	_	_	_	O	I-ARGM-ADV
+15	8	_	_	JJ	10	case	1962	1966	_	_	_	_	_	O	I-ARGM-ADV
+15	9	_	_	IN	8	mwe	1967	1969	_	_	_	_	_	O	I-ARGM-ADV
+15	10	_	_	NN	7	nmod	1970	1979	B-event-64402	_	_	_	_	O	I-ARGM-ADV
+15	11	_	_	,	14	punct	1979	1980	_	_	_	_	_	O	O
+15	12	_	_	NN	14	nsubj	1981	1989	B-event-64403	_	_	_	_	O	B-ARG1
+15	13	_	_	MD	14	aux	1990	1993	_	_	_	_	_	B-V	B-ARGM-MOD
+15	14	_	_	VB	0	ROOT	1994	1998	_	_	_	_	_	O	B-V
+15	15	_	_	RB	14	advmod	1999	2003	_	_	_	_	_	O	B-ARGM-TMP
+15	16	_	_	IN	19	case	2004	2007	_	_	_	_	_	O	I-ARGM-TMP
+15	17	_	_	DT	19	det	2008	2009	_	_	_	_	_	O	I-ARGM-TMP
+15	18	_	_	JJ	19	amod	2010	2013	_	_	_	_	_	O	I-ARGM-TMP
+15	19	_	_	NNS	14	nmod	2014	2019	_	_	_	_	_	O	I-ARGM-TMP
+15	20	_	_	.	14	punct	2019	2020	_	_	_	_	_	O	O
+
+16	1	_	_	NN	4	nsubj	2021	2028	B-event-64404	_	_	_	_	B-ARG1	O	O	O	O	O	O
+16	2	_	_	VBZ	4	cop	2029	2031	_	_	_	_	_	B-V	O	O	O	O	O	O
+16	3	_	_	CD	4	nummod	2032	2035	_	_	_	_	_	B-ARG2	O	O	O	O	O	O
+16	4	_	_	NN	0	ROOT	2036	2043	_	_	_	_	_	I-ARG2	O	O	O	O	O	O
+16	5	_	_	WRB	9	advmod	2044	2049	_	_	_	_	_	I-ARG2	O	B-ARGM-LOC	O	O	O	O
+16	6	_	_	VBN	7	amod	2050	2059	B-event-64405	_	_	_	_	I-ARG2	B-V	B-ARG1	O	O	O	O
+16	7	_	_	NN	9	nsubj	2060	2068	B-event-64406	_	_	_	_	I-ARG2	B-ARG1	I-ARG1	O	O	O	O
+16	8	_	_	VBZ	9	cop	2069	2071	_	_	_	_	_	I-ARG2	O	B-V	O	O	O	O
+16	9	_	_	JJ	4	acl:relcl	2072	2080	_	_	_	_	_	I-ARG2	O	B-ARG2	O	O	O	O
+16	10	_	_	CC	4	cc	2081	2084	_	_	_	_	_	I-ARG2	O	O	O	O	O	O
+16	11	_	_	DT	12	det	2085	2088	_	_	_	_	_	I-ARG2	O	O	O	O	B-ARG1	B-ARG0
+16	12	_	_	NN	15	nsubjpass	2089	2095	_	_	_	_	_	I-ARG2	O	O	O	O	I-ARG1	I-ARG0
+16	13	_	_	MD	15	aux	2096	2100	_	_	_	_	_	I-ARG2	O	O	B-V	O	B-ARGM-MOD	O
+16	14	_	_	VB	15	auxpass	2101	2103	_	_	_	_	_	I-ARG2	O	O	O	B-V	O	O
+16	15	_	_	VBN	4	conj	2104	2113	B-event-64407	_	_	_	_	I-ARG2	O	O	O	O	B-V	O
+16	16	_	_	TO	17	mark	2114	2116	_	_	_	_	_	I-ARG2	O	O	B-ARGM-PRP	O	B-ARGM-PRP	O
+16	17	_	_	VB	15	xcomp	2117	2122	_	_	_	_	_	I-ARG2	O	O	I-ARGM-PRP	O	I-ARGM-PRP	B-V
+16	18	_	_	NN	17	dobj	2123	2133	B-event-64408	_	_	_	_	I-ARG2	O	O	I-ARGM-PRP	O	I-ARGM-PRP	B-ARG1
+16	19	_	_	TO	21	case	2134	2136	_	_	_	_	_	I-ARG2	O	O	I-ARGM-PRP	O	I-ARGM-PRP	B-ARG3
+16	20	_	_	PRP$	21	nmod:poss	2137	2140	_	_	_	_	_	I-ARG2	O	O	I-ARGM-PRP	O	I-ARGM-PRP	I-ARG3
+16	21	_	_	JJ	17	nmod	2141	2148	_	_	_	_	_	I-ARG2	O	O	I-ARGM-PRP	O	I-ARGM-PRP	I-ARG3
+16	22	_	_	.	4	punct	2148	2149	_	_	_	_	_	O	O	O	O	O	O	O
+
+17	1	_	_	IN	3	case	2150	2153	_	_	_	_	_	O	B-ARGM-ADV
+17	2	_	_	JJ	3	amod	2154	2158	_	_	_	_	_	O	I-ARGM-ADV
+17	3	_	_	NNS	7	nmod	2159	2167	B-event-64409	_	_	_	_	O	I-ARGM-ADV
+17	4	_	_	,	7	punct	2167	2168	_	_	_	_	_	O	O
+17	5	_	_	NN	7	nsubjpass	2169	2177	B-event-64410	_	_	_	_	O	B-ARG1
+17	6	_	_	VBZ	7	auxpass	2178	2180	_	_	_	_	_	B-V	O
+17	7	_	_	VBN	0	ROOT	2181	2186	B-event-64411	_	_	_	_	O	B-V
+17	8	_	_	RP	7	compound:prt	2187	2189	I-event-64411	_	_	_	_	O	O
+17	9	_	_	IN	11	case	2190	2194	_	_	_	_	_	O	B-ARGM-ADV
+17	10	_	_	JJ	11	amod	2195	2202	_	_	_	_	_	O	I-ARGM-ADV
+17	11	_	_	NNS	7	nmod	2203	2208	_	_	_	_	_	O	I-ARGM-ADV
+17	12	_	_	IN	13	case	2209	2211	_	_	_	_	_	O	I-ARGM-ADV
+17	13	_	_	NN	11	nmod	2212	2219	B-event-64412	_	_	_	_	O	I-ARGM-ADV
+17	14	_	_	.	7	punct	2219	2220	_	_	_	_	_	O	O
+
+18	1	_	_	DT	4	det	2221	2224	_	_	B-source-32911	_	_	B-ARG0	O	O
+18	2	_	_	NNP	4	compound	2225	2230	_	_	I-source-32911	_	_	I-ARG0	O	O
+18	3	_	_	NNP	4	compound	2231	2237	_	_	I-source-32911	_	_	I-ARG0	O	O
+18	4	_	_	NNP	8	nsubj	2238	2250	_	_	I-source-32911	_	_	I-ARG0	O	O
+18	5	_	_	CD	4	nummod	2251	2252	_	_	I-source-32911	_	_	I-ARG0	O	O
+18	6	_	_	WP	7	nsubj	2252	2255	_	_	I-source-32911	_	_	I-ARG0	O	O
+18	7	_	_	VBP	4	acl:relcl	2255	2256	_	_	I-source-32911	_	_	I-ARG0	O	O
+18	8	_	_	VBZ	0	ROOT	2257	2267	_	_	_	B-cue-32912	_	B-V	O	O
+18	9	_	_	IN	15	mark	2268	2272	_	B-content-32913:32912-Cue_32911-Source	_	_	_	B-ARG1	O	O
+18	10	_	_	DT	13	det	2273	2276	_	I-content-32913	_	_	_	I-ARG1	O	B-ARG1
+18	11	_	_	JJ	13	amod	2277	2282	_	I-content-32913	_	_	_	I-ARG1	O	I-ARG1
+18	12	_	_	NNP	13	compound	2283	2288	_	I-content-32913	_	_	_	I-ARG1	O	I-ARG1
+18	13	_	_	NN	15	nsubjpass	2289	2296	B-event-64413	I-content-32913	_	_	_	I-ARG1	O	I-ARG1
+18	14	_	_	VB	15	auxpass	2297	2299	_	I-content-32913	_	_	_	I-ARG1	B-V	O
+18	15	_	_	VBN	8	ccomp	2300	2305	_	I-content-32913	_	_	_	I-ARG1	O	B-V
+18	16	_	_	IN	17	case	2306	2308	_	I-content-32913	_	_	_	I-ARG1	O	B-ARGM-PRP
+18	17	_	_	NN	15	nmod	2309	2314	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-PRP
+18	18	_	_	,	17	punct	2314	2315	_	I-content-32913	_	_	_	I-ARG1	O	O
+18	19	_	_	IN	17	advmod	2316	2321	_	I-content-32913	_	_	_	I-ARG1	O	B-ARGM-MNR
+18	20	_	_	IN	22	case	2322	2326	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	21	_	_	DT	22	det	2327	2330	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	22	_	_	NN	19	nmod	2331	2338	B-event-64414	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	23	_	_	IN	25	case	2339	2342	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	24	_	_	NN	25	compound	2343	2352	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	25	_	_	NN	22	nmod	2353	2365	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	26	_	_	CD	28	nummod	2366	2367	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	27	_	_	NN	28	compound	2367	2370	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	28	_	_	NN	17	dep	2370	2371	_	I-content-32913	_	_	_	I-ARG1	O	I-ARGM-MNR
+18	29	_	_	.	8	punct	2371	2372	_	_	_	_	_	O	O	O
+
+19	1	_	_	IN	2	case	2373	2375	_	_	_	_	B-claim-239043	O	O	O	B-ARGM-LOC
+19	2	_	_	NNS	19	nmod	2376	2385	_	_	_	_	I-claim-239043	B-ARGM-LOC	O	O	I-ARGM-LOC
+19	3	_	_	WRB	13	advmod	2386	2391	_	_	_	_	I-claim-239043	B-R-ARGM-LOC	O	O	I-ARGM-LOC
+19	4	_	_	NN	13	nsubj	2392	2404	B-event-64415	_	_	_	I-claim-239043	B-ARG1	O	O	I-ARGM-LOC
+19	5	_	_	IN	7	case	2405	2407	_	_	_	_	I-claim-239043	I-ARG1	O	O	I-ARGM-LOC
+19	6	_	_	NN	7	compound	2408	2417	B-event-64416	_	_	_	I-claim-239043	I-ARG1	O	O	I-ARGM-LOC
+19	7	_	_	NN	4	nmod	2418	2419	I-event-64416	_	_	_	I-claim-239043	I-ARG1	O	O	I-ARGM-LOC
+19	8	_	_	IN	9	case	2420	2424	_	_	_	_	I-claim-239043	I-ARG1	O	O	I-ARGM-LOC
+19	9	_	_	NN	7	nmod	2425	2431	_	_	_	_	I-claim-239043	I-ARG1	O	O	I-ARGM-LOC
+19	10	_	_	TO	11	case	2432	2434	_	_	_	_	I-claim-239043	I-ARG1	O	O	I-ARGM-LOC
+19	11	_	_	NN	9	nmod	2435	2440	_	_	_	_	I-claim-239043	I-ARG1	O	O	I-ARGM-LOC
+19	12	_	_	VBZ	13	cop	2441	2443	_	_	_	_	I-claim-239043	B-V	O	O	I-ARGM-LOC
+19	13	_	_	JJ	2	acl:relcl	2444	2450	_	_	_	_	I-claim-239043	B-ARG2	O	O	I-ARGM-LOC
+19	14	_	_	,	19	punct	2450	2451	_	_	_	_	I-claim-239043	O	O	O	O
+19	15	_	_	DT	16	det	2452	2457	_	_	_	_	I-claim-239043	O	O	O	B-ARG1
+19	16	_	_	NNS	19	nsubjpass	2458	2465	_	_	_	_	I-claim-239043	O	O	O	I-ARG1
+19	17	_	_	MD	19	aux	2466	2472	_	_	_	_	I-claim-239043	O	B-V	O	B-ARGM-MOD
+19	18	_	_	VB	19	auxpass	2473	2475	_	_	_	_	I-claim-239043	O	O	B-V	O
+19	19	_	_	VBN	0	ROOT	2476	2485	B-event-64417	_	_	_	I-claim-239043	O	O	O	B-V
+19	20	_	_	IN	22	case	2486	2493	_	_	_	_	I-claim-239043	O	O	O	B-ARGM-ADV
+19	21	_	_	DT	22	det	2494	2497	_	_	_	_	I-claim-239043	O	O	O	I-ARGM-ADV
+19	22	_	_	NN	19	nmod	2498	2505	B-event-64418	_	_	_	I-claim-239043	O	O	O	I-ARGM-ADV
+19	23	_	_	IN	24	case	2506	2508	_	_	_	_	I-claim-239043	O	O	O	I-ARGM-ADV
+19	24	_	_	NN	22	nmod	2509	2514	_	_	_	_	I-claim-239043	O	O	O	I-ARGM-ADV
+19	25	_	_	.	19	punct	2514	2515	_	_	_	_	_	O	O	O	O
+
+20	1	_	_	DT	3	det	2516	2519	_	_	_	_	B-claim-239044	O	O	O	B-ARG1
+20	2	_	_	VBG	3	amod	2520	2529	_	_	_	_	I-claim-239044	B-V	O	O	I-ARG1
+20	3	_	_	NNS	21	nsubjpass	2530	2535	_	_	_	_	I-claim-239044	B-ARG1	O	O	I-ARG1
+20	4	_	_	IN	6	case	2536	2538	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	5	_	_	NNP	6	compound	2539	2544	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	6	_	_	NN	3	nmod	2545	2552	B-event-64419	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	7	_	_	CC	3	cc	2553	2556	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	8	_	_	DT	10	det	2557	2560	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	9	_	_	NN	10	compound	2561	2572	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	10	_	_	NN	3	conj	2573	2583	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	11	_	_	,	10	punct	2583	2584	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	12	_	_	NN	10	appos	2585	2594	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	13	_	_	,	10	punct	2594	2595	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	14	_	_	NN	15	compound	2596	2603	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	15	_	_	NN	10	appos	2604	2611	B-event-64420	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	16	_	_	CD	17	nummod	2612	2613	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	17	_	_	NNP	15	dep	2613	2616	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	18	_	_	CD	17	nummod	2616	2617	_	_	_	_	I-claim-239044	O	O	O	I-ARG1
+20	19	_	_	MD	21	aux	2618	2624	_	_	_	_	I-claim-239044	O	B-V	O	B-ARGM-MOD
+20	20	_	_	VB	21	auxpass	2625	2627	_	_	_	_	I-claim-239044	O	O	B-V	O
+20	21	_	_	VBN	0	ROOT	2628	2633	_	_	_	_	I-claim-239044	O	O	O	B-V
+20	22	_	_	CD	23	nummod	2634	2639	_	_	_	_	I-claim-239044	O	O	O	B-ARGM-TMP
+20	23	_	_	NNS	21	nmod:tmod	2640	2645	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	24	_	_	IN	26	case	2646	2652	_	_	_	_	I-claim-239044	O	O	O	B-ARGM-TMP
+20	25	_	_	DT	26	det	2653	2656	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	26	_	_	NN	21	nmod	2657	2660	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	27	_	_	IN	28	case	2661	2663	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	28	_	_	CD	26	nmod	2664	2667	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	29	_	_	:	21	punct	2667	2668	_	_	_	_	I-claim-239044	O	O	O	O
+20	30	_	_	IN	32	case	2669	2671	_	_	_	_	I-claim-239044	O	O	O	B-ARGM-TMP
+20	31	_	_	CD	32	nummod	2672	2675	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	32	_	_	NNS	21	nmod	2676	2681	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	33	_	_	,	32	punct	2681	2682	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	34	_	_	CD	35	nummod	2683	2685	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	35	_	_	NNS	32	conj	2686	2691	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	36	_	_	CC	32	cc	2692	2695	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	37	_	_	CD	38	nummod	2696	2698	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	38	_	_	NNS	32	conj	2699	2704	_	_	_	_	I-claim-239044	O	O	O	I-ARGM-TMP
+20	39	_	_	.	21	punct	2704	2705	_	_	_	_	_	O	O	O	O
+
+21	1	_	_	JJ	4	case	2706	2709	_	_	_	_	_	O	O	B-ARGM-CAU
+21	2	_	_	TO	1	mwe	2710	2712	_	_	_	_	_	O	O	I-ARGM-CAU
+21	3	_	_	VBN	4	amod	2713	2722	B-event-64421	_	_	_	_	B-V	O	I-ARGM-CAU
+21	4	_	_	NN	10	nmod	2723	2731	B-event-64422	_	_	_	_	B-ARG1	O	I-ARGM-CAU
+21	5	_	_	,	4	punct	2731	2732	_	_	_	_	_	O	O	O
+21	6	_	_	NNS	4	appos	2733	2740	_	_	_	_	_	O	O	B-ARG1
+21	7	_	_	NNS	10	nsubjpass	2741	2749	B-event-64423	_	_	_	_	O	O	I-ARG1
+21	8	_	_	VBP	10	auxpass	2750	2753	_	_	_	_	_	O	B-V	O
+21	9	_	_	RB	10	advmod	2754	2763	_	_	_	_	_	O	O	B-ARGM-ADV
+21	10	_	_	VBN	0	ROOT	2764	2769	_	_	_	_	_	O	O	B-V
+21	11	_	_	IN	13	case	2770	2772	_	_	_	_	_	O	O	B-ARGM-TMP
+21	12	_	_	CD	13	nummod	2773	2777	_	_	_	_	_	O	O	I-ARGM-TMP
+21	13	_	_	NNS	10	nmod	2778	2784	_	_	_	_	_	O	O	I-ARGM-TMP
+21	14	_	_	.	10	punct	2784	2785	_	_	_	_	_	O	O	O
+
+22	1	_	_	JJ	2	amod	2786	2792	B-event-64424	_	_	_	_	O	B-ARG1
+22	2	_	_	NN	5	nsubjpass	2793	2798	I-event-64424	_	_	_	_	O	I-ARG1
+22	3	_	_	VBZ	5	auxpass	2799	2801	_	_	_	_	_	B-V	O
+22	4	_	_	RB	5	advmod	2802	2806	_	_	_	_	_	O	B-ARGM-ADV
+22	5	_	_	VBN	0	ROOT	2807	2812	_	_	_	_	_	O	B-V
+22	6	_	_	IN	8	case	2813	2815	_	_	_	_	_	O	B-ARGM-TMP
+22	7	_	_	DT	8	det	2816	2820	_	_	_	_	_	O	I-ARGM-TMP
+22	8	_	_	NN	5	nmod	2821	2825	_	_	_	_	_	O	I-ARGM-TMP
+22	9	_	_	IN	10	case	2826	2829	_	_	_	_	_	O	B-ARGM-GOL
+22	10	_	_	NNS	8	nmod	2830	2838	_	_	_	_	_	O	I-ARGM-GOL
+22	11	_	_	IN	13	case	2839	2841	_	_	_	_	_	O	I-ARGM-GOL
+22	12	_	_	JJ	13	amod	2842	2851	B-event-64425	_	_	_	_	O	I-ARGM-GOL
+22	13	_	_	NNS	10	nmod	2852	2859	_	_	_	_	_	O	I-ARGM-GOL
+22	14	_	_	.	5	punct	2859	2860	_	_	_	_	_	O	O
+
+23	1	_	_	DT	2	det	2861	2864	_	_	_	_	B-claim-239045	O	B-ARG1	B-ARGM-ADV	O	O	O	O	O	O
+23	2	_	_	JJR	3	dep	2865	2869	_	_	_	_	I-claim-239045	O	I-ARG1	I-ARGM-ADV	O	O	O	O	O	O
+23	3	_	_	NNS	9	dep	2870	2878	_	_	_	_	I-claim-239045	O	I-ARG1	I-ARGM-ADV	O	O	O	O	O	O
+23	4	_	_	IN	6	case	2879	2881	_	_	_	_	I-claim-239045	O	I-ARG1	I-ARGM-ADV	O	O	O	O	O	O
+23	5	_	_	DT	6	det	2882	2883	_	_	_	_	I-claim-239045	O	I-ARG1	I-ARGM-ADV	O	O	O	O	O	O
+23	6	_	_	NN	3	nmod	2884	2893	_	_	_	_	I-claim-239045	O	I-ARG1	I-ARGM-ADV	O	O	O	O	O	O
+23	7	_	_	WDT	9	nsubjpass	2894	2898	_	_	_	_	I-claim-239045	O	B-R-ARG1	I-ARGM-ADV	O	O	O	O	O	O
+23	8	_	_	VBP	9	auxpass	2899	2902	_	_	_	_	I-claim-239045	B-V	O	I-ARGM-ADV	O	O	O	O	O	O
+23	9	_	_	VBN	15	advcl	2903	2913	B-event-64426	_	_	_	I-claim-239045	O	B-V	I-ARGM-ADV	O	O	O	O	O	O
+23	10	_	_	,	15	punct	2913	2914	_	_	_	_	I-claim-239045	O	O	O	O	O	O	O	O	O
+23	11	_	_	DT	13	det	2915	2918	_	_	_	_	I-claim-239045	O	O	B-ARG2	O	O	O	O	O	O
+23	12	_	_	RBR	13	advmod	2919	2923	_	_	_	_	I-claim-239045	O	O	I-ARG2	O	O	O	O	O	O
+23	13	_	_	JJ	15	dep	2924	2930	_	_	_	_	I-claim-239045	O	O	I-ARG2	O	O	O	O	O	O
+23	14	_	_	PRP	15	nsubj	2931	2933	_	_	_	_	I-claim-239045	O	O	O	O	O	O	O	O	O
+23	15	_	_	VBZ	0	ROOT	2934	2936	_	_	_	_	I-claim-239045	O	O	B-V	O	O	O	O	O	O
+23	16	_	_	IN	29	mark	2937	2941	_	_	_	_	I-claim-239045	O	O	B-ARG1	O	O	O	O	O	O
+23	17	_	_	DT	18	det	2942	2945	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	B-ARG1	O
+23	18	_	_	NNS	29	nsubj	2946	2954	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARG1	O
+23	19	_	_	,	18	punct	2954	2955	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARG1	O
+23	20	_	_	RB	21	advmod	2956	2960	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	B-ARG1	O	I-ARG1	O
+23	21	_	_	DT	18	appos	2961	2966	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	I-ARG1	O	I-ARG1	O
+23	22	_	_	WP	26	nsubjpass	2967	2970	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	B-R-ARG1	O	I-ARG1	O
+23	23	_	_	VBP	26	aux	2971	2975	_	_	_	_	I-claim-239045	O	O	I-ARG1	B-V	O	O	O	I-ARG1	O
+23	24	_	_	RB	26	neg	2976	2979	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	B-ARGM-NEG	O	I-ARG1	O
+23	25	_	_	VBN	26	auxpass	2980	2984	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	B-V	O	O	I-ARG1	O
+23	26	_	_	VBN	21	acl:relcl	2985	2994	B-event-64427	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	B-V	O	I-ARG1	O
+23	27	_	_	,	18	punct	2994	2995	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARG1	O
+23	28	_	_	MD	29	aux	2996	3000	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	B-V	B-ARGM-MOD	O
+23	29	_	_	VB	15	ccomp	3001	3004	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	B-V	O
+23	30	_	_	JJ	29	xcomp	3005	3009	B-event-64428	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	B-ARG2	O
+23	31	_	_	IN	33	mark	3010	3017	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	B-ARGM-CAU	O
+23	32	_	_	EX	33	expl	3018	3023	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	O
+23	33	_	_	VBP	29	advcl	3024	3027	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	B-V
+23	34	_	_	JJR	35	amod	3028	3033	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	B-ARG1
+23	35	_	_	NNS	33	nsubj	3034	3039	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	I-ARG1
+23	36	_	_	IN	39	case	3040	3043	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	I-ARG1
+23	37	_	_	DT	39	det	3044	3047	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	I-ARG1
+23	38	_	_	JJ	39	amod	3048	3058	B-event-64429	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	I-ARG1
+23	39	_	_	NNS	35	nmod	3059	3065	_	_	_	_	I-claim-239045	O	O	I-ARG1	O	O	O	O	I-ARGM-CAU	I-ARG1
+23	40	_	_	.	15	punct	3065	3066	_	_	_	_	_	O	O	O	O	O	O	O	O	O
+
+24	1	_	_	DT	3	nsubjpass	3067	3071	_	_	_	_	B-claim-239046	O	O	O	O	O	O
+24	2	_	_	VBZ	3	auxpass	3072	3074	_	_	_	_	I-claim-239046	B-V	O	O	O	O	O
+24	3	_	_	VBN	0	ROOT	3075	3083	_	_	_	_	I-claim-239046	O	B-V	O	O	O	O
+24	4	_	_	TO	3	xcomp	3084	3086	_	_	_	_	I-claim-239046	O	B-ARG1	O	O	O	O
+24	5	_	_	IN	7	case	3087	3089	_	_	_	_	I-claim-239046	O	B-ARG2	O	O	O	O
+24	6	_	_	NN	7	compound	3091	3095	_	_	_	_	I-claim-239046	O	I-ARG2	O	O	O	O
+24	7	_	_	NN	3	nmod	3097	3105	B-event-64430	_	_	_	I-claim-239046	O	I-ARG2	O	O	O	O
+24	8	_	_	CC	3	cc	3106	3109	_	_	_	_	I-claim-239046	O	O	O	O	O	O
+24	9	_	_	PRP	12	nsubj	3110	3112	_	_	_	_	I-claim-239046	O	O	B-ARG1	O	O	O
+24	10	_	_	VBZ	12	cop	3113	3115	_	_	_	_	I-claim-239046	O	O	B-V	O	O	O
+24	11	_	_	RB	12	advmod	3116	3128	_	_	_	_	I-claim-239046	O	O	B-ARG2	O	O	O
+24	12	_	_	JJ	3	conj	3129	3134	_	_	_	_	I-claim-239046	O	O	I-ARG2	O	O	O
+24	13	_	_	IN	16	case	3135	3139	_	_	_	_	I-claim-239046	O	O	B-ARGM-ADV	O	O	O
+24	14	_	_	RB	15	advmod	3140	3149	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	B-ARGM-LOC	O
+24	15	_	_	JJ	16	amod	3150	3160	B-event-64432	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-LOC	O
+24	16	_	_	NNS	12	nmod	3161	3169	B-event-64431	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-LOC	O
+24	17	_	_	JJ	19	case	3170	3174	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-LOC	O
+24	18	_	_	IN	17	mwe	3175	3177	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-LOC	O
+24	19	_	_	NNS	16	nmod	3178	3185	B-event-64433	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-LOC	O
+24	20	_	_	,	19	punct	3185	3186	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	O	O
+24	21	_	_	WRB	32	advmod	3187	3192	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	B-R-ARGM-LOC	O
+24	22	_	_	NN	32	nsubjpass	3193	3205	B-event-64434	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	B-ARG1	B-ARG3
+24	23	_	_	IN	26	case	3206	3208	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	24	_	_	CD	26	compound	3209	3211	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	25	_	_	TO	26	dep	3212	3214	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	26	_	_	CD	22	nmod	3215	3217	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	27	_	_	IN	28	case	3218	3221	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	28	_	_	NN	26	nmod	3222	3226	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	29	_	_	IN	30	case	3227	3229	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	30	_	_	NNS	28	nmod	3230	3237	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARG1	I-ARG3
+24	31	_	_	VBZ	32	auxpass	3238	3240	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	B-V	O	O
+24	32	_	_	VBN	19	acl:relcl	3241	3247	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	B-V	O
+24	33	_	_	TO	34	mark	3248	3250	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	B-ARGM-PRP	O
+24	34	_	_	VB	32	xcomp	3251	3258	B-event-64435	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-PRP	B-V
+24	35	_	_	DT	36	det	3259	3260	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-PRP	B-ARG1
+24	36	_	_	NN	34	dobj	3261	3270	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-PRP	I-ARG1
+24	37	_	_	IN	38	case	3271	3275	_	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-PRP	B-ARG2
+24	38	_	_	NNS	34	nmod	3276	3283	B-event-64436	_	_	_	I-claim-239046	O	O	I-ARGM-ADV	O	I-ARGM-PRP	I-ARG2
+24	39	_	_	.	3	punct	3283	3284	_	_	_	_	_	O	O	O	O	O	O
+
+25	1	_	_	RB	6	advmod	3285	3292	_	_	_	_	_	O	O
+25	2	_	_	,	6	punct	3292	3293	_	_	_	_	_	O	O
+25	3	_	_	DT	6	nsubj	3294	3298	_	_	_	_	B-claim-239047	B-ARG1	O
+25	4	_	_	VBZ	6	cop	3299	3301	_	_	_	_	I-claim-239047	B-V	O
+25	5	_	_	RB	6	neg	3302	3305	_	_	_	_	I-claim-239047	B-ARGM-NEG	O
+25	6	_	_	JJ	0	ROOT	3306	3310	_	_	_	_	I-claim-239047	B-ARG2	O
+25	7	_	_	IN	9	case	3311	3314	_	_	_	_	I-claim-239047	I-ARG2	O
+25	8	_	_	DT	9	det	3315	3318	_	_	_	_	I-claim-239047	I-ARG2	O
+25	9	_	_	NNS	6	nmod	3319	3327	B-event-64437	_	_	_	I-claim-239047	I-ARG2	O
+25	10	_	_	,	9	punct	3327	3328	_	_	_	_	I-claim-239047	I-ARG2	O
+25	11	_	_	JJ	13	case	3329	3333	_	_	_	_	I-claim-239047	I-ARG2	O
+25	12	_	_	IN	11	mwe	3334	3336	_	_	_	_	I-claim-239047	I-ARG2	O
+25	13	_	_	NN	9	nmod	3337	3344	B-event-64438	_	_	_	I-claim-239047	I-ARG2	O
+25	14	_	_	,	6	punct	3344	3345	_	_	_	_	I-claim-239047	O	O
+25	15	_	_	RB	22	advmod	3346	3355	_	_	_	_	I-claim-239047	O	B-ARGM-ADV
+25	16	_	_	DT	20	det	3356	3358	_	_	_	_	I-claim-239047	O	B-ARG1
+25	17	_	_	JJ	20	amod	3359	3369	_	_	_	_	I-claim-239047	O	I-ARG1
+25	18	_	_	NNS	20	compound	3370	3371	_	_	_	_	I-claim-239047	O	I-ARG1
+25	19	_	_	NN	20	compound	3372	3383	B-event-64439	_	_	_	I-claim-239047	O	I-ARG1
+25	20	_	_	NN	22	nsubj	3384	3390	_	_	_	_	I-claim-239047	O	I-ARG1
+25	21	_	_	VBZ	22	cop	3391	3393	_	_	_	_	I-claim-239047	O	B-V
+25	22	_	_	JJ	6	parataxis	3394	3403	_	_	_	_	I-claim-239047	O	B-ARG2
+25	23	_	_	,	22	punct	3403	3404	_	_	_	_	I-claim-239047	O	O
+25	24	_	_	RB	27	neg	3405	3408	_	_	_	_	I-claim-239047	O	B-C-ARG1
+25	25	_	_	RB	27	advmod	3409	3413	_	_	_	_	I-claim-239047	O	I-C-ARG1
+25	26	_	_	NN	27	compound	3414	3419	_	_	_	_	I-claim-239047	O	I-C-ARG1
+25	27	_	_	NN	22	parataxis	3420	3428	B-event-64440	_	_	_	I-claim-239047	O	I-C-ARG1
+25	28	_	_	.	6	punct	3428	3429	_	_	_	_	_	O	O
+
+26	1	_	_	NNP	9	nsubj	3430	3434	_	_	_	_	_	B-ARG1	O	O
+26	2	_	_	,	1	punct	3434	3435	_	_	_	_	_	I-ARG1	O	O
+26	3	_	_	NNP	1	conj	3436	3447	_	_	_	_	_	I-ARG1	O	O
+26	4	_	_	,	1	punct	3447	3448	_	_	_	_	_	I-ARG1	O	O
+26	5	_	_	CC	1	cc	3449	3452	_	_	_	_	_	I-ARG1	O	O
+26	6	_	_	NNP	1	conj	3453	3461	_	_	_	_	_	I-ARG1	O	O
+26	7	_	_	VBP	9	cop	3462	3465	_	_	_	_	_	B-V	O	O
+26	8	_	_	NN	9	compound	3466	3469	_	_	_	_	_	B-ARG2	B-ARG0	O
+26	9	_	_	NNS	0	ROOT	3470	3478	_	_	_	_	_	I-ARG2	I-ARG0	O
+26	10	_	_	VBG	9	acl	3479	3487	_	_	_	_	_	I-ARG2	B-V	O
+26	11	_	_	PRP	10	dobj	3488	3491	_	_	_	_	_	I-ARG2	B-ARG2	B-ARG0
+26	12	_	_	TO	13	mark	3492	3494	_	_	_	_	_	I-ARG2	B-ARG1	O
+26	13	_	_	VB	10	xcomp	3495	3500	_	_	_	_	_	I-ARG2	I-ARG1	B-V
+26	14	_	_	NNS	13	dobj	3501	3508	_	_	_	_	_	I-ARG2	I-ARG1	B-ARG1
+26	15	_	_	IN	17	case	3509	3511	_	_	_	_	_	I-ARG2	I-ARG1	B-ARGM-LOC
+26	16	_	_	DT	17	det	3512	3515	_	_	_	_	_	I-ARG2	I-ARG1	I-ARGM-LOC
+26	17	_	_	NN	13	nmod	3516	3524	_	_	_	_	_	I-ARG2	I-ARG1	I-ARGM-LOC
+26	18	_	_	.	9	punct	3524	3525	_	_	_	_	_	O	O	O
+
+27	1	_	_	DT	2	det	3526	3529	_	_	_	_	_	B-ARG0	O	O	O
+27	2	_	_	NN	6	nsubj	3530	3534	_	_	_	_	_	I-ARG0	O	O	O
+27	3	_	_	DT	5	det	3535	3539	_	_	_	_	_	I-ARG0	O	O	O
+27	4	_	_	NN	5	compound	3540	3547	_	_	_	_	_	I-ARG0	O	O	O
+27	5	_	_	NN	2	dep	3548	3555	_	_	_	_	_	I-ARG0	O	O	O
+27	6	_	_	VBZ	0	ROOT	3556	3563	_	_	_	_	_	B-V	O	O	O
+27	7	_	_	PRP	6	dobj	3564	3567	_	_	_	_	_	B-ARG2	B-ARG0	O	O
+27	8	_	_	TO	9	mark	3568	3570	_	_	_	_	_	B-ARG1	O	O	O
+27	9	_	_	VB	6	xcomp	3571	3579	_	_	_	_	_	I-ARG1	B-V	O	O
+27	10	_	_	DT	12	det	3580	3581	_	_	_	_	_	I-ARG1	B-ARG1	O	O
+27	11	_	_	JJ	12	amod	3582	3587	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	12	_	_	NN	9	dobj	3588	3595	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	13	_	_	IN	15	case	3596	3598	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	14	_	_	DT	15	det	3599	3603	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	15	_	_	NN	12	nmod	3604	3611	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	16	_	_	,	6	punct	3611	3612	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	17	_	_	JJ	6	xcomp	3613	3618	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	18	_	_	TO	20	mark	3619	3621	_	_	_	_	_	I-ARG1	I-ARG1	O	O
+27	19	_	_	VB	20	auxpass	3622	3624	_	_	_	_	_	I-ARG1	I-ARG1	B-V	O
+27	20	_	_	VBN	17	xcomp	3625	3631	_	_	_	_	_	I-ARG1	I-ARG1	O	B-V
+27	21	_	_	IN	24	case	3632	3634	_	_	_	_	_	I-ARG1	I-ARG1	O	B-ARGM-LOC
+27	22	_	_	DT	24	det	3635	3636	_	_	_	_	_	I-ARG1	I-ARG1	O	I-ARGM-LOC
+27	23	_	_	NN	24	compound	3637	3641	_	_	_	_	_	I-ARG1	I-ARG1	O	I-ARGM-LOC
+27	24	_	_	NN	20	nmod	3642	3646	_	_	_	_	_	I-ARG1	I-ARG1	O	I-ARGM-LOC
+27	25	_	_	.	6	punct	3646	3647	_	_	_	_	_	O	O	O	O
+
+28	1	_	_	NNP	7	nsubj	3648	3652	_	_	_	_	_	B-ARG1	O	O
+28	2	_	_	CC	1	cc	3653	3656	_	_	_	_	_	I-ARG1	O	O
+28	3	_	_	NNP	1	conj	3657	3665	_	_	_	_	_	I-ARG1	O	O
+28	4	_	_	VBP	7	cop	3666	3669	_	_	_	_	_	B-V	O	O
+28	5	_	_	JJ	7	amod	3670	3676	_	_	_	_	_	B-ARG2	O	B-ARGM-LOC
+28	6	_	_	NN	7	compound	3677	3681	_	_	_	_	_	I-ARG2	O	I-ARGM-LOC
+28	7	_	_	NNS	0	ROOT	3682	3687	_	_	_	_	_	I-ARG2	O	I-ARGM-LOC
+28	8	_	_	,	7	punct	3687	3688	_	_	_	_	_	I-ARG2	O	O
+28	9	_	_	WRB	15	advmod	3689	3694	_	_	_	_	_	I-ARG2	O	B-R-ARGM-LOC
+28	10	_	_	DT	13	det	3695	3698	_	_	_	_	_	I-ARG2	O	B-ARG1
+28	11	_	_	JJ	13	amod	3699	3702	_	_	_	_	_	I-ARG2	O	I-ARG1
+28	12	_	_	NN	13	compound	3703	3707	_	_	_	_	_	I-ARG2	O	I-ARG1
+28	13	_	_	NNS	15	nsubjpass	3708	3715	_	_	_	_	_	I-ARG2	O	I-ARG1
+28	14	_	_	VBP	15	auxpass	3716	3719	_	_	_	_	_	I-ARG2	B-V	O
+28	15	_	_	VBN	7	acl:relcl	3720	3728	_	_	_	_	_	I-ARG2	O	B-V
+28	16	_	_	RB	19	neg	3729	3732	_	_	_	_	_	I-ARG2	O	B-ARG0
+28	17	_	_	IN	19	case	3733	3735	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	18	_	_	DT	19	det	3736	3738	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	19	_	_	NN	15	nmod	3739	3745	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	20	_	_	CC	19	cc	3746	3749	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	21	_	_	IN	24	case	3750	3752	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	22	_	_	PRP$	24	nmod:poss	3753	3756	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	23	_	_	JJ	24	amod	3757	3767	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	24	_	_	NNS	19	conj	3768	3773	_	_	_	_	_	I-ARG2	O	I-ARG0
+28	25	_	_	.	7	punct	3773	3774	_	_	_	_	_	O	O	O
+
+29	1	_	_	VB	0	ROOT	3775	3782	_	_	_	_	_
+29	2	_	_	NNP	1	dobj	3783	3787	_	_	_	_	_
+29	3	_	_	CC	2	cc	3788	3791	_	_	_	_	_
+29	4	_	_	NNP	2	conj	3792	3800	_	_	_	_	_
+29	5	_	_	IN	6	case	3801	3804	_	_	_	_	_
+29	6	_	_	PRP	1	nmod	3805	3813	_	_	_	_	_
+29	7	_	_	.	1	punct	3813	3814	_	_	_	_	_
+
+30	1	_	_	NN	6	nsubj	3815	3826	_	_	_	_	_	B-ARG1	O	O	O	O
+30	2	_	_	VBZ	6	cop	3827	3829	_	_	_	_	_	B-V	O	O	O	O
+30	3	_	_	DT	6	det	3830	3831	_	_	_	_	_	B-ARG2	O	B-ARGM-LOC	B-ARGM-LOC	B-ARGM-LOC
+30	4	_	_	JJ	6	amod	3832	3838	_	_	_	_	_	I-ARG2	O	I-ARGM-LOC	I-ARGM-LOC	I-ARGM-LOC
+30	5	_	_	NN	6	compound	3839	3850	_	_	_	_	_	I-ARG2	O	I-ARGM-LOC	I-ARGM-LOC	I-ARGM-LOC
+30	6	_	_	NN	0	ROOT	3851	3858	_	_	_	_	_	I-ARG2	O	I-ARGM-LOC	I-ARGM-LOC	I-ARGM-LOC
+30	7	_	_	WRB	10	advmod	3859	3864	_	_	_	_	_	I-ARG2	O	B-R-ARGM-LOC	B-R-ARGM-LOC	O
+30	8	_	_	PRP	10	nsubj	3865	3868	_	_	_	_	_	I-ARG2	O	B-ARG0	B-ARG0	B-ARG0
+30	9	_	_	MD	10	aux	3869	3872	_	_	_	_	_	I-ARG2	O	B-ARGM-MOD	B-ARGM-MOD	B-ARGM-MOD
+30	10	_	_	VB	6	acl:relcl	3873	3876	_	_	_	_	_	I-ARG2	O	B-V	O	O
+30	11	_	_	CC	10	cc	3877	3880	_	_	_	_	_	I-ARG2	O	O	O	O
+30	12	_	_	VB	10	conj	3881	3886	_	_	_	_	_	I-ARG2	O	O	B-V	O
+30	13	_	_	PRP$	16	nmod:poss	3887	3891	_	_	_	_	_	I-ARG2	O	B-ARG1	B-ARG1	O
+30	14	_	_	JJ	16	amod	3892	3901	_	_	_	_	_	I-ARG2	O	I-ARG1	I-ARG1	O
+30	15	_	_	NN	16	compound	3902	3905	_	_	_	_	_	I-ARG2	O	I-ARG1	I-ARG1	O
+30	16	_	_	NNS	10	dobj	3906	3911	_	_	_	_	_	I-ARG2	O	I-ARG1	I-ARG1	O
+30	17	_	_	,	10	punct	3911	3912	_	_	_	_	_	I-ARG2	O	O	O	O
+30	18	_	_	RB	20	mark	3913	3919	_	_	_	_	_	I-ARG2	O	O	O	O
+30	19	_	_	IN	18	mwe	3920	3924	_	_	_	_	_	I-ARG2	O	O	O	O
+30	20	_	_	VBG	10	advcl	3925	3936	_	_	_	_	_	I-ARG2	O	O	O	B-V
+30	21	_	_	PRP	20	dobj	3937	3941	_	_	_	_	_	I-ARG2	O	O	O	B-ARG1
+30	22	_	_	IN	25	case	3942	3944	_	_	_	_	_	I-ARG2	O	O	O	B-ARGM-MNR
+30	23	_	_	DT	25	det	3945	3948	_	_	_	_	_	I-ARG2	O	O	O	I-ARGM-MNR
+30	24	_	_	JJ	25	amod	3949	3960	_	_	_	_	_	I-ARG2	O	O	O	I-ARGM-MNR
+30	25	_	_	NN	20	nmod	3961	3964	_	_	_	_	_	I-ARG2	O	O	O	I-ARGM-MNR
+30	26	_	_	IN	29	case	3965	3971	_	_	_	_	_	I-ARG2	O	O	O	B-ARGM-LOC
+30	27	_	_	PRP$	29	nmod:poss	3972	3976	_	_	_	_	_	I-ARG2	O	O	O	I-ARGM-LOC
+30	28	_	_	NN	29	compound	3977	3980	_	_	_	_	_	I-ARG2	O	O	O	I-ARGM-LOC
+30	29	_	_	NN	25	nmod	3981	3988	_	_	_	_	_	I-ARG2	O	O	O	I-ARGM-LOC
+30	30	_	_	.	6	punct	3988	3989	_	_	_	_	_	O	O	O	O	O
+
+31	1	_	_	VB	0	ROOT	3990	3993	_	_	_	_	_	B-V	O	O
+31	2	_	_	RP	1	compound:prt	3994	3997	_	_	_	_	_	O	O	O
+31	3	_	_	NNP	4	compound	3998	4009	_	_	_	_	_	B-ARG1	B-V	O
+31	4	_	_	NNP	1	dobj	4015	4019	_	_	_	_	_	I-ARG1	O	B-V
+31	5	_	_	DT	6	det	4020	4024	_	_	_	_	_	I-ARG1	O	B-ARG1
+31	6	_	_	NN	4	dep	4025	4032	_	_	_	_	_	I-ARG1	O	I-ARG1
+31	7	_	_	TO	9	case	4033	4035	_	_	_	_	_	I-ARG1	O	B-ARG2
+31	8	_	_	PRP$	9	nmod:poss	4036	4040	_	_	_	_	_	I-ARG1	O	I-ARG2
+31	9	_	_	NN	6	nmod	4041	4045	_	_	_	_	_	I-ARG1	O	I-ARG2
+31	10	_	_	.	1	punct	4045	4046	_	_	_	_	_	O	O	O
+
+32	1	_	_	DT	2	det	4047	4050	_	_	_	_	_	O	O	O	B-ARG1
+32	2	_	_	NN	4	nsubj	4051	4056	_	_	_	_	_	O	O	O	I-ARG1
+32	3	_	_	VBZ	4	cop	4057	4058	_	_	_	_	_	B-V	O	O	I-ARG1
+32	4	_	_	NN	12	ccomp	4059	4067	_	_	_	_	_	B-ARG2	O	O	I-ARG1
+32	5	_	_	,	12	punct	4067	4068	_	_	_	_	_	O	O	O	I-ARG1
+32	6	_	_	JJ	7	amod	4069	4073	_	_	_	_	_	O	O	O	I-ARG1
+32	7	_	_	NN	12	nsubjpass	4074	4081	_	_	_	_	_	O	O	O	I-ARG1
+32	8	_	_	CC	7	cc	4082	4085	_	_	_	_	_	O	O	O	I-ARG1
+32	9	_	_	NN	7	conj	4086	4093	_	_	_	_	_	O	O	O	I-ARG1
+32	10	_	_	MD	12	aux	4094	4098	_	_	_	_	_	O	B-V	O	B-ARGM-MOD
+32	11	_	_	VB	12	auxpass	4099	4101	_	_	_	_	_	O	O	B-V	O
+32	12	_	_	VBN	0	ROOT	4102	4111	_	_	_	_	_	O	O	O	B-V
+32	13	_	_	IN	15	case	4112	4114	_	_	_	_	_	O	O	O	B-ARGM-LOC
+32	14	_	_	PRP$	15	nmod:poss	4115	4119	_	_	_	_	_	O	O	O	I-ARGM-LOC
+32	15	_	_	NN	12	nmod	4120	4124	_	_	_	_	_	O	O	O	I-ARGM-LOC
+32	16	_	_	IN	19	case	4125	4127	_	_	_	_	_	O	O	O	B-ARGM-ADV
+32	17	_	_	IN	19	case	4128	4130	_	_	_	_	_	O	O	O	I-ARGM-ADV
+32	18	_	_	DT	19	det	4131	4134	_	_	_	_	_	O	O	O	I-ARGM-ADV
+32	19	_	_	NN	12	dep	4135	4142	_	_	_	_	_	O	O	O	I-ARGM-ADV
+32	20	_	_	IN	19	case	4143	4148	_	_	_	_	_	O	O	O	I-ARGM-ADV
+32	21	_	_	.	12	punct	4148	4149	_	_	_	_	_	O	O	O	O
+
+33	1	_	_	VBG	9	csubj	4155	4162	_	_	_	_	_	B-V	O	B-ARG1
+33	2	_	_	DT	3	det	4163	4166	_	_	_	_	_	B-ARG1	O	I-ARG1
+33	3	_	_	NN	1	dobj	4167	4171	_	_	_	_	_	I-ARG1	O	I-ARG1
+33	4	_	_	IN	7	case	4172	4174	_	_	_	_	_	I-ARG1	O	I-ARG1
+33	5	_	_	DT	7	det	4175	4178	_	_	_	_	_	I-ARG1	O	I-ARG1
+33	6	_	_	NN	7	compound	4179	4183	_	_	_	_	_	I-ARG1	O	I-ARG1
+33	7	_	_	NN	3	nmod	4184	4188	_	_	_	_	_	I-ARG1	O	I-ARG1
+33	8	_	_	MD	9	aux	4189	4193	_	_	_	_	_	O	B-V	B-ARGM-MOD
+33	9	_	_	VB	0	ROOT	4194	4196	_	_	_	_	_	O	O	B-V
+33	10	_	_	RB	9	advmod	4197	4199	_	_	_	_	_	O	O	B-ARG2
+33	11	_	_	TO	12	case	4200	4202	_	_	_	_	_	O	O	I-ARG2
+33	12	_	_	PRP	10	nmod	4203	4206	_	_	_	_	_	O	O	I-ARG2
+33	13	_	_	.	9	punct	4206	4207	_	_	_	_	_	O	O	O
+
+34	1	_	_	VB	0	ROOT	4216	4221	_	_	_	_	_	B-V	O	O
+34	2	_	_	IN	4	case	4222	4224	_	_	_	_	_	B-ARG1	O	O
+34	3	_	_	DT	4	det	4225	4228	_	_	_	_	_	I-ARG1	O	O
+34	4	_	_	NN	1	nmod	4229	4233	_	_	_	_	_	I-ARG1	O	O
+34	5	_	_	IN	4	amod	4234	4239	_	_	_	_	_	I-ARG1	O	O
+34	6	_	_	,	1	punct	4239	4240	_	_	_	_	_	O	O	O
+34	7	_	_	RB	8	advmod	4241	4245	_	_	_	_	_	O	B-ARGM-TMP	B-ARGM-TMP
+34	8	_	_	VBP	1	dep	4246	4250	_	_	_	_	_	O	B-V	O
+34	9	_	_	DT	10	det	4251	4254	_	_	_	_	_	O	B-ARG1	O
+34	10	_	_	NN	8	dobj	4255	4259	_	_	_	_	_	O	I-ARG1	O
+34	11	_	_	CC	1	cc	4260	4263	_	_	_	_	_	O	O	O
+34	12	_	_	VB	1	conj	4264	4269	_	_	_	_	_	O	O	B-V
+34	13	_	_	PRP	12	dobj	4270	4272	_	_	_	_	_	O	O	B-ARG1
+34	14	_	_	IN	17	case	4273	4275	_	_	_	_	_	O	O	B-ARGM-LOC
+34	15	_	_	PRP$	17	nmod:poss	4276	4280	_	_	_	_	_	O	O	I-ARGM-LOC
+34	16	_	_	NN	17	compound	4281	4285	_	_	_	_	_	O	O	I-ARGM-LOC
+34	17	_	_	NN	12	nmod	4286	4290	_	_	_	_	_	O	O	I-ARGM-LOC
+34	18	_	_	:	1	punct	4290	4291	_	_	_	_	_	O	O	O
