@@ -11,7 +11,9 @@ If you use the annotations, please, cite this paper.
 Directories:
 
 docs: contains the annotation guidelines
+
 data: contains the annotations
+
   annotation-xml-ehost: annotations in xml format 
   annotations-conll-opinions
   annotations-conll-claims-events-attribution
