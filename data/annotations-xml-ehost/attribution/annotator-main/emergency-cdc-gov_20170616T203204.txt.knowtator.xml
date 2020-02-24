@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="emergency-cdc-gov_20170616T203204.txt">
+    <annotation>
+        <mention id="EHOST_Instance_22563" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1841" end="1876" />
+        <spannedText>The initial confirmed case-patients</spannedText>
+        <creationDate>Fri Aug 11 12:40:43 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22571">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22563">
+        <hasSlotMention id="EHOST_Instance_22571" />
+        <mentionClass id="AttrSource">The initial confirmed case-patients</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22564" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1877" end="1885" />
+        <spannedText>reported</spannedText>
+        <creationDate>Fri Aug 11 12:40:50 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22564">
+        <mentionClass id="AttrCue">reported</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22565" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1886" end="1989" />
+        <spannedText>visiting Disneyland Resort Theme Parks in Orange County, CA, from December 17 through December 20, 2014</spannedText>
+        <creationDate>Fri Aug 11 12:40:56 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22572">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22563" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22573">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22564" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22565">
+        <hasSlotMention id="EHOST_Instance_22572" />
+        <hasSlotMention id="EHOST_Instance_22573" />
+        <mentionClass id="AttrContent">visiting Disneyland Resort Theme Parks in Orange County, CA, from December 17 through December 20, 2014</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22566" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3547" end="3555" />
+        <spannedText>declared</spannedText>
+        <creationDate>Fri Aug 11 12:41:56 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22566">
+        <mentionClass id="AttrCue">declared</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22567" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3535" end="3542" />
+        <span start="3556" end="3566" />
+        <span start="3623" end="3651" />
+        <spannedText>Measles ... eliminated ... in the United States in 2000</spannedText>
+        <creationDate>Fri Aug 11 12:42:01 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22574">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22566" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22567">
+        <hasSlotMention id="EHOST_Instance_22574" />
+        <mentionClass id="AttrContent">Measles ... eliminated ... in the United States in 2000</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22568" />
+        <annotator id="01">Sanne</annotator>
+        <span start="854" end="858" />
+        <spannedText>They</spannedText>
+        <creationDate>Sun Aug 13 15:32:13 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22575">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22568">
+        <hasSlotMention id="EHOST_Instance_22575" />
+        <mentionClass id="AttrSource">They</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22569" />
+        <annotator id="01">Sanne</annotator>
+        <span start="871" end="874" />
+        <spannedText>ask</spannedText>
+        <creationDate>Sun Aug 13 15:32:20 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22569">
+        <mentionClass id="AttrCue">ask</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22570" />
+        <annotator id="01">Sanne</annotator>
+        <span start="884" end="943" />
+        <spannedText>about their history of measles exposures in their community</spannedText>
+        <creationDate>Sun Aug 13 15:32:23 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22576">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22569" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22577">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22568" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22570">
+        <hasSlotMention id="EHOST_Instance_22576" />
+        <hasSlotMention id="EHOST_Instance_22577" />
+        <mentionClass id="AttrContent">about their history of measles exposures in their community</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

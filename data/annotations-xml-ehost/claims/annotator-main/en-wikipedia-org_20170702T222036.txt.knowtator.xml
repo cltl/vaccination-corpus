@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="en-wikipedia-org_20170702T222036.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31478" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="255" end="315" />
+        <spannedText>The immunity that develops is long lasting after three doses</spannedText>
+        <creationDate>Sun Feb 25 04:50:46 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31478">
+        <mentionClass id="claim">The immunity that develops is long lasting after three doses</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31479" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="560" end="611" />
+        <spannedText>Vaccines are effective in humans and other animals</spannedText>
+        <creationDate>Sun Feb 25 04:50:58 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31479">
+        <mentionClass id="claim">Vaccines are effective in humans and other animals</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31480" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="613" end="692" />
+        <spannedText>Vaccinating dogs is very effective in preventing the spread of rabies to humans</spannedText>
+        <creationDate>Sun Feb 25 04:51:06 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31486">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_31481" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31480">
+        <hasSlotMention id="EHOST_Instance_31486" />
+        <mentionClass id="claim">Vaccinating dogs is very effective in preventing the spread of rabies to humans</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31481" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="693" end="696" />
+        <spannedText>[1]</spannedText>
+        <creationDate>Sun Feb 25 04:51:09 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31481">
+        <mentionClass id="source_of_claim">[1]</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31482" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="697" end="749" />
+        <spannedText>Rabies vaccines may be safely used in all age groups</spannedText>
+        <creationDate>Sun Feb 25 04:51:22 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31482">
+        <mentionClass id="claim">Rabies vaccines may be safely used in all age groups</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31483" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1998" end="2060" />
+        <spannedText>Immunity following a course of doses is typically long lasting</spannedText>
+        <creationDate>Sun Feb 25 04:54:02 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31483">
+        <mentionClass id="claim">Immunity following a course of doses is typically long lasting</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31484" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="4992" end="5217" />
+        <spannedText>Oral vaccination against rabies is a preventive measure to eradicate rabies in wild animals, vectors of disease, mainly foxes, raccoons, raccoon dogs, coyotes and jackals, but also can be used for dogs in developing countries</spannedText>
+        <creationDate>Sun Feb 25 05:04:55 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31487">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_31485" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31484">
+        <hasSlotMention id="EHOST_Instance_31487" />
+        <mentionClass id="claim">Oral vaccination against rabies is a preventive measure to eradicate rabies in wild animals, vectors of disease, mainly foxes, raccoons, raccoon dogs, coyotes and jackals, but also can be used for dogs in developing countries</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31485" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="5218" end="5222" />
+        <spannedText>[14]</spannedText>
+        <creationDate>Sun Feb 25 05:04:58 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31485">
+        <mentionClass id="source_of_claim">[14]</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

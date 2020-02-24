@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="POLITICO_20170925T004222.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2582" />
+        <annotator id="01">Sanne</annotator>
+        <span start="615" end="636" />
+        <spannedText>vaccines cause autism</spannedText>
+        <creationDate>Tue Apr 10 19:54:44 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_2589">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_2583" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2582">
+        <hasSlotMention id="EHOST_Instance_2589" />
+        <mentionClass id="claim">vaccines cause autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2583" />
+        <annotator id="01">Sanne</annotator>
+        <span start="551" end="558" />
+        <spannedText>Kennedy</spannedText>
+        <creationDate>Tue Apr 10 19:54:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2583">
+        <mentionClass id="source_of_claim">Kennedy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2584" />
+        <annotator id="01">Sanne</annotator>
+        <span start="902" end="924" />
+        <spannedText>vaccines caused autism</spannedText>
+        <creationDate>Tue Apr 10 19:55:06 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_2590">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_2585" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2584">
+        <hasSlotMention id="EHOST_Instance_2590" />
+        <mentionClass id="claim">vaccines caused autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2585" />
+        <annotator id="01">Sanne</annotator>
+        <span start="889" end="891" />
+        <spannedText>he</spannedText>
+        <creationDate>Tue Apr 10 19:55:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2585">
+        <mentionClass id="source_of_claim">he</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2586" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1332" end="1428" />
+        <spannedText>the mercury-containing preservative thimerosal was safe to vaccinate children and pregnant women</spannedText>
+        <creationDate>Tue Apr 10 19:55:31 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2586">
+        <mentionClass id="claim">the mercury-containing preservative thimerosal was safe to vaccinate children and pregnant women</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2587" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1993" end="2081" />
+        <spannedText>the pharma industry is going to cause an uproar about this, and try to make me back down</spannedText>
+        <creationDate>Thu Apr 12 17:31:24 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_2591">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_2588" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2587">
+        <hasSlotMention id="EHOST_Instance_2591" />
+        <mentionClass id="claim">the pharma industry is going to cause an uproar about this, and try to make me back down</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2588" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1962" end="1975" />
+        <spannedText>The president</spannedText>
+        <creationDate>Tue Apr 10 19:56:10 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2588">
+        <mentionClass id="source_of_claim">The president</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

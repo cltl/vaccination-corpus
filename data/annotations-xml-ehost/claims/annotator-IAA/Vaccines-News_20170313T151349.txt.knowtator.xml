@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Vaccines-News_20170313T151349.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3391" />
+        <annotator id="01">Sanne</annotator>
+        <span start="0" end="49" />
+        <spannedText>Parents who are worried about infectious diseases</spannedText>
+        <creationDate>Wed Apr 25 15:39:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3391">
+        <mentionClass id="source_of_claim">Parents who are worried about infectious diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3392" />
+        <annotator id="01">Sanne</annotator>
+        <span start="290" end="414" />
+        <spannedText>it’s the vaccinated kids who are actually the “carriers” or “shedders” of live viruses that they were recently injected with</spannedText>
+        <creationDate>Wed Apr 25 15:39:54 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3392">
+        <mentionClass id="claim">it’s the vaccinated kids who are actually the “carriers” or “shedders” of live viruses that they were recently injected with</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3393" />
+        <annotator id="01">Sanne</annotator>
+        <span start="821" end="973" />
+        <spannedText>our very own Centers for Disease Control and Prevention count on the general public not reading or utilizing information published on their own web site</spannedText>
+        <creationDate>Wed Apr 25 15:45:07 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3393">
+        <mentionClass id="claim">our very own Centers for Disease Control and Prevention count on the general public not reading or utilizing information published on their own web site</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3394" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1862" end="2023" />
+        <spannedText>vaccinated people are still incurring weakened immunity from today’s vaccines and are therefore more susceptible to getting sick from “shedders” – the vaccinated</spannedText>
+        <creationDate>Wed Apr 25 15:45:39 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3394">
+        <mentionClass id="claim">vaccinated people are still incurring weakened immunity from today’s vaccines and are therefore more susceptible to getting sick from “shedders” – the vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3395" />
+        <annotator id="01">Sanne</annotator>
+        <span start="71" end="272" />
+        <spannedText>anytime there is an outbreak of measles, flu or chicken pox at their kids’ school all of the non-vaccinated kids are the culprits, and therefore should be banished from school until they are inoculated</spannedText>
+        <creationDate>Sun Apr 29 17:39:11 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3396">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3391" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3395">
+        <hasSlotMention id="EHOST_Instance_3396" />
+        <mentionClass id="claim">anytime there is an outbreak of measles, flu or chicken pox at their kids’ school all of the non-vaccinated kids are the culprits, and therefore should be banished from school until they are inoculated</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

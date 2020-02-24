@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="immunizeforgood-com_20170626T232640.txt">
+    <annotation>
+        <mention id="EHOST_Instance_50534" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="168" end="275" />
+        <spannedText>the risk of severe complications, hopsitalization or death from vaccine-preventable disease is much greater</spannedText>
+        <creationDate>Sat May 05 19:12:33 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_50534">
+        <mentionClass id="claim">the risk of severe complications, hopsitalization or death from vaccine-preventable disease is much greater</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_50535" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="277" end="327" />
+        <spannedText>The benefits of vaccination far outweigh the risks</spannedText>
+        <creationDate>Sat May 05 19:12:42 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_50535">
+        <mentionClass id="claim">The benefits of vaccination far outweigh the risks</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_50536" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="449" end="494" />
+        <spannedText>All vaccine ingredients are tested to be safe</spannedText>
+        <creationDate>Sat May 05 19:13:48 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_50536">
+        <mentionClass id="claim">All vaccine ingredients are tested to be safe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_50537" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="705" end="779" />
+        <spannedText>in most cases vaccine side effects are minor and go away within a few days</spannedText>
+        <creationDate>Sat May 05 19:13:55 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_50541">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_50538" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_50537">
+        <hasSlotMention id="EHOST_Instance_50541" />
+        <mentionClass id="claim">in most cases vaccine side effects are minor and go away within a few days</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_50538" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="651" end="703" />
+        <spannedText>the Centers for Disease Control and Prevention (CDC)</spannedText>
+        <creationDate>Sat May 05 19:14:00 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_50538">
+        <mentionClass id="source_of_claim">the Centers for Disease Control and Prevention (CDC)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_50539" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="871" end="980" />
+        <spannedText>Parents should keep an eye out for any unusual condition, such as a high fever, weakness, or behavior changes</spannedText>
+        <creationDate>Sat May 05 19:14:07 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_50539">
+        <mentionClass id="claim">Parents should keep an eye out for any unusual condition, such as a high fever, weakness, or behavior changes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_50540" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1135" end="1271" />
+        <spannedText>In the unlikely case that your child experiences signs of allergic reaction or a side effect, you should contact your doctor immediately</spannedText>
+        <creationDate>Sat May 05 19:14:15 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_50540">
+        <mentionClass id="claim">In the unlikely case that your child experiences signs of allergic reaction or a side effect, you should contact your doctor immediately</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

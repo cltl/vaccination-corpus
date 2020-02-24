@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="patient-info_20170211T092911.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43331" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4043" end="4060" />
+        <spannedText>a dose of vaccine</spannedText>
+        <creationDate>Mon Sep 04 17:45:12 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43339">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43332" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43331">
+        <hasSlotMention id="EHOST_Instance_43339" />
+        <mentionClass id="AttrContent">a dose of vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43332" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4068" end="4075" />
+        <spannedText>advised</spannedText>
+        <creationDate>Mon Sep 04 17:45:14 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43332">
+        <mentionClass id="AttrCue">advised</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43333" />
+        <annotator id="01">Sanne</annotator>
+        <span start="88" end="91" />
+        <spannedText>you</spannedText>
+        <creationDate>Sun Sep 10 16:31:36 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43340">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43333">
+        <hasSlotMention id="EHOST_Instance_43340" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43334" />
+        <annotator id="01">Sanne</annotator>
+        <span start="92" end="97" />
+        <spannedText>think</spannedText>
+        <creationDate>Sun Sep 10 16:31:42 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43334">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43335" />
+        <annotator id="01">Sanne</annotator>
+        <span start="98" end="130" />
+        <spannedText>that you are not fully immunised</spannedText>
+        <creationDate>Sun Sep 10 16:31:44 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43341">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43334" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43342">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43333" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43335">
+        <hasSlotMention id="EHOST_Instance_43341" />
+        <hasSlotMention id="EHOST_Instance_43342" />
+        <mentionClass id="AttrContent">that you are not fully immunised</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43336" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3100" end="3103" />
+        <spannedText>you</spannedText>
+        <creationDate>Sun Sep 10 16:32:34 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43343">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43336">
+        <hasSlotMention id="EHOST_Instance_43343" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43337" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3104" end="3109" />
+        <spannedText>think</spannedText>
+        <creationDate>Sun Sep 10 16:32:40 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43337">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43338" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3110" end="3158" />
+        <spannedText>that you are not fully immunised against tetanus</spannedText>
+        <creationDate>Sun Sep 10 16:32:44 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43344">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43337" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43345">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43336" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43338">
+        <hasSlotMention id="EHOST_Instance_43344" />
+        <hasSlotMention id="EHOST_Instance_43345" />
+        <mentionClass id="AttrContent">that you are not fully immunised against tetanus</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

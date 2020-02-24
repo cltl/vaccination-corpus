@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="patient-info_20161208T092237.txt">
+    <annotation>
+        <mention id="EHOST_Instance_13294" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="298" end="301" />
+        <spannedText>you</spannedText>
+        <creationDate>Fri Sep 01 11:13:23 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_13299">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_13294">
+        <hasSlotMention id="EHOST_Instance_13299" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13295" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="302" end="307" />
+        <spannedText>think</spannedText>
+        <creationDate>Fri Sep 01 11:13:29 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13295">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13296" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="308" end="329" />
+        <spannedText>you need this vaccine</spannedText>
+        <creationDate>Fri Sep 01 11:13:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_13300">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_13294" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_13301">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_13295" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13296">
+        <hasSlotMention id="EHOST_Instance_13300" />
+        <hasSlotMention id="EHOST_Instance_13301" />
+        <mentionClass id="AttrContent">you need this vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13297" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="6391" end="6398" />
+        <spannedText>advised</spannedText>
+        <creationDate>Fri Sep 01 11:17:41 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_13297">
+        <mentionClass id="AttrCue">advised</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_13298" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="6399" end="6463" />
+        <spannedText>to have a booster vaccine or even an injection of immunoglobulin</spannedText>
+        <creationDate>Fri Sep 01 11:17:49 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_13302">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_13297" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_13298">
+        <hasSlotMention id="EHOST_Instance_13302" />
+        <mentionClass id="AttrContent">to have a booster vaccine or even an injection of immunoglobulin</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="cdc-gov_20170618T093441.txt">
+    <annotation>
+        <mention id="EHOST_Instance_7148" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="656" end="727" />
+        <spannedText>You can protect against these diseases with safe, effective vaccination</spannedText>
+        <creationDate>Sun Feb 18 07:34:40 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7148">
+        <mentionClass id="claim">You can protect against these diseases with safe, effective vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7149" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="821" end="872" />
+        <spannedText>Vaccines, like any medicine, can have side effects</spannedText>
+        <creationDate>Sun Feb 18 07:35:12 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7149">
+        <mentionClass id="claim">Vaccines, like any medicine, can have side effects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7150" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="874" end="946" />
+        <spannedText>Most people who get MMR vaccine do not have any serious problems with it</spannedText>
+        <creationDate>Sun Feb 18 07:35:15 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7150">
+        <mentionClass id="claim">Most people who get MMR vaccine do not have any serious problems with it</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7151" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="948" end="1020" />
+        <spannedText>Getting MMR vaccine is much safer than getting measles, mumps or rubella</spannedText>
+        <creationDate>Sun Feb 18 07:35:18 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7151">
+        <mentionClass id="claim">Getting MMR vaccine is much safer than getting measles, mumps or rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7152" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="5555" end="5637" />
+        <spannedText>MMR vaccine is not responsible for increases in the number of children with autism</spannedText>
+        <creationDate>Sun Feb 18 07:39:25 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7154">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_7153" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7152">
+        <hasSlotMention id="EHOST_Instance_7154" />
+        <mentionClass id="claim">MMR vaccine is not responsible for increases in the number of children with autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7153" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="5449" end="5542" />
+        <spannedText>Vaccine safety experts, including experts at CDC and the American Academy of Pediatrics (AAP)</spannedText>
+        <creationDate>Sun Feb 18 07:39:31 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7153">
+        <mentionClass id="source_of_claim">Vaccine safety experts, including experts at CDC and the American Academy of Pediatrics (AAP)</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

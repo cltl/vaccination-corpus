@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="health-gov-on-ca_20170109T215856.txt">
+    <annotation>
+        <mention id="EHOST_Instance_24460" />
+        <annotator id="01">Sanne</annotator>
+        <span start="102" end="185" />
+        <spannedText>The Canadian Paediatric Society and the National Advisory Committee on Immunization</spannedText>
+        <creationDate>Sat Aug 12 20:47:56 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_24465">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_24460">
+        <hasSlotMention id="EHOST_Instance_24465" />
+        <mentionClass id="AttrSource">The Canadian Paediatric Society and the National Advisory Committee on Immunization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_24461" />
+        <annotator id="01">Sanne</annotator>
+        <span start="195" end="204" />
+        <spannedText>recommend</spannedText>
+        <creationDate>Sat Aug 12 20:48:03 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_24461">
+        <mentionClass id="AttrCue">recommend</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_24462" />
+        <annotator id="01">Sanne</annotator>
+        <span start="205" end="225" />
+        <spannedText>routine immunization</spannedText>
+        <creationDate>Sat Aug 12 20:48:06 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_24466">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_24460" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_24467">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_24461" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_24462">
+        <hasSlotMention id="EHOST_Instance_24466" />
+        <hasSlotMention id="EHOST_Instance_24467" />
+        <mentionClass id="AttrContent">routine immunization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_24463" />
+        <annotator id="01">Sanne</annotator>
+        <span start="779" end="783" />
+        <spannedText>told</spannedText>
+        <creationDate>Sat Aug 12 20:48:21 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_24463">
+        <mentionClass id="AttrCue">told</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_24464" />
+        <annotator id="01">Sanne</annotator>
+        <span start="784" end="827" />
+        <spannedText>that they are not protected against rubella</spannedText>
+        <creationDate>Sat Aug 12 20:48:24 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_24468">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_24463" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_24464">
+        <hasSlotMention id="EHOST_Instance_24468" />
+        <mentionClass id="AttrContent">that they are not protected against rubella</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

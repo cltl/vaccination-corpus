@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Church-Law-&amp;-Tax_20170707T234627.txt">
+    <annotation>
+        <mention id="EHOST_Instance_50157" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="510" end="540" />
+        <spannedText>The New York Public Health Law</spannedText>
+        <creationDate>Thu May 03 17:00:00 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_50157">
+        <mentionClass id="source_of_claim">The New York Public Health Law</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_50158" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="555" end="762" />
+        <spannedText>"no principal, teacher, owner or person in charge of a school shall permit any child to be admitted to such school, or to attend such school, in excess of fourteen days" without a certificate of immunization</spannedText>
+        <creationDate>Thu May 03 17:00:22 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_50159">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_50157" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_50158">
+        <hasSlotMention id="EHOST_Instance_50159" />
+        <mentionClass id="claim">"no principal, teacher, owner or person in charge of a school shall permit any child to be admitted to such school, or to attend such school, in excess of fourteen days" without a certificate of immunization</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

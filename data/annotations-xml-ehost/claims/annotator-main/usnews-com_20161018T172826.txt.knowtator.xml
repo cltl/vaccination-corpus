@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="usnews-com_20161018T172826.txt">
+    <annotation>
+        <mention id="EHOST_Instance_239109" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="223" end="431" />
+        <spannedText>most of those who currently have the virus are aged 20 or older, meaning some were born not only before the anti-vaccine movement swelled, but also before the U.S. implemented aggressive immunization measures</spannedText>
+        <creationDate>Wed Apr 18 08:25:33 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_239116">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_239110" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_239109">
+        <hasSlotMention id="EHOST_Instance_239116" />
+        <mentionClass id="claim">most of those who currently have the virus are aged 20 or older, meaning some were born not only before the anti-vaccine movement swelled, but also before the U.S. implemented aggressive immunization measures</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_239110" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="138" end="156" />
+        <spannedText>U.S. News analysis</spannedText>
+        <creationDate>Wed Apr 18 08:25:43 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_239110">
+        <mentionClass id="source_of_claim">U.S. News analysis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_239111" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1547" end="1666" />
+        <spannedText>children should get a first vaccine around 12 months and then receive a booster by the age of 6, or before kindergarten</spannedText>
+        <creationDate>Wed Apr 18 08:27:02 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_239117">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_239112" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_239111">
+        <hasSlotMention id="EHOST_Instance_239117" />
+        <mentionClass id="claim">children should get a first vaccine around 12 months and then receive a booster by the age of 6, or before kindergarten</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_239112" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1538" end="1545" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Wed Apr 18 08:27:05 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_239112">
+        <mentionClass id="source_of_claim">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_239113" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2582" end="2684" />
+        <spannedText>The quickest way to eliminate that problem would be a mass revaccination campaign of all such students</spannedText>
+        <creationDate>Wed Apr 18 08:29:05 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_239118">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_239115" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_239113">
+        <hasSlotMention id="EHOST_Instance_239118" />
+        <mentionClass id="claim">The quickest way to eliminate that problem would be a mass revaccination campaign of all such students</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_239114" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2406" end="2560" />
+        <spannedText>The major problem with measles in highly vaccinated populations occurred among middle school, junior high school, senior high school, and college students</spannedText>
+        <creationDate>Wed Apr 18 08:29:11 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_239119">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_239115" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_239114">
+        <hasSlotMention id="EHOST_Instance_239119" />
+        <mentionClass id="claim">The major problem with measles in highly vaccinated populations occurred among middle school, junior high school, senior high school, and college students</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_239115" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2563" end="2574" />
+        <spannedText>the article</spannedText>
+        <creationDate>Wed Apr 18 08:29:13 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_239115">
+        <mentionClass id="source_of_claim">the article</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

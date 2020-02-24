@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="ThinkProgress_20160723T110700.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31558" />
+        <annotator id="01">Sanne</annotator>
+        <span start="102" end="118" />
+        <spannedText>health officials</spannedText>
+        <creationDate>Mon Sep 11 16:23:23 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31599">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31558">
+        <hasSlotMention id="EHOST_Instance_31599" />
+        <mentionClass id="AttrSource">health officials</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31559" />
+        <annotator id="01">Sanne</annotator>
+        <span start="119" end="128" />
+        <spannedText>suspected</spannedText>
+        <creationDate>Mon Sep 11 16:23:28 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31559">
+        <mentionClass id="AttrCue">suspected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31560" />
+        <annotator id="01">Sanne</annotator>
+        <span start="129" end="207" />
+        <spannedText>the outbreak may have been linked to pockets of people who refuse vaccinations</spannedText>
+        <creationDate>Mon Sep 11 16:23:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31600">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31559" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31601">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31558" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31560">
+        <hasSlotMention id="EHOST_Instance_31600" />
+        <hasSlotMention id="EHOST_Instance_31601" />
+        <mentionClass id="AttrContent">the outbreak may have been linked to pockets of people who refuse vaccinations</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31561" />
+        <annotator id="01">Sanne</annotator>
+        <span start="726" end="738" />
+        <spannedText>according to</spannedText>
+        <creationDate>Mon Sep 11 16:24:16 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31561">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31562" />
+        <annotator id="01">Sanne</annotator>
+        <span start="739" end="784" />
+        <spannedText>the new research published in JAMA Pediatrics</spannedText>
+        <creationDate>Mon Sep 11 16:24:19 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31602">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31562">
+        <hasSlotMention id="EHOST_Instance_31602" />
+        <mentionClass id="AttrSource">the new research published in JAMA Pediatrics</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31563" />
+        <annotator id="01">Sanne</annotator>
+        <span start="786" end="916" />
+        <spannedText>the people who were infected in the recent measles outbreak have vaccination rates that fall well below that recommended threshold</spannedText>
+        <creationDate>Mon Sep 11 16:24:31 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31603">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31562" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31604">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31561" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31563">
+        <hasSlotMention id="EHOST_Instance_31603" />
+        <hasSlotMention id="EHOST_Instance_31604" />
+        <mentionClass id="AttrContent">the people who were infected in the recent measles outbreak have vaccination rates that fall well below that recommended threshold</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31564" />
+        <annotator id="01">Sanne</annotator>
+        <span start="918" end="933" />
+        <spannedText>The researchers</spannedText>
+        <creationDate>Mon Sep 11 16:24:35 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31605">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31564">
+        <hasSlotMention id="EHOST_Instance_31605" />
+        <mentionClass id="AttrSource">The researchers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31565" />
+        <annotator id="01">Sanne</annotator>
+        <span start="934" end="943" />
+        <spannedText>estimated</spannedText>
+        <creationDate>Mon Sep 11 16:24:42 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31565">
+        <mentionClass id="AttrCue">estimated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31566" />
+        <annotator id="01">Sanne</annotator>
+        <span start="944" end="1046" />
+        <spannedText>that the rate could not have been higher than about 86 percent, and may have been as low as 50 percent</spannedText>
+        <creationDate>Mon Sep 11 16:24:45 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31606">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31565" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31607">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31564" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31566">
+        <hasSlotMention id="EHOST_Instance_31606" />
+        <hasSlotMention id="EHOST_Instance_31607" />
+        <mentionClass id="AttrContent">that the rate could not have been higher than about 86 percent, and may have been as low as 50 percent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31567" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1048" end="1267" />
+        <spannedText>“Clearly, MMR vaccination rates in many of the communities that have been affected by this outbreak fall well below the necessary threshold to sustain herd immunity, thus placing the greater population at risk as well,”</spannedText>
+        <creationDate>Mon Sep 11 16:24:53 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31608">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31568" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31609">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31569" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31567">
+        <hasSlotMention id="EHOST_Instance_31608" />
+        <hasSlotMention id="EHOST_Instance_31609" />
+        <mentionClass id="AttrContent">“Clearly, MMR vaccination rates in many of the communities that have been affected by this outbreak fall well below the necessary threshold to sustain herd immunity, thus placing the greater population at risk as well,”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31568" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1268" end="1283" />
+        <spannedText>the researchers</spannedText>
+        <creationDate>Mon Sep 11 16:24:55 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31610">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31568">
+        <hasSlotMention id="EHOST_Instance_31610" />
+        <mentionClass id="AttrSource">the researchers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31569" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1284" end="1293" />
+        <spannedText>concluded</spannedText>
+        <creationDate>Mon Sep 11 16:25:00 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31569">
+        <mentionClass id="AttrCue">concluded</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31570" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1441" end="1458" />
+        <spannedText>Federal officials</spannedText>
+        <creationDate>Mon Sep 11 16:25:08 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31611">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31570">
+        <hasSlotMention id="EHOST_Instance_31611" />
+        <mentionClass id="AttrSource">Federal officials</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31571" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1459" end="1466" />
+        <spannedText>suspect</spannedText>
+        <creationDate>Mon Sep 11 16:25:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31571">
+        <mentionClass id="AttrCue">suspect</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31572" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1467" end="1541" />
+        <spannedText>that a foreign visitor to the theme park brought the disease from overseas</spannedText>
+        <creationDate>Mon Sep 11 16:25:22 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31612">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31571" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31613">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31570" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31572">
+        <hasSlotMention id="EHOST_Instance_31612" />
+        <hasSlotMention id="EHOST_Instance_31613" />
+        <mentionClass id="AttrContent">that a foreign visitor to the theme park brought the disease from overseas</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31573" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1688" end="1815" />
+        <spannedText>“The Disneyland outbreak is quite possibly a direct consequence of the growing anti-vaccination movement in the United States,”</spannedText>
+        <creationDate>Mon Sep 11 16:25:34 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31614">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31574" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31615">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31575" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31573">
+        <hasSlotMention id="EHOST_Instance_31614" />
+        <hasSlotMention id="EHOST_Instance_31615" />
+        <mentionClass id="AttrContent">“The Disneyland outbreak is quite possibly a direct consequence of the growing anti-vaccination movement in the United States,”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31574" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1816" end="1927" />
+        <spannedText>Maimuna Majumder, a research fellow at Boston Children’s Hospital and one of the authors of the new JAMA study,</spannedText>
+        <creationDate>Mon Sep 11 16:25:37 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31616">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31574">
+        <hasSlotMention id="EHOST_Instance_31616" />
+        <mentionClass id="AttrSource">Maimuna Majumder, a research fellow at Boston Children’s Hospital and one of the authors of the new JAMA study,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31575" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1928" end="1932" />
+        <spannedText>told</spannedText>
+        <creationDate>Mon Sep 11 16:25:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31575">
+        <mentionClass id="AttrCue">told</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31576" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1944" end="1947" />
+        <spannedText>She</spannedText>
+        <creationDate>Mon Sep 11 16:25:48 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31617">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31576">
+        <hasSlotMention id="EHOST_Instance_31617" />
+        <mentionClass id="AttrSource">She</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31577" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1948" end="1953" />
+        <spannedText>added</spannedText>
+        <creationDate>Mon Sep 11 16:25:56 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31577">
+        <mentionClass id="AttrCue">added</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31578" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1954" end="2071" />
+        <spannedText>that if that movement continues to grow, “the likelihood of outbreaks will increase — as will their scale and scope.”</spannedText>
+        <creationDate>Mon Sep 11 16:25:59 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31618">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31577" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31619">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31576" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31578">
+        <hasSlotMention id="EHOST_Instance_31618" />
+        <hasSlotMention id="EHOST_Instance_31619" />
+        <mentionClass id="AttrContent">that if that movement continues to grow, “the likelihood of outbreaks will increase — as will their scale and scope.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31579" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2073" end="2081" />
+        <spannedText>Majumder</spannedText>
+        <creationDate>Mon Sep 11 16:26:05 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31620">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31579">
+        <hasSlotMention id="EHOST_Instance_31620" />
+        <mentionClass id="AttrSource">Majumder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31580" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2103" end="2110" />
+        <spannedText>experts</spannedText>
+        <creationDate>Mon Sep 11 16:26:11 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31621">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31580">
+        <hasSlotMention id="EHOST_Instance_31621" />
+        <mentionClass id="AttrSource">experts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31581" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2116" end="2126" />
+        <spannedText>speculated</spannedText>
+        <creationDate>Mon Sep 11 16:26:17 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31581">
+        <mentionClass id="AttrCue">speculated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31582" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2127" end="2189" />
+        <spannedText>that the recent spread of measles was due to low vaccine rates</spannedText>
+        <creationDate>Mon Sep 11 16:26:20 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31622">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31581" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31623">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31580" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31582">
+        <hasSlotMention id="EHOST_Instance_31622" />
+        <hasSlotMention id="EHOST_Instance_31623" />
+        <mentionClass id="AttrContent">that the recent spread of measles was due to low vaccine rates</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31583" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2082" end="2091" />
+        <spannedText>explained</spannedText>
+        <creationDate>Mon Sep 11 16:26:24 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31583">
+        <mentionClass id="AttrCue">explained</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31584" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2092" end="2260" />
+        <spannedText>that while experts have speculated that the recent spread of measles was due to low vaccine rates, her study “confirms this suspicion in a scientifically rigorous way.”</spannedText>
+        <creationDate>Mon Sep 11 16:26:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31624">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31583" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31625">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31579" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31584">
+        <hasSlotMention id="EHOST_Instance_31624" />
+        <hasSlotMention id="EHOST_Instance_31625" />
+        <mentionClass id="AttrContent">that while experts have speculated that the recent spread of measles was due to low vaccine rates, her study “confirms this suspicion in a scientifically rigorous way.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31585" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2419" end="2582" />
+        <spannedText>“A level of protection against measles as low as 50 percent makes pediatricians, infectious-disease experts, and the public health community profoundly concerned,”</spannedText>
+        <creationDate>Mon Sep 11 16:26:48 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31626">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31586" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31627">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31587" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31585">
+        <hasSlotMention id="EHOST_Instance_31626" />
+        <hasSlotMention id="EHOST_Instance_31627" />
+        <mentionClass id="AttrContent">“A level of protection against measles as low as 50 percent makes pediatricians, infectious-disease experts, and the public health community profoundly concerned,”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31586" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2583" end="2689" />
+        <spannedText>Dr. William Schaffner, a professor of infectious diseases at the Vanderbilt University School of Medicine,</spannedText>
+        <creationDate>Mon Sep 11 16:26:53 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31628">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31586">
+        <hasSlotMention id="EHOST_Instance_31628" />
+        <mentionClass id="AttrSource">Dr. William Schaffner, a professor of infectious diseases at the Vanderbilt University School of Medicine,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31587" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2690" end="2694" />
+        <spannedText>told</spannedText>
+        <creationDate>Mon Sep 11 16:26:58 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31587">
+        <mentionClass id="AttrCue">told</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31588" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2986" end="2990" />
+        <spannedText>they</spannedText>
+        <creationDate>Mon Sep 11 16:27:13 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31629">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31588">
+        <hasSlotMention id="EHOST_Instance_31629" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31589" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2991" end="2994" />
+        <spannedText>say</spannedText>
+        <creationDate>Mon Sep 11 16:27:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31589">
+        <mentionClass id="AttrCue">say</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31590" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2981" end="2985" />
+        <span start="2995" end="3054" />
+        <spannedText>that ... are driven by a fewer number of people getting the MMR shot</spannedText>
+        <creationDate>Mon Sep 11 16:27:21 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31630">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31589" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31631">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31588" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31590">
+        <hasSlotMention id="EHOST_Instance_31630" />
+        <hasSlotMention id="EHOST_Instance_31631" />
+        <mentionClass id="AttrContent">that ... are driven by a fewer number of people getting the MMR shot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31591" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3126" end="3141" />
+        <spannedText>recent research</spannedText>
+        <creationDate>Mon Sep 11 16:27:32 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31632">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31591">
+        <hasSlotMention id="EHOST_Instance_31632" />
+        <mentionClass id="AttrSource">recent research</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31592" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3146" end="3151" />
+        <spannedText>found</spannedText>
+        <creationDate>Mon Sep 11 16:27:38 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31592">
+        <mentionClass id="AttrCue">found</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31593" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3152" end="3279" />
+        <spannedText>that unvaccinated people tend to cluster together in the same community, which allows contagious diseases to more easily spread</spannedText>
+        <creationDate>Mon Sep 11 16:27:43 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31633">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31591" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31634">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31592" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31593">
+        <hasSlotMention id="EHOST_Instance_31633" />
+        <hasSlotMention id="EHOST_Instance_31634" />
+        <mentionClass id="AttrContent">that unvaccinated people tend to cluster together in the same community, which allows contagious diseases to more easily spread</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31594" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3477" end="3489" />
+        <spannedText>According to</spannedText>
+        <creationDate>Mon Sep 11 16:27:55 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31594">
+        <mentionClass id="AttrCue">According to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31595" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3490" end="3553" />
+        <spannedText>one 2009 study published in the New England Journal of Medicine</spannedText>
+        <creationDate>Mon Sep 11 16:27:59 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31635">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31595">
+        <hasSlotMention id="EHOST_Instance_31635" />
+        <mentionClass id="AttrSource">one 2009 study published in the New England Journal of Medicine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31596" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3555" end="3617" />
+        <spannedText>just two percent of the population refuses vaccines altogether</spannedText>
+        <creationDate>Mon Sep 11 16:28:05 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31636">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31595" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31637">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31594" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31596">
+        <hasSlotMention id="EHOST_Instance_31636" />
+        <hasSlotMention id="EHOST_Instance_31637" />
+        <mentionClass id="AttrContent">just two percent of the population refuses vaccines altogether</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31597" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3820" end="3826" />
+        <spannedText>belief</spannedText>
+        <creationDate>Mon Sep 11 16:28:20 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31597">
+        <mentionClass id="AttrCue">belief</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31598" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3827" end="3887" />
+        <spannedText>that it’s harmful for children to get too many shots at once</spannedText>
+        <creationDate>Mon Sep 11 16:28:23 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31638">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31597" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31598">
+        <hasSlotMention id="EHOST_Instance_31638" />
+        <mentionClass id="AttrContent">that it’s harmful for children to get too many shots at once</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

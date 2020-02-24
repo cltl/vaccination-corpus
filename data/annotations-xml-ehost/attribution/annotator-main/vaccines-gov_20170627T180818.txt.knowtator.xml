@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="vaccines-gov_20170627T180818.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30218" />
+        <annotator id="01">Sanne</annotator>
+        <span start="0" end="7" />
+        <spannedText>Knowing</spannedText>
+        <creationDate>Mon Sep 18 16:04:13 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30218">
+        <mentionClass id="AttrCue">Knowing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30219" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8" end="31" />
+        <spannedText>which vaccines you need</spannedText>
+        <creationDate>Mon Sep 18 16:04:15 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30222">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30218" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30219">
+        <hasSlotMention id="EHOST_Instance_30222" />
+        <mentionClass id="AttrContent">which vaccines you need</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30220" />
+        <annotator id="01">Sanne</annotator>
+        <span start="386" end="390" />
+        <spannedText>that</spannedText>
+        <creationDate>Sat Sep 23 11:53:44 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30223">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30221" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30220">
+        <hasSlotMention id="EHOST_Instance_30223" />
+        <mentionClass id="AttrContent">that</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30221" />
+        <annotator id="01">Sanne</annotator>
+        <span start="400" end="411" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Sat Sep 23 11:53:46 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30221">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

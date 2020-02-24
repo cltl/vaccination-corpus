@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="WordReference-Forums_20170118T034336.txt">
+    <annotation>
+        <mention id="EHOST_Instance_8023" />
+        <annotator id="01">Sanne</annotator>
+        <span start="74" end="75" />
+        <spannedText>I</spannedText>
+        <creationDate>Sat Sep 23 14:19:31 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8031">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8023">
+        <hasSlotMention id="EHOST_Instance_8031" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8024" />
+        <annotator id="01">Sanne</annotator>
+        <span start="82" end="86" />
+        <spannedText>sure</spannedText>
+        <creationDate>Sat Sep 23 14:19:38 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8024">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8025" />
+        <annotator id="01">Sanne</annotator>
+        <span start="87" end="117" />
+        <spannedText>if I understand the difference</spannedText>
+        <creationDate>Sat Sep 23 14:19:41 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_8032">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8023" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_8033">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8024" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8025">
+        <hasSlotMention id="EHOST_Instance_8032" />
+        <hasSlotMention id="EHOST_Instance_8033" />
+        <mentionClass id="AttrContent">if I understand the difference</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8026" />
+        <annotator id="01">Sanne</annotator>
+        <span start="285" end="286" />
+        <spannedText>I</spannedText>
+        <creationDate>Sat Sep 23 14:19:48 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8034">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8026">
+        <hasSlotMention id="EHOST_Instance_8034" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8027" />
+        <annotator id="01">Sanne</annotator>
+        <span start="293" end="297" />
+        <spannedText>sure</spannedText>
+        <creationDate>Sat Sep 23 14:19:56 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8027">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8028" />
+        <annotator id="01">Sanne</annotator>
+        <span start="298" end="363" />
+        <spannedText>if for example the following sentences are interchangeable or not</spannedText>
+        <creationDate>Sat Sep 23 14:20:01 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_8035">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8027" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_8036">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8026" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8028">
+        <hasSlotMention id="EHOST_Instance_8035" />
+        <hasSlotMention id="EHOST_Instance_8036" />
+        <mentionClass id="AttrContent">if for example the following sentences are interchangeable or not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8029" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1574" end="1580" />
+        <spannedText>called</spannedText>
+        <creationDate>Mon Sep 25 10:41:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8029">
+        <mentionClass id="AttrCue">called</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8030" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1538" end="1555" />
+        <span start="1581" end="1600" />
+        <spannedText>The whole process ... vaccine inoculation</spannedText>
+        <creationDate>Mon Sep 25 10:41:15 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_8037">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8029" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8030">
+        <hasSlotMention id="EHOST_Instance_8037" />
+        <mentionClass id="AttrContent">The whole process ... vaccine inoculation</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Carrington_20170630T081323.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5234" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5000" end="5029" />
+        <spannedText>the anti-vaccination movement</spannedText>
+        <creationDate>Wed Jul 26 08:11:49 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5240">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5234">
+        <hasSlotMention id="EHOST_Instance_5240" />
+        <mentionClass id="AttrSource">the anti-vaccination movement</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5235" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5039" end="5047" />
+        <spannedText>claiming</spannedText>
+        <creationDate>Wed Jul 26 08:11:59 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5235">
+        <mentionClass id="AttrCue">claiming</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5236" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5048" end="5100" />
+        <spannedText>that there is a link between vaccinations and autism</spannedText>
+        <creationDate>Wed Jul 26 08:12:04 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5241">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5234" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5242">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5235" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5236">
+        <hasSlotMention id="EHOST_Instance_5241" />
+        <hasSlotMention id="EHOST_Instance_5242" />
+        <mentionClass id="AttrContent">that there is a link between vaccinations and autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5237" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5147" end="5152" />
+        <spannedText>which</spannedText>
+        <creationDate>Wed Jul 26 21:41:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5243">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5237">
+        <hasSlotMention id="EHOST_Instance_5243" />
+        <mentionClass id="AttrSource">which</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5238" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5153" end="5162" />
+        <spannedText>suggested</spannedText>
+        <creationDate>Wed Jul 26 08:12:26 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5238">
+        <mentionClass id="AttrCue">suggested</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5239" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5163" end="5226" />
+        <spannedText>that the measles-mumps-rubella (MMR) vaccine might cause autism</spannedText>
+        <creationDate>Wed Jul 26 08:12:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5244">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5237" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5245">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5238" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5239">
+        <hasSlotMention id="EHOST_Instance_5244" />
+        <hasSlotMention id="EHOST_Instance_5245" />
+        <mentionClass id="AttrContent">that the measles-mumps-rubella (MMR) vaccine might cause autism</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

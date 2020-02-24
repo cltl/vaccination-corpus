@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="oredigger-net_20160729T150530.txt">
+    <annotation>
+        <mention id="EHOST_Instance_12752" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="464" end="476" />
+        <spannedText>According to</spannedText>
+        <creationDate>Thu Aug 31 19:50:54 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12752">
+        <mentionClass id="AttrCue">According to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12753" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="477" end="514" />
+        <spannedText>the Centers for Disease Control (CDC)</spannedText>
+        <creationDate>Thu Aug 31 19:50:58 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12796">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12753">
+        <hasSlotMention id="EHOST_Instance_12796" />
+        <mentionClass id="AttrSource">the Centers for Disease Control (CDC)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12754" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="516" end="598" />
+        <spannedText>the majority of the people who had been infected were unvaccinated against measles</spannedText>
+        <creationDate>Thu Aug 31 19:51:08 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12797">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12753" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12798">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12752" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12754">
+        <hasSlotMention id="EHOST_Instance_12797" />
+        <hasSlotMention id="EHOST_Instance_12798" />
+        <mentionClass id="AttrContent">the majority of the people who had been infected were unvaccinated against measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12755" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="854" end="861" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Thu Aug 31 19:51:22 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12799">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12755">
+        <hasSlotMention id="EHOST_Instance_12799" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12756" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="862" end="872" />
+        <spannedText>recommends</spannedText>
+        <creationDate>Thu Aug 31 19:51:29 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12756">
+        <mentionClass id="AttrCue">recommends</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12757" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="873" end="937" />
+        <spannedText>28 doses of 10 different vaccines for children under 6 years old</spannedText>
+        <creationDate>Thu Aug 31 19:51:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12800">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12756" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12801">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12755" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12757">
+        <hasSlotMention id="EHOST_Instance_12800" />
+        <hasSlotMention id="EHOST_Instance_12801" />
+        <mentionClass id="AttrContent">28 doses of 10 different vaccines for children under 6 years old</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12758" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1307" end="1313" />
+        <spannedText>others</spannedText>
+        <creationDate>Thu Aug 31 19:51:49 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12802">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12758">
+        <hasSlotMention id="EHOST_Instance_12802" />
+        <mentionClass id="AttrSource">others</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12759" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1314" end="1319" />
+        <spannedText>argue</spannedText>
+        <creationDate>Thu Aug 31 19:52:09 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12759">
+        <mentionClass id="AttrCue">argue</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12760" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1320" end="1432" />
+        <spannedText>that government-mandated vaccines would violate their constitutionally protected religious and personal freedoms</spannedText>
+        <creationDate>Thu Aug 31 19:52:14 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12803">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12758" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12804">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12759" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12760">
+        <hasSlotMention id="EHOST_Instance_12803" />
+        <hasSlotMention id="EHOST_Instance_12804" />
+        <mentionClass id="AttrContent">that government-mandated vaccines would violate their constitutionally protected religious and personal freedoms</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12761" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1759" end="1771" />
+        <spannedText>According to</spannedText>
+        <creationDate>Thu Aug 31 19:53:21 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12761">
+        <mentionClass id="AttrCue">According to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12762" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1772" end="1814" />
+        <spannedText>the Colorado School of Mines Health Center</spannedText>
+        <creationDate>Thu Aug 31 19:53:28 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12805">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12762">
+        <hasSlotMention id="EHOST_Instance_12805" />
+        <mentionClass id="AttrSource">the Colorado School of Mines Health Center</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12763" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1816" end="2051" />
+        <spannedText>“Colorado state law requires new freshman, transfer and graduate students submit proof of two doses each of measles, mumps and rubella vaccines. This is a mandatory requirement for all college students born on or after January 1, 1957”</spannedText>
+        <creationDate>Thu Aug 31 19:54:09 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12806">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12762" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12807">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12761" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12763">
+        <hasSlotMention id="EHOST_Instance_12806" />
+        <hasSlotMention id="EHOST_Instance_12807" />
+        <mentionClass id="AttrContent">“Colorado state law requires new freshman, transfer and graduate students submit proof of two doses each of measles, mumps and rubella vaccines. This is a mandatory requirement for all college students born on or after January 1, 1957”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12764" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2279" end="2316" />
+        <spannedText>13% of polled professional scientists</spannedText>
+        <creationDate>Thu Aug 31 19:55:04 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12808">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12764">
+        <hasSlotMention id="EHOST_Instance_12808" />
+        <mentionClass id="AttrSource">13% of polled professional scientists</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12765" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2317" end="2324" />
+        <spannedText>thought</spannedText>
+        <creationDate>Thu Aug 31 19:55:11 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12765">
+        <mentionClass id="AttrCue">thought</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12766" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2325" end="2401" />
+        <spannedText>that parents should be allowed to have their children exempted from vaccines</spannedText>
+        <creationDate>Thu Aug 31 19:55:15 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12809">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12764" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12810">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12765" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12766">
+        <hasSlotMention id="EHOST_Instance_12809" />
+        <hasSlotMention id="EHOST_Instance_12810" />
+        <mentionClass id="AttrContent">that parents should be allowed to have their children exempted from vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12767" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2403" end="2428" />
+        <spannedText>30% of the general public</spannedText>
+        <creationDate>Thu Aug 31 19:55:20 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12811">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12767">
+        <hasSlotMention id="EHOST_Instance_12811" />
+        <mentionClass id="AttrSource">30% of the general public</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12768" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2439" end="2447" />
+        <spannedText>believed</spannedText>
+        <creationDate>Thu Aug 31 19:55:27 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12768">
+        <mentionClass id="AttrCue">believed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12769" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2448" end="2484" />
+        <spannedText>that vaccinations should be a choice</spannedText>
+        <creationDate>Thu Aug 31 19:55:33 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12812">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12768" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12813">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12767" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12769">
+        <hasSlotMention id="EHOST_Instance_12812" />
+        <hasSlotMention id="EHOST_Instance_12813" />
+        <mentionClass id="AttrContent">that vaccinations should be a choice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12770" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2993" end="2997" />
+        <spannedText>they</spannedText>
+        <creationDate>Thu Aug 31 19:57:37 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12814">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12770">
+        <hasSlotMention id="EHOST_Instance_12814" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12771" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3012" end="3017" />
+        <spannedText>think</spannedText>
+        <creationDate>Thu Aug 31 19:57:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12771">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12772" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3018" end="3057" />
+        <spannedText>their children are at risk for diseases</spannedText>
+        <creationDate>Thu Aug 31 19:57:47 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12815">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12770" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12816">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12771" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12772">
+        <hasSlotMention id="EHOST_Instance_12815" />
+        <hasSlotMention id="EHOST_Instance_12816" />
+        <mentionClass id="AttrContent">their children are at risk for diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12773" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3061" end="3065" />
+        <spannedText>they</spannedText>
+        <creationDate>Thu Aug 31 19:57:54 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12817">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12773">
+        <hasSlotMention id="EHOST_Instance_12817" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12774" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3066" end="3073" />
+        <spannedText>believe</spannedText>
+        <creationDate>Thu Aug 31 19:58:02 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12774">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12775" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3074" end="3120" />
+        <spannedText>the vaccines themselves are innately dangerous</spannedText>
+        <creationDate>Thu Aug 31 19:58:05 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12818">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12773" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12819">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12774" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12775">
+        <hasSlotMention id="EHOST_Instance_12818" />
+        <hasSlotMention id="EHOST_Instance_12819" />
+        <mentionClass id="AttrContent">the vaccines themselves are innately dangerous</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12776" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3337" end="3342" />
+        <spannedText>found</spannedText>
+        <creationDate>Thu Aug 31 19:58:32 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12776">
+        <mentionClass id="AttrCue">found</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12777" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3343" end="3622" />
+        <spannedText>that “unvaccinated children were roughly 23 times more likely to develop whooping cough, nine times more likely to be infected with chickenpox, and 6.5 times more likely to be hospitalized with pneumonia or pneumococcal disease than vaccinated children from the same communities”</spannedText>
+        <creationDate>Thu Aug 31 19:58:40 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12820">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12776" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12777">
+        <hasSlotMention id="EHOST_Instance_12820" />
+        <mentionClass id="AttrContent">that “unvaccinated children were roughly 23 times more likely to develop whooping cough, nine times more likely to be infected with chickenpox, and 6.5 times more likely to be hospitalized with pneumonia or pneumococcal disease than vaccinated children from the same communities”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12778" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3720" end="3732" />
+        <spannedText>According to</spannedText>
+        <creationDate>Thu Aug 31 19:58:53 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12778">
+        <mentionClass id="AttrCue">According to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12779" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3733" end="3748" />
+        <spannedText>Daley and Glanz</spannedText>
+        <creationDate>Thu Aug 31 19:58:55 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12821">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12779">
+        <hasSlotMention id="EHOST_Instance_12821" />
+        <mentionClass id="AttrSource">Daley and Glanz</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12780" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3750" end="3909" />
+        <spannedText>the second main objection – a fear of the vaccines causing more harm than good – stems from misinformation spread by both the media and the use of the internet</spannedText>
+        <creationDate>Thu Aug 31 19:59:07 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12822">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12779" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12823">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12778" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12780">
+        <hasSlotMention id="EHOST_Instance_12822" />
+        <hasSlotMention id="EHOST_Instance_12823" />
+        <mentionClass id="AttrContent">the second main objection – a fear of the vaccines causing more harm than good – stems from misinformation spread by both the media and the use of the internet</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12781" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4222" end="4225" />
+        <spannedText>who</spannedText>
+        <creationDate>Thu Aug 31 19:59:32 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12824">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12781">
+        <hasSlotMention id="EHOST_Instance_12824" />
+        <mentionClass id="AttrSource">who</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12782" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4226" end="4233" />
+        <spannedText>claimed</spannedText>
+        <creationDate>Thu Aug 31 19:59:39 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12782">
+        <mentionClass id="AttrCue">claimed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12783" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4234" end="4295" />
+        <spannedText>that the measles vaccine could cause autism in young children</spannedText>
+        <creationDate>Thu Aug 31 19:59:47 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12825">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12782" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12826">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12781" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12783">
+        <hasSlotMention id="EHOST_Instance_12825" />
+        <hasSlotMention id="EHOST_Instance_12826" />
+        <mentionClass id="AttrContent">that the measles vaccine could cause autism in young children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12784" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4466" end="4497" />
+        <spannedText>around 25% of 1500 participants</spannedText>
+        <creationDate>Thu Aug 31 20:00:45 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12827">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12784">
+        <hasSlotMention id="EHOST_Instance_12827" />
+        <mentionClass id="AttrSource">around 25% of 1500 participants</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12785" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4504" end="4512" />
+        <spannedText>believed</spannedText>
+        <creationDate>Thu Aug 31 20:00:51 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12785">
+        <mentionClass id="AttrCue">believed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12786" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4513" end="4526" />
+        <spannedText>it to be true</spannedText>
+        <creationDate>Thu Aug 31 20:00:54 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12828">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12785" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12829">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12784" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12786">
+        <hasSlotMention id="EHOST_Instance_12828" />
+        <hasSlotMention id="EHOST_Instance_12829" />
+        <mentionClass id="AttrContent">it to be true</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12787" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4696" end="4703" />
+        <spannedText>science</spannedText>
+        <creationDate>Thu Aug 31 20:01:16 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12830">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12787">
+        <hasSlotMention id="EHOST_Instance_12830" />
+        <mentionClass id="AttrSource">science</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12788" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4704" end="4709" />
+        <spannedText>shows</spannedText>
+        <creationDate>Thu Aug 31 20:01:24 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12788">
+        <mentionClass id="AttrCue">shows</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12789" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4710" end="4780" />
+        <spannedText>that vaccines help protect children against diseases, with little risk</spannedText>
+        <creationDate>Thu Aug 31 20:01:45 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12831">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12788" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12832">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12787" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12789">
+        <hasSlotMention id="EHOST_Instance_12831" />
+        <hasSlotMention id="EHOST_Instance_12832" />
+        <mentionClass id="AttrContent">that vaccines help protect children against diseases, with little risk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12790" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4810" end="4817" />
+        <spannedText>science</spannedText>
+        <creationDate>Thu Aug 31 20:02:00 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12833">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12790">
+        <hasSlotMention id="EHOST_Instance_12833" />
+        <mentionClass id="AttrSource">science</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12791" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4822" end="4827" />
+        <spannedText>shown</spannedText>
+        <creationDate>Thu Aug 31 20:02:08 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12791">
+        <mentionClass id="AttrCue">shown</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12792" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4828" end="4862" />
+        <spannedText>that children should be vaccinated</spannedText>
+        <creationDate>Thu Aug 31 20:02:10 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12834">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12791" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12835">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12790" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12792">
+        <hasSlotMention id="EHOST_Instance_12834" />
+        <hasSlotMention id="EHOST_Instance_12835" />
+        <mentionClass id="AttrContent">that children should be vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12793" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5383" end="6232" />
+        <spannedText>“From what I have read, around a 95 percent vaccination rate is needed to provide community level immunity so as not to infect the 1 percent of the population who, for medical reasons, cannot be vaccinated. In Colorado, the vaccination rate amongst kindergarteners is only 82 percent on average, the lowest rate in the nation. From an economics perspective, it is clear that Colorado falls well below the socially optimal level of vaccination. The additional benefits to society from increasing vaccination rates likely outweigh the additional costs from doing so. Given this, there is a strong argument for some kind of government intervention in the vaccination market here in Colorado. There are several potential solutions, including a mandate. Another idea would be to impose a fine on those parents who choose to not vaccinate their children.”</spannedText>
+        <creationDate>Thu Aug 31 20:02:58 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_12836">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12794" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_12837">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_12795" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_12793">
+        <hasSlotMention id="EHOST_Instance_12836" />
+        <hasSlotMention id="EHOST_Instance_12837" />
+        <mentionClass id="AttrContent">“From what I have read, around a 95 percent vaccination rate is needed to provide community level immunity so as not to infect the 1 percent of the population who, for medical reasons, cannot be vaccinated. In Colorado, the vaccination rate amongst kindergarteners is only 82 percent on average, the lowest rate in the nation. From an economics perspective, it is clear that Colorado falls well below the socially optimal level of vaccination. The additional benefits to society from increasing vaccination rates likely outweigh the additional costs from doing so. Given this, there is a strong argument for some kind of government intervention in the vaccination market here in Colorado. There are several potential solutions, including a mandate. Another idea would be to impose a fine on those parents who choose to not vaccinate their children.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12794" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5361" end="5368" />
+        <spannedText>opinion</spannedText>
+        <creationDate>Sun Sep 03 16:12:32 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_12794">
+        <mentionClass id="AttrCue">opinion</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_12795" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5357" end="5360" />
+        <spannedText>her</spannedText>
+        <creationDate>Sun Sep 03 16:12:45 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_12838">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_12795">
+        <hasSlotMention id="EHOST_Instance_12838" />
+        <mentionClass id="AttrSource">her</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

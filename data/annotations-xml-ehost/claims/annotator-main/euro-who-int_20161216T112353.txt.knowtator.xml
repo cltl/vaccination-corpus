@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="euro-who-int_20161216T112353.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31548" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="154" end="221" />
+        <spannedText>Immunization saves lives. Every child has the right to be immunized</spannedText>
+        <creationDate>Sun Feb 25 10:04:26 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31552">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_31549" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31548">
+        <hasSlotMention id="EHOST_Instance_31552" />
+        <mentionClass id="claim">Immunization saves lives. Every child has the right to be immunized</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31549" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="248" end="296" />
+        <spannedText>Her Royal Highness The Crown Princess of Denmark</spannedText>
+        <creationDate>Sun Feb 25 10:05:28 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31549">
+        <mentionClass id="source_of_claim">Her Royal Highness The Crown Princess of Denmark</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31550" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="397" end="474" />
+        <spannedText>the immunization of every child is vital to prevent diseases and protect life</spannedText>
+        <creationDate>Sun Feb 25 10:07:40 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31553">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_31551" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31550">
+        <hasSlotMention id="EHOST_Instance_31553" />
+        <mentionClass id="claim">the immunization of every child is vital to prevent diseases and protect life</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31551" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="362" end="365" />
+        <spannedText>EIW</spannedText>
+        <creationDate>Sun Feb 25 10:07:45 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31551">
+        <mentionClass id="source_of_claim">EIW</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

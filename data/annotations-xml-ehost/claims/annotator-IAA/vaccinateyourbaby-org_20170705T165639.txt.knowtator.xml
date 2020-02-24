@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="vaccinateyourbaby-org_20170705T165639.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2303" />
+        <annotator id="01">Sanne</annotator>
+        <span start="110" end="253" />
+        <spannedText>The recent trend of delaying or skipping vaccines has put children across the country at risk for diseases like Hib, whooping cough and measles</spannedText>
+        <creationDate>Wed Apr 25 13:49:19 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2303">
+        <mentionClass id="claim">The recent trend of delaying or skipping vaccines has put children across the country at risk for diseases like Hib, whooping cough and measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2304" />
+        <annotator id="01">Sanne</annotator>
+        <span start="265" end="326" />
+        <spannedText>immunizing your child on time, every time is the right choice</spannedText>
+        <creationDate>Wed Apr 25 13:49:21 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2304">
+        <mentionClass id="claim">immunizing your child on time, every time is the right choice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2305" />
+        <annotator id="01">Sanne</annotator>
+        <span start="343" end="364" />
+        <spannedText>Vaccinate Your Family</spannedText>
+        <creationDate>Sat Apr 28 19:20:36 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2305">
+        <mentionClass id="claim">Vaccinate Your Family</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2306" />
+        <annotator id="01">Sanne</annotator>
+        <span start="439" end="494" />
+        <spannedText>"Needle-Free Flu Vaccine Patch Works as Well as a Shot"</spannedText>
+        <creationDate>Sat Apr 28 19:20:50 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_2310">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_2307" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2306">
+        <hasSlotMention id="EHOST_Instance_2310" />
+        <mentionClass id="claim">"Needle-Free Flu Vaccine Patch Works as Well as a Shot"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2307" />
+        <annotator id="01">Sanne</annotator>
+        <span start="497" end="505" />
+        <spannedText>NBC News</spannedText>
+        <creationDate>Sat Apr 28 19:20:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2307">
+        <mentionClass id="source_of_claim">NBC News</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2308" />
+        <annotator id="01">Sanne</annotator>
+        <span start="615" end="666" />
+        <spannedText>"Vaccination may be curbing ER visits for shingles"</spannedText>
+        <creationDate>Sat Apr 28 19:21:02 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_2311">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_2309" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2308">
+        <hasSlotMention id="EHOST_Instance_2311" />
+        <mentionClass id="claim">"Vaccination may be curbing ER visits for shingles"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2309" />
+        <annotator id="01">Sanne</annotator>
+        <span start="670" end="677" />
+        <spannedText>Reuters</spannedText>
+        <creationDate>Sat Apr 28 19:21:03 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2309">
+        <mentionClass id="source_of_claim">Reuters</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

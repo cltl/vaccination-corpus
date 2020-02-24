@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="PolitiFact_20170926T234644.txt">
+    <annotation>
+        <mention id="EHOST_Instance_91042" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="115" end="142" />
+        <spannedText>the claim has been debunked</spannedText>
+        <creationDate>Sun May 13 17:16:36 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91042">
+        <mentionClass id="claim">the claim has been debunked</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91043" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="431" end="460" />
+        <spannedText>Autism has become an epidemic</spannedText>
+        <creationDate>Sun May 13 17:17:00 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91051">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91045" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91043">
+        <hasSlotMention id="EHOST_Instance_91051" />
+        <mentionClass id="claim">Autism has become an epidemic</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91044" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="462" end="495" />
+        <spannedText>I am totally in favor of vaccines</spannedText>
+        <creationDate>Sun May 13 17:17:04 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91052">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91045" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91044">
+        <hasSlotMention id="EHOST_Instance_91052" />
+        <mentionClass id="claim">I am totally in favor of vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91045" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="413" end="418" />
+        <spannedText>Trump</spannedText>
+        <creationDate>Sun May 13 17:17:09 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91045">
+        <mentionClass id="source_of_claim">Trump</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91046" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="501" end="550" />
+        <spannedText>I want smaller doses over a longer period of time</spannedText>
+        <creationDate>Sun May 13 17:17:19 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91053">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91045" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91046">
+        <hasSlotMention id="EHOST_Instance_91053" />
+        <mentionClass id="claim">I want smaller doses over a longer period of time</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91047" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1657" end="1719" />
+        <spannedText>I believe it's a perfectly appropriate role for the government</spannedText>
+        <creationDate>Sun May 13 17:18:36 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91054">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91048" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91047">
+        <hasSlotMention id="EHOST_Instance_91054" />
+        <mentionClass id="claim">I believe it's a perfectly appropriate role for the government</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91048" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1510" end="1515" />
+        <spannedText>Price</spannedText>
+        <creationDate>Sun May 13 17:18:42 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91048">
+        <mentionClass id="source_of_claim">Price</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91049" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1790" end="1849" />
+        <spannedText>they're the ones that have the public health responsibility</spannedText>
+        <creationDate>Sun May 13 17:23:37 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91055">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91050" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91049">
+        <hasSlotMention id="EHOST_Instance_91055" />
+        <mentionClass id="claim">they're the ones that have the public health responsibility</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91050" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1937" end="1942" />
+        <spannedText>Price</spannedText>
+        <creationDate>Sun May 13 17:23:40 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91050">
+        <mentionClass id="source_of_claim">Price</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

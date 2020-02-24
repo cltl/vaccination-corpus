@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Vaccines-News_20170313T151349.txt">
+    <annotation>
+        <mention id="EHOST_Instance_14007" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="71" end="272" />
+        <spannedText>anytime there is an outbreak of measles, flu or chicken pox at their kids’ school all of the non-vaccinated kids are the culprits, and therefore should be banished from school until they are inoculated</spannedText>
+        <creationDate>Mon Apr 23 01:52:16 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_14013">
+        <mentionSlot id="has_claim" />
+        <complexSlotMentionValue value="EHOST_Instance_14008" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_14007">
+        <hasSlotMention id="EHOST_Instance_14013" />
+        <mentionClass id="claim">anytime there is an outbreak of measles, flu or chicken pox at their kids’ school all of the non-vaccinated kids are the culprits, and therefore should be banished from school until they are inoculated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14008" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="0" end="49" />
+        <spannedText>Parents who are worried about infectious diseases</spannedText>
+        <creationDate>Mon Apr 23 01:52:23 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14008">
+        <mentionClass id="source_of_claim">Parents who are worried about infectious diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14009" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="278" end="414" />
+        <spannedText>ironically, it’s the vaccinated kids who are actually the “carriers” or “shedders” of live viruses that they were recently injected with</spannedText>
+        <creationDate>Mon Apr 23 01:52:43 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14009">
+        <mentionClass id="claim">ironically, it’s the vaccinated kids who are actually the “carriers” or “shedders” of live viruses that they were recently injected with</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14010" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="821" end="988" />
+        <spannedText>our very own Centers for Disease Control and Prevention count on the general public not reading or utilizing information published on their own web site (and we don’t)</spannedText>
+        <creationDate>Mon Apr 23 01:53:07 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14010">
+        <mentionClass id="claim">our very own Centers for Disease Control and Prevention count on the general public not reading or utilizing information published on their own web site (and we don’t)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14011" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="993" end="1125" />
+        <spannedText>most Americans are clueless about the fact that the most crucial information regarding this matter is not on TV or in the newspapers</spannedText>
+        <creationDate>Mon Apr 23 01:53:15 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14011">
+        <mentionClass id="claim">most Americans are clueless about the fact that the most crucial information regarding this matter is not on TV or in the newspapers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14012" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1852" end="2023" />
+        <spannedText>In truth, vaccinated people are still incurring weakened immunity from today’s vaccines and are therefore more susceptible to getting sick from “shedders” – the vaccinated</spannedText>
+        <creationDate>Mon Apr 23 01:53:47 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14012">
+        <mentionClass id="claim">In truth, vaccinated people are still incurring weakened immunity from today’s vaccines and are therefore more susceptible to getting sick from “shedders” – the vaccinated</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

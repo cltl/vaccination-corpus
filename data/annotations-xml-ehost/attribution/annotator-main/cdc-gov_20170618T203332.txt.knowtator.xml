@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="cdc-gov_20170618T203332.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5370" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2087" end="2097" />
+        <spannedText>The doctor</spannedText>
+        <creationDate>Wed Jul 26 20:21:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5376">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5370">
+        <hasSlotMention id="EHOST_Instance_5376" />
+        <mentionClass id="AttrSource">The doctor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5371" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2103" end="2112" />
+        <spannedText>determine</spannedText>
+        <creationDate>Wed Jul 26 20:21:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5371">
+        <mentionClass id="AttrCue">determine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5372" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2113" end="2142" />
+        <spannedText>if they need to be vaccinated</spannedText>
+        <creationDate>Wed Jul 26 20:21:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5377">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5371" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5378">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5370" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5372">
+        <hasSlotMention id="EHOST_Instance_5377" />
+        <hasSlotMention id="EHOST_Instance_5378" />
+        <mentionClass id="AttrContent">if they need to be vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5373" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4233" end="4236" />
+        <spannedText>you</spannedText>
+        <creationDate>Wed Jul 26 20:23:15 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5379">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5373">
+        <hasSlotMention id="EHOST_Instance_5379" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5374" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4237" end="4242" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 20:23:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5374">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5375" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4243" end="4310" />
+        <spannedText>it is a severe allergic reaction or other emergency that can’t wait</spannedText>
+        <creationDate>Wed Jul 26 20:23:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5380">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5373" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5381">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5374" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5375">
+        <hasSlotMention id="EHOST_Instance_5380" />
+        <hasSlotMention id="EHOST_Instance_5381" />
+        <mentionClass id="AttrContent">it is a severe allergic reaction or other emergency that can’t wait</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

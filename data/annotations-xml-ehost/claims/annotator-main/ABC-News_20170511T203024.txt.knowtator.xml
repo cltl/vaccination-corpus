@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="ABC-News_20170511T203024.txt">
+    <annotation>
+        <mention id="EHOST_Instance_49933" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="997" end="1074" />
+        <spannedText>pockets of unvaccinated or undervaccinated people may still present a problem</spannedText>
+        <creationDate>Tue May 01 05:20:50 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_49933">
+        <mentionClass id="claim">pockets of unvaccinated or undervaccinated people may still present a problem</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_49934" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1999" end="2203" />
+        <spannedText>Although people are vaccinated, after about 15 years, there is some waning of immunity and if you get a strong exposure that exposure can overcome that diminished protection and you'll get a case of mumps</spannedText>
+        <creationDate>Tue May 01 05:22:35 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_49938">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_49935" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_49934">
+        <hasSlotMention id="EHOST_Instance_49938" />
+        <mentionClass id="claim">Although people are vaccinated, after about 15 years, there is some waning of immunity and if you get a strong exposure that exposure can overcome that diminished protection and you'll get a case of mumps</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_49935" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2211" end="2220" />
+        <spannedText>Schaffner</spannedText>
+        <creationDate>Tue May 01 05:22:39 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_49935">
+        <mentionClass id="source_of_claim">Schaffner</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_49936" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2775" end="2870" />
+        <spannedText>Once a measles outbreak starts in an area with low vaccinations, it can be difficult to control</spannedText>
+        <creationDate>Tue May 01 05:23:10 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_49939">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_49937" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_49936">
+        <hasSlotMention id="EHOST_Instance_49939" />
+        <mentionClass id="claim">Once a measles outbreak starts in an area with low vaccinations, it can be difficult to control</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_49937" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2885" end="2892" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Tue May 01 05:23:14 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_49937">
+        <mentionClass id="source_of_claim">the CDC</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

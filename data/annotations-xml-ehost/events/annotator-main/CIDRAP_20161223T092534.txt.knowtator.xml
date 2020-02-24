@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="CIDRAP_20161223T092534.txt">
+    <annotation>
+        <mention id="EHOST_Instance_232594" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="101" end="115" />
+        <spannedText>"report cards"</spannedText>
+        <creationDate>Fri Aug 11 10:55:44 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232710">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232594">
+        <hasSlotMention id="EHOST_Instance_232710" />
+        <mentionClass id="AttrSource">"report cards"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232595" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="153" end="160" />
+        <spannedText>finding</spannedText>
+        <creationDate>Fri Aug 11 10:55:53 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232595">
+        <mentionClass id="AttrCue">finding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232596" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="161" end="255" />
+        <spannedText>that state vaccine exemption levels are low and vaccination rates are high for kindergarteners</spannedText>
+        <creationDate>Fri Aug 11 10:55:56 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232711">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232595" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232712">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232594" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232596">
+        <hasSlotMention id="EHOST_Instance_232711" />
+        <hasSlotMention id="EHOST_Instance_232712" />
+        <mentionClass id="AttrContent">that state vaccine exemption levels are low and vaccination rates are high for kindergarteners</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232597" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="286" end="341" />
+        <spannedText>the US Centers for Disease Control and Prevention (CDC)</spannedText>
+        <creationDate>Fri Aug 11 10:56:12 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232713">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232597">
+        <hasSlotMention id="EHOST_Instance_232713" />
+        <mentionClass id="AttrSource">the US Centers for Disease Control and Prevention (CDC)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232598" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="347" end="351" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 10:56:21 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232598">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232599" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="352" end="404" />
+        <spannedText>immunization rates are high for the nation's infants</spannedText>
+        <creationDate>Fri Aug 11 10:56:27 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232714">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232597" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232715">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232598" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232599">
+        <hasSlotMention id="EHOST_Instance_232714" />
+        <hasSlotMention id="EHOST_Instance_232715" />
+        <mentionClass id="AttrContent">immunization rates are high for the nation's infants</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232600" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="260" end="284" />
+        <spannedText>two reports issued today</spannedText>
+        <creationDate>Fri Aug 11 10:56:33 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232716">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232600">
+        <hasSlotMention id="EHOST_Instance_232716" />
+        <mentionClass id="AttrSource">two reports issued today</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232601" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="285" end="404" />
+        <spannedText>the US Centers for Disease Control and Prevention (CDC) also said immunization rates are high for the nation's infants</spannedText>
+        <creationDate>Fri Aug 11 10:56:38 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232717">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232600" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232601">
+        <hasSlotMention id="EHOST_Instance_232717" />
+        <mentionClass id="AttrContent">the US Centers for Disease Control and Prevention (CDC) also said immunization rates are high for the nation's infants</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232602" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="612" end="711" />
+        <spannedText>Anne Schuchat, MD, director of the CDC's National Center for Immunization and Respiratory Diseases,</spannedText>
+        <creationDate>Fri Aug 11 10:57:08 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232718">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232602">
+        <hasSlotMention id="EHOST_Instance_232718" />
+        <mentionClass id="AttrSource">Anne Schuchat, MD, director of the CDC's National Center for Immunization and Respiratory Diseases,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232603" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="712" end="716" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 10:57:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232603">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232604" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="717" end="835" />
+        <spannedText>that overall, the news is gratifying in that the overwhelming majority of parents continue to vaccinate their children</spannedText>
+        <creationDate>Fri Aug 11 10:57:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232719">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232602" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232720">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232603" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232604">
+        <hasSlotMention id="EHOST_Instance_232719" />
+        <hasSlotMention id="EHOST_Instance_232720" />
+        <mentionClass id="AttrContent">that overall, the news is gratifying in that the overwhelming majority of parents continue to vaccinate their children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232605" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="846" end="849" />
+        <spannedText>she</spannedText>
+        <creationDate>Fri Aug 11 10:57:42 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232721">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232605">
+        <hasSlotMention id="EHOST_Instance_232721" />
+        <mentionClass id="AttrSource">she</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232606" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="850" end="856" />
+        <spannedText>warned</spannedText>
+        <creationDate>Fri Aug 11 10:57:49 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232606">
+        <mentionClass id="AttrCue">warned</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232607" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="857" end="980" />
+        <spannedText>that even small pockets of undervaccinated children can fuel an outbreak, such as the recent Disney-linked measles outbreak</spannedText>
+        <creationDate>Fri Aug 11 10:57:55 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232722">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232605" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232723">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232606" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232607">
+        <hasSlotMention id="EHOST_Instance_232722" />
+        <hasSlotMention id="EHOST_Instance_232723" />
+        <mentionClass id="AttrContent">that even small pockets of undervaccinated children can fuel an outbreak, such as the recent Disney-linked measles outbreak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232608" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1744" end="1752" />
+        <spannedText>Schuchat</spannedText>
+        <creationDate>Fri Aug 11 10:58:20 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232724">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232608">
+        <hasSlotMention id="EHOST_Instance_232724" />
+        <mentionClass id="AttrSource">Schuchat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232609" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1753" end="1757" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 10:58:27 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232609">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232610" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1758" end="1876" />
+        <spannedText>a promising finding from the report is that an increasing number of states are providing vaccine-exemption data online</spannedText>
+        <creationDate>Fri Aug 11 10:58:31 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232725">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232608" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232726">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232609" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232610">
+        <hasSlotMention id="EHOST_Instance_232725" />
+        <hasSlotMention id="EHOST_Instance_232726" />
+        <mentionClass id="AttrContent">a promising finding from the report is that an increasing number of states are providing vaccine-exemption data online</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232611" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2008" end="2011" />
+        <spannedText>She</spannedText>
+        <creationDate>Fri Aug 11 10:58:45 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232727">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232611">
+        <hasSlotMention id="EHOST_Instance_232727" />
+        <mentionClass id="AttrSource">She</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232612" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2012" end="2016" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 10:58:53 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232612">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232613" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2017" end="2093" />
+        <spannedText>the CDC applauds states for making exemption information routinely available</spannedText>
+        <creationDate>Fri Aug 11 10:58:58 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232728">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232611" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232729">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232612" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232613">
+        <hasSlotMention id="EHOST_Instance_232728" />
+        <hasSlotMention id="EHOST_Instance_232729" />
+        <mentionClass id="AttrContent">the CDC applauds states for making exemption information routinely available</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232614" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2095" end="2145" />
+        <spannedText>"Parents should know what's going on around them,"</spannedText>
+        <creationDate>Fri Aug 11 10:59:15 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232730">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232615" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232731">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232616" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232614">
+        <hasSlotMention id="EHOST_Instance_232730" />
+        <hasSlotMention id="EHOST_Instance_232731" />
+        <mentionClass id="AttrContent">"Parents should know what's going on around them,"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232615" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2146" end="2149" />
+        <spannedText>she</spannedText>
+        <creationDate>Fri Aug 11 10:59:25 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232732">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232615">
+        <hasSlotMention id="EHOST_Instance_232732" />
+        <mentionClass id="AttrSource">she</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232616" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2150" end="2154" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 10:59:32 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232616">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232617" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2376" end="2384" />
+        <spannedText>Schuchat</spannedText>
+        <creationDate>Fri Aug 11 10:59:52 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232733">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232617">
+        <hasSlotMention id="EHOST_Instance_232733" />
+        <mentionClass id="AttrSource">Schuchat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232618" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2385" end="2389" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 11:00:00 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232618">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232619" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2390" end="2470" />
+        <spannedText>it's the primary source CDC uses to gauge vaccination levels in younger children</spannedText>
+        <creationDate>Fri Aug 11 11:00:06 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232734">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232617" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232735">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232618" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232619">
+        <hasSlotMention id="EHOST_Instance_232734" />
+        <hasSlotMention id="EHOST_Instance_232735" />
+        <mentionClass id="AttrContent">it's the primary source CDC uses to gauge vaccination levels in younger children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232620" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2472" end="2510" />
+        <spannedText>"For another year, rates remain high,"</spannedText>
+        <creationDate>Fri Aug 11 11:00:11 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232736">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232621" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232737">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232622" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232620">
+        <hasSlotMention id="EHOST_Instance_232736" />
+        <hasSlotMention id="EHOST_Instance_232737" />
+        <mentionClass id="AttrContent">"For another year, rates remain high,"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232621" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2511" end="2514" />
+        <spannedText>she</spannedText>
+        <creationDate>Fri Aug 11 11:00:15 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232738">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232621">
+        <hasSlotMention id="EHOST_Instance_232738" />
+        <mentionClass id="AttrSource">she</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232622" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2515" end="2519" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 11:00:23 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232622">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232623" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2521" end="2533" />
+        <spannedText>According to</spannedText>
+        <creationDate>Fri Aug 11 11:00:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232623">
+        <mentionClass id="AttrCue">According to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232624" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2534" end="2548" />
+        <spannedText>the new report</spannedText>
+        <creationDate>Fri Aug 11 11:00:33 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232739">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232624">
+        <hasSlotMention id="EHOST_Instance_232739" />
+        <mentionClass id="AttrSource">the new report</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232625" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2550" end="2608" />
+        <spannedText>coverage remains high and at levels seen the previous year</spannedText>
+        <creationDate>Fri Aug 11 11:00:44 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232740">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232624" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232741">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232623" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232625">
+        <hasSlotMention id="EHOST_Instance_232740" />
+        <hasSlotMention id="EHOST_Instance_232741" />
+        <mentionClass id="AttrContent">coverage remains high and at levels seen the previous year</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232626" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2610" end="2618" />
+        <spannedText>Schuchat</spannedText>
+        <creationDate>Fri Aug 11 11:00:51 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_232742">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_232626">
+        <hasSlotMention id="EHOST_Instance_232742" />
+        <mentionClass id="AttrSource">Schuchat</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232627" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2619" end="2623" />
+        <spannedText>said</spannedText>
+        <creationDate>Fri Aug 11 11:00:59 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232627">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232628" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2624" end="2754" />
+        <spannedText>the only notable change was increased uptake for hepatitis A vaccine, one of the newer childhood vaccines that the CDC is tracking</spannedText>
+        <creationDate>Fri Aug 11 11:01:03 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_232743">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232626" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_232744">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_232627" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_232628">
+        <hasSlotMention id="EHOST_Instance_232743" />
+        <hasSlotMention id="EHOST_Instance_232744" />
+        <mentionClass id="AttrContent">the only notable change was increased uptake for hepatitis A vaccine, one of the newer childhood vaccines that the CDC is tracking</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232629" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="102" end="108" />
+        <spannedText>report</spannedText>
+        <creationDate>Fri Dec 22 18:48:21 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232629">
+        <mentionClass id="Event">report</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232630" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="94" end="100" />
+        <spannedText>issued</spannedText>
+        <creationDate>Fri Dec 22 18:48:24 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232630">
+        <mentionClass id="Event">issued</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232631" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="129" end="141" />
+        <spannedText>immunization</spannedText>
+        <creationDate>Fri Dec 22 18:48:27 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232631">
+        <mentionClass id="Event">immunization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232632" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="180" end="189" />
+        <spannedText>exemption</spannedText>
+        <creationDate>Fri Dec 22 18:48:30 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232632">
+        <mentionClass id="Event">exemption</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232633" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="209" end="220" />
+        <spannedText>vaccination</spannedText>
+        <creationDate>Fri Dec 22 18:48:38 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232633">
+        <mentionClass id="Event">vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232634" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="201" end="204" />
+        <spannedText>low</spannedText>
+        <creationDate>Fri Dec 22 18:48:46 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232634">
+        <mentionClass id="Event">low</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232635" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="231" end="235" />
+        <spannedText>high</spannedText>
+        <creationDate>Fri Dec 22 18:48:50 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232635">
+        <mentionClass id="Event">high</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232636" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="264" end="271" />
+        <spannedText>reports</spannedText>
+        <creationDate>Fri Dec 22 18:48:52 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232636">
+        <mentionClass id="Event">reports</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232637" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="272" end="278" />
+        <spannedText>issued</spannedText>
+        <creationDate>Fri Dec 22 18:48:57 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232637">
+        <mentionClass id="Event">issued</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232638" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="352" end="364" />
+        <spannedText>immunization</spannedText>
+        <creationDate>Fri Dec 22 18:49:11 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232638">
+        <mentionClass id="Event">immunization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232639" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="375" end="379" />
+        <spannedText>high</spannedText>
+        <creationDate>Fri Dec 22 18:49:16 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232639">
+        <mentionClass id="Event">high</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232640" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="410" end="417" />
+        <spannedText>reports</spannedText>
+        <creationDate>Fri Dec 22 18:49:20 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232640">
+        <mentionClass id="Event">reports</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232641" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="425" end="431" />
+        <spannedText>assess</spannedText>
+        <creationDate>Fri Dec 22 18:49:25 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232641">
+        <mentionClass id="Event">assess</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232642" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="442" end="453" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Dec 22 18:49:28 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232642">
+        <mentionClass id="Event">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232643" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="464" end="472" />
+        <spannedText>vaccines</spannedText>
+        <creationDate>Fri Dec 22 18:49:32 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232643">
+        <mentionClass id="Event">vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232644" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="596" end="604" />
+        <spannedText>briefing</spannedText>
+        <creationDate>Fri Dec 22 18:49:47 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232644">
+        <mentionClass id="Event">briefing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232645" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="743" end="753" />
+        <spannedText>gratifying</spannedText>
+        <creationDate>Fri Dec 22 18:50:02 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232645">
+        <mentionClass id="Event">gratifying</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232646" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="811" end="820" />
+        <spannedText>vaccinate</spannedText>
+        <creationDate>Fri Dec 22 18:50:08 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232646">
+        <mentionClass id="Event">vaccinate</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232647" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="799" end="807" />
+        <spannedText>continue</spannedText>
+        <creationDate>Fri Dec 22 18:50:12 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232647">
+        <mentionClass id="Event">continue</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232648" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="884" end="899" />
+        <spannedText>undervaccinated</spannedText>
+        <creationDate>Fri Dec 22 18:50:18 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232648">
+        <mentionClass id="Event">undervaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232649" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="913" end="917" />
+        <spannedText>fuel</spannedText>
+        <creationDate>Fri Dec 22 18:50:20 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232649">
+        <mentionClass id="Event">fuel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232650" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="921" end="929" />
+        <spannedText>outbreak</spannedText>
+        <creationDate>Fri Dec 22 18:50:23 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232650">
+        <mentionClass id="Event">outbreak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232651" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="964" end="971" />
+        <spannedText>measles</spannedText>
+        <creationDate>Fri Dec 22 18:50:30 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232651">
+        <mentionClass id="Event">measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232652" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="982" end="994" />
+        <spannedText>Immunization</spannedText>
+        <creationDate>Fri Dec 22 18:50:33 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232652">
+        <mentionClass id="Event">Immunization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232653" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="995" end="1003" />
+        <spannedText>programs</spannedText>
+        <creationDate>Fri Dec 22 18:50:37 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232653">
+        <mentionClass id="Event">programs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232654" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1037" end="1044" />
+        <spannedText>protect</spannedText>
+        <creationDate>Fri Dec 22 18:50:40 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232654">
+        <mentionClass id="Event">protect</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232655" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1013" end="1017" />
+        <spannedText>high</spannedText>
+        <creationDate>Fri Dec 22 18:50:42 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232655">
+        <mentionClass id="Event">high</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232656" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1045" end="1055" />
+        <spannedText>vaccinated</spannedText>
+        <creationDate>Fri Dec 22 18:50:49 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232656">
+        <mentionClass id="Event">vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232657" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1078" end="1085" />
+        <spannedText>protect</spannedText>
+        <creationDate>Fri Dec 22 18:50:52 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232657">
+        <mentionClass id="Event">protect</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232658" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1117" end="1127" />
+        <spannedText>vaccinated</spannedText>
+        <creationDate>Fri Dec 22 18:50:55 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232658">
+        <mentionClass id="Event">vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232659" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1153" end="1159" />
+        <spannedText>report</spannedText>
+        <creationDate>Fri Dec 22 18:51:03 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232659">
+        <mentionClass id="Event">report</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232660" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1163" end="1170" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Fri Dec 22 18:51:11 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232660">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232661" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1236" end="1247" />
+        <spannedText>vaccination</spannedText>
+        <creationDate>Fri Dec 22 18:51:14 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232661">
+        <mentionClass id="Event">vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232662" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1248" end="1256" />
+        <spannedText>coverage</spannedText>
+        <creationDate>Fri Dec 22 18:51:17 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232662">
+        <mentionClass id="Event">coverage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232663" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1331" end="1343" />
+        <spannedText>requirements</spannedText>
+        <creationDate>Fri Dec 22 18:51:22 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232663">
+        <mentionClass id="Event">requirements</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232664" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1434" end="1439" />
+        <spannedText>below</spannedText>
+        <creationDate>Fri Dec 22 18:51:28 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232664">
+        <mentionClass id="Event">below</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232665" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1491" end="1497" />
+        <spannedText>report</spannedText>
+        <creationDate>Fri Dec 22 18:51:32 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232665">
+        <mentionClass id="Event">report</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232666" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1516" end="1525" />
+        <spannedText>exemption</spannedText>
+        <creationDate>Fri Dec 22 18:51:36 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232666">
+        <mentionClass id="Event">exemption</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232667" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1547" end="1550" />
+        <spannedText>low</spannedText>
+        <creationDate>Fri Dec 22 18:51:39 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232667">
+        <mentionClass id="Event">low</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232668" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1688" end="1697" />
+        <spannedText>reporting</spannedText>
+        <creationDate>Fri Dec 22 18:51:55 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232668">
+        <mentionClass id="Event">reporting</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232669" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1679" end="1683" />
+        <spannedText>meet</spannedText>
+        <creationDate>Fri Dec 22 18:52:00 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232669">
+        <mentionClass id="Event">meet</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232670" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1712" end="1721" />
+        <spannedText>providing</spannedText>
+        <creationDate>Fri Dec 22 18:52:04 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232670">
+        <mentionClass id="Event">providing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232671" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1728" end="1737" />
+        <spannedText>exemption</spannedText>
+        <creationDate>Fri Dec 22 18:52:07 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232671">
+        <mentionClass id="Event">exemption</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232672" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1760" end="1769" />
+        <spannedText>promising</spannedText>
+        <creationDate>Fri Dec 22 18:52:10 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232672">
+        <mentionClass id="Event">promising</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232673" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1787" end="1793" />
+        <spannedText>report</spannedText>
+        <creationDate>Fri Dec 22 18:52:12 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232673">
+        <mentionClass id="Event">report</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232674" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1770" end="1777" />
+        <spannedText>finding</spannedText>
+        <creationDate>Fri Dec 22 18:52:16 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232674">
+        <mentionClass id="Event">finding</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232675" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1805" end="1815" />
+        <spannedText>increasing</spannedText>
+        <creationDate>Fri Dec 22 18:52:18 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232675">
+        <mentionClass id="Event">increasing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232676" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1837" end="1846" />
+        <spannedText>providing</spannedText>
+        <creationDate>Fri Dec 22 18:52:21 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232676">
+        <mentionClass id="Event">providing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232677" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1847" end="1864" />
+        <spannedText>vaccine-exemption</spannedText>
+        <creationDate>Fri Dec 22 18:52:25 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232677">
+        <mentionClass id="Event">vaccine-exemption</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232678" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1922" end="1926" />
+        <spannedText>grew</spannedText>
+        <creationDate>Fri Dec 22 18:52:31 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232678">
+        <mentionClass id="Event">grew</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232679" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2025" end="2033" />
+        <spannedText>applauds</spannedText>
+        <creationDate>Fri Dec 22 18:52:42 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232679">
+        <mentionClass id="Event">applauds</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232680" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2052" end="2061" />
+        <spannedText>exemption</spannedText>
+        <creationDate>Fri Dec 22 18:52:45 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232680">
+        <mentionClass id="Event">exemption</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232681" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2084" end="2093" />
+        <spannedText>available</spannedText>
+        <creationDate>Fri Dec 22 18:52:49 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232681">
+        <mentionClass id="Event">available</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232682" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2167" end="2173" />
+        <spannedText>report</spannedText>
+        <creationDate>Fri Dec 22 18:52:58 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232682">
+        <mentionClass id="Event">report</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232683" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2184" end="2191" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Fri Dec 22 18:53:04 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232683">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232684" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2261" end="2267" />
+        <spannedText>survey</spannedText>
+        <creationDate>Fri Dec 22 18:53:09 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232684">
+        <mentionClass id="Event">survey</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232685" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2274" end="2286" />
+        <spannedText>vaccinations</spannedText>
+        <creationDate>Fri Dec 22 18:53:12 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232685">
+        <mentionClass id="Event">vaccinations</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232686" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2287" end="2295" />
+        <spannedText>reported</spannedText>
+        <creationDate>Fri Dec 22 18:53:15 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232686">
+        <mentionClass id="Event">reported</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232687" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2306" end="2317" />
+        <spannedText>respondents</spannedText>
+        <creationDate>Fri Dec 22 18:53:18 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232687">
+        <mentionClass id="Event">respondents</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232688" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2318" end="2326" />
+        <spannedText>verified</spannedText>
+        <creationDate>Fri Dec 22 18:53:21 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232688">
+        <mentionClass id="Event">verified</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232689" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2334" end="2343" />
+        <spannedText>providers</spannedText>
+        <creationDate>Fri Dec 22 18:53:25 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232689">
+        <mentionClass id="Event">providers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232690" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2349" end="2359" />
+        <spannedText>vaccinated</spannedText>
+        <creationDate>Fri Dec 22 18:53:28 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232690">
+        <mentionClass id="Event">vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232691" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2418" end="2422" />
+        <spannedText>uses</spannedText>
+        <creationDate>Fri Dec 22 18:53:33 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232691">
+        <mentionClass id="Event">uses</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232692" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2426" end="2431" />
+        <spannedText>gauge</spannedText>
+        <creationDate>Fri Dec 22 18:53:35 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232692">
+        <mentionClass id="Event">gauge</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232693" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2432" end="2443" />
+        <spannedText>vaccination</spannedText>
+        <creationDate>Fri Dec 22 18:53:38 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232693">
+        <mentionClass id="Event">vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232694" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2504" end="2508" />
+        <spannedText>high</spannedText>
+        <creationDate>Fri Dec 22 18:53:42 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232694">
+        <mentionClass id="Event">high</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232695" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2542" end="2548" />
+        <spannedText>report</spannedText>
+        <creationDate>Fri Dec 22 18:53:48 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232695">
+        <mentionClass id="Event">report</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232696" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2550" end="2558" />
+        <spannedText>coverage</spannedText>
+        <creationDate>Fri Dec 22 18:53:51 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232696">
+        <mentionClass id="Event">coverage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232697" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2567" end="2571" />
+        <spannedText>high</spannedText>
+        <creationDate>Fri Dec 22 18:53:54 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232697">
+        <mentionClass id="Event">high</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232698" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2641" end="2647" />
+        <spannedText>change</spannedText>
+        <creationDate>Fri Dec 22 18:54:04 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232698">
+        <mentionClass id="Event">change</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232699" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2652" end="2661" />
+        <spannedText>increased</spannedText>
+        <creationDate>Fri Dec 22 18:54:08 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232699">
+        <mentionClass id="Event">increased</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232700" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2685" end="2692" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Fri Dec 22 18:54:11 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232700">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232701" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2746" end="2754" />
+        <spannedText>tracking</spannedText>
+        <creationDate>Fri Dec 22 18:54:16 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232701">
+        <mentionClass id="Event">tracking</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232702" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2775" end="2781" />
+        <spannedText>uptake</spannedText>
+        <creationDate>Fri Dec 22 18:54:21 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232702">
+        <mentionClass id="Event">uptake</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232703" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2791" end="2796" />
+        <spannedText>below</spannedText>
+        <creationDate>Fri Dec 22 18:54:24 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232703">
+        <mentionClass id="Event">below</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232704" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2838" end="2841" />
+        <spannedText>met</spannedText>
+        <creationDate>Fri Dec 22 18:54:29 CET 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232704">
+        <mentionClass id="Event">met</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232705" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="432" end="438" />
+        <spannedText>uptake</spannedText>
+        <creationDate>Mon Jan 01 19:49:41 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232705">
+        <mentionClass id="Event">uptake</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232706" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1018" end="1024" />
+        <spannedText>uptake</spannedText>
+        <creationDate>Mon Jan 01 19:50:13 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232706">
+        <mentionClass id="Event">uptake</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232707" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1171" end="1177" />
+        <spannedText>uptake</spannedText>
+        <creationDate>Mon Jan 01 19:50:21 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232707">
+        <mentionClass id="Event">uptake</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232708" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2192" end="2198" />
+        <spannedText>uptake</spannedText>
+        <creationDate>Mon Jan 01 19:51:18 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232708">
+        <mentionClass id="Event">uptake</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_232709" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2662" end="2668" />
+        <spannedText>uptake</spannedText>
+        <creationDate>Mon Jan 01 19:51:37 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_232709">
+        <mentionClass id="Event">uptake</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

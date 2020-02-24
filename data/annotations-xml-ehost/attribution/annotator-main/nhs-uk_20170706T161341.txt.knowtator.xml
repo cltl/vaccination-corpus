@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20170706T161341.txt">
+    <annotation>
+        <mention id="EHOST_Instance_11904" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="161" end="164" />
+        <spannedText>you</spannedText>
+        <creationDate>Thu Aug 31 11:25:55 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11909">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_11904">
+        <hasSlotMention id="EHOST_Instance_11909" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11905" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="172" end="176" />
+        <spannedText>sure</spannedText>
+        <creationDate>Thu Aug 31 11:26:02 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11905">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11906" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="177" end="241" />
+        <spannedText>whether you or your child have had all your routine vaccinations</spannedText>
+        <creationDate>Thu Aug 31 11:26:05 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_11910">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11905" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_11911">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11904" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11906">
+        <hasSlotMention id="EHOST_Instance_11910" />
+        <hasSlotMention id="EHOST_Instance_11911" />
+        <mentionClass id="AttrContent">whether you or your child have had all your routine vaccinations</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11907" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="243" end="246" />
+        <spannedText>ask</spannedText>
+        <creationDate>Thu Aug 31 11:26:15 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11907">
+        <mentionClass id="AttrCue">ask</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11908" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="273" end="292" />
+        <spannedText>to find out for you</spannedText>
+        <creationDate>Thu Aug 31 11:26:19 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_11912">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11907" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11908">
+        <hasSlotMention id="EHOST_Instance_11912" />
+        <mentionClass id="AttrContent">to find out for you</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

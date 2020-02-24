@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="vaccinestoday-eu_20161104T192439.txt">
+    <annotation>
+        <mention id="EHOST_Instance_591754" />
+        <annotator id="01">Roser</annotator>
+        <span start="1335" end="1352" />
+        <spannedText>his paediatrician</spannedText>
+        <creationDate>Mon Sep 18 16:10:11 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591819">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591754">
+        <hasSlotMention id="EHOST_Instance_591819" />
+        <mentionClass id="AttrSource">his paediatrician</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591755" />
+        <annotator id="01">Roser</annotator>
+        <span start="1353" end="1359" />
+        <spannedText>feared</spannedText>
+        <creationDate>Mon Sep 18 16:10:18 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591755">
+        <mentionClass id="AttrCue">feared</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591756" />
+        <annotator id="01">Roser</annotator>
+        <span start="1360" end="1409" />
+        <spannedText>that he would develop some sort of complications</spannedText>
+        <creationDate>Mon Sep 18 16:10:21 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591820">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591755" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591821">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591754" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591756">
+        <hasSlotMention id="EHOST_Instance_591820" />
+        <hasSlotMention id="EHOST_Instance_591821" />
+        <mentionClass id="AttrContent">that he would develop some sort of complications</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591757" />
+        <annotator id="01">Roser</annotator>
+        <span start="1775" end="1777" />
+        <spannedText>we</spannedText>
+        <creationDate>Mon Sep 18 16:10:46 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591822">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591757">
+        <hasSlotMention id="EHOST_Instance_591822" />
+        <mentionClass id="AttrSource">we</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591758" />
+        <annotator id="01">Roser</annotator>
+        <span start="1786" end="1790" />
+        <spannedText>know</spannedText>
+        <creationDate>Mon Sep 18 16:10:52 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591758">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591759" />
+        <annotator id="01">Roser</annotator>
+        <span start="1805" end="1858" />
+        <spannedText>that he would only stay with us for another 10 years</spannedText>
+        <creationDate>Mon Sep 18 16:10:55 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591823">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591758" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591824">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591757" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591759">
+        <hasSlotMention id="EHOST_Instance_591823" />
+        <hasSlotMention id="EHOST_Instance_591824" />
+        <mentionClass id="AttrContent">that he would only stay with us for another 10 years</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591760" />
+        <annotator id="01">Roser</annotator>
+        <span start="2531" end="2542" />
+        <spannedText>The doctors</spannedText>
+        <creationDate>Mon Sep 18 16:11:24 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591825">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591760">
+        <hasSlotMention id="EHOST_Instance_591825" />
+        <mentionClass id="AttrSource">The doctors</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591761" />
+        <annotator id="01">Roser</annotator>
+        <span start="2543" end="2547" />
+        <spannedText>told</spannedText>
+        <creationDate>Mon Sep 18 16:11:31 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591761">
+        <mentionClass id="AttrCue">told</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591762" />
+        <annotator id="01">Roser</annotator>
+        <span start="2551" end="2655" />
+        <spannedText>that sometimes children would develop this kind of epilepsy when they were just about to enter puberty</spannedText>
+        <creationDate>Mon Sep 18 16:11:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591826">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591761" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591827">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591760" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591762">
+        <hasSlotMention id="EHOST_Instance_591826" />
+        <hasSlotMention id="EHOST_Instance_591827" />
+        <mentionClass id="AttrContent">that sometimes children would develop this kind of epilepsy when they were just about to enter puberty</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591763" />
+        <annotator id="01">Roser</annotator>
+        <span start="2660" end="2662" />
+        <spannedText>we</spannedText>
+        <creationDate>Mon Sep 18 16:11:40 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591828">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591763">
+        <hasSlotMention id="EHOST_Instance_591828" />
+        <mentionClass id="AttrSource">we</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591764" />
+        <annotator id="01">Roser</annotator>
+        <span start="2663" end="2670" />
+        <spannedText>thought</spannedText>
+        <creationDate>Mon Sep 18 16:11:47 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591764">
+        <mentionClass id="AttrCue">thought</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591765" />
+        <annotator id="01">Roser</annotator>
+        <span start="2671" end="2727" />
+        <spannedText>that maybe it would be temporary and eventually go away</spannedText>
+        <creationDate>Mon Sep 18 16:11:50 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591829">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591764" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591830">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591763" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591765">
+        <hasSlotMention id="EHOST_Instance_591829" />
+        <hasSlotMention id="EHOST_Instance_591830" />
+        <mentionClass id="AttrContent">that maybe it would be temporary and eventually go away</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591766" />
+        <annotator id="01">Roser</annotator>
+        <span start="3096" end="3098" />
+        <spannedText>We</spannedText>
+        <creationDate>Mon Sep 18 16:12:06 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591831">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591766">
+        <hasSlotMention id="EHOST_Instance_591831" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591767" />
+        <annotator id="01">Roser</annotator>
+        <span start="3099" end="3106" />
+        <spannedText>thought</spannedText>
+        <creationDate>Mon Sep 18 16:12:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591767">
+        <mentionClass id="AttrCue">thought</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591768" />
+        <annotator id="01">Roser</annotator>
+        <span start="3107" end="3199" />
+        <spannedText>that finally we had everything under control and that the seizures would eventually go away</spannedText>
+        <creationDate>Mon Sep 18 16:12:15 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591832">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591767" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591833">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591766" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591768">
+        <hasSlotMention id="EHOST_Instance_591832" />
+        <hasSlotMention id="EHOST_Instance_591833" />
+        <mentionClass id="AttrContent">that finally we had everything under control and that the seizures would eventually go away</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591769" />
+        <annotator id="01">Roser</annotator>
+        <span start="3201" end="3203" />
+        <spannedText>We</spannedText>
+        <creationDate>Mon Sep 18 16:12:24 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591834">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591769">
+        <hasSlotMention id="EHOST_Instance_591834" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591770" />
+        <annotator id="01">Roser</annotator>
+        <span start="3212" end="3217" />
+        <spannedText>worry</spannedText>
+        <creationDate>Mon Sep 18 16:12:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591770">
+        <mentionClass id="AttrCue">worry</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591771" />
+        <annotator id="01">Roser</annotator>
+        <span start="3218" end="3247" />
+        <spannedText>about him not going to school</spannedText>
+        <creationDate>Mon Sep 18 16:12:33 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591835">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591770" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591836">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591769" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591771">
+        <hasSlotMention id="EHOST_Instance_591835" />
+        <hasSlotMention id="EHOST_Instance_591836" />
+        <mentionClass id="AttrContent">about him not going to school</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591772" />
+        <annotator id="01">Roser</annotator>
+        <span start="3304" end="3306" />
+        <spannedText>We</spannedText>
+        <creationDate>Mon Sep 18 16:12:49 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591837">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591772">
+        <hasSlotMention id="EHOST_Instance_591837" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591773" />
+        <annotator id="01">Roser</annotator>
+        <span start="3307" end="3314" />
+        <spannedText>ignored</spannedText>
+        <creationDate>Mon Sep 18 16:12:56 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591773">
+        <mentionClass id="AttrCue">ignored</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591774" />
+        <annotator id="01">Roser</annotator>
+        <span start="3315" end="3400" />
+        <spannedText>the fact that he could not remember things that had just happened a few hours before</spannedText>
+        <creationDate>Mon Sep 18 16:13:08 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591838">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591773" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591839">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591772" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591774">
+        <hasSlotMention id="EHOST_Instance_591838" />
+        <hasSlotMention id="EHOST_Instance_591839" />
+        <mentionClass id="AttrContent">the fact that he could not remember things that had just happened a few hours before</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591775" />
+        <annotator id="01">Roser</annotator>
+        <span start="3402" end="3404" />
+        <spannedText>We</spannedText>
+        <creationDate>Mon Sep 18 16:13:14 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591840">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591775">
+        <hasSlotMention id="EHOST_Instance_591840" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591776" />
+        <annotator id="01">Roser</annotator>
+        <span start="3405" end="3412" />
+        <spannedText>ignored</spannedText>
+        <creationDate>Mon Sep 18 16:13:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591776">
+        <mentionClass id="AttrCue">ignored</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591777" />
+        <annotator id="01">Roser</annotator>
+        <span start="3413" end="3454" />
+        <spannedText>the fact that his behaviour became more…</spannedText>
+        <creationDate>Sat Sep 23 12:08:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591841">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591776" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591842">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591775" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591777">
+        <hasSlotMention id="EHOST_Instance_591841" />
+        <hasSlotMention id="EHOST_Instance_591842" />
+        <mentionClass id="AttrContent">the fact that his behaviour became more…</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591778" />
+        <annotator id="01">Roser</annotator>
+        <span start="3454" end="3456" />
+        <spannedText>We</spannedText>
+        <creationDate>Mon Sep 18 16:13:31 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591843">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591778">
+        <hasSlotMention id="EHOST_Instance_591843" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591779" />
+        <annotator id="01">Roser</annotator>
+        <span start="3914" end="3916" />
+        <spannedText>us</spannedText>
+        <creationDate>Mon Sep 18 16:13:59 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591844">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591779">
+        <hasSlotMention id="EHOST_Instance_591844" />
+        <mentionClass id="AttrSource">us</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591780" />
+        <annotator id="01">Roser</annotator>
+        <span start="3921" end="3928" />
+        <spannedText>realise</spannedText>
+        <creationDate>Mon Sep 18 16:14:05 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591780">
+        <mentionClass id="AttrCue">realise</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591781" />
+        <annotator id="01">Roser</annotator>
+        <span start="3929" end="3998" />
+        <spannedText>that they were talking about our bright, happy, vivid 10-year-old boy</spannedText>
+        <creationDate>Mon Sep 18 16:14:09 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591845">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591780" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591846">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591779" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591781">
+        <hasSlotMention id="EHOST_Instance_591845" />
+        <hasSlotMention id="EHOST_Instance_591846" />
+        <mentionClass id="AttrContent">that they were talking about our bright, happy, vivid 10-year-old boy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591782" />
+        <annotator id="01">Roser</annotator>
+        <span start="4000" end="4002" />
+        <spannedText>We</spannedText>
+        <creationDate>Mon Sep 18 16:14:14 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591847">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591782">
+        <hasSlotMention id="EHOST_Instance_591847" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591783" />
+        <annotator id="01">Roser</annotator>
+        <span start="4034" end="4044" />
+        <spannedText>understand</spannedText>
+        <creationDate>Mon Sep 18 16:14:21 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591783">
+        <mentionClass id="AttrCue">understand</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591784" />
+        <annotator id="01">Roser</annotator>
+        <span start="4050" end="4061" />
+        <spannedText>the doctors</spannedText>
+        <creationDate>Mon Sep 18 16:14:25 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591848">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591784">
+        <hasSlotMention id="EHOST_Instance_591848" />
+        <mentionClass id="AttrSource">the doctors</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591785" />
+        <annotator id="01">Roser</annotator>
+        <span start="4067" end="4074" />
+        <spannedText>telling</spannedText>
+        <creationDate>Mon Sep 18 16:14:32 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591785">
+        <mentionClass id="AttrCue">telling</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591786" />
+        <annotator id="01">Roser</annotator>
+        <span start="4078" end="4147" />
+        <spannedText>that we would lose our child – no matter what, just a matter of when</spannedText>
+        <creationDate>Mon Sep 18 16:14:36 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591849">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591785" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591850">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591784" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591786">
+        <hasSlotMention id="EHOST_Instance_591849" />
+        <hasSlotMention id="EHOST_Instance_591850" />
+        <mentionClass id="AttrContent">that we would lose our child – no matter what, just a matter of when</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591787" />
+        <annotator id="01">Roser</annotator>
+        <span start="4045" end="4147" />
+        <spannedText>that the doctors were telling us that we would lose our child – no matter what, just a matter of when</spannedText>
+        <creationDate>Mon Sep 18 16:14:41 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591851">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591783" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591852">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591782" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591787">
+        <hasSlotMention id="EHOST_Instance_591851" />
+        <hasSlotMention id="EHOST_Instance_591852" />
+        <mentionClass id="AttrContent">that the doctors were telling us that we would lose our child – no matter what, just a matter of when</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591788" />
+        <annotator id="01">Roser</annotator>
+        <span start="4762" end="4765" />
+        <spannedText>His</spannedText>
+        <creationDate>Mon Sep 18 16:15:03 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591853">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591788">
+        <hasSlotMention id="EHOST_Instance_591853" />
+        <mentionClass id="AttrSource">His</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591789" />
+        <annotator id="01">Roser</annotator>
+        <span start="4771" end="4776" />
+        <spannedText>words</spannedText>
+        <creationDate>Mon Sep 18 16:15:11 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591789">
+        <mentionClass id="AttrCue">words</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591790" />
+        <annotator id="01">Roser</annotator>
+        <span start="4784" end="4785" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 16:15:13 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591854">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591790">
+        <hasSlotMention id="EHOST_Instance_591854" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591791" />
+        <annotator id="01">Roser</annotator>
+        <span start="4793" end="4797" />
+        <spannedText>know</spannedText>
+        <creationDate>Mon Sep 18 16:15:22 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591791">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591792" />
+        <annotator id="01">Roser</annotator>
+        <span start="4798" end="4809" />
+        <spannedText>who you are</spannedText>
+        <creationDate>Mon Sep 18 16:15:23 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591855">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591791" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591856">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591790" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591792">
+        <hasSlotMention id="EHOST_Instance_591855" />
+        <hasSlotMention id="EHOST_Instance_591856" />
+        <mentionClass id="AttrContent">who you are</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591793" />
+        <annotator id="01">Roser</annotator>
+        <span start="4783" end="4810" />
+        <spannedText>“I don’t know who you are”</spannedText>
+        <creationDate>Mon Sep 18 16:15:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591857">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591789" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591858">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591788" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591793">
+        <hasSlotMention id="EHOST_Instance_591857" />
+        <hasSlotMention id="EHOST_Instance_591858" />
+        <mentionClass id="AttrContent">“I don’t know who you are”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591794" />
+        <annotator id="01">Roser</annotator>
+        <span start="5004" end="5013" />
+        <spannedText>realising</spannedText>
+        <creationDate>Mon Sep 18 16:15:40 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591794">
+        <mentionClass id="AttrCue">realising</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591795" />
+        <annotator id="01">Roser</annotator>
+        <span start="5014" end="5042" />
+        <spannedText>that he will never come back</spannedText>
+        <creationDate>Mon Sep 18 16:15:43 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591859">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591794" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591795">
+        <hasSlotMention id="EHOST_Instance_591859" />
+        <mentionClass id="AttrContent">that he will never come back</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591796" />
+        <annotator id="01">Roser</annotator>
+        <span start="7840" end="7842" />
+        <spannedText>We</spannedText>
+        <creationDate>Mon Sep 18 16:24:00 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591860">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591796">
+        <hasSlotMention id="EHOST_Instance_591860" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591797" />
+        <annotator id="01">Roser</annotator>
+        <span start="7850" end="7854" />
+        <spannedText>know</spannedText>
+        <creationDate>Mon Sep 18 16:24:06 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591797">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591798" />
+        <annotator id="01">Roser</annotator>
+        <span start="7855" end="7892" />
+        <spannedText>how long Max will still stay with us</spannedText>
+        <creationDate>Mon Sep 18 16:24:08 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591861">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591797" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591862">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591796" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591798">
+        <hasSlotMention id="EHOST_Instance_591861" />
+        <hasSlotMention id="EHOST_Instance_591862" />
+        <mentionClass id="AttrContent">how long Max will still stay with us</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591799" />
+        <annotator id="01">Roser</annotator>
+        <span start="1962" end="1964" />
+        <spannedText>we</spannedText>
+        <creationDate>Sat Sep 23 12:06:25 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591863">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591799">
+        <hasSlotMention id="EHOST_Instance_591863" />
+        <mentionClass id="AttrSource">we</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591800" />
+        <annotator id="01">Roser</annotator>
+        <span start="1965" end="1972" />
+        <spannedText>thought</spannedText>
+        <creationDate>Sat Sep 23 12:06:35 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591800">
+        <mentionClass id="AttrCue">thought</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591801" />
+        <annotator id="01">Roser</annotator>
+        <span start="1973" end="2069" />
+        <spannedText>that it might have to do with his high energy level and his difficulty concentrating sometimes</spannedText>
+        <creationDate>Sat Sep 23 12:06:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591864">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591800" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591865">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591799" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591801">
+        <hasSlotMention id="EHOST_Instance_591864" />
+        <hasSlotMention id="EHOST_Instance_591865" />
+        <mentionClass id="AttrContent">that it might have to do with his high energy level and his difficulty concentrating sometimes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591802" />
+        <annotator id="01">Roser</annotator>
+        <span start="2178" end="2180" />
+        <spannedText>We</spannedText>
+        <creationDate>Sat Sep 23 12:06:52 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591866">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591802">
+        <hasSlotMention id="EHOST_Instance_591866" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591803" />
+        <annotator id="01">Roser</annotator>
+        <span start="2189" end="2196" />
+        <spannedText>realise</spannedText>
+        <creationDate>Sat Sep 23 12:06:59 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591803">
+        <mentionClass id="AttrCue">realise</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591804" />
+        <annotator id="01">Roser</annotator>
+        <span start="2197" end="2229" />
+        <spannedText>that these were the first signs</spannedText>
+        <creationDate>Sat Sep 23 12:07:01 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591867">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591803" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591868">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591802" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591804">
+        <hasSlotMention id="EHOST_Instance_591867" />
+        <hasSlotMention id="EHOST_Instance_591868" />
+        <mentionClass id="AttrContent">that these were the first signs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591805" />
+        <annotator id="01">Roser</annotator>
+        <span start="2472" end="2474" />
+        <spannedText>We</spannedText>
+        <creationDate>Sat Sep 23 12:07:14 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591869">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591805">
+        <hasSlotMention id="EHOST_Instance_591869" />
+        <mentionClass id="AttrSource">We</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591806" />
+        <annotator id="01">Roser</annotator>
+        <span start="2475" end="2482" />
+        <spannedText>learned</spannedText>
+        <creationDate>Sat Sep 23 12:07:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591806">
+        <mentionClass id="AttrCue">learned</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591807" />
+        <annotator id="01">Roser</annotator>
+        <span start="2483" end="2529" />
+        <spannedText>that this kind of seizure is called ‘absence’</spannedText>
+        <creationDate>Sat Sep 23 12:07:21 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591870">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591806" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591871">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591805" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591807">
+        <hasSlotMention id="EHOST_Instance_591870" />
+        <hasSlotMention id="EHOST_Instance_591871" />
+        <mentionClass id="AttrContent">that this kind of seizure is called ‘absence’</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591808" />
+        <annotator id="01">Roser</annotator>
+        <span start="2513" end="2519" />
+        <spannedText>called</spannedText>
+        <creationDate>Sat Sep 23 12:07:36 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591808">
+        <mentionClass id="AttrCue">called</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591809" />
+        <annotator id="01">Roser</annotator>
+        <span start="2488" end="2509" />
+        <span start="2520" end="2529" />
+        <spannedText>this kind of seizure ... ‘absence’</spannedText>
+        <creationDate>Sat Sep 23 12:07:42 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591872">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591808" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591809">
+        <hasSlotMention id="EHOST_Instance_591872" />
+        <mentionClass id="AttrContent">this kind of seizure ... ‘absence’</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591810" />
+        <annotator id="01">Roser</annotator>
+        <span start="6099" end="6105" />
+        <spannedText>Nobody</spannedText>
+        <creationDate>Sat Sep 23 12:18:25 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591873">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591810">
+        <hasSlotMention id="EHOST_Instance_591873" />
+        <mentionClass id="AttrSource">Nobody</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591811" />
+        <annotator id="01">Roser</annotator>
+        <span start="6106" end="6111" />
+        <spannedText>knows</spannedText>
+        <creationDate>Sat Sep 23 12:18:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591811">
+        <mentionClass id="AttrCue">knows</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591812" />
+        <annotator id="01">Roser</annotator>
+        <span start="6112" end="6116" />
+        <spannedText>when</spannedText>
+        <creationDate>Sat Sep 23 12:18:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591874">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591811" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591875">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591810" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591812">
+        <hasSlotMention id="EHOST_Instance_591874" />
+        <hasSlotMention id="EHOST_Instance_591875" />
+        <mentionClass id="AttrContent">when</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591813" />
+        <annotator id="01">Roser</annotator>
+        <span start="6121" end="6124" />
+        <spannedText>how</spannedText>
+        <creationDate>Sat Sep 23 12:18:33 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591876">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591811" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591877">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591810" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591813">
+        <hasSlotMention id="EHOST_Instance_591876" />
+        <hasSlotMention id="EHOST_Instance_591877" />
+        <mentionClass id="AttrContent">how</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591814" />
+        <annotator id="01">Roser</annotator>
+        <span start="6152" end="6154" />
+        <spannedText>we</spannedText>
+        <creationDate>Sat Sep 23 12:18:47 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591878">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591814">
+        <hasSlotMention id="EHOST_Instance_591878" />
+        <mentionClass id="AttrSource">we</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591815" />
+        <annotator id="01">Roser</annotator>
+        <span start="6163" end="6167" />
+        <spannedText>idea</spannedText>
+        <creationDate>Sat Sep 23 12:18:53 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591815">
+        <mentionClass id="AttrCue">idea</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591816" />
+        <annotator id="01">Roser</annotator>
+        <span start="6169" end="6222" />
+        <spannedText>if and how we as a family are going to survive this…</spannedText>
+        <creationDate>Sat Sep 23 12:18:57 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591879">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591815" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591880">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591814" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591816">
+        <hasSlotMention id="EHOST_Instance_591879" />
+        <hasSlotMention id="EHOST_Instance_591880" />
+        <mentionClass id="AttrContent">if and how we as a family are going to survive this…</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591817" />
+        <annotator id="01">Roser</annotator>
+        <span start="3469" end="3473" />
+        <spannedText>want</spannedText>
+        <creationDate>Sat Nov 09 17:50:43 CET 2019</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591817">
+        <mentionClass id="AttrCue">want</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591818" />
+        <annotator id="01">Roser</annotator>
+        <span start="3474" end="3503" />
+        <spannedText>to realise what was happening</spannedText>
+        <creationDate>Sat Nov 09 17:50:47 CET 2019</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591881">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591817" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591882">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591778" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591818">
+        <hasSlotMention id="EHOST_Instance_591881" />
+        <hasSlotMention id="EHOST_Instance_591882" />
+        <mentionClass id="AttrContent">to realise what was happening</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

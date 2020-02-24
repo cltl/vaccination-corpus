@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="immunizeforgood-com_20170626T232640.txt">
+    <annotation>
+        <mention id="EHOST_Instance_7841" />
+        <annotator id="01">Sanne</annotator>
+        <span start="638" end="650" />
+        <spannedText>According to</spannedText>
+        <creationDate>Sat Oct 21 20:52:28 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7841">
+        <mentionClass id="AttrCue">According to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7842" />
+        <annotator id="01">Sanne</annotator>
+        <span start="651" end="703" />
+        <spannedText>the Centers for Disease Control and Prevention (CDC)</spannedText>
+        <creationDate>Sat Oct 21 20:52:32 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7846">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7842">
+        <hasSlotMention id="EHOST_Instance_7846" />
+        <mentionClass id="AttrSource">the Centers for Disease Control and Prevention (CDC)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7843" />
+        <annotator id="01">Sanne</annotator>
+        <span start="705" end="779" />
+        <spannedText>in most cases vaccine side effects are minor and go away within a few days</spannedText>
+        <creationDate>Sat Oct 21 20:52:39 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7847">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7842" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7848">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7841" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7843">
+        <hasSlotMention id="EHOST_Instance_7847" />
+        <hasSlotMention id="EHOST_Instance_7848" />
+        <mentionClass id="AttrContent">in most cases vaccine side effects are minor and go away within a few days</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7844" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1322" end="1332" />
+        <spannedText>encouraged</spannedText>
+        <creationDate>Sun Oct 22 22:10:04 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7844">
+        <mentionClass id="AttrCue">encouraged</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7845" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1333" end="1420" />
+        <spannedText>to report any severe side effects to the Vaccine Adverse Event Reporting System (VAERS)</spannedText>
+        <creationDate>Sun Oct 22 22:10:15 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7849">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7844" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7845">
+        <hasSlotMention id="EHOST_Instance_7849" />
+        <mentionClass id="AttrContent">to report any severe side effects to the Vaccine Adverse Event Reporting System (VAERS)</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

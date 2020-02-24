@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="historyofvaccines-org_20170712T124235.txt">
+    <annotation>
+        <mention id="EHOST_Instance_7646" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1362" end="1372" />
+        <spannedText>understand</spannedText>
+        <creationDate>Sat Oct 21 20:39:59 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7646">
+        <mentionClass id="AttrCue">understand</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7647" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1373" end="1426" />
+        <spannedText>the range of possible vaccination side effects events</spannedText>
+        <creationDate>Sat Oct 21 20:40:02 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7673">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7646" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7647">
+        <hasSlotMention id="EHOST_Instance_7673" />
+        <mentionClass id="AttrContent">the range of possible vaccination side effects events</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7648" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1911" end="1918" />
+        <spannedText>The CDC</spannedText>
+        <creationDate>Sat Oct 21 20:40:12 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7674">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7648">
+        <hasSlotMention id="EHOST_Instance_7674" />
+        <mentionClass id="AttrSource">The CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7649" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1919" end="1929" />
+        <spannedText>recommends</spannedText>
+        <creationDate>Sat Oct 21 20:40:18 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7649">
+        <mentionClass id="AttrCue">recommends</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7650" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1930" end="2018" />
+        <spannedText>that children receive a series of Hib vaccinations starting when they are two months old</spannedText>
+        <creationDate>Sat Oct 21 20:40:21 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7675">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7649" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7676">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7648" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7650">
+        <hasSlotMention id="EHOST_Instance_7675" />
+        <hasSlotMention id="EHOST_Instance_7676" />
+        <mentionClass id="AttrContent">that children receive a series of Hib vaccinations starting when they are two months old</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7651" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2198" end="2227" />
+        <spannedText>The World Health Organization</spannedText>
+        <creationDate>Sat Oct 21 20:40:31 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7677">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7651">
+        <hasSlotMention id="EHOST_Instance_7677" />
+        <mentionClass id="AttrSource">The World Health Organization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7652" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2232" end="2240" />
+        <spannedText>declared</spannedText>
+        <creationDate>Sat Oct 21 20:40:37 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7652">
+        <mentionClass id="AttrCue">declared</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7653" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2241" end="2254" />
+        <spannedText>it eradicated</spannedText>
+        <creationDate>Sat Oct 21 20:40:40 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7678">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7651" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7679">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7652" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7653">
+        <hasSlotMention id="EHOST_Instance_7678" />
+        <hasSlotMention id="EHOST_Instance_7679" />
+        <mentionClass id="AttrContent">it eradicated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7654" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2788" end="2813" />
+        <spannedText>Your health care provider</spannedText>
+        <creationDate>Sat Oct 21 20:41:05 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7680">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7654">
+        <hasSlotMention id="EHOST_Instance_7680" />
+        <mentionClass id="AttrSource">Your health care provider</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7655" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2828" end="2835" />
+        <spannedText>discuss</spannedText>
+        <creationDate>Sat Oct 21 20:41:11 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7655">
+        <mentionClass id="AttrCue">discuss</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7656" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2836" end="2857" />
+        <spannedText>possible side effects</spannedText>
+        <creationDate>Sat Oct 21 20:41:13 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7681">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7655" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7682">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7654" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7656">
+        <hasSlotMention id="EHOST_Instance_7681" />
+        <hasSlotMention id="EHOST_Instance_7682" />
+        <mentionClass id="AttrContent">possible side effects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7657" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3269" end="3281" />
+        <spannedText>according to</spannedText>
+        <creationDate>Sat Oct 21 20:41:31 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7657">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7658" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3282" end="3289" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Sat Oct 21 20:41:33 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7683">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7658">
+        <hasSlotMention id="EHOST_Instance_7683" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7659" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3250" end="3267" />
+        <span start="3291" end="3366" />
+        <spannedText>The goal of VAERS ... is “to detect possible signals of adverse events associated with vaccines.”</spannedText>
+        <creationDate>Sat Oct 21 20:41:40 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7684">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7658" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7685">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7657" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7659">
+        <hasSlotMention id="EHOST_Instance_7684" />
+        <hasSlotMention id="EHOST_Instance_7685" />
+        <mentionClass id="AttrContent">The goal of VAERS ... is “to detect possible signals of adverse events associated with vaccines.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7660" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4260" end="4267" />
+        <spannedText>The CDC</spannedText>
+        <creationDate>Sat Oct 21 20:42:08 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7686">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7660">
+        <hasSlotMention id="EHOST_Instance_7686" />
+        <mentionClass id="AttrSource">The CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7661" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4268" end="4274" />
+        <spannedText>states</spannedText>
+        <creationDate>Sat Oct 21 20:42:14 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7661">
+        <mentionClass id="AttrCue">states</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7662" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4275" end="4356" />
+        <spannedText>that many adverse events such as swelling at the injection site are underreported</spannedText>
+        <creationDate>Sat Oct 21 20:42:16 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7687">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7661" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7688">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7660" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7662">
+        <hasSlotMention id="EHOST_Instance_7687" />
+        <hasSlotMention id="EHOST_Instance_7688" />
+        <mentionClass id="AttrContent">that many adverse events such as swelling at the injection site are underreported</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7663" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4382" end="4394" />
+        <spannedText>according to</spannedText>
+        <creationDate>Sat Oct 21 20:42:21 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7663">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7664" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4395" end="4402" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Sat Oct 21 20:42:23 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7689">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7664">
+        <hasSlotMention id="EHOST_Instance_7689" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7665" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4358" end="4380" />
+        <span start="4404" end="4575" />
+        <spannedText>Serious adverse events ... “are probably more likely to be reported than minor ones, especially when they occur soon after vaccination, even if they may be coincidental and related to other causes.”</spannedText>
+        <creationDate>Sat Oct 21 20:42:32 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7690">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7664" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7691">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7663" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7665">
+        <hasSlotMention id="EHOST_Instance_7690" />
+        <hasSlotMention id="EHOST_Instance_7691" />
+        <mentionClass id="AttrContent">Serious adverse events ... “are probably more likely to be reported than minor ones, especially when they occur soon after vaccination, even if they may be coincidental and related to other causes.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7666" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4691" end="4703" />
+        <spannedText>according to</spannedText>
+        <creationDate>Sat Oct 21 20:42:52 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7666">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7667" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4704" end="4718" />
+        <spannedText>Plotkin et al.</spannedText>
+        <creationDate>Sat Oct 21 20:42:56 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7692">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7667">
+        <hasSlotMention id="EHOST_Instance_7692" />
+        <mentionClass id="AttrSource">Plotkin et al.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7668" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4720" end="4877" />
+        <spannedText>VAERS identified a need for further investigation of MMR association with a blood clotting disorder, encephalopathy after MMR, and syncope after immunization</spannedText>
+        <creationDate>Sat Oct 21 20:43:07 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7693">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7667" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7694">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7666" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7695">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7669" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7668">
+        <hasSlotMention id="EHOST_Instance_7693" />
+        <hasSlotMention id="EHOST_Instance_7694" />
+        <hasSlotMention id="EHOST_Instance_7695" />
+        <mentionClass id="AttrContent">VAERS identified a need for further investigation of MMR association with a blood clotting disorder, encephalopathy after MMR, and syncope after immunization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7669" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4879" end="4943" />
+        <spannedText>Plotkin SA et al. Vaccines, 5th ed. Philadelphia: Saunders, 2008</spannedText>
+        <creationDate>Sat Oct 21 20:43:12 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7696">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7669">
+        <hasSlotMention id="EHOST_Instance_7696" />
+        <mentionClass id="AttrSource">Plotkin SA et al. Vaccines, 5th ed. Philadelphia: Saunders, 2008</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7670" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3784" end="3787" />
+        <spannedText>who</spannedText>
+        <creationDate>Sun Oct 22 22:02:26 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7697">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7670">
+        <hasSlotMention id="EHOST_Instance_7697" />
+        <mentionClass id="AttrSource">who</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7671" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3788" end="3796" />
+        <spannedText>suspects</spannedText>
+        <creationDate>Sun Oct 22 22:02:31 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7671">
+        <mentionClass id="AttrCue">suspects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7672" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3797" end="3854" />
+        <spannedText>an association between a vaccination and an adverse event</spannedText>
+        <creationDate>Sun Oct 22 22:02:34 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7698">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7671" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7699">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7670" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7672">
+        <hasSlotMention id="EHOST_Instance_7698" />
+        <hasSlotMention id="EHOST_Instance_7699" />
+        <mentionClass id="AttrContent">an association between a vaccination and an adverse event</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

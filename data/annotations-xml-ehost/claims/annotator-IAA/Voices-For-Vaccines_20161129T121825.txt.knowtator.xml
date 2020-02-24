@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Voices-For-Vaccines_20161129T121825.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3988" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2668" end="2746" />
+        <spannedText>their child is at a significantly increased risk for life-threatening diseases</spannedText>
+        <creationDate>Wed Apr 25 16:33:00 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3994">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3992" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3988">
+        <hasSlotMention id="EHOST_Instance_3994" />
+        <mentionClass id="claim">their child is at a significantly increased risk for life-threatening diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3989" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2862" end="2917" />
+        <spannedText>the diseases we vaccinate against aren’t just nuisances</spannedText>
+        <creationDate>Wed Apr 25 16:33:09 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3995">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3993" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3989">
+        <hasSlotMention id="EHOST_Instance_3995" />
+        <mentionClass id="claim">the diseases we vaccinate against aren’t just nuisances</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3990" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2962" end="3015" />
+        <spannedText>they are almost completely preventable by vaccination</spannedText>
+        <creationDate>Wed Apr 25 16:33:12 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3996">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3993" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3990">
+        <hasSlotMention id="EHOST_Instance_3996" />
+        <mentionClass id="claim">they are almost completely preventable by vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3991" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3338" end="3422" />
+        <spannedText>these illnesses are starting to make a comeback because of the anti-vaccine movement</spannedText>
+        <creationDate>Wed Apr 25 16:33:22 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3997">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3993" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3991">
+        <hasSlotMention id="EHOST_Instance_3997" />
+        <mentionClass id="claim">these illnesses are starting to make a comeback because of the anti-vaccine movement</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3992" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2644" end="2652" />
+        <spannedText>research</spannedText>
+        <creationDate>Sun Apr 29 19:45:48 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3992">
+        <mentionClass id="source_of_claim">research</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3993" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3863" end="3886" />
+        <spannedText>Dr. Torree McGowan, MD,</spannedText>
+        <creationDate>Mon Apr 30 21:31:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3993">
+        <mentionClass id="source_of_claim">Dr. Torree McGowan, MD,</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="ABC-News_20170511T203024.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5589" />
+        <annotator id="01">Sanne</annotator>
+        <span start="80" end="87" />
+        <spannedText>promote</spannedText>
+        <creationDate>Wed Oct 18 20:11:23 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5589">
+        <mentionClass id="AttrCue">promote</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5590" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12" end="41" />
+        <spannedText>the World Health Organization</spannedText>
+        <creationDate>Wed Oct 18 20:11:25 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5637">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5590">
+        <hasSlotMention id="EHOST_Instance_5637" />
+        <mentionClass id="AttrSource">the World Health Organization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5591" />
+        <annotator id="01">Sanne</annotator>
+        <span start="88" end="107" />
+        <spannedText>the use of vaccines</spannedText>
+        <creationDate>Wed Oct 18 20:11:33 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5638">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5589" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5639">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5590" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5591">
+        <hasSlotMention id="EHOST_Instance_5638" />
+        <hasSlotMention id="EHOST_Instance_5639" />
+        <mentionClass id="AttrContent">the use of vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5592" />
+        <annotator id="01">Sanne</annotator>
+        <span start="76" end="156" />
+        <spannedText>"to promote the use of vaccines to protect people of all ages against disease."</spannedText>
+        <creationDate>Wed Oct 18 20:11:38 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5640">
+        <mentionSlot id="Only_Content_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5592" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5592">
+        <hasSlotMention id="EHOST_Instance_5640" />
+        <mentionClass id="AttrContent">"to promote the use of vaccines to protect people of all ages against disease."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5593" />
+        <annotator id="01">Sanne</annotator>
+        <span start="158" end="378" />
+        <spannedText>In the U.S., overall vaccination compliance remains high for many childhood immunizations, with at least 90 percent of children getting the recommended vaccinations on time for measles/mumps/rubella, polio and chickenpox</spannedText>
+        <creationDate>Wed Oct 18 20:11:51 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5641">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5594" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5642">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5595" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5593">
+        <hasSlotMention id="EHOST_Instance_5641" />
+        <hasSlotMention id="EHOST_Instance_5642" />
+        <mentionClass id="AttrContent">In the U.S., overall vaccination compliance remains high for many childhood immunizations, with at least 90 percent of children getting the recommended vaccinations on time for measles/mumps/rubella, polio and chickenpox</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5594" />
+        <annotator id="01">Sanne</annotator>
+        <span start="380" end="392" />
+        <spannedText>according to</spannedText>
+        <creationDate>Wed Oct 18 20:11:53 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5594">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5595" />
+        <annotator id="01">Sanne</annotator>
+        <span start="393" end="463" />
+        <spannedText>a 2015 report from the U.S. Centers for Disease Control and Prevention</spannedText>
+        <creationDate>Wed Oct 18 20:11:55 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5643">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5595">
+        <hasSlotMention id="EHOST_Instance_5643" />
+        <mentionClass id="AttrSource">a 2015 report from the U.S. Centers for Disease Control and Prevention</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5596" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1775" end="1867" />
+        <spannedText>Dr. William Schaffner, an infectious disease expert at Vanderbilt University Medical Center,</spannedText>
+        <creationDate>Wed Oct 18 20:12:33 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5644">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5596">
+        <hasSlotMention id="EHOST_Instance_5644" />
+        <mentionClass id="AttrSource">Dr. William Schaffner, an infectious disease expert at Vanderbilt University Medical Center,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5597" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1868" end="1872" />
+        <spannedText>said</spannedText>
+        <creationDate>Wed Oct 18 20:12:42 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5597">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5598" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1897" end="1994" />
+        <spannedText>that the recent mumps outbreaks appear to be occurring in populations with high vaccination rates</spannedText>
+        <creationDate>Wed Oct 18 20:12:46 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5645">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5597" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5646">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5596" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5598">
+        <hasSlotMention id="EHOST_Instance_5645" />
+        <hasSlotMention id="EHOST_Instance_5646" />
+        <mentionClass id="AttrContent">that the recent mumps outbreaks appear to be occurring in populations with high vaccination rates</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5599" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1998" end="2205" />
+        <spannedText>"Although people are vaccinated, after about 15 years, there is some waning of immunity and if you get a strong exposure that exposure can overcome that diminished protection and you'll get a case of mumps,"</spannedText>
+        <creationDate>Wed Oct 18 20:12:56 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5647">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5601" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5648">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5600" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5599">
+        <hasSlotMention id="EHOST_Instance_5647" />
+        <hasSlotMention id="EHOST_Instance_5648" />
+        <mentionClass id="AttrContent">"Although people are vaccinated, after about 15 years, there is some waning of immunity and if you get a strong exposure that exposure can overcome that diminished protection and you'll get a case of mumps,"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5600" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2206" end="2210" />
+        <spannedText>said</spannedText>
+        <creationDate>Wed Oct 18 20:12:58 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5600">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5601" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2211" end="2220" />
+        <spannedText>Schaffner</spannedText>
+        <creationDate>Wed Oct 18 20:12:59 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5649">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5601">
+        <hasSlotMention id="EHOST_Instance_5649" />
+        <mentionClass id="AttrSource">Schaffner</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5602" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2224" end="2231" />
+        <spannedText>The CDC</spannedText>
+        <creationDate>Wed Oct 18 20:13:25 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5650">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5602">
+        <hasSlotMention id="EHOST_Instance_5650" />
+        <mentionClass id="AttrSource">The CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5603" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2236" end="2245" />
+        <spannedText>confirmed</spannedText>
+        <creationDate>Wed Oct 18 20:13:30 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5603">
+        <mentionClass id="AttrCue">confirmed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5604" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2251" end="2306" />
+        <spannedText>its Advisory Committee on Immunization Practices (ACIP)</spannedText>
+        <creationDate>Wed Oct 18 20:13:48 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5651">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5604">
+        <hasSlotMention id="EHOST_Instance_5651" />
+        <mentionClass id="AttrSource">its Advisory Committee on Immunization Practices (ACIP)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5605" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2347" end="2358" />
+        <spannedText>considering</spannedText>
+        <creationDate>Wed Oct 18 20:13:54 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5605">
+        <mentionClass id="AttrCue">considering</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5606" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2359" end="2371" />
+        <spannedText>recommending</spannedText>
+        <creationDate>Wed Oct 18 20:13:56 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5606">
+        <mentionClass id="AttrCue">recommending</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5607" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2372" end="2405" />
+        <spannedText>a booster shot during an outbreak</spannedText>
+        <creationDate>Wed Oct 18 20:13:59 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5652">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5606" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5653">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5604" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5607">
+        <hasSlotMention id="EHOST_Instance_5652" />
+        <hasSlotMention id="EHOST_Instance_5653" />
+        <mentionClass id="AttrContent">a booster shot during an outbreak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5608" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2359" end="2405" />
+        <spannedText>recommending a booster shot during an outbreak</spannedText>
+        <creationDate>Wed Oct 18 20:14:11 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5654">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5605" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5655">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5604" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5608">
+        <hasSlotMention id="EHOST_Instance_5654" />
+        <hasSlotMention id="EHOST_Instance_5655" />
+        <mentionClass id="AttrContent">recommending a booster shot during an outbreak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5609" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2246" end="2405" />
+        <spannedText>that its Advisory Committee on Immunization Practices (ACIP) is reviewing vaccinations for mumps and considering recommending a booster shot during an outbreak</spannedText>
+        <creationDate>Wed Oct 18 20:14:17 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5656">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5603" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5657">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5602" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5609">
+        <hasSlotMention id="EHOST_Instance_5656" />
+        <hasSlotMention id="EHOST_Instance_5657" />
+        <mentionClass id="AttrContent">that its Advisory Committee on Immunization Practices (ACIP) is reviewing vaccinations for mumps and considering recommending a booster shot during an outbreak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5610" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2409" end="2529" />
+        <spannedText>There have been multiple measles outbreaks in recent years that have infected hundreds in Ohio, California and Minnesota</spannedText>
+        <creationDate>Wed Oct 18 20:14:24 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5658">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5611" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5659">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5612" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5610">
+        <hasSlotMention id="EHOST_Instance_5658" />
+        <hasSlotMention id="EHOST_Instance_5659" />
+        <mentionClass id="AttrContent">There have been multiple measles outbreaks in recent years that have infected hundreds in Ohio, California and Minnesota</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5611" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2531" end="2543" />
+        <spannedText>according to</spannedText>
+        <creationDate>Wed Oct 18 20:14:26 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5611">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5612" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2544" end="2551" />
+        <spannedText>the AAP</spannedText>
+        <creationDate>Wed Oct 18 20:14:29 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5660">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5612">
+        <hasSlotMention id="EHOST_Instance_5660" />
+        <mentionClass id="AttrSource">the AAP</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5613" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2775" end="2870" />
+        <spannedText>Once a measles outbreak starts in an area with low vaccinations, it can be difficult to control</spannedText>
+        <creationDate>Wed Oct 18 20:14:45 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5661">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5614" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5662">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5615" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5613">
+        <hasSlotMention id="EHOST_Instance_5661" />
+        <hasSlotMention id="EHOST_Instance_5662" />
+        <mentionClass id="AttrContent">Once a measles outbreak starts in an area with low vaccinations, it can be difficult to control</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5614" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2872" end="2884" />
+        <spannedText>according to</spannedText>
+        <creationDate>Wed Oct 18 20:14:47 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5614">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5615" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2885" end="2892" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Wed Oct 18 20:14:48 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5663">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5615">
+        <hasSlotMention id="EHOST_Instance_5663" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5616" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3023" end="3151" />
+        <spannedText>The airborne virus can also remain in the air for hours, infecting people if they are in the same vicinity as someone who is ill</spannedText>
+        <creationDate>Wed Oct 18 20:15:13 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5664">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5617" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5665">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5618" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5616">
+        <hasSlotMention id="EHOST_Instance_5664" />
+        <hasSlotMention id="EHOST_Instance_5665" />
+        <mentionClass id="AttrContent">The airborne virus can also remain in the air for hours, infecting people if they are in the same vicinity as someone who is ill</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5617" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3153" end="3165" />
+        <spannedText>according to</spannedText>
+        <creationDate>Wed Oct 18 20:15:17 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5617">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5618" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3166" end="3173" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Wed Oct 18 20:15:19 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5666">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5618">
+        <hasSlotMention id="EHOST_Instance_5666" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5619" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3449" end="3585" />
+        <spannedText>Approximately four years after getting a vaccine for whooping cough, just three or four out of 10 people are protected against the virus</spannedText>
+        <creationDate>Wed Oct 18 20:15:35 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5667">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5620" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5668">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5621" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5619">
+        <hasSlotMention id="EHOST_Instance_5667" />
+        <hasSlotMention id="EHOST_Instance_5668" />
+        <mentionClass id="AttrContent">Approximately four years after getting a vaccine for whooping cough, just three or four out of 10 people are protected against the virus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5620" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3587" end="3599" />
+        <spannedText>according to</spannedText>
+        <creationDate>Wed Oct 18 20:15:38 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5620">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5621" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3600" end="3607" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Wed Oct 18 20:15:41 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5669">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5621">
+        <hasSlotMention id="EHOST_Instance_5669" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5622" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3611" end="3618" />
+        <spannedText>The CDC</spannedText>
+        <creationDate>Wed Oct 18 20:15:48 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5670">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5622">
+        <hasSlotMention id="EHOST_Instance_5670" />
+        <mentionClass id="AttrSource">The CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5623" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3619" end="3626" />
+        <spannedText>reports</spannedText>
+        <creationDate>Wed Oct 18 20:15:54 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5623">
+        <mentionClass id="AttrCue">reports</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5624" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3627" end="3716" />
+        <spannedText>that there are between 10,000 to 40,000 cases of pertussis every year and up to 20 deaths</spannedText>
+        <creationDate>Wed Oct 18 20:15:56 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5671">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5623" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5672">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5622" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5624">
+        <hasSlotMention id="EHOST_Instance_5671" />
+        <hasSlotMention id="EHOST_Instance_5672" />
+        <mentionClass id="AttrContent">that there are between 10,000 to 40,000 cases of pertussis every year and up to 20 deaths</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5625" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3791" end="3852" />
+        <spannedText>Just two years earlier, Washington state reported 2,530 cases</spannedText>
+        <creationDate>Wed Oct 18 20:16:08 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5673">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5626" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5674">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5627" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5625">
+        <hasSlotMention id="EHOST_Instance_5673" />
+        <hasSlotMention id="EHOST_Instance_5674" />
+        <mentionClass id="AttrContent">Just two years earlier, Washington state reported 2,530 cases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5626" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3854" end="3866" />
+        <spannedText>according to</spannedText>
+        <creationDate>Wed Oct 18 20:16:11 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5626">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5627" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3867" end="3874" />
+        <spannedText>the AAP</spannedText>
+        <creationDate>Wed Oct 18 20:16:13 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5675">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5627">
+        <hasSlotMention id="EHOST_Instance_5675" />
+        <mentionClass id="AttrSource">the AAP</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5628" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3946" end="3956" />
+        <spannedText>California</spannedText>
+        <creationDate>Wed Oct 18 20:16:25 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5676">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5628">
+        <hasSlotMention id="EHOST_Instance_5676" />
+        <mentionClass id="AttrSource">California</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5629" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3957" end="3965" />
+        <spannedText>reported</spannedText>
+        <creationDate>Wed Oct 18 20:16:31 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5629">
+        <mentionClass id="AttrCue">reported</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5630" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3966" end="4154" />
+        <spannedText>that the vaccination rate for kindergarteners had hit "a new high," rising from 93 to 96 percent after the state government made it tougher for parents to opt out of vaccination compliance</spannedText>
+        <creationDate>Wed Oct 18 20:16:39 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5677">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5629" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5678">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5628" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5630">
+        <hasSlotMention id="EHOST_Instance_5677" />
+        <hasSlotMention id="EHOST_Instance_5678" />
+        <mentionClass id="AttrContent">that the vaccination rate for kindergarteners had hit "a new high," rising from 93 to 96 percent after the state government made it tougher for parents to opt out of vaccination compliance</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5631" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4158" end="4265" />
+        <spannedText>Art Caplan, head of the Division of Medical Ethics at NYU School of Medicine at the Langone Medical Center,</spannedText>
+        <creationDate>Wed Oct 18 20:16:46 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5679">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5631">
+        <hasSlotMention id="EHOST_Instance_5679" />
+        <mentionClass id="AttrSource">Art Caplan, head of the Division of Medical Ethics at NYU School of Medicine at the Langone Medical Center,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5632" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4266" end="4270" />
+        <spannedText>said</spannedText>
+        <creationDate>Wed Oct 18 20:16:51 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5632">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5633" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4271" end="4369" />
+        <spannedText>the state of vaccination success in the U.S. is "mixed" but that California has been a bright spot</spannedText>
+        <creationDate>Wed Oct 18 20:16:55 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5680">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5632" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5681">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5631" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5682">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5635" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5683">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5636" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5633">
+        <hasSlotMention id="EHOST_Instance_5680" />
+        <hasSlotMention id="EHOST_Instance_5681" />
+        <hasSlotMention id="EHOST_Instance_5682" />
+        <hasSlotMention id="EHOST_Instance_5683" />
+        <mentionClass id="AttrContent">the state of vaccination success in the U.S. is "mixed" but that California has been a bright spot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5634" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4373" end="4486" />
+        <spannedText>"They've done an amazing job and one that might inspire other states in getting better reduction in the measles,"</spannedText>
+        <creationDate>Wed Oct 18 20:17:02 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5634">
+        <mentionClass id="AttrContent">"They've done an amazing job and one that might inspire other states in getting better reduction in the measles,"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5635" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4487" end="4493" />
+        <span start="4500" end="4558" />
+        <spannedText>Caplan ... who co-authored the book "Vaccination Ethics and Policy."</spannedText>
+        <creationDate>Wed Oct 18 20:17:03 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5684">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5635">
+        <hasSlotMention id="EHOST_Instance_5684" />
+        <mentionClass id="AttrSource">Caplan ... who co-authored the book "Vaccination Ethics and Policy."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5636" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4494" end="4498" />
+        <spannedText>said</spannedText>
+        <creationDate>Wed Oct 18 20:17:08 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5636">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

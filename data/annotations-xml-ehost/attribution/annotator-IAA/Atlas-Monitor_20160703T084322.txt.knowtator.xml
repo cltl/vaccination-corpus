@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Atlas-Monitor_20160703T084322.txt">
+    <annotation>
+        <mention id="EHOST_Instance_595291" />
+        <annotator id="01">Roser</annotator>
+        <span start="272" end="295" />
+        <spannedText>The establishment media</spannedText>
+        <creationDate>Tue Jul 25 21:32:41 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_595302">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_595291">
+        <hasSlotMention id="EHOST_Instance_595302" />
+        <mentionClass id="AttrSource">The establishment media</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595292" />
+        <annotator id="01">Roser</annotator>
+        <span start="311" end="327" />
+        <spannedText>pushing the myth</spannedText>
+        <creationDate>Tue Jul 25 21:32:54 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_595292">
+        <mentionClass id="AttrCue">pushing the myth</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595293" />
+        <annotator id="01">Roser</annotator>
+        <span start="328" end="375" />
+        <spannedText>that vaccines are completely safe and effective</spannedText>
+        <creationDate>Tue Jul 25 21:33:02 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_595303">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595291" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_595304">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595292" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_595293">
+        <hasSlotMention id="EHOST_Instance_595303" />
+        <hasSlotMention id="EHOST_Instance_595304" />
+        <mentionClass id="AttrContent">that vaccines are completely safe and effective</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595294" />
+        <annotator id="01">Roser</annotator>
+        <span start="390" end="399" />
+        <spannedText>suggested</spannedText>
+        <creationDate>Tue Jul 25 21:33:13 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_595294">
+        <mentionClass id="AttrCue">suggested</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595295" />
+        <annotator id="01">Roser</annotator>
+        <span start="400" end="444" />
+        <spannedText>the government should force you to take them</spannedText>
+        <creationDate>Tue Jul 25 21:33:18 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_595305">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595294" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_595306">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595291" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_595295">
+        <hasSlotMention id="EHOST_Instance_595305" />
+        <hasSlotMention id="EHOST_Instance_595306" />
+        <mentionClass id="AttrContent">the government should force you to take them</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595296" />
+        <annotator id="01">Roser</annotator>
+        <span start="1063" end="1087" />
+        <spannedText>the mainstream media who</spannedText>
+        <creationDate>Tue Jul 25 21:33:54 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_595307">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_595296">
+        <hasSlotMention id="EHOST_Instance_595307" />
+        <mentionClass id="AttrSource">the mainstream media who</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595297" />
+        <annotator id="01">Roser</annotator>
+        <span start="1088" end="1093" />
+        <spannedText>claim</spannedText>
+        <creationDate>Tue Jul 25 21:34:03 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_595297">
+        <mentionClass id="AttrCue">claim</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595298" />
+        <annotator id="01">Roser</annotator>
+        <span start="1094" end="1140" />
+        <spannedText>the MMR shot will protect you from the measles</spannedText>
+        <creationDate>Tue Jul 25 21:34:12 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_595308">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595296" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_595309">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595297" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_595298">
+        <hasSlotMention id="EHOST_Instance_595308" />
+        <hasSlotMention id="EHOST_Instance_595309" />
+        <mentionClass id="AttrContent">the MMR shot will protect you from the measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595299" />
+        <annotator id="01">Roser</annotator>
+        <span start="1151" end="1155" />
+        <spannedText>they</spannedText>
+        <creationDate>Wed Jul 26 22:06:14 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_595310">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_595299">
+        <hasSlotMention id="EHOST_Instance_595310" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595300" />
+        <annotator id="01">Roser</annotator>
+        <span start="1163" end="1170" />
+        <spannedText>telling</spannedText>
+        <creationDate>Wed Jul 26 22:06:22 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_595300">
+        <mentionClass id="AttrCue">telling</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_595301" />
+        <annotator id="01">Roser</annotator>
+        <span start="1178" end="1300" />
+        <spannedText>that people who have received the CDC recommended doses of the vaccine are still catching and passing on measles to others</spannedText>
+        <creationDate>Wed Jul 26 22:06:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_595311">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595299" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_595312">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_595300" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_595301">
+        <hasSlotMention id="EHOST_Instance_595311" />
+        <hasSlotMention id="EHOST_Instance_595312" />
+        <mentionClass id="AttrContent">that people who have received the CDC recommended doses of the vaccine are still catching and passing on measles to others</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Ars-Technica_20170629T055731.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5729" />
+        <annotator id="01">Sanne</annotator>
+        <span start="160" end="166" />
+        <spannedText>belief</spannedText>
+        <creationDate>Wed Oct 18 20:20:26 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5729">
+        <mentionClass id="AttrCue">belief</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5730" />
+        <annotator id="01">Sanne</annotator>
+        <span start="167" end="197" />
+        <spannedText>that vaccinations cause autism</spannedText>
+        <creationDate>Wed Oct 18 20:20:29 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5755">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5729" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5730">
+        <hasSlotMention id="EHOST_Instance_5755" />
+        <mentionClass id="AttrContent">that vaccinations cause autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5731" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1238" end="1247" />
+        <spannedText>The study</spannedText>
+        <creationDate>Wed Oct 18 20:48:01 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5756">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5731">
+        <hasSlotMention id="EHOST_Instance_5756" />
+        <mentionClass id="AttrSource">The study</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5732" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1261" end="1268" />
+        <spannedText>alleged</spannedText>
+        <creationDate>Wed Oct 18 20:48:10 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5732">
+        <mentionClass id="AttrCue">alleged</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5733" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1269" end="1333" />
+        <spannedText>that the measles, mumps, and rubella (MMR) vaccine caused autism</spannedText>
+        <creationDate>Wed Oct 18 20:48:13 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5757">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5731" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5758">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5732" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5733">
+        <hasSlotMention id="EHOST_Instance_5757" />
+        <hasSlotMention id="EHOST_Instance_5758" />
+        <mentionClass id="AttrContent">that the measles, mumps, and rubella (MMR) vaccine caused autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5734" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1704" end="1870" />
+        <spannedText>In a presentation Sunday night to the Somali community, anti-vaccine activist Mark Blaxill played up the threat of autism while glossing over the real risk of measles</spannedText>
+        <creationDate>Wed Oct 18 20:48:35 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5759">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5735" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5760">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5736" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5734">
+        <hasSlotMention id="EHOST_Instance_5759" />
+        <hasSlotMention id="EHOST_Instance_5760" />
+        <mentionClass id="AttrContent">In a presentation Sunday night to the Somali community, anti-vaccine activist Mark Blaxill played up the threat of autism while glossing over the real risk of measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5735" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1872" end="1891" />
+        <spannedText>The Washington Post</spannedText>
+        <creationDate>Wed Oct 18 20:48:37 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5761">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5735">
+        <hasSlotMention id="EHOST_Instance_5761" />
+        <mentionClass id="AttrSource">The Washington Post</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5736" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1892" end="1899" />
+        <spannedText>reports</spannedText>
+        <creationDate>Wed Oct 18 20:48:42 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5736">
+        <mentionClass id="AttrCue">reports</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5737" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1916" end="1962" />
+        <spannedText>people from the state public health department</spannedText>
+        <creationDate>Wed Oct 18 20:48:53 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5762">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5737">
+        <hasSlotMention id="EHOST_Instance_5762" />
+        <mentionClass id="AttrSource">people from the state public health department</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5738" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1963" end="1969" />
+        <spannedText>saying</spannedText>
+        <creationDate>Wed Oct 18 20:49:00 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5738">
+        <mentionClass id="AttrCue">saying</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5739" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1970" end="1986" />
+        <spannedText>there is no risk</spannedText>
+        <creationDate>Wed Oct 18 20:49:01 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5763">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5738" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5764">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5737" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5739">
+        <hasSlotMention id="EHOST_Instance_5763" />
+        <hasSlotMention id="EHOST_Instance_5764" />
+        <mentionClass id="AttrContent">there is no risk</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5740" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1988" end="2012" />
+        <spannedText>that [vaccines] are safe</spannedText>
+        <creationDate>Wed Oct 18 20:49:07 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5765">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5738" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5766">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5737" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5740">
+        <hasSlotMention id="EHOST_Instance_5765" />
+        <hasSlotMention id="EHOST_Instance_5766" />
+        <mentionClass id="AttrContent">that [vaccines] are safe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5741" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1901" end="2078" />
+        <spannedText>“When you hear people from the state public health department saying there is no risk, that [vaccines] are safe, this is the sort of thing that should cause you to be skeptical”</spannedText>
+        <creationDate>Wed Oct 18 20:49:15 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5767">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5742" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5768">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5743" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5741">
+        <hasSlotMention id="EHOST_Instance_5767" />
+        <hasSlotMention id="EHOST_Instance_5768" />
+        <mentionClass id="AttrContent">“When you hear people from the state public health department saying there is no risk, that [vaccines] are safe, this is the sort of thing that should cause you to be skeptical”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5742" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2079" end="2086" />
+        <spannedText>Blaxill</spannedText>
+        <creationDate>Wed Oct 18 20:49:17 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5769">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5742">
+        <hasSlotMention id="EHOST_Instance_5769" />
+        <mentionClass id="AttrSource">Blaxill</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5743" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2087" end="2091" />
+        <spannedText>said</spannedText>
+        <creationDate>Wed Oct 18 20:49:23 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5743">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5744" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2218" end="2412" />
+        <span start="2576" end="2593" />
+        <spannedText>“It’s remarkable to come in and talk to a population that’s vulnerable and marginalized and who doesn’t necessarily have the capacity for advocacy for themselves, and to take advantage of that,” ... “It’s abhorrent.”</spannedText>
+        <creationDate>Wed Oct 18 20:49:45 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5770">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5745" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5771">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5746" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5744">
+        <hasSlotMention id="EHOST_Instance_5770" />
+        <hasSlotMention id="EHOST_Instance_5771" />
+        <mentionClass id="AttrContent">“It’s remarkable to come in and talk to a population that’s vulnerable and marginalized and who doesn’t necessarily have the capacity for advocacy for themselves, and to take advantage of that,” ... “It’s abhorrent.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5745" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2413" end="2560" />
+        <spannedText>Siman Nuurali, a Somali American clinician who coordinates the care of medically complex patients at Children’s Hospitals and Clinics of Minnesota,</spannedText>
+        <creationDate>Wed Oct 18 20:49:50 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5772">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5745">
+        <hasSlotMention id="EHOST_Instance_5772" />
+        <mentionClass id="AttrSource">Siman Nuurali, a Somali American clinician who coordinates the care of medically complex patients at Children’s Hospitals and Clinics of Minnesota,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5746" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2561" end="2565" />
+        <spannedText>told</spannedText>
+        <creationDate>Wed Oct 18 20:49:56 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5746">
+        <mentionClass id="AttrCue">told</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5747" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2858" end="2904" />
+        <spannedText>The Centers for Disease Control and Prevention</spannedText>
+        <creationDate>Wed Oct 18 20:50:12 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5773">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5747">
+        <hasSlotMention id="EHOST_Instance_5773" />
+        <mentionClass id="AttrSource">The Centers for Disease Control and Prevention</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5748" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2905" end="2914" />
+        <spannedText>recommend</spannedText>
+        <creationDate>Wed Oct 18 20:50:17 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5748">
+        <mentionClass id="AttrCue">recommend</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5749" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2915" end="3007" />
+        <spannedText>children get a dose of MMR vaccine between 12 and 15 months, then again between ages 4 and 6</spannedText>
+        <creationDate>Wed Oct 18 20:50:21 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5774">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5747" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5775">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5748" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5749">
+        <hasSlotMention id="EHOST_Instance_5774" />
+        <hasSlotMention id="EHOST_Instance_5775" />
+        <mentionClass id="AttrContent">children get a dose of MMR vaccine between 12 and 15 months, then again between ages 4 and 6</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5750" />
+        <annotator id="01">Sanne</annotator>
+        <span start="675" end="683" />
+        <spannedText>research</spannedText>
+        <creationDate>Sat Oct 21 21:28:31 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5776">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5750">
+        <hasSlotMention id="EHOST_Instance_5776" />
+        <mentionClass id="AttrSource">research</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5751" />
+        <annotator id="01">Sanne</annotator>
+        <span start="690" end="699" />
+        <spannedText>concluded</spannedText>
+        <creationDate>Sat Oct 21 21:28:36 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5751">
+        <mentionClass id="AttrCue">concluded</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5752" />
+        <annotator id="01">Sanne</annotator>
+        <span start="700" end="758" />
+        <spannedText>that autism rates were not unusually high in the community</spannedText>
+        <creationDate>Sat Oct 21 21:28:39 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5777">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5751" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5778">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5750" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5752">
+        <hasSlotMention id="EHOST_Instance_5777" />
+        <hasSlotMention id="EHOST_Instance_5778" />
+        <mentionClass id="AttrContent">that autism rates were not unusually high in the community</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5753" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1035" end="1045" />
+        <spannedText>considered</spannedText>
+        <creationDate>Sat Oct 21 21:28:52 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5753">
+        <mentionClass id="AttrCue">considered</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5754" />
+        <annotator id="01">Sanne</annotator>
+        <span start="973" end="1031" />
+        <span start="1046" end="1097" />
+        <spannedText>Wakefield, a former British doctor who now lives in Texas, ... the founder of the modern anti-vaccination movement</spannedText>
+        <creationDate>Sat Oct 21 21:29:00 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5779">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5753" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5754">
+        <hasSlotMention id="EHOST_Instance_5779" />
+        <mentionClass id="AttrContent">Wakefield, a former British doctor who now lives in Texas, ... the founder of the modern anti-vaccination movement</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

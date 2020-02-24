@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20170628T213437.txt">
+    <annotation>
+        <mention id="EHOST_Instance_40564" />
+        <annotator id="01">Sanne</annotator>
+        <span start="120" end="122" />
+        <spannedText>It</spannedText>
+        <creationDate>Wed Aug 23 16:46:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40573">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40565" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40564">
+        <hasSlotMention id="EHOST_Instance_40573" />
+        <mentionClass id="AttrContent">It</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40565" />
+        <annotator id="01">Sanne</annotator>
+        <span start="130" end="141" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Wed Aug 23 16:46:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40565">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40566" />
+        <annotator id="01">Sanne</annotator>
+        <span start="182" end="189" />
+        <spannedText>advised</spannedText>
+        <creationDate>Wed Aug 23 16:46:37 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40566">
+        <mentionClass id="AttrCue">advised</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40567" />
+        <annotator id="01">Sanne</annotator>
+        <span start="190" end="221" />
+        <spannedText>to have the hepatitis A vaccine</spannedText>
+        <creationDate>Wed Aug 23 16:46:42 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40574">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40566" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40567">
+        <hasSlotMention id="EHOST_Instance_40574" />
+        <mentionClass id="AttrContent">to have the hepatitis A vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40568" />
+        <annotator id="01">Sanne</annotator>
+        <span start="607" end="610" />
+        <spannedText>you</spannedText>
+        <creationDate>Wed Aug 23 16:46:53 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40575">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40568">
+        <hasSlotMention id="EHOST_Instance_40575" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40569" />
+        <annotator id="01">Sanne</annotator>
+        <span start="611" end="616" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Aug 23 16:47:01 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40569">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40570" />
+        <annotator id="01">Sanne</annotator>
+        <span start="617" end="656" />
+        <spannedText>you should have the hepatitis A vaccine</spannedText>
+        <creationDate>Wed Aug 23 16:47:07 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40576">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40568" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40577">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40569" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40570">
+        <hasSlotMention id="EHOST_Instance_40576" />
+        <hasSlotMention id="EHOST_Instance_40577" />
+        <mentionClass id="AttrContent">you should have the hepatitis A vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40571" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1126" end="1152" />
+        <spannedText>Extra doses of the vaccine</spannedText>
+        <creationDate>Sat Aug 26 11:11:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40578">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40572" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40571">
+        <hasSlotMention id="EHOST_Instance_40578" />
+        <mentionClass id="AttrContent">Extra doses of the vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40572" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1163" end="1174" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Sat Aug 26 11:11:36 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40572">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

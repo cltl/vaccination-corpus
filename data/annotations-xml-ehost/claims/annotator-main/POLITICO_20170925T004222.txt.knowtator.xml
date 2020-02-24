@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="POLITICO_20170925T004222.txt">
+    <annotation>
+        <mention id="EHOST_Instance_91038" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2883" end="2988" />
+        <spannedText>Scientists are unsure whether autism has actually increased in recent decades or is just better diagnosed</spannedText>
+        <creationDate>Sun May 13 17:10:43 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91038">
+        <mentionClass id="claim">Scientists are unsure whether autism has actually increased in recent decades or is just better diagnosed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91039" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2816" end="2879" />
+        <spannedText>It’s such an incredible — it’s really a horrible thing to watch</spannedText>
+        <creationDate>Sun May 13 17:10:54 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91041">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91040" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91039">
+        <hasSlotMention id="EHOST_Instance_91041" />
+        <mentionClass id="claim">It’s such an incredible — it’s really a horrible thing to watch</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91040" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2626" end="2631" />
+        <spannedText>Trump</spannedText>
+        <creationDate>Sun May 13 17:10:57 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91040">
+        <mentionClass id="source_of_claim">Trump</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

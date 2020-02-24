@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="fitfortravel-scot-nhs-uk_20160608T231638.txt">
+    <annotation>
+        <mention id="EHOST_Instance_23561" />
+        <annotator id="01">Sanne</annotator>
+        <span start="197" end="208" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:07:21 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23561">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23562" />
+        <annotator id="01">Sanne</annotator>
+        <span start="209" end="305" />
+        <spannedText>that you consult with your General Practitioner or Practice Nurse 6-8 weeks in advance of travel</spannedText>
+        <creationDate>Fri Aug 11 18:07:24 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23583">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23561" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23562">
+        <hasSlotMention id="EHOST_Instance_23583" />
+        <mentionClass id="AttrContent">that you consult with your General Practitioner or Practice Nurse 6-8 weeks in advance of travel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23563" />
+        <annotator id="01">Sanne</annotator>
+        <span start="307" end="311" />
+        <spannedText>They</spannedText>
+        <creationDate>Fri Aug 11 18:07:29 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23584">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23563">
+        <hasSlotMention id="EHOST_Instance_23584" />
+        <mentionClass id="AttrSource">They</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23564" />
+        <annotator id="01">Sanne</annotator>
+        <span start="360" end="372" />
+        <spannedText>recommending</spannedText>
+        <creationDate>Fri Aug 11 18:07:38 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23564">
+        <mentionClass id="AttrCue">recommending</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23565" />
+        <annotator id="01">Sanne</annotator>
+        <span start="373" end="410" />
+        <spannedText>vaccines and /or antimalarial tablets</spannedText>
+        <creationDate>Fri Aug 11 18:07:41 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23585">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23564" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_23586">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23563" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23565">
+        <hasSlotMention id="EHOST_Instance_23585" />
+        <hasSlotMention id="EHOST_Instance_23586" />
+        <mentionClass id="AttrContent">vaccines and /or antimalarial tablets</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23566" />
+        <annotator id="01">Sanne</annotator>
+        <span start="447" end="454" />
+        <spannedText>discuss</spannedText>
+        <creationDate>Fri Aug 11 18:07:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23566">
+        <mentionClass id="AttrCue">discuss</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23567" />
+        <annotator id="01">Sanne</annotator>
+        <span start="455" end="557" />
+        <spannedText>important travel health issues including safe food and water, accidents, sun exposure and insect bites</spannedText>
+        <creationDate>Fri Aug 11 18:07:47 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23587">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23566" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23567">
+        <hasSlotMention id="EHOST_Instance_23587" />
+        <mentionClass id="AttrContent">important travel health issues including safe food and water, accidents, sun exposure and insect bites</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23568" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4183" end="4194" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:30:33 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23568">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23569" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4141" end="4178" />
+        <span start="4195" end="4213" />
+        <spannedText>A total of 5 doses of tetanus vaccine ... for life in the UK</spannedText>
+        <creationDate>Fri Aug 11 18:30:37 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23588">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23568" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23569">
+        <hasSlotMention id="EHOST_Instance_23588" />
+        <mentionClass id="AttrContent">A total of 5 doses of tetanus vaccine ... for life in the UK</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23570" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4236" end="4247" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:32:05 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23570">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23571" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4215" end="4223" />
+        <span start="4248" end="4343" />
+        <spannedText>Boosters ... in a country or situation where the correct treatment of an injury may not be readily available</spannedText>
+        <creationDate>Fri Aug 11 18:32:10 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23589">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23570" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23571">
+        <hasSlotMention id="EHOST_Instance_23589" />
+        <mentionClass id="AttrContent">Boosters ... in a country or situation where the correct treatment of an injury may not be readily available</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23572" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5183" end="5194" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:32:45 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23572">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23573" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5121" end="5170" />
+        <spannedText>Atovaquone/proguanil OR doxycycline OR mefloquine</spannedText>
+        <creationDate>Fri Aug 11 18:32:53 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23590">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23572" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23573">
+        <hasSlotMention id="EHOST_Instance_23590" />
+        <mentionClass id="AttrContent">Atovaquone/proguanil OR doxycycline OR mefloquine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23574" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6781" end="6793" />
+        <spannedText>This country</spannedText>
+        <creationDate>Fri Aug 11 18:33:38 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23591">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23574">
+        <hasSlotMention id="EHOST_Instance_23591" />
+        <mentionClass id="AttrSource">This country</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23575" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6798" end="6806" />
+        <spannedText>reported</spannedText>
+        <creationDate>Fri Aug 11 18:33:47 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23575">
+        <mentionClass id="AttrCue">reported</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23576" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6807" end="6857" />
+        <spannedText>cases of Zika virus infection in the past 9 months</spannedText>
+        <creationDate>Fri Aug 11 18:33:51 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23592">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23574" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_23593">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23575" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23576">
+        <hasSlotMention id="EHOST_Instance_23592" />
+        <hasSlotMention id="EHOST_Instance_23593" />
+        <mentionClass id="AttrContent">cases of Zika virus infection in the past 9 months</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23577" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6905" end="6916" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:34:00 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23577">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23578" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6859" end="6901" />
+        <spannedText>Avoidance of mosquito bites, at all times,</spannedText>
+        <creationDate>Fri Aug 11 18:34:04 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23594">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23577" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23578">
+        <hasSlotMention id="EHOST_Instance_23594" />
+        <mentionClass id="AttrContent">Avoidance of mosquito bites, at all times,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23579" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7079" end="7084" />
+        <spannedText>urged</spannedText>
+        <creationDate>Fri Aug 11 18:34:11 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23579">
+        <mentionClass id="AttrCue">urged</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23580" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7085" end="7172" />
+        <spannedText>to seek pre-travel advice from your health care provider 6-8 weeks in advance of travel</spannedText>
+        <creationDate>Fri Aug 11 18:34:14 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23595">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23579" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23580">
+        <hasSlotMention id="EHOST_Instance_23595" />
+        <mentionClass id="AttrContent">to seek pre-travel advice from your health care provider 6-8 weeks in advance of travel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23581" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7180" end="7191" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:34:18 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23581">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23582" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7192" end="7268" />
+        <spannedText>that pregnant women postpone non-essential travel to Zika affected countries</spannedText>
+        <creationDate>Fri Aug 11 18:34:21 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23596">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23581" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23582">
+        <hasSlotMention id="EHOST_Instance_23596" />
+        <mentionClass id="AttrContent">that pregnant women postpone non-essential travel to Zika affected countries</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

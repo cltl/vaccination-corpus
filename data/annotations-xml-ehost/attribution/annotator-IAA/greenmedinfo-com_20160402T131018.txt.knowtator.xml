@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="greenmedinfo-com_20160402T131018.txt">
+    <annotation>
+        <mention id="EHOST_Instance_591748" />
+        <annotator id="01">Roser</annotator>
+        <span start="835" end="934" />
+        <spannedText>those who bring the peer-reviewed 'evidence' to the public's attention as 'liars' or 'child killers</spannedText>
+        <creationDate>Sat Nov 09 17:47:26 CET 2019</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_591751">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591749" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_591752">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_591750" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_591748">
+        <hasSlotMention id="EHOST_Instance_591751" />
+        <hasSlotMention id="EHOST_Instance_591752" />
+        <mentionClass id="AttrContent">those who bring the peer-reviewed 'evidence' to the public's attention as 'liars' or 'child killers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591749" />
+        <annotator id="01">Roser</annotator>
+        <span start="939" end="949" />
+        <spannedText>Bill Gates</spannedText>
+        <creationDate>Fri Aug 11 20:30:55 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_591753">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_591749">
+        <hasSlotMention id="EHOST_Instance_591753" />
+        <mentionClass id="AttrSource">Bill Gates</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_591750" />
+        <annotator id="01">Roser</annotator>
+        <span start="829" end="834" />
+        <spannedText>label</spannedText>
+        <creationDate>Sat Nov 09 17:47:31 CET 2019</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_591750">
+        <mentionClass id="AttrCue">label</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

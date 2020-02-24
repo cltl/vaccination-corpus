@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="blogs-cdc-gov_20170616T233823.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5064" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1146" end="1159" />
+        <spannedText>recognized as</spannedText>
+        <creationDate>Wed Jul 26 07:53:18 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5064">
+        <mentionClass id="AttrCue">recognized as</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5065" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1114" end="1126" />
+        <span start="1160" end="1261" />
+        <spannedText>norovirus is ... a major cause of diarrheal disease around the globe, accounting for nearly 20% of all diarrheal cases</spannedText>
+        <creationDate>Wed Jul 26 07:53:25 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5130">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5064" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5065">
+        <hasSlotMention id="EHOST_Instance_5130" />
+        <mentionClass id="AttrContent">norovirus is ... a major cause of diarrheal disease around the globe, accounting for nearly 20% of all diarrheal cases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5066" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4496" end="4497" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 07:55:24 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5131">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5066">
+        <hasSlotMention id="EHOST_Instance_5131" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5067" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4498" end="4505" />
+        <spannedText>believe</spannedText>
+        <creationDate>Wed Jul 26 07:55:32 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5067">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5068" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4506" end="4584" />
+        <spannedText>that primary prevention is the best way of stopping the incidents of a disease</spannedText>
+        <creationDate>Wed Jul 26 07:55:38 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5132">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5067" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5133">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5066" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5068">
+        <hasSlotMention id="EHOST_Instance_5132" />
+        <hasSlotMention id="EHOST_Instance_5133" />
+        <mentionClass id="AttrContent">that primary prevention is the best way of stopping the incidents of a disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5069" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5694" end="5695" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 07:56:21 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5134">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5069">
+        <hasSlotMention id="EHOST_Instance_5134" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5070" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5696" end="5700" />
+        <spannedText>find</spannedText>
+        <creationDate>Wed Jul 26 07:56:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5070">
+        <mentionClass id="AttrCue">find</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5071" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5701" end="5775" />
+        <spannedText>this blog post to be very informative and relevant to patient nursing care</spannedText>
+        <creationDate>Wed Jul 26 07:56:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5135">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5069" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5136">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5070" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5071">
+        <hasSlotMention id="EHOST_Instance_5135" />
+        <hasSlotMention id="EHOST_Instance_5136" />
+        <mentionClass id="AttrContent">this blog post to be very informative and relevant to patient nursing care</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5072" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6660" end="6661" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 07:57:07 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5137">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5072">
+        <hasSlotMention id="EHOST_Instance_5137" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5073" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6662" end="6667" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 07:57:17 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5073">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5074" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6668" end="6805" />
+        <spannedText>schools and other facilities need better instructions from the CDC for how to handle the illness when children are sick in the classroom</spannedText>
+        <creationDate>Wed Jul 26 07:57:24 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5138">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5072" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5139">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5073" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5074">
+        <hasSlotMention id="EHOST_Instance_5138" />
+        <hasSlotMention id="EHOST_Instance_5139" />
+        <mentionClass id="AttrContent">schools and other facilities need better instructions from the CDC for how to handle the illness when children are sick in the classroom</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5075" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7033" end="7034" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 07:57:42 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5140">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5075">
+        <hasSlotMention id="EHOST_Instance_5140" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5076" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7035" end="7040" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 07:57:50 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5076">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5077" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7041" end="7254" />
+        <spannedText>schools are doing the best they can, but, need to understand that bleach is required to kill the virus as well as other helpful info that could help prevent the spread of it while we patiently wait for the vaccine</spannedText>
+        <creationDate>Wed Jul 26 07:57:58 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5141">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5075" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5142">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5076" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5077">
+        <hasSlotMention id="EHOST_Instance_5141" />
+        <hasSlotMention id="EHOST_Instance_5142" />
+        <mentionClass id="AttrContent">schools are doing the best they can, but, need to understand that bleach is required to kill the virus as well as other helpful info that could help prevent the spread of it while we patiently wait for the vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5078" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7256" end="7257" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 07:58:07 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5143">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5078">
+        <hasSlotMention id="EHOST_Instance_5143" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5079" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7258" end="7265" />
+        <spannedText>believe</spannedText>
+        <creationDate>Wed Jul 26 07:58:15 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5079">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5080" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7266" end="7358" />
+        <spannedText>that a vaccine for norovirus would be beneficial for both developed and developing countries</spannedText>
+        <creationDate>Wed Jul 26 07:58:22 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5144">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5078" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5145">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5079" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5080">
+        <hasSlotMention id="EHOST_Instance_5144" />
+        <hasSlotMention id="EHOST_Instance_5145" />
+        <mentionClass id="AttrContent">that a vaccine for norovirus would be beneficial for both developed and developing countries</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5081" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8719" end="8720" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 07:59:11 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5146">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5081">
+        <hasSlotMention id="EHOST_Instance_5146" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5082" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8721" end="8726" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 07:59:20 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5082">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5083" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8727" end="8858" />
+        <spannedText>the norovirus vaccine will prove to be highly successful in decreasing the cases of infections and acute gastroenteritis in general</spannedText>
+        <creationDate>Wed Jul 26 07:59:25 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5147">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5081" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5148">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5082" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5083">
+        <hasSlotMention id="EHOST_Instance_5147" />
+        <hasSlotMention id="EHOST_Instance_5148" />
+        <mentionClass id="AttrContent">the norovirus vaccine will prove to be highly successful in decreasing the cases of infections and acute gastroenteritis in general</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5084" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9880" end="9881" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 07:59:57 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5149">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5084">
+        <hasSlotMention id="EHOST_Instance_5149" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5085" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9882" end="9887" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 08:00:07 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5085">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5086" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9888" end="9950" />
+        <spannedText>it is a very innovative idea to create a vaccine for norovirus</spannedText>
+        <creationDate>Wed Jul 26 08:00:12 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5150">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5084" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5151">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5085" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5086">
+        <hasSlotMention id="EHOST_Instance_5150" />
+        <hasSlotMention id="EHOST_Instance_5151" />
+        <mentionClass id="AttrContent">it is a very innovative idea to create a vaccine for norovirus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5087" />
+        <annotator id="01">Sanne</annotator>
+        <span start="10137" end="10138" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 08:00:27 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5152">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5087">
+        <hasSlotMention id="EHOST_Instance_5152" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5088" />
+        <annotator id="01">Sanne</annotator>
+        <span start="10139" end="10144" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 08:00:35 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5088">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5089" />
+        <annotator id="01">Sanne</annotator>
+        <span start="10145" end="10238" />
+        <spannedText>this will prevent a lot of those such deaths in these countries that are still underdeveloped</spannedText>
+        <creationDate>Wed Jul 26 08:00:38 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5153">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5087" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5154">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5088" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5089">
+        <hasSlotMention id="EHOST_Instance_5153" />
+        <hasSlotMention id="EHOST_Instance_5154" />
+        <mentionClass id="AttrContent">this will prevent a lot of those such deaths in these countries that are still underdeveloped</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5090" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12179" end="12180" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 08:01:29 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5155">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5090">
+        <hasSlotMention id="EHOST_Instance_5155" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5091" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12181" end="12186" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 08:01:37 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5091">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5092" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12187" end="12235" />
+        <spannedText>having the benefit of the vaccine would be great</spannedText>
+        <creationDate>Wed Jul 26 08:01:42 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5156">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5090" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5157">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5091" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5092">
+        <hasSlotMention id="EHOST_Instance_5156" />
+        <hasSlotMention id="EHOST_Instance_5157" />
+        <mentionClass id="AttrContent">having the benefit of the vaccine would be great</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5093" />
+        <annotator id="01">Sanne</annotator>
+        <span start="14616" end="14627" />
+        <spannedText>The article</spannedText>
+        <creationDate>Wed Jul 26 08:04:48 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5158">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5093">
+        <hasSlotMention id="EHOST_Instance_5158" />
+        <mentionClass id="AttrSource">The article</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5094" />
+        <annotator id="01">Sanne</annotator>
+        <span start="14633" end="14637" />
+        <spannedText>says</spannedText>
+        <creationDate>Wed Jul 26 08:04:57 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5094">
+        <mentionClass id="AttrCue">says</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5095" />
+        <annotator id="01">Sanne</annotator>
+        <span start="14638" end="14685" />
+        <spannedText>that the meeting was “an important first step.”</spannedText>
+        <creationDate>Wed Jul 26 08:05:02 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5159">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5093" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5160">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5094" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5095">
+        <hasSlotMention id="EHOST_Instance_5159" />
+        <hasSlotMention id="EHOST_Instance_5160" />
+        <mentionClass id="AttrContent">that the meeting was “an important first step.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5096" />
+        <annotator id="01">Sanne</annotator>
+        <span start="15980" end="16060" />
+        <spannedText>the norovirus lacks a lot of proteins, which makes it hard to make a vaccine for</spannedText>
+        <creationDate>Wed Jul 26 08:06:01 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5161">
+        <mentionSlot id="Only_Content_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5096" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5096">
+        <hasSlotMention id="EHOST_Instance_5161" />
+        <mentionClass id="AttrContent">the norovirus lacks a lot of proteins, which makes it hard to make a vaccine for</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5097" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1702" end="1741" />
+        <spannedText>norovirus experts from around the world</spannedText>
+        <creationDate>Wed Jul 26 21:44:57 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5162">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5097">
+        <hasSlotMention id="EHOST_Instance_5162" />
+        <mentionClass id="AttrSource">norovirus experts from around the world</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5098" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1745" end="1752" />
+        <spannedText>discuss</spannedText>
+        <creationDate>Wed Jul 26 21:45:04 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5098">
+        <mentionClass id="AttrCue">discuss</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5099" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1753" end="1796" />
+        <spannedText>how to make the norovirus vaccine a reality</spannedText>
+        <creationDate>Wed Jul 26 21:45:09 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5163">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5097" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5164">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5098" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5099">
+        <hasSlotMention id="EHOST_Instance_5163" />
+        <hasSlotMention id="EHOST_Instance_5164" />
+        <mentionClass id="AttrContent">how to make the norovirus vaccine a reality</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5100" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3581" end="3582" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 21:46:40 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5165">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5100">
+        <hasSlotMention id="EHOST_Instance_5165" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5101" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3590" end="3594" />
+        <spannedText>idea</spannedText>
+        <creationDate>Wed Jul 26 21:46:49 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5101">
+        <mentionClass id="AttrCue">idea</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5102" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3595" end="3706" />
+        <spannedText>what virus was to blame for a bad case of diarrhea and that everyone will contract this virus in their lifetime</spannedText>
+        <creationDate>Wed Jul 26 21:46:53 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5166">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5100" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5167">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5101" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5102">
+        <hasSlotMention id="EHOST_Instance_5166" />
+        <hasSlotMention id="EHOST_Instance_5167" />
+        <mentionClass id="AttrContent">what virus was to blame for a bad case of diarrhea and that everyone will contract this virus in their lifetime</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5103" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6829" end="6836" />
+        <spannedText>my kids</spannedText>
+        <creationDate>Wed Jul 26 21:48:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5168">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5103">
+        <hasSlotMention id="EHOST_Instance_5168" />
+        <mentionClass id="AttrSource">my kids</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5104" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6837" end="6841" />
+        <spannedText>tell</spannedText>
+        <creationDate>Wed Jul 26 21:48:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5104">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5105" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6845" end="6992" />
+        <spannedText>that a child vomited in class, yet the other kids were not evacuated, they were not instructed to wash their hands, and the windows were not opened</spannedText>
+        <creationDate>Wed Jul 26 21:48:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5169">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5104" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5170">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5103" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5105">
+        <hasSlotMention id="EHOST_Instance_5169" />
+        <hasSlotMention id="EHOST_Instance_5170" />
+        <mentionClass id="AttrContent">that a child vomited in class, yet the other kids were not evacuated, they were not instructed to wash their hands, and the windows were not opened</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5106" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8310" end="8320" />
+        <spannedText>the doctor</spannedText>
+        <creationDate>Wed Jul 26 21:49:25 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5171">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5106">
+        <hasSlotMention id="EHOST_Instance_5171" />
+        <mentionClass id="AttrSource">the doctor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5107" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8321" end="8325" />
+        <spannedText>told</spannedText>
+        <creationDate>Wed Jul 26 21:49:32 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5107">
+        <mentionClass id="AttrCue">told</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5108" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8331" end="8368" />
+        <spannedText>that the virus is going around campus</spannedText>
+        <creationDate>Wed Jul 26 21:49:38 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5172">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5106" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5173">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5107" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5108">
+        <hasSlotMention id="EHOST_Instance_5172" />
+        <hasSlotMention id="EHOST_Instance_5173" />
+        <mentionClass id="AttrContent">that the virus is going around campus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5109" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8456" end="8457" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 21:49:50 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5174">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5109">
+        <hasSlotMention id="EHOST_Instance_5174" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5110" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8458" end="8462" />
+        <spannedText>feel</spannedText>
+        <creationDate>Wed Jul 26 21:49:57 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5110">
+        <mentionClass id="AttrCue">feel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5111" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8463" end="8568" />
+        <spannedText>that college students are very vulnerable to norovirus because it is so common to share food and utensils</spannedText>
+        <creationDate>Wed Jul 26 21:50:03 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5175">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5110" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5176">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5109" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5111">
+        <hasSlotMention id="EHOST_Instance_5175" />
+        <hasSlotMention id="EHOST_Instance_5176" />
+        <mentionClass id="AttrContent">that college students are very vulnerable to norovirus because it is so common to share food and utensils</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5112" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12425" end="12431" />
+        <spannedText>Doctor</spannedText>
+        <creationDate>Wed Jul 26 21:51:28 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5177">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5112">
+        <hasSlotMention id="EHOST_Instance_5177" />
+        <mentionClass id="AttrSource">Doctor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5113" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12432" end="12436" />
+        <spannedText>said</spannedText>
+        <creationDate>Wed Jul 26 21:51:35 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5113">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5114" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12437" end="12472" />
+        <spannedText>there was nothing he could give her</spannedText>
+        <creationDate>Wed Jul 26 21:51:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5178">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5112" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5179">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5113" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5114">
+        <hasSlotMention id="EHOST_Instance_5178" />
+        <hasSlotMention id="EHOST_Instance_5179" />
+        <mentionClass id="AttrContent">there was nothing he could give her</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5115" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12674" end="12675" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 21:52:12 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5180">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5115">
+        <hasSlotMention id="EHOST_Instance_5180" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5116" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12676" end="12679" />
+        <spannedText>BEG</spannedText>
+        <creationDate>Wed Jul 26 21:52:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5116">
+        <mentionClass id="AttrCue">BEG</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5117" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12684" end="12721" />
+        <spannedText>please work together invent a vaccine</spannedText>
+        <creationDate>Wed Jul 26 21:52:25 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5181">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5115" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5182">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5116" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5117">
+        <hasSlotMention id="EHOST_Instance_5181" />
+        <hasSlotMention id="EHOST_Instance_5182" />
+        <mentionClass id="AttrContent">please work together invent a vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5118" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12750" end="12751" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 21:52:33 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5183">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5118">
+        <hasSlotMention id="EHOST_Instance_5183" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5119" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12752" end="12756" />
+        <spannedText>hope</spannedText>
+        <creationDate>Wed Jul 26 21:52:42 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5119">
+        <mentionClass id="AttrCue">hope</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5120" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12757" end="12798" />
+        <spannedText>there will be an update soon on the topic</spannedText>
+        <creationDate>Wed Jul 26 21:52:45 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5184">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5118" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5185">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5119" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5120">
+        <hasSlotMention id="EHOST_Instance_5184" />
+        <hasSlotMention id="EHOST_Instance_5185" />
+        <mentionClass id="AttrContent">there will be an update soon on the topic</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5121" />
+        <annotator id="01">Sanne</annotator>
+        <span start="12996" end="12997" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 21:53:15 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5186">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5121">
+        <hasSlotMention id="EHOST_Instance_5186" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5122" />
+        <annotator id="01">Sanne</annotator>
+        <span start="13000" end="13004" />
+        <spannedText>sure</spannedText>
+        <creationDate>Wed Jul 26 21:53:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5122">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5123" />
+        <annotator id="01">Sanne</annotator>
+        <span start="13005" end="13042" />
+        <spannedText>many people would choose to vaccinate</spannedText>
+        <creationDate>Wed Jul 26 21:53:29 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5187">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5121" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5188">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5122" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5123">
+        <hasSlotMention id="EHOST_Instance_5187" />
+        <hasSlotMention id="EHOST_Instance_5188" />
+        <mentionClass id="AttrContent">many people would choose to vaccinate</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5124" />
+        <annotator id="01">Sanne</annotator>
+        <span start="13706" end="13707" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 21:53:51 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5189">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5124">
+        <hasSlotMention id="EHOST_Instance_5189" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5125" />
+        <annotator id="01">Sanne</annotator>
+        <span start="13708" end="13712" />
+        <spannedText>hope</spannedText>
+        <creationDate>Wed Jul 26 21:54:00 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5125">
+        <mentionClass id="AttrCue">hope</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5126" />
+        <annotator id="01">Sanne</annotator>
+        <span start="13713" end="13827" />
+        <spannedText>this vaccine can help prevent others from catching this virus and suffering from the potentially permanent effects</spannedText>
+        <creationDate>Wed Jul 26 21:54:10 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5190">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5125" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5191">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5124" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5126">
+        <hasSlotMention id="EHOST_Instance_5190" />
+        <hasSlotMention id="EHOST_Instance_5191" />
+        <mentionClass id="AttrContent">this vaccine can help prevent others from catching this virus and suffering from the potentially permanent effects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5127" />
+        <annotator id="01">Sanne</annotator>
+        <span start="14280" end="14281" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Jul 26 21:55:01 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5192">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5127">
+        <hasSlotMention id="EHOST_Instance_5192" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5128" />
+        <annotator id="01">Sanne</annotator>
+        <span start="14282" end="14286" />
+        <spannedText>hope</spannedText>
+        <creationDate>Wed Jul 26 21:55:08 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5128">
+        <mentionClass id="AttrCue">hope</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5129" />
+        <annotator id="01">Sanne</annotator>
+        <span start="14287" end="14319" />
+        <spannedText>this vaccine comes to light soon</spannedText>
+        <creationDate>Wed Jul 26 21:55:11 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5193">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5127" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5194">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5128" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5129">
+        <hasSlotMention id="EHOST_Instance_5193" />
+        <hasSlotMention id="EHOST_Instance_5194" />
+        <mentionClass id="AttrContent">this vaccine comes to light soon</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

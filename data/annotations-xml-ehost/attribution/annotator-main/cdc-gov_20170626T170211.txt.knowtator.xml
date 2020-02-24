@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="cdc-gov_20170626T170211.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5388" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4242" end="4245" />
+        <spannedText>you</spannedText>
+        <creationDate>Wed Jul 26 09:06:19 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5394">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5388">
+        <hasSlotMention id="EHOST_Instance_5394" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5389" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4246" end="4251" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Jul 26 09:06:26 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5389">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5390" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4252" end="4319" />
+        <spannedText>it is a severe allergic reaction or other emergency that can’t wait</spannedText>
+        <creationDate>Wed Jul 26 09:06:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5395">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5388" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5396">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5389" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5390">
+        <hasSlotMention id="EHOST_Instance_5395" />
+        <hasSlotMention id="EHOST_Instance_5396" />
+        <mentionClass id="AttrContent">it is a severe allergic reaction or other emergency that can’t wait</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5391" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4875" end="4878" />
+        <spannedText>who</spannedText>
+        <creationDate>Wed Jul 26 20:14:03 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5397">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5391">
+        <hasSlotMention id="EHOST_Instance_5397" />
+        <mentionClass id="AttrSource">who</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5392" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4879" end="4886" />
+        <spannedText>believe</spannedText>
+        <creationDate>Wed Jul 26 09:07:09 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5392">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5393" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4887" end="4926" />
+        <spannedText>they may have been injured by a vaccine</spannedText>
+        <creationDate>Wed Jul 26 09:07:12 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5398">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5391" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5399">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5392" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5393">
+        <hasSlotMention id="EHOST_Instance_5398" />
+        <hasSlotMention id="EHOST_Instance_5399" />
+        <mentionClass id="AttrContent">they may have been injured by a vaccine</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

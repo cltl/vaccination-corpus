@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="yahoo-com_20161107T201934.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3548" />
+        <annotator id="01">Sanne</annotator>
+        <span start="768" end="782" />
+        <spannedText>health experts</spannedText>
+        <creationDate>Wed Apr 25 15:47:08 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3548">
+        <mentionClass id="source_of_claim">health experts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3549" />
+        <annotator id="01">Sanne</annotator>
+        <span start="791" end="860" />
+        <spannedText>the virus came from abroad where the airborne disease is still common</spannedText>
+        <creationDate>Wed Apr 25 15:47:11 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3555">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3548" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3549">
+        <hasSlotMention id="EHOST_Instance_3555" />
+        <mentionClass id="claim">the virus came from abroad where the airborne disease is still common</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3550" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2336" end="2364" />
+        <spannedText>"They did a tremendous job,"</spannedText>
+        <creationDate>Wed Apr 25 15:51:57 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3556">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3551" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3550">
+        <hasSlotMention id="EHOST_Instance_3556" />
+        <mentionClass id="claim">"They did a tremendous job,"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3551" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2370" end="2461" />
+        <spannedText>Dr .James Cherry, an infectious disease expert at the University of California, Los Angeles</spannedText>
+        <creationDate>Wed Apr 25 15:52:01 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3551">
+        <mentionClass id="source_of_claim">Dr .James Cherry, an infectious disease expert at the University of California, Los Angeles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3552" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2274" end="2334" />
+        <spannedText>the quick response prevented the outbreak from getting worse</spannedText>
+        <creationDate>Wed Apr 25 15:52:05 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3557">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3554" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3552">
+        <hasSlotMention id="EHOST_Instance_3557" />
+        <mentionClass id="claim">the quick response prevented the outbreak from getting worse</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3553" />
+        <annotator id="01">Sanne</annotator>
+        <span start="537" end="679" />
+        <spannedText>The identity of the person responsible for spreading measles at Disney theme parks in Southern California will likely forever remain a mystery</spannedText>
+        <creationDate>Sun Apr 29 17:43:20 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3553">
+        <mentionClass id="claim">The identity of the person responsible for spreading measles at Disney theme parks in Southern California will likely forever remain a mystery</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3554" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2254" end="2268" />
+        <spannedText>Health experts</spannedText>
+        <creationDate>Sun Apr 29 17:47:11 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3554">
+        <mentionClass id="source_of_claim">Health experts</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

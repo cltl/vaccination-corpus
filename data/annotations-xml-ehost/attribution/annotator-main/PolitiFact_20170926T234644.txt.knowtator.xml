@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="PolitiFact_20170926T234644.txt">
+    <annotation>
+        <mention id="EHOST_Instance_9728" />
+        <annotator id="01">Sanne</annotator>
+        <span start="413" end="418" />
+        <spannedText>Trump</spannedText>
+        <creationDate>Thu Oct 26 19:52:09 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9751">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9728">
+        <hasSlotMention id="EHOST_Instance_9751" />
+        <mentionClass id="AttrSource">Trump</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9729" />
+        <annotator id="01">Sanne</annotator>
+        <span start="419" end="428" />
+        <spannedText>responded</spannedText>
+        <creationDate>Thu Oct 26 19:52:16 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9729">
+        <mentionClass id="AttrCue">responded</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9730" />
+        <annotator id="01">Sanne</annotator>
+        <span start="501" end="502" />
+        <spannedText>I</spannedText>
+        <creationDate>Thu Oct 26 19:52:18 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9752">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9730">
+        <hasSlotMention id="EHOST_Instance_9752" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9731" />
+        <annotator id="01">Sanne</annotator>
+        <span start="503" end="507" />
+        <spannedText>want</spannedText>
+        <creationDate>Thu Oct 26 19:52:23 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9731">
+        <mentionClass id="AttrCue">want</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9732" />
+        <annotator id="01">Sanne</annotator>
+        <span start="508" end="550" />
+        <spannedText>smaller doses over a longer period of time</spannedText>
+        <creationDate>Thu Oct 26 19:52:25 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9753">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9731" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9754">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9730" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9732">
+        <hasSlotMention id="EHOST_Instance_9753" />
+        <hasSlotMention id="EHOST_Instance_9754" />
+        <mentionClass id="AttrContent">smaller doses over a longer period of time</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9733" />
+        <annotator id="01">Sanne</annotator>
+        <span start="430" end="552" />
+        <spannedText>"Autism has become an epidemic… I am totally in favor of vaccines. But I want smaller doses over a longer period of time."</spannedText>
+        <creationDate>Thu Oct 26 19:52:30 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9755">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9729" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9756">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9728" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9733">
+        <hasSlotMention id="EHOST_Instance_9755" />
+        <hasSlotMention id="EHOST_Instance_9756" />
+        <mentionClass id="AttrContent">"Autism has become an epidemic… I am totally in favor of vaccines. But I want smaller doses over a longer period of time."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9734" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1173" end="1183" />
+        <spannedText>all states</spannedText>
+        <creationDate>Thu Oct 26 19:52:54 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9757">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9734">
+        <hasSlotMention id="EHOST_Instance_9757" />
+        <mentionClass id="AttrSource">all states</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9735" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1184" end="1191" />
+        <spannedText>require</spannedText>
+        <creationDate>Thu Oct 26 19:52:59 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9735">
+        <mentionClass id="AttrCue">require</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9736" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1192" end="1286" />
+        <spannedText>immunizations as a condition of enrollment in public school and, in many cases, private school</spannedText>
+        <creationDate>Thu Oct 26 19:53:03 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9758">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9735" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9759">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9734" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9736">
+        <hasSlotMention id="EHOST_Instance_9758" />
+        <hasSlotMention id="EHOST_Instance_9759" />
+        <mentionClass id="AttrContent">immunizations as a condition of enrollment in public school and, in many cases, private school</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9737" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1510" end="1515" />
+        <spannedText>Price</spannedText>
+        <creationDate>Thu Oct 26 19:53:12 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9760">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9737">
+        <hasSlotMention id="EHOST_Instance_9760" />
+        <mentionClass id="AttrSource">Price</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9738" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1516" end="1528" />
+        <spannedText>acknowledged</spannedText>
+        <creationDate>Thu Oct 26 19:53:19 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9738">
+        <mentionClass id="AttrCue">acknowledged</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9739" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1538" end="1589" />
+        <spannedText>that state governments tend to make those decisions</spannedText>
+        <creationDate>Thu Oct 26 19:53:22 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9761">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9738" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9762">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9737" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9739">
+        <hasSlotMention id="EHOST_Instance_9761" />
+        <hasSlotMention id="EHOST_Instance_9762" />
+        <mentionClass id="AttrContent">that state governments tend to make those decisions</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9740" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1657" end="1658" />
+        <spannedText>I</spannedText>
+        <creationDate>Thu Oct 26 19:53:27 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9763">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9740">
+        <hasSlotMention id="EHOST_Instance_9763" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9741" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1659" end="1666" />
+        <spannedText>believe</spannedText>
+        <creationDate>Thu Oct 26 19:53:32 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9741">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9742" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1667" end="1719" />
+        <spannedText>it's a perfectly appropriate role for the government</spannedText>
+        <creationDate>Thu Oct 26 19:53:38 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9764">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9741" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9765">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9740" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9742">
+        <hasSlotMention id="EHOST_Instance_9764" />
+        <hasSlotMention id="EHOST_Instance_9765" />
+        <mentionClass id="AttrContent">it's a perfectly appropriate role for the government</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9743" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1856" end="1865" />
+        <spannedText>determine</spannedText>
+        <creationDate>Thu Oct 26 19:53:51 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9743">
+        <mentionClass id="AttrCue">determine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9744" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1866" end="1934" />
+        <spannedText>whether or not immunizations are required for a community population</spannedText>
+        <creationDate>Thu Oct 26 19:53:55 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9766">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9743" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9744">
+        <hasSlotMention id="EHOST_Instance_9766" />
+        <mentionClass id="AttrContent">whether or not immunizations are required for a community population</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9745" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1937" end="1942" />
+        <spannedText>Price</spannedText>
+        <creationDate>Thu Oct 26 19:53:59 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9767">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9745">
+        <hasSlotMention id="EHOST_Instance_9767" />
+        <mentionClass id="AttrSource">Price</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9746" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1943" end="1947" />
+        <spannedText>said</spannedText>
+        <creationDate>Thu Oct 26 19:54:04 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9746">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9747" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1656" end="1936" />
+        <spannedText>"I believe it's a perfectly appropriate role for the government -- this happens, by and large, at the state government level, because they're the ones that have the public health responsibility -- to determine whether or not immunizations are required for a community population,"</spannedText>
+        <creationDate>Thu Oct 26 19:54:08 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9768">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9745" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9769">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9746" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9747">
+        <hasSlotMention id="EHOST_Instance_9768" />
+        <hasSlotMention id="EHOST_Instance_9769" />
+        <mentionClass id="AttrContent">"I believe it's a perfectly appropriate role for the government -- this happens, by and large, at the state government level, because they're the ones that have the public health responsibility -- to determine whether or not immunizations are required for a community population,"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9748" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2203" end="2207" />
+        <spannedText>that</spannedText>
+        <creationDate>Thu Oct 26 19:54:19 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_9770">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_9748">
+        <hasSlotMention id="EHOST_Instance_9770" />
+        <mentionClass id="AttrSource">that</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9749" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2208" end="2216" />
+        <spannedText>believes</spannedText>
+        <creationDate>Thu Oct 26 19:54:24 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_9749">
+        <mentionClass id="AttrCue">believes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_9750" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2217" end="2254" />
+        <spannedText>in a link between vaccines and autism</spannedText>
+        <creationDate>Thu Oct 26 19:54:26 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_9771">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9749" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_9772">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_9748" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_9750">
+        <hasSlotMention id="EHOST_Instance_9771" />
+        <hasSlotMention id="EHOST_Instance_9772" />
+        <mentionClass id="AttrContent">in a link between vaccines and autism</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

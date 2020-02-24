@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="en-wikipedia-org_20170519T045515.txt">
+    <annotation>
+        <mention id="EHOST_Instance_22738" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1581" end="1616" />
+        <spannedText>"as inevitable as death and taxes."</spannedText>
+        <creationDate>Fri Aug 11 15:03:29 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22770">
+        <mentionSlot id="Only_Content_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22738" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22738">
+        <hasSlotMention id="EHOST_Instance_22770" />
+        <mentionClass id="AttrContent">"as inevitable as death and taxes."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22739" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2823" end="2831" />
+        <spannedText>declared</spannedText>
+        <creationDate>Fri Aug 11 15:04:09 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22739">
+        <mentionClass id="AttrCue">declared</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22740" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2832" end="2856" />
+        <spannedText>eliminated from the U.S.</spannedText>
+        <creationDate>Fri Aug 11 15:04:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22771">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22739" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22740">
+        <hasSlotMention id="EHOST_Instance_22771" />
+        <mentionClass id="AttrContent">eliminated from the U.S.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22741" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4357" end="4368" />
+        <spannedText>Its authors</spannedText>
+        <creationDate>Fri Aug 11 15:05:07 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22772">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22741">
+        <hasSlotMention id="EHOST_Instance_22772" />
+        <mentionClass id="AttrSource">Its authors</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22742" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4369" end="4378" />
+        <spannedText>concluded</spannedText>
+        <creationDate>Fri Aug 11 15:05:16 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22742">
+        <mentionClass id="AttrCue">concluded</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22743" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4380" end="4611" />
+        <spannedText>"Existing evidence on the safety and effectiveness of MMR vaccine supports current policies of mass immunisation aimed at global measles eradication and in order to reduce morbidity and mortality associated with mumps and rubella."</spannedText>
+        <creationDate>Fri Aug 11 15:05:23 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22773">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22741" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22774">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22742" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22743">
+        <hasSlotMention id="EHOST_Instance_22773" />
+        <hasSlotMention id="EHOST_Instance_22774" />
+        <mentionClass id="AttrContent">"Existing evidence on the safety and effectiveness of MMR vaccine supports current policies of mass immunisation aimed at global measles eradication and in order to reduce morbidity and mortality associated with mumps and rubella."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22744" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7716" end="7743" />
+        <spannedText>The Cochrane Library review</spannedText>
+        <creationDate>Fri Aug 11 15:06:33 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22775">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22744">
+        <hasSlotMention id="EHOST_Instance_22775" />
+        <mentionClass id="AttrSource">The Cochrane Library review</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22745" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7744" end="7749" />
+        <spannedText>found</spannedText>
+        <creationDate>Fri Aug 11 15:06:41 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22745">
+        <mentionClass id="AttrCue">found</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22746" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7750" end="7917" />
+        <spannedText>that, compared with placebo, MMR vaccine was associated with fewer upper respiratory tract infections, more irritability, and a similar number of other adverse effects</spannedText>
+        <creationDate>Fri Aug 11 15:06:46 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22776">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22744" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22777">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22745" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22746">
+        <hasSlotMention id="EHOST_Instance_22776" />
+        <hasSlotMention id="EHOST_Instance_22777" />
+        <mentionClass id="AttrContent">that, compared with placebo, MMR vaccine was associated with fewer upper respiratory tract infections, more irritability, and a similar number of other adverse effects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22747" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8706" end="8733" />
+        <spannedText>the General Medical Council</spannedText>
+        <creationDate>Fri Aug 11 15:07:39 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22778">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22747">
+        <hasSlotMention id="EHOST_Instance_22778" />
+        <mentionClass id="AttrSource">the General Medical Council</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22748" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8697" end="8702" />
+        <spannedText>found</spannedText>
+        <creationDate>Fri Aug 11 15:07:48 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22748">
+        <mentionClass id="AttrCue">found</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22749" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8672" end="8692" />
+        <span start="8734" end="8758" />
+        <spannedText>Wakefield's research ... to have been "dishonest"</spannedText>
+        <creationDate>Fri Aug 11 15:07:53 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22779">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22747" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22780">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22748" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22749">
+        <hasSlotMention id="EHOST_Instance_22779" />
+        <hasSlotMention id="EHOST_Instance_22780" />
+        <mentionClass id="AttrContent">Wakefield's research ... to have been "dishonest"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22750" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9143" end="9169" />
+        <spannedText>Many peer-reviewed studies</spannedText>
+        <creationDate>Fri Aug 11 15:08:23 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22781">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22750">
+        <hasSlotMention id="EHOST_Instance_22781" />
+        <mentionClass id="AttrSource">Many peer-reviewed studies</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22751" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9185" end="9189" />
+        <spannedText>show</spannedText>
+        <creationDate>Fri Aug 11 15:08:40 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22751">
+        <mentionClass id="AttrCue">show</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22752" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9190" end="9236" />
+        <spannedText>any association between the vaccine and autism</spannedText>
+        <creationDate>Fri Aug 11 15:09:01 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22782">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22750" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22783">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22751" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22752">
+        <hasSlotMention id="EHOST_Instance_22782" />
+        <hasSlotMention id="EHOST_Instance_22783" />
+        <mentionClass id="AttrContent">any association between the vaccine and autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22753" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9242" end="9288" />
+        <spannedText>The Centers for Disease Control and Prevention</spannedText>
+        <creationDate>Fri Aug 11 15:09:10 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22784">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22753">
+        <hasSlotMention id="EHOST_Instance_22784" />
+        <mentionClass id="AttrSource">The Centers for Disease Control and Prevention</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22754" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9294" end="9355" />
+        <spannedText>the Institute of Medicine of the National Academy of Sciences</spannedText>
+        <creationDate>Fri Aug 11 15:09:23 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22785">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22754">
+        <hasSlotMention id="EHOST_Instance_22785" />
+        <mentionClass id="AttrSource">the Institute of Medicine of the National Academy of Sciences</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22755" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9361" end="9391" />
+        <spannedText>the UK National Health Service</spannedText>
+        <creationDate>Fri Aug 11 15:09:32 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22786">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22755">
+        <hasSlotMention id="EHOST_Instance_22786" />
+        <mentionClass id="AttrSource">the UK National Health Service</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22756" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9401" end="9428" />
+        <spannedText>the Cochrane Library review</spannedText>
+        <creationDate>Fri Aug 11 15:09:40 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22787">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22756">
+        <hasSlotMention id="EHOST_Instance_22787" />
+        <mentionClass id="AttrSource">the Cochrane Library review</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22757" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9442" end="9451" />
+        <spannedText>concluded</spannedText>
+        <creationDate>Fri Aug 11 15:09:50 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22757">
+        <mentionClass id="AttrCue">concluded</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22758" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9452" end="9487" />
+        <spannedText>that there is no evidence of a link</spannedText>
+        <creationDate>Fri Aug 11 15:09:54 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22788">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22753" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22789">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22754" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22790">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22754" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22791">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22755" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22792">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22756" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22793">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22757" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22758">
+        <hasSlotMention id="EHOST_Instance_22788" />
+        <hasSlotMention id="EHOST_Instance_22789" />
+        <hasSlotMention id="EHOST_Instance_22790" />
+        <hasSlotMention id="EHOST_Instance_22791" />
+        <hasSlotMention id="EHOST_Instance_22792" />
+        <hasSlotMention id="EHOST_Instance_22793" />
+        <mentionClass id="AttrContent">that there is no evidence of a link</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22759" />
+        <annotator id="01">Sanne</annotator>
+        <span start="10874" end="10895" />
+        <spannedText>U.S. health officials</spannedText>
+        <creationDate>Fri Aug 11 15:11:20 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22794">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22759">
+        <hasSlotMention id="EHOST_Instance_22794" />
+        <mentionClass id="AttrSource">U.S. health officials</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22760" />
+        <annotator id="01">Sanne</annotator>
+        <span start="10913" end="10933" />
+        <spannedText>express a preference</spannedText>
+        <creationDate>Fri Aug 11 15:11:29 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22760">
+        <mentionClass id="AttrCue">express a preference</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22761" />
+        <annotator id="01">Sanne</annotator>
+        <span start="10934" end="10982" />
+        <spannedText>for use of MMRV vaccine over separate injections</spannedText>
+        <creationDate>Fri Aug 11 15:11:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22795">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22759" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22796">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22760" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22761">
+        <hasSlotMention id="EHOST_Instance_22795" />
+        <hasSlotMention id="EHOST_Instance_22796" />
+        <mentionClass id="AttrContent">for use of MMRV vaccine over separate injections</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22762" />
+        <annotator id="01">Sanne</annotator>
+        <span start="11297" end="11347" />
+        <spannedText>only 7% of family doctors and 20% of pediatricians</spannedText>
+        <creationDate>Fri Aug 11 15:12:01 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22797">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22762">
+        <hasSlotMention id="EHOST_Instance_22797" />
+        <mentionClass id="AttrSource">only 7% of family doctors and 20% of pediatricians</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22763" />
+        <annotator id="01">Sanne</annotator>
+        <span start="11354" end="11363" />
+        <spannedText>recommend</spannedText>
+        <creationDate>Fri Aug 11 15:12:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22763">
+        <mentionClass id="AttrCue">recommend</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22764" />
+        <annotator id="01">Sanne</annotator>
+        <span start="11364" end="11412" />
+        <spannedText>the MMRV for a healthy 12- to 15-month-old child</spannedText>
+        <creationDate>Fri Aug 11 15:12:19 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22798">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22762" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22799">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22763" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22764">
+        <hasSlotMention id="EHOST_Instance_22798" />
+        <hasSlotMention id="EHOST_Instance_22799" />
+        <mentionClass id="AttrContent">the MMRV for a healthy 12- to 15-month-old child</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22765" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1395" end="1406" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Sun Aug 13 15:42:46 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22765">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22766" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1407" end="1447" />
+        <spannedText>for use in some cases of adults with HIV</spannedText>
+        <creationDate>Sun Aug 13 15:42:49 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22800">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22765" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22766">
+        <hasSlotMention id="EHOST_Instance_22800" />
+        <mentionClass id="AttrContent">for use in some cases of adults with HIV</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22767" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9692" end="9706" />
+        <spannedText>Health experts</spannedText>
+        <creationDate>Sun Aug 13 15:44:10 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_22801">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_22767">
+        <hasSlotMention id="EHOST_Instance_22801" />
+        <mentionClass id="AttrSource">Health experts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22768" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9712" end="9722" />
+        <spannedText>criticized</spannedText>
+        <creationDate>Sun Aug 13 15:44:18 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_22768">
+        <mentionClass id="AttrCue">criticized</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_22769" />
+        <annotator id="01">Sanne</annotator>
+        <span start="9723" end="9814" />
+        <spannedText>media reporting of the MMR-autism controversy for triggering a decline in vaccination rates</spannedText>
+        <creationDate>Sun Aug 13 15:44:23 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_22802">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22767" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_22803">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_22768" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_22769">
+        <hasSlotMention id="EHOST_Instance_22802" />
+        <hasSlotMention id="EHOST_Instance_22803" />
+        <mentionClass id="AttrContent">media reporting of the MMR-autism controversy for triggering a decline in vaccination rates</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

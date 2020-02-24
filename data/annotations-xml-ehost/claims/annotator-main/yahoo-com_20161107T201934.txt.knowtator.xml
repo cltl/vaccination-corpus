@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="yahoo-com_20161107T201934.txt">
+    <annotation>
+        <mention id="EHOST_Instance_1002" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="791" end="860" />
+        <spannedText>the virus came from abroad where the airborne disease is still common</spannedText>
+        <creationDate>Tue Apr 24 15:25:51 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_1006">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_1003" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1002">
+        <hasSlotMention id="EHOST_Instance_1006" />
+        <mentionClass id="claim">the virus came from abroad where the airborne disease is still common</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1003" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="768" end="782" />
+        <spannedText>health experts</spannedText>
+        <creationDate>Tue Apr 24 15:25:59 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1003">
+        <mentionClass id="source_of_claim">health experts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1004" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2337" end="2362" />
+        <spannedText>They did a tremendous job</spannedText>
+        <creationDate>Tue Apr 24 15:27:07 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_1007">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_1005" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_1004">
+        <hasSlotMention id="EHOST_Instance_1007" />
+        <mentionClass id="claim">They did a tremendous job</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_1005" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2370" end="2386" />
+        <spannedText>Dr .James Cherry</spannedText>
+        <creationDate>Tue Apr 24 15:27:10 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_1005">
+        <mentionClass id="source_of_claim">Dr .James Cherry</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

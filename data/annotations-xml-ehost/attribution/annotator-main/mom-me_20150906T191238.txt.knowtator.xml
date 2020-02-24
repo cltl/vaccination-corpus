@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="mom-me_20150906T191238.txt">
+    <annotation>
+        <mention id="EHOST_Instance_38858" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1601" end="1629" />
+        <spannedText>all those anti-vaxxers peeps</spannedText>
+        <creationDate>Mon Aug 21 16:08:30 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_38867">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_38858">
+        <hasSlotMention id="EHOST_Instance_38867" />
+        <mentionClass id="AttrSource">all those anti-vaxxers peeps</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38859" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1678" end="1686" />
+        <spannedText>thinking</spannedText>
+        <creationDate>Mon Aug 21 16:08:40 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38859">
+        <mentionClass id="AttrCue">thinking</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38860" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1687" end="1733" />
+        <spannedText>that vaccinations lead to autism, mind control</spannedText>
+        <creationDate>Mon Aug 21 16:08:55 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_38868">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_38858" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_38869">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_38859" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_38860">
+        <hasSlotMention id="EHOST_Instance_38868" />
+        <hasSlotMention id="EHOST_Instance_38869" />
+        <mentionClass id="AttrContent">that vaccinations lead to autism, mind control</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38861" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1752" end="1756" />
+        <spannedText>that</spannedText>
+        <creationDate>Mon Aug 21 16:09:04 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_38870">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_38862" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_38871">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_38863" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_38861">
+        <hasSlotMention id="EHOST_Instance_38870" />
+        <hasSlotMention id="EHOST_Instance_38871" />
+        <mentionClass id="AttrContent">that</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38862" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1757" end="1761" />
+        <spannedText>they</spannedText>
+        <creationDate>Mon Aug 21 16:09:06 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_38872">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_38862">
+        <hasSlotMention id="EHOST_Instance_38872" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38863" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1762" end="1769" />
+        <spannedText>believe</spannedText>
+        <creationDate>Mon Aug 21 16:09:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38863">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38864" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1933" end="2316" />
+        <spannedText>“The toll of the anti-vaccination movement, in one devastating graphic.” “… [I]n the developed world it's an artifact of the anti-vaccination movement, which has associated the vaccine with autism. That connection, promoted by the discredited British physician Andrew Wakefield and the starlet Jenny McCarthy, has been thoroughly debunked. But its effects live on, as the map shows.”</spannedText>
+        <creationDate>Mon Aug 21 16:09:46 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_38873">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_38865" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_38874">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_38866" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_38864">
+        <hasSlotMention id="EHOST_Instance_38873" />
+        <hasSlotMention id="EHOST_Instance_38874" />
+        <mentionClass id="AttrContent">“The toll of the anti-vaccination movement, in one devastating graphic.” “… [I]n the developed world it's an artifact of the anti-vaccination movement, which has associated the vaccine with autism. That connection, promoted by the discredited British physician Andrew Wakefield and the starlet Jenny McCarthy, has been thoroughly debunked. But its effects live on, as the map shows.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38865" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1830" end="1851" />
+        <spannedText>The Los Angeles Times</spannedText>
+        <creationDate>Mon Aug 21 16:09:50 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_38875">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_38865">
+        <hasSlotMention id="EHOST_Instance_38875" />
+        <mentionClass id="AttrSource">The Los Angeles Times</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38866" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1852" end="1858" />
+        <spannedText>warned</spannedText>
+        <creationDate>Mon Aug 21 16:10:00 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38866">
+        <mentionClass id="AttrCue">warned</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

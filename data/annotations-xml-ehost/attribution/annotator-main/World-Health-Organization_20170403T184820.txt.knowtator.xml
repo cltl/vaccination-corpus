@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="World-Health-Organization_20170403T184820.txt">
+    <annotation>
+        <mention id="EHOST_Instance_21411" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4930" end="4938" />
+        <spannedText>concerns</spannedText>
+        <creationDate>Sun Nov 05 10:57:22 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_21411">
+        <mentionClass id="AttrCue">concerns</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21412" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4939" end="5015" />
+        <spannedText>about a possible link between measles-mumps-rubella (MMR) vaccine and autism</spannedText>
+        <creationDate>Sun Nov 05 10:57:32 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_21415">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_21411" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_21412">
+        <hasSlotMention id="EHOST_Instance_21415" />
+        <mentionClass id="AttrContent">about a possible link between measles-mumps-rubella (MMR) vaccine and autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21413" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4816" end="4823" />
+        <spannedText>suggest</spannedText>
+        <creationDate>Sun Nov 05 16:43:19 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_21413">
+        <mentionClass id="AttrCue">suggest</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21414" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4824" end="4890" />
+        <spannedText>that the amount of thiomersal used in vaccines poses a health risk</spannedText>
+        <creationDate>Sun Nov 05 16:43:23 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_21416">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_21413" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_21414">
+        <hasSlotMention id="EHOST_Instance_21416" />
+        <mentionClass id="AttrContent">that the amount of thiomersal used in vaccines poses a health risk</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

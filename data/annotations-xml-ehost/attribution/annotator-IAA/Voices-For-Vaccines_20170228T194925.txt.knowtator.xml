@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Voices-For-Vaccines_20170228T194925.txt">
+    <annotation>
+        <mention id="EHOST_Instance_594873" />
+        <annotator id="01">Roser</annotator>
+        <span start="1256" end="1257" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:26:09 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594905">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594873">
+        <hasSlotMention id="EHOST_Instance_594905" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594874" />
+        <annotator id="01">Roser</annotator>
+        <span start="1271" end="1275" />
+        <spannedText>tell</spannedText>
+        <creationDate>Mon Sep 18 18:26:17 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594874">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594875" />
+        <annotator id="01">Roser</annotator>
+        <span start="1311" end="1339" />
+        <spannedText>that mummy might have cancer</spannedText>
+        <creationDate>Mon Sep 18 18:26:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594906">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594874" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594907">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594873" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594875">
+        <hasSlotMention id="EHOST_Instance_594906" />
+        <hasSlotMention id="EHOST_Instance_594907" />
+        <mentionClass id="AttrContent">that mummy might have cancer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594876" />
+        <annotator id="01">Roser</annotator>
+        <span start="1189" end="1190" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:26:34 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594908">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594876">
+        <hasSlotMention id="EHOST_Instance_594908" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594877" />
+        <annotator id="01">Roser</annotator>
+        <span start="1242" end="1251" />
+        <spannedText>wondering</spannedText>
+        <creationDate>Mon Sep 18 18:26:39 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594877">
+        <mentionClass id="AttrCue">wondering</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594878" />
+        <annotator id="01">Roser</annotator>
+        <span start="1252" end="1339" />
+        <spannedText>how I was going to tell my two children under the age of 7 that mummy might have cancer</spannedText>
+        <creationDate>Mon Sep 18 18:26:43 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594909">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594877" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594910">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594876" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594878">
+        <hasSlotMention id="EHOST_Instance_594909" />
+        <hasSlotMention id="EHOST_Instance_594910" />
+        <mentionClass id="AttrContent">how I was going to tell my two children under the age of 7 that mummy might have cancer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594879" />
+        <annotator id="01">Roser</annotator>
+        <span start="1879" end="1880" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:27:05 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594911">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594879">
+        <hasSlotMention id="EHOST_Instance_594911" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594880" />
+        <annotator id="01">Roser</annotator>
+        <span start="1883" end="1887" />
+        <spannedText>glad</spannedText>
+        <creationDate>Mon Sep 18 18:27:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594880">
+        <mentionClass id="AttrCue">glad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594881" />
+        <annotator id="01">Roser</annotator>
+        <span start="1888" end="1926" />
+        <spannedText>she gave us the great diet that we had</spannedText>
+        <creationDate>Mon Sep 18 18:27:19 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594912">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594880" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594913">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594879" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594881">
+        <hasSlotMention id="EHOST_Instance_594912" />
+        <hasSlotMention id="EHOST_Instance_594913" />
+        <mentionClass id="AttrContent">she gave us the great diet that we had</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594882" />
+        <annotator id="01">Roser</annotator>
+        <span start="1928" end="1929" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:27:26 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594914">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594882">
+        <hasSlotMention id="EHOST_Instance_594914" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594883" />
+        <annotator id="01">Roser</annotator>
+        <span start="1932" end="1936" />
+        <spannedText>glad</spannedText>
+        <creationDate>Mon Sep 18 18:27:33 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594883">
+        <mentionClass id="AttrCue">glad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594884" />
+        <annotator id="01">Roser</annotator>
+        <span start="1937" end="1972" />
+        <spannedText>that she cared about us in that way</spannedText>
+        <creationDate>Mon Sep 18 18:27:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594915">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594883" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594916">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594882" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594884">
+        <hasSlotMention id="EHOST_Instance_594915" />
+        <hasSlotMention id="EHOST_Instance_594916" />
+        <mentionClass id="AttrContent">that she cared about us in that way</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594885" />
+        <annotator id="01">Roser</annotator>
+        <span start="2783" end="2784" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:28:48 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594917">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594885">
+        <hasSlotMention id="EHOST_Instance_594917" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594886" />
+        <annotator id="01">Roser</annotator>
+        <span start="2797" end="2806" />
+        <spannedText>wondering</spannedText>
+        <creationDate>Mon Sep 18 18:28:54 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594886">
+        <mentionClass id="AttrCue">wondering</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594887" />
+        <annotator id="01">Roser</annotator>
+        <span start="2807" end="2925" />
+        <spannedText>about the claim that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</spannedText>
+        <creationDate>Mon Sep 18 18:28:59 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594918">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594886" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594919">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594885" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594887">
+        <hasSlotMention id="EHOST_Instance_594918" />
+        <hasSlotMention id="EHOST_Instance_594919" />
+        <mentionClass id="AttrContent">about the claim that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594888" />
+        <annotator id="01">Roser</annotator>
+        <span start="2948" end="2949" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:29:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594920">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594888">
+        <hasSlotMention id="EHOST_Instance_594920" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594889" />
+        <annotator id="01">Roser</annotator>
+        <span start="2962" end="2972" />
+        <spannedText>understand</spannedText>
+        <creationDate>Mon Sep 18 18:29:26 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594889">
+        <mentionClass id="AttrCue">understand</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594890" />
+        <annotator id="01">Roser</annotator>
+        <span start="2973" end="3125" />
+        <spannedText>why I know far more people who have experienced complications from preventable childhood illnesses than I have EVER met with complications from vaccines</spannedText>
+        <creationDate>Mon Sep 18 18:29:29 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594921">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594888" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594922">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594889" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594890">
+        <hasSlotMention id="EHOST_Instance_594921" />
+        <hasSlotMention id="EHOST_Instance_594922" />
+        <mentionClass id="AttrContent">why I know far more people who have experienced complications from preventable childhood illnesses than I have EVER met with complications from vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594891" />
+        <annotator id="01">Roser</annotator>
+        <span start="3860" end="3861" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:30:21 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594923">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594891">
+        <hasSlotMention id="EHOST_Instance_594923" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594892" />
+        <annotator id="01">Roser</annotator>
+        <span start="3862" end="3872" />
+        <spannedText>understand</spannedText>
+        <creationDate>Mon Sep 18 18:30:27 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594892">
+        <mentionClass id="AttrCue">understand</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594893" />
+        <annotator id="01">Roser</annotator>
+        <span start="3886" end="3932" />
+        <spannedText>where the anti-vaccine parents are coming from</spannedText>
+        <creationDate>Mon Sep 18 18:30:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594924">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594892" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594925">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594891" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594893">
+        <hasSlotMention id="EHOST_Instance_594924" />
+        <hasSlotMention id="EHOST_Instance_594925" />
+        <mentionClass id="AttrContent">where the anti-vaccine parents are coming from</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594894" />
+        <annotator id="01">Roser</annotator>
+        <span start="4103" end="4104" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:30:42 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594926">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594894">
+        <hasSlotMention id="EHOST_Instance_594926" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594895" />
+        <annotator id="01">Roser</annotator>
+        <span start="4105" end="4113" />
+        <spannedText>believed</spannedText>
+        <creationDate>Mon Sep 18 18:30:47 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594895">
+        <mentionClass id="AttrCue">believed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594896" />
+        <annotator id="01">Roser</annotator>
+        <span start="4114" end="4356" />
+        <spannedText>in angels, witchcraft, clairvoyants, crop circles, aliens at Nazca, giant ginger mariners spreading their knowledge to the Aztecs, the Incas and the Egyptians and that I was somehow personally blessed by the Holy Spirit with healing abilities</spannedText>
+        <creationDate>Mon Sep 18 18:30:54 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594927">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594895" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594928">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594894" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594896">
+        <hasSlotMention id="EHOST_Instance_594927" />
+        <hasSlotMention id="EHOST_Instance_594928" />
+        <mentionClass id="AttrContent">in angels, witchcraft, clairvoyants, crop circles, aliens at Nazca, giant ginger mariners spreading their knowledge to the Aztecs, the Incas and the Egyptians and that I was somehow personally blessed by the Holy Spirit with healing abilities</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594897" />
+        <annotator id="01">Roser</annotator>
+        <span start="4982" end="4985" />
+        <spannedText>you</spannedText>
+        <creationDate>Mon Sep 18 18:31:36 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_594929">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_594897">
+        <hasSlotMention id="EHOST_Instance_594929" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594898" />
+        <annotator id="01">Roser</annotator>
+        <span start="4986" end="4991" />
+        <spannedText>think</spannedText>
+        <creationDate>Mon Sep 18 18:31:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594898">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594899" />
+        <annotator id="01">Roser</annotator>
+        <span start="4992" end="5077" />
+        <spannedText>your child’s immune system is strong enough to fight off vaccine-preventable diseases</spannedText>
+        <creationDate>Mon Sep 18 18:31:47 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594930">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594898" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594931">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594897" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594899">
+        <hasSlotMention id="EHOST_Instance_594930" />
+        <hasSlotMention id="EHOST_Instance_594931" />
+        <mentionClass id="AttrContent">your child’s immune system is strong enough to fight off vaccine-preventable diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594900" />
+        <annotator id="01">Roser</annotator>
+        <span start="2813" end="2822" />
+        <spannedText>the claim</spannedText>
+        <creationDate>Sat Sep 23 12:52:20 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594900">
+        <mentionClass id="AttrCue">the claim</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594901" />
+        <annotator id="01">Roser</annotator>
+        <span start="2823" end="2925" />
+        <spannedText>that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</spannedText>
+        <creationDate>Sat Sep 23 12:52:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594932">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594900" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594901">
+        <hasSlotMention id="EHOST_Instance_594932" />
+        <mentionClass id="AttrContent">that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594902" />
+        <annotator id="01">Roser</annotator>
+        <span start="6104" end="6107" />
+        <spannedText>you</spannedText>
+        <creationDate>Sun Nov 10 11:35:09 CET 2019</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594902">
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594903" />
+        <annotator id="01">Roser</annotator>
+        <span start="6114" end="6118" />
+        <spannedText>know</spannedText>
+        <creationDate>Sun Nov 10 11:35:14 CET 2019</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594903">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594904" />
+        <annotator id="01">Roser</annotator>
+        <span start="6119" end="6137" />
+        <spannedText>how awful they are</spannedText>
+        <creationDate>Sun Nov 10 11:35:22 CET 2019</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594933">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594903" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_594934">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594902" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594904">
+        <hasSlotMention id="EHOST_Instance_594933" />
+        <hasSlotMention id="EHOST_Instance_594934" />
+        <mentionClass id="AttrContent">how awful they are</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

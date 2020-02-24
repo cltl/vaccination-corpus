@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Mayo-Clinic_20170728T184145.txt">
+    <annotation>
+        <mention id="EHOST_Instance_8730" />
+        <annotator id="01">Sanne</annotator>
+        <span start="281" end="284" />
+        <spannedText>you</spannedText>
+        <creationDate>Tue Oct 24 14:07:27 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8733">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8730">
+        <hasSlotMention id="EHOST_Instance_8733" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8731" />
+        <annotator id="01">Sanne</annotator>
+        <span start="291" end="297" />
+        <spannedText>wonder</spannedText>
+        <creationDate>Tue Oct 24 14:07:33 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8731">
+        <mentionClass id="AttrCue">wonder</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8732" />
+        <annotator id="01">Sanne</annotator>
+        <span start="298" end="348" />
+        <spannedText>about the benefits and risks of childhood vaccines</spannedText>
+        <creationDate>Tue Oct 24 14:07:36 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_8734">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8731" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_8735">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8730" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8732">
+        <hasSlotMention id="EHOST_Instance_8734" />
+        <hasSlotMention id="EHOST_Instance_8735" />
+        <mentionClass id="AttrContent">about the benefits and risks of childhood vaccines</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

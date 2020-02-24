@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="World-Health-Organization_20161126T161524.txt">
+    <annotation>
+        <mention id="EHOST_Instance_8066" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7297" end="7305" />
+        <spannedText>The GVAP</spannedText>
+        <creationDate>Sat Sep 23 14:25:32 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8072">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8066">
+        <hasSlotMention id="EHOST_Instance_8072" />
+        <mentionClass id="AttrSource">The GVAP</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8067" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7306" end="7316" />
+        <spannedText>recommends</spannedText>
+        <creationDate>Sat Sep 23 14:25:38 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8067">
+        <mentionClass id="AttrCue">recommends</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8068" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7317" end="7361" />
+        <spannedText>3 key steps for closing the immunization gap</spannedText>
+        <creationDate>Sat Sep 23 14:25:41 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_8073">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8067" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_8074">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8066" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8068">
+        <hasSlotMention id="EHOST_Instance_8073" />
+        <hasSlotMention id="EHOST_Instance_8074" />
+        <mentionClass id="AttrContent">3 key steps for closing the immunization gap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8069" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7063" end="7066" />
+        <spannedText>WHO</spannedText>
+        <creationDate>Mon Sep 25 10:49:01 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_8075">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_8069">
+        <hasSlotMention id="EHOST_Instance_8075" />
+        <mentionClass id="AttrSource">WHO</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8070" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7067" end="7073" />
+        <spannedText>warned</spannedText>
+        <creationDate>Mon Sep 25 10:49:08 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_8070">
+        <mentionClass id="AttrCue">warned</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_8071" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7074" end="7215" />
+        <spannedText>that 5 out of the 6 GVAP targets were off-track, with only 1 target on the introduction of underutilized vaccines showing sufficient progress</spannedText>
+        <creationDate>Mon Sep 25 10:49:14 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_8076">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8070" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_8077">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_8069" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_8071">
+        <hasSlotMention id="EHOST_Instance_8076" />
+        <hasSlotMention id="EHOST_Instance_8077" />
+        <mentionClass id="AttrContent">that 5 out of the 6 GVAP targets were off-track, with only 1 target on the introduction of underutilized vaccines showing sufficient progress</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

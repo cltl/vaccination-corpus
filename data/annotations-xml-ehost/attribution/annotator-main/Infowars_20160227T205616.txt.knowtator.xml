@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Infowars_20160227T205616.txt">
+    <annotation>
+        <mention id="EHOST_Instance_25906" />
+        <annotator id="01">Sanne</annotator>
+        <span start="86" end="93" />
+        <spannedText>thought</spannedText>
+        <creationDate>Tue Aug 15 09:30:00 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25906">
+        <mentionClass id="AttrCue">thought</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25907" />
+        <annotator id="01">Sanne</annotator>
+        <span start="70" end="81" />
+        <span start="94" end="127" />
+        <spannedText>the disease ... to be nearly eradicated in the US</spannedText>
+        <creationDate>Tue Aug 15 09:30:04 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25917">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25906" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25907">
+        <hasSlotMention id="EHOST_Instance_25917" />
+        <mentionClass id="AttrContent">the disease ... to be nearly eradicated in the US</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25908" />
+        <annotator id="01">Sanne</annotator>
+        <span start="203" end="207" />
+        <spannedText>they</spannedText>
+        <creationDate>Tue Aug 15 09:30:21 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25918">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25908">
+        <hasSlotMention id="EHOST_Instance_25918" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25909" />
+        <annotator id="01">Sanne</annotator>
+        <span start="197" end="202" />
+        <span start="214" end="247" />
+        <spannedText>which ... will protect you from the disease</spannedText>
+        <creationDate>Tue Aug 15 09:30:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25919">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25908" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25920">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25910" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25909">
+        <hasSlotMention id="EHOST_Instance_25919" />
+        <hasSlotMention id="EHOST_Instance_25920" />
+        <mentionClass id="AttrContent">which ... will protect you from the disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25910" />
+        <annotator id="01">Sanne</annotator>
+        <span start="208" end="213" />
+        <spannedText>claim</spannedText>
+        <creationDate>Tue Aug 15 09:30:42 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25910">
+        <mentionClass id="AttrCue">claim</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25911" />
+        <annotator id="01">Sanne</annotator>
+        <span start="254" end="258" />
+        <spannedText>they</spannedText>
+        <creationDate>Tue Aug 15 09:30:57 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25921">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25911">
+        <hasSlotMention id="EHOST_Instance_25921" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25912" />
+        <annotator id="01">Sanne</annotator>
+        <span start="267" end="274" />
+        <spannedText>telling</spannedText>
+        <creationDate>Tue Aug 15 09:31:07 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25912">
+        <mentionClass id="AttrCue">telling</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25913" />
+        <annotator id="01">Sanne</annotator>
+        <span start="278" end="396" />
+        <spannedText>that people who have received the CDC recommended doses of vaccine are still catching and passing on measles to others</spannedText>
+        <creationDate>Tue Aug 15 09:31:10 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25922">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25912" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25923">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25911" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25913">
+        <hasSlotMention id="EHOST_Instance_25922" />
+        <hasSlotMention id="EHOST_Instance_25923" />
+        <mentionClass id="AttrContent">that people who have received the CDC recommended doses of vaccine are still catching and passing on measles to others</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25914" />
+        <annotator id="01">Sanne</annotator>
+        <span start="782" end="786" />
+        <spannedText>that</spannedText>
+        <creationDate>Tue Aug 15 09:31:39 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25924">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25914">
+        <hasSlotMention id="EHOST_Instance_25924" />
+        <mentionClass id="AttrSource">that</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25915" />
+        <annotator id="01">Sanne</annotator>
+        <span start="787" end="793" />
+        <spannedText>proves</spannedText>
+        <creationDate>Tue Aug 15 09:31:45 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25915">
+        <mentionClass id="AttrCue">proves</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25916" />
+        <annotator id="01">Sanne</annotator>
+        <span start="794" end="884" />
+        <spannedText>MERK executives where hiding the fact that the vaccine was not 95% effective as they claim</spannedText>
+        <creationDate>Tue Aug 15 09:31:49 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25925">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25914" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25926">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25915" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25916">
+        <hasSlotMention id="EHOST_Instance_25925" />
+        <hasSlotMention id="EHOST_Instance_25926" />
+        <mentionClass id="AttrContent">MERK executives where hiding the fact that the vaccine was not 95% effective as they claim</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

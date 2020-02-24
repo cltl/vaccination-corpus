@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="cdc-gov_20170617T195505.txt">
+    <annotation>
+        <mention id="EHOST_Instance_5292" />
+        <annotator id="01">Sanne</annotator>
+        <span start="384" end="387" />
+        <spannedText>CDC</spannedText>
+        <creationDate>Wed Jul 26 08:42:34 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_5295">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_5292">
+        <hasSlotMention id="EHOST_Instance_5295" />
+        <mentionClass id="AttrSource">CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5293" />
+        <annotator id="01">Sanne</annotator>
+        <span start="388" end="398" />
+        <spannedText>recommends</spannedText>
+        <creationDate>Wed Jul 26 08:42:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_5293">
+        <mentionClass id="AttrCue">recommends</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_5294" />
+        <annotator id="01">Sanne</annotator>
+        <span start="399" end="620" />
+        <spannedText>children get two doses of MMR vaccine, starting with the first dose at 12 through 15 months of age, and the second dose at 4 through 6 years of age. Teens and adults also should also be up to date on their MMR vaccination</spannedText>
+        <creationDate>Wed Jul 26 08:42:58 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_5296">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5292" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5297">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_5293" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_5294">
+        <hasSlotMention id="EHOST_Instance_5296" />
+        <hasSlotMention id="EHOST_Instance_5297" />
+        <mentionClass id="AttrContent">children get two doses of MMR vaccine, starting with the first dose at 12 through 15 months of age, and the second dose at 4 through 6 years of age. Teens and adults also should also be up to date on their MMR vaccination</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

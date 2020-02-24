@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="World-Health-Organization_20170102T021727.txt">
+    <annotation>
+        <mention id="EHOST_Instance_73157" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="49" end="61" />
+        <spannedText>immunization</spannedText>
+        <creationDate>Mon Feb 19 12:25:41 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_73157">
+        <mentionClass id="Event">immunization</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_73158" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="62" end="70" />
+        <spannedText>coverage</spannedText>
+        <creationDate>Mon Feb 19 12:25:42 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_73158">
+        <mentionClass id="Event">coverage</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

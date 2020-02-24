@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="unicef-org_20170623T164121.txt">
+    <annotation>
+        <mention id="EHOST_Instance_32923" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1472" end="1530" />
+        <spannedText>The 2014 progress report on the Global Vaccine Action Plan</spannedText>
+        <creationDate>Tue Sep 12 17:54:58 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_32926">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_32923">
+        <hasSlotMention id="EHOST_Instance_32926" />
+        <mentionClass id="AttrSource">The 2014 progress report on the Global Vaccine Action Plan</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_32924" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1531" end="1536" />
+        <spannedText>shows</spannedText>
+        <creationDate>Tue Sep 12 17:55:03 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_32924">
+        <mentionClass id="AttrCue">shows</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_32925" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1537" end="1694" />
+        <spannedText>that vaccination progress is slowing—persistent gaps in coverage that threaten the lives of millions of children, especially the most vulnerable and excluded</spannedText>
+        <creationDate>Tue Sep 12 17:55:11 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_32927">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_32924" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_32928">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_32923" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_32925">
+        <hasSlotMention id="EHOST_Instance_32927" />
+        <hasSlotMention id="EHOST_Instance_32928" />
+        <mentionClass id="AttrContent">that vaccination progress is slowing—persistent gaps in coverage that threaten the lives of millions of children, especially the most vulnerable and excluded</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

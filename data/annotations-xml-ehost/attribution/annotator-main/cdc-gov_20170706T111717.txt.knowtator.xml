@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="cdc-gov_20170706T111717.txt">
+    <annotation>
+        <mention id="EHOST_Instance_21477" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5169" end="5180" />
+        <spannedText>no evidence</spannedText>
+        <creationDate>Thu Aug 10 19:38:01 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_21480">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_21477">
+        <hasSlotMention id="EHOST_Instance_21480" />
+        <mentionClass id="AttrSource">no evidence</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21478" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5181" end="5189" />
+        <spannedText>suggests</spannedText>
+        <creationDate>Thu Aug 10 19:38:09 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_21478">
+        <mentionClass id="AttrCue">suggests</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_21479" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5190" end="5236" />
+        <spannedText>that there are safety concerns with thimerosal</spannedText>
+        <creationDate>Thu Aug 10 19:38:16 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_21481">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_21477" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_21482">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_21478" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_21479">
+        <hasSlotMention id="EHOST_Instance_21481" />
+        <hasSlotMention id="EHOST_Instance_21482" />
+        <mentionClass id="AttrContent">that there are safety concerns with thimerosal</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

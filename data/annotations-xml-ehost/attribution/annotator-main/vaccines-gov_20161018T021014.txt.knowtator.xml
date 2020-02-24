@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="vaccines-gov_20161018T021014.txt">
+    <annotation>
+        <mention id="EHOST_Instance_33064" />
+        <annotator id="01">Sanne</annotator>
+        <span start="857" end="860" />
+        <spannedText>you</spannedText>
+        <creationDate>Tue Sep 12 18:45:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_33070">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_33064">
+        <hasSlotMention id="EHOST_Instance_33070" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33065" />
+        <annotator id="01">Sanne</annotator>
+        <span start="869" end="873" />
+        <spannedText>sure</spannedText>
+        <creationDate>Tue Sep 12 18:45:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_33065">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33066" />
+        <annotator id="01">Sanne</annotator>
+        <span start="874" end="910" />
+        <spannedText>if you are protected against rubella</spannedText>
+        <creationDate>Tue Sep 12 18:45:29 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_33071">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33065" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_33072">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33064" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_33066">
+        <hasSlotMention id="EHOST_Instance_33071" />
+        <hasSlotMention id="EHOST_Instance_33072" />
+        <mentionClass id="AttrContent">if you are protected against rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33067" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1553" end="1557" />
+        <spannedText>they</spannedText>
+        <creationDate>Sun Sep 17 14:22:38 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_33073">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_33067">
+        <hasSlotMention id="EHOST_Instance_33073" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33068" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1565" end="1572" />
+        <spannedText>confirm</spannedText>
+        <creationDate>Sun Sep 17 14:22:44 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_33068">
+        <mentionClass id="AttrCue">confirm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33069" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1573" end="1577" />
+        <spannedText>this</spannedText>
+        <creationDate>Sun Sep 17 14:22:45 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_33074">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33068" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_33075">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33067" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_33069">
+        <hasSlotMention id="EHOST_Instance_33074" />
+        <hasSlotMention id="EHOST_Instance_33075" />
+        <mentionClass id="AttrContent">this</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

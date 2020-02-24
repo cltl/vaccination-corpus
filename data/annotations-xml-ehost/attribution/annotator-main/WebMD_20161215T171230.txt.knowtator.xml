@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="WebMD_20161215T171230.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31112" />
+        <annotator id="01">Sanne</annotator>
+        <span start="934" end="938" />
+        <spannedText>know</spannedText>
+        <creationDate>Mon Sep 18 18:47:07 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31112">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31113" />
+        <annotator id="01">Sanne</annotator>
+        <span start="939" end="1000" />
+        <spannedText>you cannot become infected by getting the hepatitis A vaccine</spannedText>
+        <creationDate>Mon Sep 18 18:47:10 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31116">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31112" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31113">
+        <hasSlotMention id="EHOST_Instance_31116" />
+        <mentionClass id="AttrContent">you cannot become infected by getting the hepatitis A vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31114" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1231" end="1239" />
+        <spannedText>remember</spannedText>
+        <creationDate>Mon Sep 18 18:47:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31114">
+        <mentionClass id="AttrCue">remember</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31115" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1240" end="1326" />
+        <spannedText>that the risks from the disease are much greater than the risk from the vaccine itself</spannedText>
+        <creationDate>Mon Sep 18 18:47:26 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31117">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31114" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31115">
+        <hasSlotMention id="EHOST_Instance_31117" />
+        <mentionClass id="AttrContent">that the risks from the disease are much greater than the risk from the vaccine itself</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="hepb-org_20160629T112215.txt">
+    <annotation>
+        <mention id="EHOST_Instance_25110" />
+        <annotator id="01">Sanne</annotator>
+        <span start="808" end="885" />
+        <span start="901" end="988" />
+        <spannedText>testing for the presence of the virus (HBsAg) ... before diagnosing a person as a "vaccine non-responder"</spannedText>
+        <creationDate>Sun Aug 13 18:17:17 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25118">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25111" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25110">
+        <hasSlotMention id="EHOST_Instance_25118" />
+        <mentionClass id="AttrContent">testing for the presence of the virus (HBsAg) ... before diagnosing a person as a "vaccine non-responder"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25111" />
+        <annotator id="01">Sanne</annotator>
+        <span start="889" end="900" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Sun Aug 13 18:17:49 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25111">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25112" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1243" end="1252" />
+        <spannedText>determine</spannedText>
+        <creationDate>Sun Aug 13 18:18:03 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25112">
+        <mentionClass id="AttrCue">determine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25113" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1253" end="1279" />
+        <spannedText>if they are HBsAg-positive</spannedText>
+        <creationDate>Sun Aug 13 18:18:07 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25119">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25112" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25113">
+        <hasSlotMention id="EHOST_Instance_25119" />
+        <mentionClass id="AttrContent">if they are HBsAg-positive</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25114" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2356" end="2468" />
+        <span start="2516" end="2621" />
+        <spannedText>The option of administering one dose of HBIG and restarting the vaccine series ... for non-responders who did not complete a second 3-dose vaccine series.</spannedText>
+        <creationDate>Sun Aug 13 18:18:33 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25120">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25115" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25114">
+        <hasSlotMention id="EHOST_Instance_25120" />
+        <mentionClass id="AttrContent">The option of administering one dose of HBIG and restarting the vaccine series ... for non-responders who did not complete a second 3-dose vaccine series.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25115" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2472" end="2481" />
+        <spannedText>preferred</spannedText>
+        <creationDate>Sun Aug 13 18:18:46 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25115">
+        <mentionClass id="AttrCue">preferred</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25116" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2623" end="2792" />
+        <spannedText>For persons who previously completed a second vaccine series but failed to respond, two doses of HBIG</spannedText>
+        <creationDate>Sun Aug 13 18:19:05 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25121">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25117" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25116">
+        <hasSlotMention id="EHOST_Instance_25121" />
+        <mentionClass id="AttrContent">For persons who previously completed a second vaccine series but failed to respond, two doses of HBIG</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25117" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2797" end="2806" />
+        <spannedText>preferred</spannedText>
+        <creationDate>Sun Aug 13 18:19:08 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25117">
+        <mentionClass id="AttrCue">preferred</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

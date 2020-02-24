@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Immunisation-Advisory-Centre_20170406T054004.txt">
+    <annotation>
+        <mention id="EHOST_Instance_594111" />
+        <annotator id="01">Roser</annotator>
+        <span start="4039" end="4047" />
+        <spannedText>expected</spannedText>
+        <creationDate>Mon Aug 14 19:22:15 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594111">
+        <mentionClass id="AttrCue">expected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594112" />
+        <annotator id="01">Roser</annotator>
+        <span start="4048" end="4186" />
+        <spannedText>that 90 percent of children would have had varicella infection before adolescence, with peak incidence in the five to nine years age group</spannedText>
+        <creationDate>Mon Aug 14 19:22:20 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594119">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594111" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594112">
+        <hasSlotMention id="EHOST_Instance_594119" />
+        <mentionClass id="AttrContent">that 90 percent of children would have had varicella infection before adolescence, with peak incidence in the five to nine years age group</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594113" />
+        <annotator id="01">Roser</annotator>
+        <span start="4771" end="4780" />
+        <spannedText>estimated</spannedText>
+        <creationDate>Mon Aug 14 19:22:35 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594113">
+        <mentionClass id="AttrCue">estimated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594114" />
+        <annotator id="01">Roser</annotator>
+        <span start="4781" end="4874" />
+        <spannedText>that up to one case of congenital varicella syndrome may be expected in New Zealand each year</spannedText>
+        <creationDate>Mon Aug 14 19:22:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594120">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594113" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594114">
+        <hasSlotMention id="EHOST_Instance_594120" />
+        <mentionClass id="AttrContent">that up to one case of congenital varicella syndrome may be expected in New Zealand each year</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594115" />
+        <annotator id="01">Roser</annotator>
+        <span start="5612" end="5621" />
+        <spannedText>estimated</spannedText>
+        <creationDate>Mon Aug 14 19:22:56 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594115">
+        <mentionClass id="AttrCue">estimated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594116" />
+        <annotator id="01">Roser</annotator>
+        <span start="5622" end="5852" />
+        <spannedText>to experience approximately 50,000 varicella infections, of which 150–200 result in hospitalisation, one to two cases result in residual long term disability or death, and 0.5–1 cases result in severe congenital varicella syndrome</spannedText>
+        <creationDate>Mon Aug 14 19:23:14 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594121">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594115" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594116">
+        <hasSlotMention id="EHOST_Instance_594121" />
+        <mentionClass id="AttrContent">to experience approximately 50,000 varicella infections, of which 150–200 result in hospitalisation, one to two cases result in residual long term disability or death, and 0.5–1 cases result in severe congenital varicella syndrome</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594117" />
+        <annotator id="01">Roser</annotator>
+        <span start="6235" end="6242" />
+        <spannedText>advised</spannedText>
+        <creationDate>Sun Aug 20 09:43:15 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_594117">
+        <mentionClass id="AttrCue">advised</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_594118" />
+        <annotator id="01">Roser</annotator>
+        <span start="6243" end="6306" />
+        <spannedText>not to attend work or public places for the same period of time</spannedText>
+        <creationDate>Sun Aug 20 09:43:20 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_594122">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_594117" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_594118">
+        <hasSlotMention id="EHOST_Instance_594122" />
+        <mentionClass id="AttrContent">not to attend work or public places for the same period of time</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

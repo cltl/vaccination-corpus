@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Newstarget-com_20170301T142751.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3702" />
+        <annotator id="01">Sanne</annotator>
+        <span start="730" end="877" />
+        <spannedText>this is the same Merck HPV {Gardasil) vaccine that has killed, maimed and neurologically injured hundreds, if not thousands of young women globally</spannedText>
+        <creationDate>Wed Apr 11 21:02:34 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3702">
+        <mentionClass id="claim">this is the same Merck HPV {Gardasil) vaccine that has killed, maimed and neurologically injured hundreds, if not thousands of young women globally</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3703" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1437" end="1476" />
+        <spannedText>don’t be injected with Merck’s Gardasil</spannedText>
+        <creationDate>Wed Apr 11 21:02:55 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3703">
+        <mentionClass id="claim">don’t be injected with Merck’s Gardasil</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3704" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2225" end="2357" />
+        <spannedText>the research demonstrating a higher instance of autism in African American boys after being injected with the MMR vaccine was buried</spannedText>
+        <creationDate>Wed Apr 11 21:03:33 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3707">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3705" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3704">
+        <hasSlotMention id="EHOST_Instance_3707" />
+        <mentionClass id="claim">the research demonstrating a higher instance of autism in African American boys after being injected with the MMR vaccine was buried</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3705" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2207" end="2210" />
+        <spannedText>who</spannedText>
+        <creationDate>Wed Apr 11 21:03:35 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3705">
+        <mentionClass id="source_of_claim">who</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3706" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2457" end="2475" />
+        <spannedText>Avoid that one too</spannedText>
+        <creationDate>Wed Apr 11 21:03:42 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3706">
+        <mentionClass id="claim">Avoid that one too</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

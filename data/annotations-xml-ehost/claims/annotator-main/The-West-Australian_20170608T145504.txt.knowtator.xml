@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="The-West-Australian_20170608T145504.txt">
+    <annotation>
+        <mention id="EHOST_Instance_38576" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="436" end="538" />
+        <spannedText>the film reignites false claims about a link between the mumps, measles and rubella vaccine and autism</spannedText>
+        <creationDate>Mon May 28 02:41:06 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38576">
+        <mentionClass id="claim">the film reignites false claims about a link between the mumps, measles and rubella vaccine and autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38577" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1013" end="1063" />
+        <spannedText>parents should not be swayed by the hype of Vaxxed</spannedText>
+        <creationDate>Mon May 28 02:41:18 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38577">
+        <mentionClass id="claim">parents should not be swayed by the hype of Vaxxed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38578" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1381" end="1452" />
+        <spannedText>no child should unnecessarily suffer from a vaccine-preventable disease</spannedText>
+        <creationDate>Mon May 28 02:41:40 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_38582">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_38579" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_38578">
+        <hasSlotMention id="EHOST_Instance_38582" />
+        <mentionClass id="claim">no child should unnecessarily suffer from a vaccine-preventable disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38579" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1178" end="1181" />
+        <spannedText>she</spannedText>
+        <creationDate>Mon May 28 02:41:45 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38579">
+        <mentionClass id="source_of_claim">she</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38580" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1892" end="2063" />
+        <spannedText>We’re very fortunate to have credible sources of vaccination information in WA and it’s ludicrous we still have debate about the public health triumph of the past 50 years</spannedText>
+        <creationDate>Mon May 28 02:42:07 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_38583">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_38581" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_38580">
+        <hasSlotMention id="EHOST_Instance_38583" />
+        <mentionClass id="claim">We’re very fortunate to have credible sources of vaccination information in WA and it’s ludicrous we still have debate about the public health triumph of the past 50 years</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_38581" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1768" end="1777" />
+        <spannedText>Dr Gannon</spannedText>
+        <creationDate>Mon May 28 02:42:11 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_38581">
+        <mentionClass id="source_of_claim">Dr Gannon</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

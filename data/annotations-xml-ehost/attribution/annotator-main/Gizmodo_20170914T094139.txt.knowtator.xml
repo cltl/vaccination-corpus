@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Gizmodo_20170914T094139.txt">
+    <annotation>
+        <mention id="EHOST_Instance_7184" />
+        <annotator id="01">Sanne</annotator>
+        <span start="310" end="311" />
+        <spannedText>I</spannedText>
+        <creationDate>Sat Oct 21 19:56:04 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7213">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7184">
+        <hasSlotMention id="EHOST_Instance_7213" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7185" />
+        <annotator id="01">Sanne</annotator>
+        <span start="312" end="317" />
+        <spannedText>think</spannedText>
+        <creationDate>Sat Oct 21 19:56:11 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7185">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7186" />
+        <annotator id="01">Sanne</annotator>
+        <span start="318" end="328" />
+        <spannedText>x causes y</spannedText>
+        <creationDate>Sat Oct 21 19:56:13 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7214">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7185" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7215">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7184" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7186">
+        <hasSlotMention id="EHOST_Instance_7214" />
+        <hasSlotMention id="EHOST_Instance_7215" />
+        <mentionClass id="AttrContent">x causes y</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7187" />
+        <annotator id="01">Sanne</annotator>
+        <span start="439" end="447" />
+        <spannedText>convince</spannedText>
+        <creationDate>Sat Oct 21 19:56:26 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7187">
+        <mentionClass id="AttrCue">convince</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7188" />
+        <annotator id="01">Sanne</annotator>
+        <span start="455" end="485" />
+        <spannedText>that their hypothesis is wrong</spannedText>
+        <creationDate>Sat Oct 21 19:56:28 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7216">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7187" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7188">
+        <hasSlotMention id="EHOST_Instance_7216" />
+        <mentionClass id="AttrContent">that their hypothesis is wrong</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7189" />
+        <annotator id="01">Sanne</annotator>
+        <span start="543" end="558" />
+        <spannedText>Some scientists</spannedText>
+        <creationDate>Sat Oct 21 19:56:34 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7217">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7189">
+        <hasSlotMention id="EHOST_Instance_7217" />
+        <mentionClass id="AttrSource">Some scientists</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7190" />
+        <annotator id="01">Sanne</annotator>
+        <span start="559" end="564" />
+        <spannedText>think</spannedText>
+        <creationDate>Sat Oct 21 19:56:41 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7190">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7191" />
+        <annotator id="01">Sanne</annotator>
+        <span start="565" end="663" />
+        <spannedText>that a paper published in the November 11 issue of the journal Scientific Reports did exactly that</spannedText>
+        <creationDate>Sat Oct 21 19:56:45 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7218">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7190" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7219">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7189" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7191">
+        <hasSlotMention id="EHOST_Instance_7218" />
+        <hasSlotMention id="EHOST_Instance_7219" />
+        <mentionClass id="AttrContent">that a paper published in the November 11 issue of the journal Scientific Reports did exactly that</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7192" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1075" end="1150" />
+        <spannedText>“Basically, this is an utterly useless paper, a waste of precious animals,”</spannedText>
+        <creationDate>Sat Oct 21 19:57:05 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7220">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7193" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7221">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7194" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7192">
+        <hasSlotMention id="EHOST_Instance_7220" />
+        <hasSlotMention id="EHOST_Instance_7221" />
+        <mentionClass id="AttrContent">“Basically, this is an utterly useless paper, a waste of precious animals,”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7193" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1151" end="1158" />
+        <spannedText>blogged</spannedText>
+        <creationDate>Sat Oct 21 19:57:06 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7193">
+        <mentionClass id="AttrCue">blogged</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7194" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1159" end="1261" />
+        <spannedText>David Gorski, a surgical oncologist at the Barbara Ann Karmanos Cancer Institute in Detroit, Michigan,</spannedText>
+        <creationDate>Sat Oct 21 19:57:15 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7222">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7194">
+        <hasSlotMention id="EHOST_Instance_7222" />
+        <mentionClass id="AttrSource">David Gorski, a surgical oncologist at the Barbara Ann Karmanos Cancer Institute in Detroit, Michigan,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7195" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1524" end="1553" />
+        <spannedText>recipients of the HPV vaccine</spannedText>
+        <creationDate>Sat Oct 21 19:57:44 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7223">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7195">
+        <hasSlotMention id="EHOST_Instance_7223" />
+        <mentionClass id="AttrSource">recipients of the HPV vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7196" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1554" end="1562" />
+        <spannedText>reported</spannedText>
+        <creationDate>Sat Oct 21 19:57:56 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7196">
+        <mentionClass id="AttrCue">reported</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7197" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1563" end="1583" />
+        <spannedText>strange side effects</spannedText>
+        <creationDate>Sat Oct 21 19:57:57 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7224">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7195" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7225">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7196" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7197">
+        <hasSlotMention id="EHOST_Instance_7224" />
+        <hasSlotMention id="EHOST_Instance_7225" />
+        <mentionClass id="AttrContent">strange side effects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7198" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1698" end="1711" />
+        <spannedText>Later studies</spannedText>
+        <creationDate>Sat Oct 21 19:58:08 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7226">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7198">
+        <hasSlotMention id="EHOST_Instance_7226" />
+        <mentionClass id="AttrSource">Later studies</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7199" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1712" end="1717" />
+        <spannedText>found</spannedText>
+        <creationDate>Sat Oct 21 19:58:14 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7199">
+        <mentionClass id="AttrCue">found</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7200" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1718" end="1799" />
+        <spannedText>that the symptoms were equally likely whether patients had been vaccinated or not</spannedText>
+        <creationDate>Sat Oct 21 19:58:16 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7227">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7199" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7228">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7198" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7200">
+        <hasSlotMention id="EHOST_Instance_7227" />
+        <hasSlotMention id="EHOST_Instance_7228" />
+        <mentionClass id="AttrContent">that the symptoms were equally likely whether patients had been vaccinated or not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7201" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1816" end="1931" />
+        <spannedText>though the vaccine appears to have cut HPV rates, vaccination rates have been falling in Ireland, Denmark and Japan</spannedText>
+        <creationDate>Sat Oct 21 19:58:32 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7229">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7202" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7230">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7203" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7201">
+        <hasSlotMention id="EHOST_Instance_7229" />
+        <hasSlotMention id="EHOST_Instance_7230" />
+        <mentionClass id="AttrContent">though the vaccine appears to have cut HPV rates, vaccination rates have been falling in Ireland, Denmark and Japan</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7202" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1933" end="1940" />
+        <spannedText>Science</spannedText>
+        <creationDate>Sat Oct 21 19:58:33 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7231">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7202">
+        <hasSlotMention id="EHOST_Instance_7231" />
+        <mentionClass id="AttrSource">Science</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7203" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1941" end="1948" />
+        <spannedText>reports</spannedText>
+        <creationDate>Sat Oct 21 19:58:39 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7203">
+        <mentionClass id="AttrCue">reports</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7204" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1950" end="1987" />
+        <spannedText>The scientists behind the mouse study</spannedText>
+        <creationDate>Sat Oct 21 19:58:46 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7232">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7204">
+        <hasSlotMention id="EHOST_Instance_7232" />
+        <mentionClass id="AttrSource">The scientists behind the mouse study</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7205" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2020" end="2026" />
+        <spannedText>saying</spannedText>
+        <creationDate>Sat Oct 21 19:58:54 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7205">
+        <mentionClass id="AttrCue">saying</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7206" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2027" end="2095" />
+        <spannedText>this was a first test similar to other types of studies done in mice</spannedText>
+        <creationDate>Sat Oct 21 19:58:55 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7233">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7205" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7234">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7204" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7206">
+        <hasSlotMention id="EHOST_Instance_7233" />
+        <hasSlotMention id="EHOST_Instance_7234" />
+        <mentionClass id="AttrContent">this was a first test similar to other types of studies done in mice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7207" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2106" end="2116" />
+        <spannedText>the public</spannedText>
+        <creationDate>Sat Oct 21 19:59:02 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7235">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7207">
+        <hasSlotMention id="EHOST_Instance_7235" />
+        <mentionClass id="AttrSource">the public</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7208" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2122" end="2131" />
+        <spannedText>concerned</spannedText>
+        <creationDate>Sat Oct 21 19:59:08 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7208">
+        <mentionClass id="AttrCue">concerned</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7209" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2132" end="2157" />
+        <spannedText>that two things correlate</spannedText>
+        <creationDate>Sat Oct 21 19:59:11 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7236">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7208" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7237">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7207" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7209">
+        <hasSlotMention id="EHOST_Instance_7236" />
+        <hasSlotMention id="EHOST_Instance_7237" />
+        <mentionClass id="AttrContent">that two things correlate</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7210" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1423" end="1433" />
+        <spannedText>scientists</spannedText>
+        <creationDate>Sun Oct 22 21:44:30 BST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_7238">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_7210">
+        <hasSlotMention id="EHOST_Instance_7238" />
+        <mentionClass id="AttrSource">scientists</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7211" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1438" end="1443" />
+        <spannedText>angry</spannedText>
+        <creationDate>Sun Oct 22 21:44:38 BST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_7211">
+        <mentionClass id="AttrCue">angry</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_7212" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1444" end="1460" />
+        <spannedText>about this study</spannedText>
+        <creationDate>Sun Oct 22 21:44:40 BST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_7239">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7211" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_7240">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_7210" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_7212">
+        <hasSlotMention id="EHOST_Instance_7239" />
+        <hasSlotMention id="EHOST_Instance_7240" />
+        <mentionClass id="AttrContent">about this study</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

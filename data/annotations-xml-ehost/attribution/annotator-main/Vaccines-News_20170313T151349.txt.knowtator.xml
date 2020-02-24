@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Vaccines-News_20170313T151349.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30239" />
+        <annotator id="01">Sanne</annotator>
+        <span start="449" end="459" />
+        <spannedText>Most of us</spannedText>
+        <creationDate>Mon Sep 18 16:08:17 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30248">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30239">
+        <hasSlotMention id="EHOST_Instance_30248" />
+        <mentionClass id="AttrSource">Most of us</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30240" />
+        <annotator id="01">Sanne</annotator>
+        <span start="460" end="464" />
+        <spannedText>know</spannedText>
+        <creationDate>Mon Sep 18 16:08:24 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30240">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30241" />
+        <annotator id="01">Sanne</annotator>
+        <span start="465" end="700" />
+        <spannedText>that anyone who has been injected with a live virus – even one that has been weakened or is “inactive” – can nevertheless shed that virus via saliva or mucus to anyone they come in contact with, whether or not they have been vaccinated</spannedText>
+        <creationDate>Mon Sep 18 16:08:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30249">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30240" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30250">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30239" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30241">
+        <hasSlotMention id="EHOST_Instance_30249" />
+        <hasSlotMention id="EHOST_Instance_30250" />
+        <mentionClass id="AttrContent">that anyone who has been injected with a live virus – even one that has been weakened or is “inactive” – can nevertheless shed that virus via saliva or mucus to anyone they come in contact with, whether or not they have been vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30242" />
+        <annotator id="01">Sanne</annotator>
+        <span start="0" end="49" />
+        <spannedText>Parents who are worried about infectious diseases</spannedText>
+        <creationDate>Sat Sep 23 12:02:37 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30251">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30242">
+        <hasSlotMention id="EHOST_Instance_30251" />
+        <mentionClass id="AttrSource">Parents who are worried about infectious diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30243" />
+        <annotator id="01">Sanne</annotator>
+        <span start="60" end="65" />
+        <spannedText>argue</spannedText>
+        <creationDate>Sat Sep 23 12:02:45 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30243">
+        <mentionClass id="AttrCue">argue</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30244" />
+        <annotator id="01">Sanne</annotator>
+        <span start="66" end="272" />
+        <spannedText>that anytime there is an outbreak of measles, flu or chicken pox at their kids’ school all of the non-vaccinated kids are the culprits, and therefore should be banished from school until they are inoculated</spannedText>
+        <creationDate>Sat Sep 23 12:02:59 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30252">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30242" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30253">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30243" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30244">
+        <hasSlotMention id="EHOST_Instance_30252" />
+        <hasSlotMention id="EHOST_Instance_30253" />
+        <mentionClass id="AttrContent">that anytime there is an outbreak of measles, flu or chicken pox at their kids’ school all of the non-vaccinated kids are the culprits, and therefore should be banished from school until they are inoculated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30245" />
+        <annotator id="01">Sanne</annotator>
+        <span start="993" end="1007" />
+        <spannedText>most Americans</spannedText>
+        <creationDate>Sat Sep 23 12:03:40 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30254">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30245">
+        <hasSlotMention id="EHOST_Instance_30254" />
+        <mentionClass id="AttrSource">most Americans</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30246" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1012" end="1020" />
+        <spannedText>clueless</spannedText>
+        <creationDate>Sat Sep 23 12:03:54 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30246">
+        <mentionClass id="AttrCue">clueless</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30247" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1021" end="1069" />
+        <spannedText>about the fact that the most crucial information</spannedText>
+        <creationDate>Sat Sep 23 12:03:58 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30255">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30246" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30256">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30245" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30247">
+        <hasSlotMention id="EHOST_Instance_30255" />
+        <hasSlotMention id="EHOST_Instance_30256" />
+        <mentionClass id="AttrContent">about the fact that the most crucial information</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

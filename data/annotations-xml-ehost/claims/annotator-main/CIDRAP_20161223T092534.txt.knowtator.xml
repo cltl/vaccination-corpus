@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="CIDRAP_20161223T092534.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31341" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="722" end="835" />
+        <spannedText>overall, the news is gratifying in that the overwhelming majority of parents continue to vaccinate their children</spannedText>
+        <creationDate>Wed Feb 21 02:02:10 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31345">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_31344" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31341">
+        <hasSlotMention id="EHOST_Instance_31345" />
+        <mentionClass id="claim">overall, the news is gratifying in that the overwhelming majority of parents continue to vaccinate their children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31342" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="862" end="980" />
+        <spannedText>even small pockets of undervaccinated children can fuel an outbreak, such as the recent Disney-linked measles outbreak</spannedText>
+        <creationDate>Wed Feb 21 02:02:22 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31346">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_31344" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31342">
+        <hasSlotMention id="EHOST_Instance_31346" />
+        <mentionClass id="claim">even small pockets of undervaccinated children can fuel an outbreak, such as the recent Disney-linked measles outbreak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31343" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="982" end="1147" />
+        <spannedText>Immunization programs count on high uptake not only to protect vaccinated children, but also to protect infants and those who can't be vaccinated for medical reasons</spannedText>
+        <creationDate>Wed Feb 21 02:02:29 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31347">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_31344" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31343">
+        <hasSlotMention id="EHOST_Instance_31347" />
+        <mentionClass id="claim">Immunization programs count on high uptake not only to protect vaccinated children, but also to protect infants and those who can't be vaccinated for medical reasons</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31344" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="612" end="710" />
+        <spannedText>Anne Schuchat, MD, director of the CDC's National Center for Immunization and Respiratory Diseases</spannedText>
+        <creationDate>Wed Feb 21 02:02:40 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31344">
+        <mentionClass id="source_of_claim">Anne Schuchat, MD, director of the CDC's National Center for Immunization and Respiratory Diseases</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

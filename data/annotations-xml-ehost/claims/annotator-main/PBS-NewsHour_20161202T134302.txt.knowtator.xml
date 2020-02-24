@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="PBS-NewsHour_20161202T134302.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3161" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="291" end="372" />
+        <spannedText>It should come as little surprise when the unvaccinated get sick with the measles</spannedText>
+        <creationDate>Fri Mar 30 14:11:16 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3161">
+        <mentionClass id="claim">It should come as little surprise when the unvaccinated get sick with the measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3162" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="788" end="908" />
+        <spannedText>Large numbers of vaccinated people act as a firewall that prevent the disease from spreading to those who are vulnerable</spannedText>
+        <creationDate>Fri Mar 30 14:12:00 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3162">
+        <mentionClass id="claim">Large numbers of vaccinated people act as a firewall that prevent the disease from spreading to those who are vulnerable</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3163" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="910" end="949" />
+        <spannedText>The vaccinated protect the unvaccinated</spannedText>
+        <creationDate>Fri Mar 30 14:12:03 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3163">
+        <mentionClass id="claim">The vaccinated protect the unvaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3164" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="635" end="708" />
+        <spannedText>The MMR vaccine is very effective, but it’s not 100 percent preventative</spannedText>
+        <creationDate>Fri Mar 30 14:12:07 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3164">
+        <mentionClass id="claim">The MMR vaccine is very effective, but it’s not 100 percent preventative</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3165" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1373" end="1436" />
+        <spannedText>if everyone got the vaccine, the virus would have nowhere to go</spannedText>
+        <creationDate>Fri Mar 30 14:12:41 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3165">
+        <mentionClass id="claim">if everyone got the vaccine, the virus would have nowhere to go</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3166" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1438" end="1477" />
+        <spannedText>The unvaccinated keep the measles alive</spannedText>
+        <creationDate>Fri Mar 30 14:12:46 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3166">
+        <mentionClass id="claim">The unvaccinated keep the measles alive</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3167" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="6411" end="6495" />
+        <spannedText>It only takes a small community of unimmunized for the virus to take hold and spread</spannedText>
+        <creationDate>Fri Mar 30 14:22:35 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3169">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3168" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3167">
+        <hasSlotMention id="EHOST_Instance_3169" />
+        <mentionClass id="claim">It only takes a small community of unimmunized for the virus to take hold and spread</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3168" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="6392" end="6403" />
+        <spannedText>Stinchfield</spannedText>
+        <creationDate>Fri Mar 30 14:23:10 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3168">
+        <mentionClass id="source_of_claim">Stinchfield</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

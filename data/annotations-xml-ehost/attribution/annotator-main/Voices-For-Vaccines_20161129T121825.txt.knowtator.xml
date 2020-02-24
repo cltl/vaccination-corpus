@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Voices-For-Vaccines_20161129T121825.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30808" />
+        <annotator id="01">Sanne</annotator>
+        <span start="226" end="242" />
+        <spannedText>Current research</spannedText>
+        <creationDate>Mon Sep 18 18:18:39 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30839">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30808">
+        <hasSlotMention id="EHOST_Instance_30839" />
+        <mentionClass id="AttrSource">Current research</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30809" />
+        <annotator id="01">Sanne</annotator>
+        <span start="243" end="251" />
+        <spannedText>suggests</spannedText>
+        <creationDate>Mon Sep 18 18:18:46 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30809">
+        <mentionClass id="AttrCue">suggests</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30810" />
+        <annotator id="01">Sanne</annotator>
+        <span start="252" end="411" />
+        <spannedText>that the average child not in daycare will have between 6-8 fevers per year between the ages of 0-3, and children in daycare will average 10-12 fevers per year</spannedText>
+        <creationDate>Mon Sep 18 18:18:52 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30840">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30809" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30841">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30808" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30810">
+        <hasSlotMention id="EHOST_Instance_30840" />
+        <hasSlotMention id="EHOST_Instance_30841" />
+        <mentionClass id="AttrContent">that the average child not in daycare will have between 6-8 fevers per year between the ages of 0-3, and children in daycare will average 10-12 fevers per year</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30811" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1475" end="1499" />
+        <spannedText>Most practice guidelines</spannedText>
+        <creationDate>Mon Sep 18 18:19:19 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30842">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30811">
+        <hasSlotMention id="EHOST_Instance_30842" />
+        <mentionClass id="AttrSource">Most practice guidelines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30812" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1500" end="1509" />
+        <spannedText>recommend</spannedText>
+        <creationDate>Mon Sep 18 18:19:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30812">
+        <mentionClass id="AttrCue">recommend</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30813" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1510" end="1667" />
+        <spannedText>multiple blood tests, which require an IV, urine testing, a chest x-ray, and, depending on the child’s age and other risk factors, possibly a lumbar puncture</spannedText>
+        <creationDate>Mon Sep 18 18:19:36 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30843">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30811" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30844">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30812" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30813">
+        <hasSlotMention id="EHOST_Instance_30843" />
+        <hasSlotMention id="EHOST_Instance_30844" />
+        <mentionClass id="AttrContent">multiple blood tests, which require an IV, urine testing, a chest x-ray, and, depending on the child’s age and other risk factors, possibly a lumbar puncture</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30814" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2363" end="2364" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:20:13 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30845">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30814">
+        <hasSlotMention id="EHOST_Instance_30845" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30815" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2371" end="2378" />
+        <spannedText>support</spannedText>
+        <creationDate>Mon Sep 18 18:20:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30815">
+        <mentionClass id="AttrCue">support</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30816" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2398" end="2404" />
+        <spannedText>choose</spannedText>
+        <creationDate>Mon Sep 18 18:20:28 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30816">
+        <mentionClass id="AttrCue">choose</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30817" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2405" end="2421" />
+        <spannedText>not to vaccinate</spannedText>
+        <creationDate>Mon Sep 18 18:20:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30846">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30816" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30817">
+        <hasSlotMention id="EHOST_Instance_30846" />
+        <mentionClass id="AttrContent">not to vaccinate</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30818" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2379" end="2421" />
+        <spannedText>parents’ rights to choose not to vaccinate</spannedText>
+        <creationDate>Mon Sep 18 18:20:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30847">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30815" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30848">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30814" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30818">
+        <hasSlotMention id="EHOST_Instance_30847" />
+        <hasSlotMention id="EHOST_Instance_30848" />
+        <mentionClass id="AttrContent">parents’ rights to choose not to vaccinate</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30819" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2469" end="2470" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:20:53 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30849">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30819">
+        <hasSlotMention id="EHOST_Instance_30849" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30820" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2579" end="2586" />
+        <spannedText>explain</spannedText>
+        <creationDate>Mon Sep 18 18:21:04 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30820">
+        <mentionClass id="AttrCue">explain</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30821" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2644" end="2652" />
+        <spannedText>research</spannedText>
+        <creationDate>Mon Sep 18 18:21:12 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30850">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30821">
+        <hasSlotMention id="EHOST_Instance_30850" />
+        <mentionClass id="AttrSource">research</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30822" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2653" end="2662" />
+        <spannedText>indicates</spannedText>
+        <creationDate>Mon Sep 18 18:21:17 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30822">
+        <mentionClass id="AttrCue">indicates</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30823" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2663" end="2746" />
+        <spannedText>that their child is at a significantly increased risk for life-threatening diseases</spannedText>
+        <creationDate>Mon Sep 18 18:21:23 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30851">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30822" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30852">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30821" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30823">
+        <hasSlotMention id="EHOST_Instance_30851" />
+        <hasSlotMention id="EHOST_Instance_30852" />
+        <mentionClass id="AttrContent">that their child is at a significantly increased risk for life-threatening diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30824" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2595" end="2791" />
+        <spannedText>that because of their decision to not vaccinate, research indicates that their child is at a significantly increased risk for life-threatening diseases, and so will need invasive testing in the ER</spannedText>
+        <creationDate>Mon Sep 18 18:21:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30853">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30820" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30854">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30819" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30824">
+        <hasSlotMention id="EHOST_Instance_30853" />
+        <hasSlotMention id="EHOST_Instance_30854" />
+        <mentionClass id="AttrContent">that because of their decision to not vaccinate, research indicates that their child is at a significantly increased risk for life-threatening diseases, and so will need invasive testing in the ER</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30825" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2845" end="2846" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:22:08 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30855">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30825">
+        <hasSlotMention id="EHOST_Instance_30855" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30826" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2847" end="2851" />
+        <spannedText>tell</spannedText>
+        <creationDate>Mon Sep 18 18:22:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30826">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30827" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2857" end="3015" />
+        <spannedText>that the diseases we vaccinate against aren’t just nuisances; they kill and maim children every day, and they are almost completely preventable by vaccination</spannedText>
+        <creationDate>Mon Sep 18 18:22:46 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30856">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30826" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30857">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30825" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30827">
+        <hasSlotMention id="EHOST_Instance_30856" />
+        <hasSlotMention id="EHOST_Instance_30857" />
+        <mentionClass id="AttrContent">that the diseases we vaccinate against aren’t just nuisances; they kill and maim children every day, and they are almost completely preventable by vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30828" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3017" end="3018" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:23:01 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30858">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30828">
+        <hasSlotMention id="EHOST_Instance_30858" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30829" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3019" end="3023" />
+        <spannedText>tell</spannedText>
+        <creationDate>Mon Sep 18 18:23:07 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30829">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30830" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3032" end="3172" />
+        <spannedText>that I have worked in several developing countries, and I have seen children disfigured by diseases that we only read about in history books</spannedText>
+        <creationDate>Mon Sep 18 18:23:11 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30859">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30829" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30860">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30828" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30830">
+        <hasSlotMention id="EHOST_Instance_30859" />
+        <hasSlotMention id="EHOST_Instance_30860" />
+        <mentionClass id="AttrContent">that I have worked in several developing countries, and I have seen children disfigured by diseases that we only read about in history books</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30831" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3424" end="3425" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:23:26 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30861">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30831">
+        <hasSlotMention id="EHOST_Instance_30861" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30832" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3431" end="3435" />
+        <spannedText>tell</spannedText>
+        <creationDate>Mon Sep 18 18:23:32 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30832">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30833" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3441" end="3545" />
+        <spannedText>that as a parent of two boys, I carefully research every vaccine and medicine that my children are given</spannedText>
+        <creationDate>Mon Sep 18 18:23:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30862">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30832" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30863">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30831" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30833">
+        <hasSlotMention id="EHOST_Instance_30862" />
+        <hasSlotMention id="EHOST_Instance_30863" />
+        <mentionClass id="AttrContent">that as a parent of two boys, I carefully research every vaccine and medicine that my children are given</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30834" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3713" end="3714" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:23:46 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30864">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30834">
+        <hasSlotMention id="EHOST_Instance_30864" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30835" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3715" end="3719" />
+        <spannedText>tell</spannedText>
+        <creationDate>Mon Sep 18 18:23:56 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30835">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30836" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3725" end="3861" />
+        <spannedText>that after many hours of studying the best research available, I am first in line to have my children vaccinated every time they are due</spannedText>
+        <creationDate>Mon Sep 18 18:24:01 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30865">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30835" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30866">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30834" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30836">
+        <hasSlotMention id="EHOST_Instance_30865" />
+        <hasSlotMention id="EHOST_Instance_30866" />
+        <mentionClass id="AttrContent">that after many hours of studying the best research available, I am first in line to have my children vaccinated every time they are due</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30837" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3863" end="3939" />
+        <spannedText>Dr. Torree McGowan, MD, graduated from Oregon Health and Sciences University</spannedText>
+        <creationDate>Mon Sep 18 18:24:35 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30867">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30837">
+        <hasSlotMention id="EHOST_Instance_30867" />
+        <mentionClass id="AttrSource">Dr. Torree McGowan, MD, graduated from Oregon Health and Sciences University</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30838" />
+        <annotator id="01">Sanne</annotator>
+        <span start="0" end="3862" />
+        <spannedText>I think about children and vaccines more than the average person.  I’m an emergency medicine physician, and a parent’s decision to vaccinate his or her child affects my job every single shift. Children get fevers frequently.  Current research suggests that the average child not in daycare will have between 6-8 fevers per year between the ages of 0-3, and children in daycare will average 10-12 fevers per year.  Fevers can be scary, and those children and frightened parents often end up in the emergency room. Every visit for a febrile child begins with a conversation with the parents and an examination of the child.  As long as the child looks well–meaning he or she will interact, make eye contact, and act appropriately for his or her age–the next most important question is about the child’s vaccination status. Depending on the parents’ decisions on vaccination, the visit then can follow one of two paths. For children who are fully vaccinated and over six months of age, I search for a source of the infection based on their symptoms; if they are coughing or have other signs of a respiratory infection, the child gets a chest x-ray.  Young girls and uncircumcised males are at higher risk for bladder infections, so we usually do a urine test.  If those are all negative, we usually send the child home with no medications and the expectation that the fever is caused by a virus and will soon go away. Unvaccinated children, however, require much more testing.  Most practice guidelines recommend multiple blood tests, which require an IV, urine testing, a chest x-ray, and, depending on the child’s age and other risk factors, possibly a lumbar puncture (a.k.a.  spinal tap). Based on those results, children are sometimes then treated with antibiotics via another injection, and then have to see their primary doctor within twenty-four hours to continue the antibiotics and often have more blood tests done. This disparity in how children are evaluated in the ER is based on very basic differences in how high of a risk children are at for invasive bacterial infections.  For children who are unvaccinated, some estimates as high as 5-8%* of them have a serious infection in their bloodstream (bacteremia) or around their brain (meningitis).  For children who are fully vaccinated, the risk of bloodstream and brain infections is less than 0.001%. I fully support parents’ rights to choose not to vaccinate, but there are consequences to that decision.  I have had many conversations with parents in the middle of the night when their child has a fever and had to explain to them that because of their decision to not vaccinate, research indicates that their child is at a significantly increased risk for life-threatening diseases, and so will need invasive testing in the ER.  It will take hours, and it will hurt their child.  I tell them that the diseases we vaccinate against aren’t just nuisances; they kill and maim children every day, and they are almost completely preventable by vaccination. I tell parents that I have worked in several developing countries, and I have seen children disfigured by diseases that we only read about in history books.  I’ve seen babies die of diseases that in the U.S. we don’t even think about as a cause of illness because vaccination has nearly eliminated the illness.  However, these illnesses are starting to make a comeback because of the anti-vaccine movement. I also tell them that as a parent of two boys, I carefully research every vaccine and medicine that my children are given.  I read the medical journals on the topic, and examine the evidence for myself about all of the controversies about thimerosal and autism and invasive disease.  Then I tell them that after many hours of studying the best research available, I am first in line to have my children vaccinated every time they are due.</spannedText>
+        <creationDate>Mon Sep 18 18:24:50 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30868">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30837" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30838">
+        <hasSlotMention id="EHOST_Instance_30868" />
+        <mentionClass id="AttrContent">I think about children and vaccines more than the average person.  I’m an emergency medicine physician, and a parent’s decision to vaccinate his or her child affects my job every single shift. Children get fevers frequently.  Current research suggests that the average child not in daycare will have between 6-8 fevers per year between the ages of 0-3, and children in daycare will average 10-12 fevers per year.  Fevers can be scary, and those children and frightened parents often end up in the emergency room. Every visit for a febrile child begins with a conversation with the parents and an examination of the child.  As long as the child looks well–meaning he or she will interact, make eye contact, and act appropriately for his or her age–the next most important question is about the child’s vaccination status. Depending on the parents’ decisions on vaccination, the visit then can follow one of two paths. For children who are fully vaccinated and over six months of age, I search for a source of the infection based on their symptoms; if they are coughing or have other signs of a respiratory infection, the child gets a chest x-ray.  Young girls and uncircumcised males are at higher risk for bladder infections, so we usually do a urine test.  If those are all negative, we usually send the child home with no medications and the expectation that the fever is caused by a virus and will soon go away. Unvaccinated children, however, require much more testing.  Most practice guidelines recommend multiple blood tests, which require an IV, urine testing, a chest x-ray, and, depending on the child’s age and other risk factors, possibly a lumbar puncture (a.k.a.  spinal tap). Based on those results, children are sometimes then treated with antibiotics via another injection, and then have to see their primary doctor within twenty-four hours to continue the antibiotics and often have more blood tests done. This disparity in how children are evaluated in the ER is based on very basic differences in how high of a risk children are at for invasive bacterial infections.  For children who are unvaccinated, some estimates as high as 5-8%* of them have a serious infection in their bloodstream (bacteremia) or around their brain (meningitis).  For children who are fully vaccinated, the risk of bloodstream and brain infections is less than 0.001%. I fully support parents’ rights to choose not to vaccinate, but there are consequences to that decision.  I have had many conversations with parents in the middle of the night when their child has a fever and had to explain to them that because of their decision to not vaccinate, research indicates that their child is at a significantly increased risk for life-threatening diseases, and so will need invasive testing in the ER.  It will take hours, and it will hurt their child.  I tell them that the diseases we vaccinate against aren’t just nuisances; they kill and maim children every day, and they are almost completely preventable by vaccination. I tell parents that I have worked in several developing countries, and I have seen children disfigured by diseases that we only read about in history books.  I’ve seen babies die of diseases that in the U.S. we don’t even think about as a cause of illness because vaccination has nearly eliminated the illness.  However, these illnesses are starting to make a comeback because of the anti-vaccine movement. I also tell them that as a parent of two boys, I carefully research every vaccine and medicine that my children are given.  I read the medical journals on the topic, and examine the evidence for myself about all of the controversies about thimerosal and autism and invasive disease.  Then I tell them that after many hours of studying the best research available, I am first in line to have my children vaccinated every time they are due.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

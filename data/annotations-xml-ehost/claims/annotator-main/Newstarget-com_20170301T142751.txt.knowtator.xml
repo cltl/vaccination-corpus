@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Newstarget-com_20170301T142751.txt">
+    <annotation>
+        <mention id="EHOST_Instance_91023" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="579" end="697" />
+        <spannedText>The recently released data on the success of Merck’s HPV (Gardasil) vaccine is a great example of what they’re pushing</spannedText>
+        <creationDate>Sat May 12 12:51:10 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91023">
+        <mentionClass id="claim">The recently released data on the success of Merck’s HPV (Gardasil) vaccine is a great example of what they’re pushing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91024" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1390" end="1476" />
+        <spannedText>If you and your family want to remain healthy, don’t be injected with Merck’s Gardasil</spannedText>
+        <creationDate>Sat May 12 12:51:39 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91024">
+        <mentionClass id="claim">If you and your family want to remain healthy, don’t be injected with Merck’s Gardasil</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91025" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2457" end="2475" />
+        <spannedText>Avoid that one too</spannedText>
+        <creationDate>Sat May 12 12:54:53 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91025">
+        <mentionClass id="claim">Avoid that one too</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91026" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2225" end="2357" />
+        <spannedText>the research demonstrating a higher instance of autism in African American boys after being injected with the MMR vaccine was buried</spannedText>
+        <creationDate>Sat May 12 12:55:05 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91031">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91027" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91026">
+        <hasSlotMention id="EHOST_Instance_91031" />
+        <mentionClass id="claim">the research demonstrating a higher instance of autism in African American boys after being injected with the MMR vaccine was buried</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91027" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="2175" end="2205" />
+        <spannedText>CDC scientist William Thompson</spannedText>
+        <creationDate>Sat May 12 12:55:23 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91027">
+        <mentionClass id="source_of_claim">CDC scientist William Thompson</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91028" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3163" end="3265" />
+        <spannedText>U.S. troops [in the Persian Gulf War] were intentionally exposed to investigational drugs and vaccines</spannedText>
+        <creationDate>Sat May 12 12:58:57 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91032">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91030" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91028">
+        <hasSlotMention id="EHOST_Instance_91032" />
+        <mentionClass id="claim">U.S. troops [in the Persian Gulf War] were intentionally exposed to investigational drugs and vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91029" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3267" end="3449" />
+        <spannedText>In still other cases, soldiers were exposed to biological agents or other dangerous substances that DoD was studying; the goal was to study the substances, not their effect on humans</spannedText>
+        <creationDate>Sat May 12 12:59:03 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_91033">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_91030" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_91029">
+        <hasSlotMention id="EHOST_Instance_91033" />
+        <mentionClass id="claim">In still other cases, soldiers were exposed to biological agents or other dangerous substances that DoD was studying; the goal was to study the substances, not their effect on humans</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_91030" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3138" end="3152" />
+        <spannedText>ThinkTwice.org</spannedText>
+        <creationDate>Sat May 12 12:59:08 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_91030">
+        <mentionClass id="source_of_claim">ThinkTwice.org</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

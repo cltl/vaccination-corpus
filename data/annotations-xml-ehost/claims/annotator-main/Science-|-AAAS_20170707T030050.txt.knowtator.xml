@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Science-|-AAAS_20170707T030050.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3721" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="107" end="202" />
+        <spannedText>A person fully vaccinated against measles has contracted the disease and passed it on to others</spannedText>
+        <creationDate>Wed Apr 04 12:10:35 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3721">
+        <mentionClass id="claim">A person fully vaccinated against measles has contracted the disease and passed it on to others</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3722" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="403" end="470" />
+        <spannedText>When it comes to the measles vaccine, two shots are better than one</spannedText>
+        <creationDate>Wed Apr 04 12:10:50 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3722">
+        <mentionClass id="claim">When it comes to the measles vaccine, two shots are better than one</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3723" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3313" end="3555" />
+        <spannedText>If it turns out that vaccinated people lose their immunity as they get older, that could leave them vulnerable to measles outbreaks seeded by unvaccinated people—which are increasingly common in the United States and other developed countries</spannedText>
+        <creationDate>Wed Apr 04 12:13:38 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3723">
+        <mentionClass id="claim">If it turns out that vaccinated people lose their immunity as they get older, that could leave them vulnerable to measles outbreaks seeded by unvaccinated people—which are increasingly common in the United States and other developed countries</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3724" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3831" end="3938" />
+        <spannedText>The most important ‘vaccine failure’ with measles happens when people refuse the vaccine in the first place</spannedText>
+        <creationDate>Wed Apr 04 12:13:47 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3726">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3725" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3724">
+        <hasSlotMention id="EHOST_Instance_3726" />
+        <mentionClass id="claim">The most important ‘vaccine failure’ with measles happens when people refuse the vaccine in the first place</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3725" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3662" end="3776" />
+        <spannedText>Robert Jacobson, director of clinical studies for the Mayo Clinic’s Vaccine Research Group in Rochester, Minnesota</spannedText>
+        <creationDate>Wed Apr 04 12:13:57 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3725">
+        <mentionClass id="source_of_claim">Robert Jacobson, director of clinical studies for the Mayo Clinic’s Vaccine Research Group in Rochester, Minnesota</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

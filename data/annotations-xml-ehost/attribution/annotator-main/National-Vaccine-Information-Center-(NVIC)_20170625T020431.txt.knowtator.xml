@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="National-Vaccine-Information-Center-(NVIC)_20170625T020431.txt">
+    <annotation>
+        <mention id="EHOST_Instance_39191" />
+        <annotator id="01">Sanne</annotator>
+        <span start="508" end="517" />
+        <spannedText>estimated</spannedText>
+        <creationDate>Mon Aug 21 16:41:20 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_39191">
+        <mentionClass id="AttrCue">estimated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39192" />
+        <annotator id="01">Sanne</annotator>
+        <span start="518" end="596" />
+        <spannedText>that only 10 percent of Americans over the age of 15 have never had chickenpox</spannedText>
+        <creationDate>Mon Aug 21 16:41:24 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_39208">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39191" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_39192">
+        <hasSlotMention id="EHOST_Instance_39208" />
+        <mentionClass id="AttrContent">that only 10 percent of Americans over the age of 15 have never had chickenpox</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39193" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2196" end="2256" />
+        <spannedText>A recent Centers for Disease Control (CDC) study (Dec. 2002)</spannedText>
+        <creationDate>Mon Aug 21 16:42:06 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_39209">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_39193">
+        <hasSlotMention id="EHOST_Instance_39209" />
+        <mentionClass id="AttrSource">A recent Centers for Disease Control (CDC) study (Dec. 2002)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39194" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2257" end="2265" />
+        <spannedText>reported</spannedText>
+        <creationDate>Mon Aug 21 16:42:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_39194">
+        <mentionClass id="AttrCue">reported</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39195" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2266" end="2403" />
+        <spannedText>that "the effectiveness of the vaccine was 44 percent against disease of any severity and 86 percent against moderate or severe disease."</spannedText>
+        <creationDate>Mon Aug 21 16:42:15 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_39210">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39193" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_39211">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39194" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_39195">
+        <hasSlotMention id="EHOST_Instance_39210" />
+        <hasSlotMention id="EHOST_Instance_39211" />
+        <mentionClass id="AttrContent">that "the effectiveness of the vaccine was 44 percent against disease of any severity and 86 percent against moderate or severe disease."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39196" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2404" end="2408" />
+        <spannedText>Some</spannedText>
+        <creationDate>Mon Aug 21 16:42:22 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_39212">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_39196">
+        <hasSlotMention id="EHOST_Instance_39212" />
+        <mentionClass id="AttrSource">Some</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39197" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2413" end="2423" />
+        <spannedText>suggesting</spannedText>
+        <creationDate>Mon Aug 21 16:42:28 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_39197">
+        <mentionClass id="AttrCue">suggesting</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39198" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2424" end="2473" />
+        <spannedText>a second dose of chickenpox vaccine may be needed</spannedText>
+        <creationDate>Mon Aug 21 16:42:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_39213">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39196" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_39214">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39197" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_39198">
+        <hasSlotMention id="EHOST_Instance_39213" />
+        <hasSlotMention id="EHOST_Instance_39214" />
+        <mentionClass id="AttrContent">a second dose of chickenpox vaccine may be needed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39199" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2475" end="2496" />
+        <spannedText>Another study in 2002</spannedText>
+        <creationDate>Mon Aug 21 16:42:37 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_39215">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_39199">
+        <hasSlotMention id="EHOST_Instance_39215" />
+        <mentionClass id="AttrSource">Another study in 2002</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39200" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2497" end="2506" />
+        <spannedText>confirmed</spannedText>
+        <creationDate>Mon Aug 21 16:42:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_39200">
+        <mentionClass id="AttrCue">confirmed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39201" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2507" end="2768" />
+        <spannedText>that adults exposed to natural chickenpox disease were protected from developing shingles and that there is concern that mass vaccination against chickenpox may cause a future epidemic of shingles, affecting more than 50 percent of Americans aged 10 to 44 years</spannedText>
+        <creationDate>Mon Aug 21 16:42:54 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_39216">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39200" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_39217">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39199" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_39201">
+        <hasSlotMention id="EHOST_Instance_39216" />
+        <hasSlotMention id="EHOST_Instance_39217" />
+        <mentionClass id="AttrContent">that adults exposed to natural chickenpox disease were protected from developing shingles and that there is concern that mass vaccination against chickenpox may cause a future epidemic of shingles, affecting more than 50 percent of Americans aged 10 to 44 years</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39202" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3733" end="3748" />
+        <spannedText>A study in 2002</spannedText>
+        <creationDate>Mon Aug 21 16:43:12 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_39218">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_39202">
+        <hasSlotMention id="EHOST_Instance_39218" />
+        <mentionClass id="AttrSource">A study in 2002</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39203" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3749" end="3758" />
+        <spannedText>confirmed</spannedText>
+        <creationDate>Mon Aug 21 16:43:18 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_39203">
+        <mentionClass id="AttrCue">confirmed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39204" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3759" end="4020" />
+        <spannedText>that adults exposed to natural chickenpox disease were protected from developing shingles and that there is concern that mass vaccination against chickenpox may cause a future epidemic of shingles, affecting more than 50 percent of Americans aged 10 to 44 years</spannedText>
+        <creationDate>Mon Aug 21 16:43:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_39219">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39202" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_39220">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39203" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_39204">
+        <hasSlotMention id="EHOST_Instance_39219" />
+        <hasSlotMention id="EHOST_Instance_39220" />
+        <mentionClass id="AttrContent">that adults exposed to natural chickenpox disease were protected from developing shingles and that there is concern that mass vaccination against chickenpox may cause a future epidemic of shingles, affecting more than 50 percent of Americans aged 10 to 44 years</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39205" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4381" end="4405" />
+        <spannedText>Vaccine reaction reports</spannedText>
+        <creationDate>Mon Aug 21 16:43:58 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_39221">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_39205">
+        <hasSlotMention id="EHOST_Instance_39221" />
+        <mentionClass id="AttrSource">Vaccine reaction reports</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39206" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4406" end="4413" />
+        <spannedText>suggest</spannedText>
+        <creationDate>Mon Aug 21 16:44:03 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_39206">
+        <mentionClass id="AttrCue">suggest</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_39207" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4414" end="4599" />
+        <spannedText>that the vaccine is more reactive than it was thought to be before licensure and there are too many outstanding questions about the true adverse event profile of this live virus vaccine</spannedText>
+        <creationDate>Mon Aug 21 16:44:09 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_39222">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39205" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_39223">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_39206" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_39207">
+        <hasSlotMention id="EHOST_Instance_39222" />
+        <hasSlotMention id="EHOST_Instance_39223" />
+        <mentionClass id="AttrContent">that the vaccine is more reactive than it was thought to be before licensure and there are too many outstanding questions about the true adverse event profile of this live virus vaccine</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

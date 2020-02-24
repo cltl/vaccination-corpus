@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Voices-For-Vaccines_20170228T194925.txt">
+    <annotation>
+        <mention id="EHOST_Instance_30869" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1256" end="1257" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:26:09 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30900">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30869">
+        <hasSlotMention id="EHOST_Instance_30900" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30870" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1271" end="1275" />
+        <spannedText>tell</spannedText>
+        <creationDate>Mon Sep 18 18:26:17 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30870">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30871" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1311" end="1339" />
+        <spannedText>that mummy might have cancer</spannedText>
+        <creationDate>Mon Sep 18 18:26:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30901">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30870" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30902">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30869" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30871">
+        <hasSlotMention id="EHOST_Instance_30901" />
+        <hasSlotMention id="EHOST_Instance_30902" />
+        <mentionClass id="AttrContent">that mummy might have cancer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30872" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1189" end="1190" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:26:34 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30903">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30872">
+        <hasSlotMention id="EHOST_Instance_30903" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30873" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1242" end="1251" />
+        <spannedText>wondering</spannedText>
+        <creationDate>Mon Sep 18 18:26:39 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30873">
+        <mentionClass id="AttrCue">wondering</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30874" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1252" end="1339" />
+        <spannedText>how I was going to tell my two children under the age of 7 that mummy might have cancer</spannedText>
+        <creationDate>Mon Sep 18 18:26:43 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30904">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30873" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30905">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30872" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30874">
+        <hasSlotMention id="EHOST_Instance_30904" />
+        <hasSlotMention id="EHOST_Instance_30905" />
+        <mentionClass id="AttrContent">how I was going to tell my two children under the age of 7 that mummy might have cancer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30875" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1879" end="1880" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:27:05 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30906">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30875">
+        <hasSlotMention id="EHOST_Instance_30906" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30876" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1883" end="1887" />
+        <spannedText>glad</spannedText>
+        <creationDate>Mon Sep 18 18:27:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30876">
+        <mentionClass id="AttrCue">glad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30877" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1888" end="1926" />
+        <spannedText>she gave us the great diet that we had</spannedText>
+        <creationDate>Mon Sep 18 18:27:19 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30907">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30876" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30908">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30875" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30877">
+        <hasSlotMention id="EHOST_Instance_30907" />
+        <hasSlotMention id="EHOST_Instance_30908" />
+        <mentionClass id="AttrContent">she gave us the great diet that we had</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30878" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1928" end="1929" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:27:26 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30909">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30878">
+        <hasSlotMention id="EHOST_Instance_30909" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30879" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1932" end="1936" />
+        <spannedText>glad</spannedText>
+        <creationDate>Mon Sep 18 18:27:33 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30879">
+        <mentionClass id="AttrCue">glad</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30880" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1937" end="1972" />
+        <spannedText>that she cared about us in that way</spannedText>
+        <creationDate>Mon Sep 18 18:27:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30910">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30879" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30911">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30878" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30880">
+        <hasSlotMention id="EHOST_Instance_30910" />
+        <hasSlotMention id="EHOST_Instance_30911" />
+        <mentionClass id="AttrContent">that she cared about us in that way</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30881" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2783" end="2784" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:28:48 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30912">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30881">
+        <hasSlotMention id="EHOST_Instance_30912" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30882" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2797" end="2806" />
+        <spannedText>wondering</spannedText>
+        <creationDate>Mon Sep 18 18:28:54 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30882">
+        <mentionClass id="AttrCue">wondering</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30883" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2807" end="2925" />
+        <spannedText>about the claim that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</spannedText>
+        <creationDate>Mon Sep 18 18:28:59 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30913">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30882" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30914">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30881" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30883">
+        <hasSlotMention id="EHOST_Instance_30913" />
+        <hasSlotMention id="EHOST_Instance_30914" />
+        <mentionClass id="AttrContent">about the claim that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30884" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2948" end="2949" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:29:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30915">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30884">
+        <hasSlotMention id="EHOST_Instance_30915" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30885" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2962" end="2972" />
+        <spannedText>understand</spannedText>
+        <creationDate>Mon Sep 18 18:29:26 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30885">
+        <mentionClass id="AttrCue">understand</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30886" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2973" end="3125" />
+        <spannedText>why I know far more people who have experienced complications from preventable childhood illnesses than I have EVER met with complications from vaccines</spannedText>
+        <creationDate>Mon Sep 18 18:29:29 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30916">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30884" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30917">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30885" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30886">
+        <hasSlotMention id="EHOST_Instance_30916" />
+        <hasSlotMention id="EHOST_Instance_30917" />
+        <mentionClass id="AttrContent">why I know far more people who have experienced complications from preventable childhood illnesses than I have EVER met with complications from vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30887" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3860" end="3861" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:30:21 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30918">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30887">
+        <hasSlotMention id="EHOST_Instance_30918" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30888" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3862" end="3872" />
+        <spannedText>understand</spannedText>
+        <creationDate>Mon Sep 18 18:30:27 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30888">
+        <mentionClass id="AttrCue">understand</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30889" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3886" end="3932" />
+        <spannedText>where the anti-vaccine parents are coming from</spannedText>
+        <creationDate>Mon Sep 18 18:30:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30919">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30888" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30920">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30887" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30889">
+        <hasSlotMention id="EHOST_Instance_30919" />
+        <hasSlotMention id="EHOST_Instance_30920" />
+        <mentionClass id="AttrContent">where the anti-vaccine parents are coming from</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30890" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4103" end="4104" />
+        <spannedText>I</spannedText>
+        <creationDate>Mon Sep 18 18:30:42 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30921">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30890">
+        <hasSlotMention id="EHOST_Instance_30921" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30891" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4105" end="4113" />
+        <spannedText>believed</spannedText>
+        <creationDate>Mon Sep 18 18:30:47 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30891">
+        <mentionClass id="AttrCue">believed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30892" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4114" end="4356" />
+        <spannedText>in angels, witchcraft, clairvoyants, crop circles, aliens at Nazca, giant ginger mariners spreading their knowledge to the Aztecs, the Incas and the Egyptians and that I was somehow personally blessed by the Holy Spirit with healing abilities</spannedText>
+        <creationDate>Mon Sep 18 18:30:54 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30922">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30891" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30923">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30890" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30892">
+        <hasSlotMention id="EHOST_Instance_30922" />
+        <hasSlotMention id="EHOST_Instance_30923" />
+        <mentionClass id="AttrContent">in angels, witchcraft, clairvoyants, crop circles, aliens at Nazca, giant ginger mariners spreading their knowledge to the Aztecs, the Incas and the Egyptians and that I was somehow personally blessed by the Holy Spirit with healing abilities</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30893" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4982" end="4985" />
+        <spannedText>you</spannedText>
+        <creationDate>Mon Sep 18 18:31:36 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30924">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30893">
+        <hasSlotMention id="EHOST_Instance_30924" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30894" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4986" end="4991" />
+        <spannedText>think</spannedText>
+        <creationDate>Mon Sep 18 18:31:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30894">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30895" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4992" end="5077" />
+        <spannedText>your child’s immune system is strong enough to fight off vaccine-preventable diseases</spannedText>
+        <creationDate>Mon Sep 18 18:31:47 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30925">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30894" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_30926">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30893" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30895">
+        <hasSlotMention id="EHOST_Instance_30925" />
+        <hasSlotMention id="EHOST_Instance_30926" />
+        <mentionClass id="AttrContent">your child’s immune system is strong enough to fight off vaccine-preventable diseases</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30896" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7130" end="7140" />
+        <spannedText>Amy Parker</spannedText>
+        <creationDate>Mon Sep 18 18:32:50 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_30927">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_30896">
+        <hasSlotMention id="EHOST_Instance_30927" />
+        <mentionClass id="AttrSource">Amy Parker</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30897" />
+        <annotator id="01">Sanne</annotator>
+        <span start="0" end="7129" />
+        <spannedText>I am the 70s child of a health nut. I wasn’t vaccinated. I was brought up on an incredibly healthy diet: no sugar til I was one, breastfed for over a year, organic homegrown vegetables, raw milk, no MSG, no additives, no aspartame. My mother used homeopathy, aromatherapy, osteopathy, we took daily supplements of vitamin C, echinacea, cod liver oil. I had an outdoor lifestyle; I grew up next to a farm, walked everywhere, did sports and danced twice a week, drank plenty of water. I wasn’t even allowed pop; even my fresh juice was watered down to protect my teeth, and I would’ve killed for white, shop-bought bread in my lunch box once in a while and biscuits instead of fruit like all the other kids. We only ate (organic local) meat maybe once or twice a week and my mother and father cooked everything from scratch – I have yet to taste a Findus crispy pancake and oven chips were reserved for those nights when mum and dad had friends over and we got a “treat.” As healthy as my lifestyle seemed, I contracted measles, mumps, rubella, a type of viral meningitis, scarlatina, whooping cough, yearly tonsillitis, and chickenpox, some of which are vaccine preventable. In my twenties I got precancerous HPV and spent 6 months of my life wondering how I was going to tell my two children under the age of 7 that mummy might have cancer before it was safely removed. So having the “natural immunity sterilised out of us” just doesn’t cut it for me. How could I, with my idyllic childhood and my amazing health food, get so freaking ill all the time? My mother was the biggest health freak around–she would put most of my current “crunchy” friends to shame. She didn’t drink, she didn’t smoke, she didn’t do drugs and we certainly weren’t allowed to watch whatever we wanted on telly or wear plastic shoes or any of that stuff. She LIVED alternative health. And you know what? I’m glad she gave us the great diet that we had, I’m glad that she cared about us in that way. But it just didn’t stop me getting childhood illnesses. My two vaccinated children, on the other hand, have rarely been ill, have had antibiotics maybe twice in their lives, if that (not like me who got so many illnesses which needed treatment with antibiotics that I developed a resistance to them, which led me to be hospitalized with penicillin-resistant quinsy at 21–you know that old fashioned disease that killed Queen Elizabeth I and which was almost wiped out through use of antibiotics). My kids have had no childhood illnesses other than chickenpox, which they both contracted while still breastfeeding. They too grew up on a healthy diet, homegrown organics etc. Not to the same extent as I did, though, as I was not quite as strict as my mother, but they are both healthier than I have ever been. I find myself wondering about the claim that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant. If this is the case, I struggle to understand why I know far more people who have experienced complications from preventable childhood illnesses than I have EVER met with complications from vaccines. I have friends who became deaf from measles. I have a partially sighted friend who contracted rubella in the womb. My ex got pneumonia from chickenpox. A friend’s brother died from meningitis. Anecdotal evidence is nothing to base decisions on. But when facts and evidence-based science aren’t good enough to sway someone’s opinion, then this is where I come from. After all, anecdotes are the anti-vaccine supporter’s way. Well, this is my personal experience. And my personal experience prompts me to vaccinate my children and myself. I got the flu vaccine recently, and I am getting the whooping cough booster to protect my unborn baby. My natural immunity from having whooping cough at age 5 will not protect him once he’s born. I understand, to a point, where the anti-vaccine parents are coming from. Back in the 90s when I was a concerned, 19-year-old mother, frightened by the world I was bringing my child into, I was studying homeopathy, herbalism and aromatherapy; I believed in angels, witchcraft, clairvoyants, crop circles, aliens at Nazca, giant ginger mariners spreading their knowledge to the Aztecs, the Incas and the Egyptians and that I was somehow personally blessed by the Holy Spirit with healing abilities. I was having my aura read at a hefty price and filtering the fluoride out of my water. I was choosing to have past life regressions instead of taking anti-depressants. I was taking my daily advice from tarot cards. I grew all my own veg and made my own herbal remedies. I was so freaking crunchy that I literally crumbled. It was only when I took control of those paranoid thoughts and fears about the world around me and became an objective critical thinker that I got well. It was when I stopped taking sugar pills for everything and started seeing medical professionals that I began to thrive physically and mentally. If you think your child’s immune system is strong enough to fight off vaccine-preventable diseases, then it’s strong enough to fight off the tiny amounts of dead or weakened pathogens present in any of the vaccines. But not everyone around you is that strong, not everyone has a choice, not everyone can fight those illnesses, and not everyone can be vaccinated. If you have a healthy child, then your healthy child can cope with vaccines and can care about those unhealthy children who can’t. Teach your child compassion, and teach your child a sense of responsibility for those around them. Don’t teach your child to be self serving and scared of the world in which it lives and the people around him/her. And teach them to LOVE people with ASD or any other disability for that matter, not to label them as damaged. And lastly but most importantly for me – knowingly exposing your child to childhood illnesses is cruel; even without complications these diseases aren’t exactly pleasant. I don’t know about you, but I don’t enjoy watching children suffer even with a cold or a hurt knee. If you’ve never had these illnesses you don’t know how awful they are–I do. Pain, discomfort, the inability to breathe or to eat or to swallow, fever and nightmares, itching all over your body so much that you can’t stand lying on bed sheets, losing so much weight you can’t walk properly, diarrhea that leaves you lying prostrate on the bathroom floor, the unpaid time off work for parents (and if you’re self employed that means NO INCOME), the quarantine, missing school, missing parties, the worry, the sleepless nights, the sweat, the tears and the blood, the midnight visits to A and E, sitting in a doctor’s waiting room on your own because no one will sit near you because they’re rightfully scared of those spots all over your kids face. Those of you who have avoided childhood illnesses without vaccines are lucky. You couldn’t do it without us pro-vaxxers. Once the vaccination rates begin dropping, the less herd immunity will be able to protect your children. The more people you convert to your anti-vax stance, the quicker that luck will run out.</spannedText>
+        <creationDate>Mon Sep 18 18:32:57 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30928">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30896" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30897">
+        <hasSlotMention id="EHOST_Instance_30928" />
+        <mentionClass id="AttrContent">I am the 70s child of a health nut. I wasn’t vaccinated. I was brought up on an incredibly healthy diet: no sugar til I was one, breastfed for over a year, organic homegrown vegetables, raw milk, no MSG, no additives, no aspartame. My mother used homeopathy, aromatherapy, osteopathy, we took daily supplements of vitamin C, echinacea, cod liver oil. I had an outdoor lifestyle; I grew up next to a farm, walked everywhere, did sports and danced twice a week, drank plenty of water. I wasn’t even allowed pop; even my fresh juice was watered down to protect my teeth, and I would’ve killed for white, shop-bought bread in my lunch box once in a while and biscuits instead of fruit like all the other kids. We only ate (organic local) meat maybe once or twice a week and my mother and father cooked everything from scratch – I have yet to taste a Findus crispy pancake and oven chips were reserved for those nights when mum and dad had friends over and we got a “treat.” As healthy as my lifestyle seemed, I contracted measles, mumps, rubella, a type of viral meningitis, scarlatina, whooping cough, yearly tonsillitis, and chickenpox, some of which are vaccine preventable. In my twenties I got precancerous HPV and spent 6 months of my life wondering how I was going to tell my two children under the age of 7 that mummy might have cancer before it was safely removed. So having the “natural immunity sterilised out of us” just doesn’t cut it for me. How could I, with my idyllic childhood and my amazing health food, get so freaking ill all the time? My mother was the biggest health freak around–she would put most of my current “crunchy” friends to shame. She didn’t drink, she didn’t smoke, she didn’t do drugs and we certainly weren’t allowed to watch whatever we wanted on telly or wear plastic shoes or any of that stuff. She LIVED alternative health. And you know what? I’m glad she gave us the great diet that we had, I’m glad that she cared about us in that way. But it just didn’t stop me getting childhood illnesses. My two vaccinated children, on the other hand, have rarely been ill, have had antibiotics maybe twice in their lives, if that (not like me who got so many illnesses which needed treatment with antibiotics that I developed a resistance to them, which led me to be hospitalized with penicillin-resistant quinsy at 21–you know that old fashioned disease that killed Queen Elizabeth I and which was almost wiped out through use of antibiotics). My kids have had no childhood illnesses other than chickenpox, which they both contracted while still breastfeeding. They too grew up on a healthy diet, homegrown organics etc. Not to the same extent as I did, though, as I was not quite as strict as my mother, but they are both healthier than I have ever been. I find myself wondering about the claim that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant. If this is the case, I struggle to understand why I know far more people who have experienced complications from preventable childhood illnesses than I have EVER met with complications from vaccines. I have friends who became deaf from measles. I have a partially sighted friend who contracted rubella in the womb. My ex got pneumonia from chickenpox. A friend’s brother died from meningitis. Anecdotal evidence is nothing to base decisions on. But when facts and evidence-based science aren’t good enough to sway someone’s opinion, then this is where I come from. After all, anecdotes are the anti-vaccine supporter’s way. Well, this is my personal experience. And my personal experience prompts me to vaccinate my children and myself. I got the flu vaccine recently, and I am getting the whooping cough booster to protect my unborn baby. My natural immunity from having whooping cough at age 5 will not protect him once he’s born. I understand, to a point, where the anti-vaccine parents are coming from. Back in the 90s when I was a concerned, 19-year-old mother, frightened by the world I was bringing my child into, I was studying homeopathy, herbalism and aromatherapy; I believed in angels, witchcraft, clairvoyants, crop circles, aliens at Nazca, giant ginger mariners spreading their knowledge to the Aztecs, the Incas and the Egyptians and that I was somehow personally blessed by the Holy Spirit with healing abilities. I was having my aura read at a hefty price and filtering the fluoride out of my water. I was choosing to have past life regressions instead of taking anti-depressants. I was taking my daily advice from tarot cards. I grew all my own veg and made my own herbal remedies. I was so freaking crunchy that I literally crumbled. It was only when I took control of those paranoid thoughts and fears about the world around me and became an objective critical thinker that I got well. It was when I stopped taking sugar pills for everything and started seeing medical professionals that I began to thrive physically and mentally. If you think your child’s immune system is strong enough to fight off vaccine-preventable diseases, then it’s strong enough to fight off the tiny amounts of dead or weakened pathogens present in any of the vaccines. But not everyone around you is that strong, not everyone has a choice, not everyone can fight those illnesses, and not everyone can be vaccinated. If you have a healthy child, then your healthy child can cope with vaccines and can care about those unhealthy children who can’t. Teach your child compassion, and teach your child a sense of responsibility for those around them. Don’t teach your child to be self serving and scared of the world in which it lives and the people around him/her. And teach them to LOVE people with ASD or any other disability for that matter, not to label them as damaged. And lastly but most importantly for me – knowingly exposing your child to childhood illnesses is cruel; even without complications these diseases aren’t exactly pleasant. I don’t know about you, but I don’t enjoy watching children suffer even with a cold or a hurt knee. If you’ve never had these illnesses you don’t know how awful they are–I do. Pain, discomfort, the inability to breathe or to eat or to swallow, fever and nightmares, itching all over your body so much that you can’t stand lying on bed sheets, losing so much weight you can’t walk properly, diarrhea that leaves you lying prostrate on the bathroom floor, the unpaid time off work for parents (and if you’re self employed that means NO INCOME), the quarantine, missing school, missing parties, the worry, the sleepless nights, the sweat, the tears and the blood, the midnight visits to A and E, sitting in a doctor’s waiting room on your own because no one will sit near you because they’re rightfully scared of those spots all over your kids face. Those of you who have avoided childhood illnesses without vaccines are lucky. You couldn’t do it without us pro-vaxxers. Once the vaccination rates begin dropping, the less herd immunity will be able to protect your children. The more people you convert to your anti-vax stance, the quicker that luck will run out.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30898" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2813" end="2822" />
+        <spannedText>the claim</spannedText>
+        <creationDate>Sat Sep 23 12:52:20 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_30898">
+        <mentionClass id="AttrCue">the claim</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_30899" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2823" end="2925" />
+        <spannedText>that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</spannedText>
+        <creationDate>Sat Sep 23 12:52:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_30929">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_30898" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_30899">
+        <hasSlotMention id="EHOST_Instance_30929" />
+        <mentionClass id="AttrContent">that complications from childhood illnesses are extremely rare but that “vaccine injuries” are rampant</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

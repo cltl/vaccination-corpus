@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="WebMD_20161211T172512.txt">
+    <annotation>
+        <mention id="EHOST_Instance_14132" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1048" end="1112" />
+        <spannedText>immunization efforts have led to this drop in rates of infection</spannedText>
+        <creationDate>Mon Apr 23 13:31:38 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_14138">
+        <mentionSlot id="has_claim" />
+        <complexSlotMentionValue value="EHOST_Instance_14133" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_14132">
+        <hasSlotMention id="EHOST_Instance_14138" />
+        <mentionClass id="claim">immunization efforts have led to this drop in rates of infection</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14133" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1020" end="1034" />
+        <spannedText>Health experts</spannedText>
+        <creationDate>Mon Apr 23 13:31:41 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14133">
+        <mentionClass id="source_of_claim">Health experts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14134" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3276" end="3393" />
+        <spannedText>the benefit of a vaccination is that you don't have to go through being sick to enable your body to fight off disease</spannedText>
+        <creationDate>Mon Apr 23 13:33:20 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14134">
+        <mentionClass id="claim">the benefit of a vaccination is that you don't have to go through being sick to enable your body to fight off disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14135" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="4904" end="5012" />
+        <spannedText>When we're talking about adults, I would say yes, get the vaccine if they fit into one of these risk factors</spannedText>
+        <creationDate>Mon Apr 23 13:34:10 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_14139">
+        <mentionSlot id="has_claim" />
+        <complexSlotMentionValue value="EHOST_Instance_14137" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_14135">
+        <hasSlotMention id="EHOST_Instance_14139" />
+        <mentionClass id="claim">When we're talking about adults, I would say yes, get the vaccine if they fit into one of these risk factors</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14136" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="5028" end="5132" />
+        <spannedText>If they don't fit into the risk factors, their risk is so low that there's no compelling reason to do it</spannedText>
+        <creationDate>Mon Apr 23 13:34:15 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_14140">
+        <mentionSlot id="has_claim" />
+        <complexSlotMentionValue value="EHOST_Instance_14137" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_14136">
+        <hasSlotMention id="EHOST_Instance_14140" />
+        <mentionClass id="claim">If they don't fit into the risk factors, their risk is so low that there's no compelling reason to do it</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_14137" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="5019" end="5025" />
+        <spannedText>Poland</spannedText>
+        <creationDate>Mon Apr 23 13:34:23 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_14137">
+        <mentionClass id="source_of_claim">Poland</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

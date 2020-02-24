@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="The-EverGreen-Center_20170227T233225.txt">
+    <annotation>
+        <mention id="EHOST_Instance_17786" />
+        <annotator id="01">Sanne</annotator>
+        <span start="29" end="33" />
+        <spannedText>This</spannedText>
+        <creationDate>Mon Oct 30 14:14:11 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_17794">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_17787" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_17795">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_17788" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_17786">
+        <hasSlotMention id="EHOST_Instance_17794" />
+        <hasSlotMention id="EHOST_Instance_17795" />
+        <mentionClass id="AttrContent">This</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_17787" />
+        <annotator id="01">Sanne</annotator>
+        <span start="50" end="56" />
+        <spannedText>advice</spannedText>
+        <creationDate>Mon Oct 30 14:14:15 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_17787">
+        <mentionClass id="AttrCue">advice</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_17788" />
+        <annotator id="01">Sanne</annotator>
+        <span start="60" end="79" />
+        <spannedText>“the establishment”</spannedText>
+        <creationDate>Mon Oct 30 14:14:19 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_17796">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_17788">
+        <hasSlotMention id="EHOST_Instance_17796" />
+        <mentionClass id="AttrSource">“the establishment”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_17789" />
+        <annotator id="01">Sanne</annotator>
+        <span start="88" end="92" />
+        <spannedText>This</spannedText>
+        <creationDate>Mon Oct 30 14:14:32 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_17797">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_17790" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_17798">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_17791" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_17789">
+        <hasSlotMention id="EHOST_Instance_17797" />
+        <hasSlotMention id="EHOST_Instance_17798" />
+        <mentionClass id="AttrContent">This</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_17790" />
+        <annotator id="01">Sanne</annotator>
+        <span start="100" end="107" />
+        <spannedText>opinion</spannedText>
+        <creationDate>Mon Oct 30 14:14:34 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_17790">
+        <mentionClass id="AttrCue">opinion</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_17791" />
+        <annotator id="01">Sanne</annotator>
+        <span start="111" end="131" />
+        <spannedText>the mayor of Houston</spannedText>
+        <creationDate>Mon Oct 30 14:14:38 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_17799">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_17791">
+        <hasSlotMention id="EHOST_Instance_17799" />
+        <mentionClass id="AttrSource">the mayor of Houston</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_17792" />
+        <annotator id="01">Sanne</annotator>
+        <span start="442" end="452" />
+        <spannedText>understand</spannedText>
+        <creationDate>Mon Oct 30 14:14:58 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_17792">
+        <mentionClass id="AttrCue">understand</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_17793" />
+        <annotator id="01">Sanne</annotator>
+        <span start="453" end="589" />
+        <spannedText>why the Centers for Disease Control (CDC) has chosen to use fraudulent research to defend vaccine safety over the health of our children</spannedText>
+        <creationDate>Mon Oct 30 14:15:03 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_17800">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_17792" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_17793">
+        <hasSlotMention id="EHOST_Instance_17800" />
+        <mentionClass id="AttrContent">why the Centers for Disease Control (CDC) has chosen to use fraudulent research to defend vaccine safety over the health of our children</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

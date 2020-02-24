@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="World-Health-Organization_20161126T161524.txt">
+    <annotation>
+        <mention id="EHOST_Instance_986" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="0" end="240" />
+        <spannedText>Immunization prevents illness, disability and death from vaccine-preventable diseases including cervical cancer, diphtheria, hepatitis B, measles, mumps, pertussis (whooping cough), pneumonia, polio, rotavirus diarrhoea, rubella and tetanus</spannedText>
+        <creationDate>Tue Apr 24 12:13:36 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_986">
+        <mentionClass id="claim">Immunization prevents illness, disability and death from vaccine-preventable diseases including cervical cancer, diphtheria, hepatitis B, measles, mumps, pertussis (whooping cough), pneumonia, polio, rotavirus diarrhoea, rubella and tetanus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_987" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="7870" end="7896" />
+        <spannedText>Close the immunization gap</spannedText>
+        <creationDate>Tue Apr 24 12:16:19 MDT 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_989">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_988" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_987">
+        <hasSlotMention id="EHOST_Instance_989" />
+        <mentionClass id="claim">Close the immunization gap</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_988" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="7855" end="7868" />
+        <spannedText>global slogan</spannedText>
+        <creationDate>Tue Apr 24 12:16:21 MDT 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_988">
+        <mentionClass id="source_of_claim">global slogan</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

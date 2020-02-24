@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="mbah-state-ms-us_20161103T062632.txt">
+    <annotation>
+        <mention id="EHOST_Instance_26975" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8299" end="8322" />
+        <spannedText>Vaccination of wildlife</spannedText>
+        <creationDate>Tue Aug 15 16:16:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_26977">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_26976" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_26975">
+        <hasSlotMention id="EHOST_Instance_26977" />
+        <mentionClass id="AttrContent">Vaccination of wildlife</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_26976" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8330" end="8341" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Tue Aug 15 16:16:42 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_26976">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="PublicHealth-org_20170623T200727.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43919" />
+        <annotator id="01">Sanne</annotator>
+        <span start="682" end="689" />
+        <spannedText>The CDC</spannedText>
+        <creationDate>Tue Sep 05 18:44:07 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43944">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43919">
+        <hasSlotMention id="EHOST_Instance_43944" />
+        <mentionClass id="AttrSource">The CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43920" />
+        <annotator id="01">Sanne</annotator>
+        <span start="690" end="695" />
+        <spannedText>warns</spannedText>
+        <creationDate>Tue Sep 05 18:44:14 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43920">
+        <mentionClass id="AttrCue">warns</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43921" />
+        <annotator id="01">Sanne</annotator>
+        <span start="696" end="804" />
+        <spannedText>that events like these will become more frequent and harder to control if vaccination rates continue to fall</spannedText>
+        <creationDate>Tue Sep 05 19:14:55 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43945">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43920" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43946">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43919" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43921">
+        <hasSlotMention id="EHOST_Instance_43945" />
+        <hasSlotMention id="EHOST_Instance_43946" />
+        <mentionClass id="AttrContent">that events like these will become more frequent and harder to control if vaccination rates continue to fall</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43922" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1023" end="1035" />
+        <spannedText>Many parents</spannedText>
+        <creationDate>Tue Sep 05 19:15:12 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43947">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43922">
+        <hasSlotMention id="EHOST_Instance_43947" />
+        <mentionClass id="AttrSource">Many parents</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43923" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1036" end="1044" />
+        <spannedText>distrust</spannedText>
+        <creationDate>Tue Sep 05 19:15:29 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43923">
+        <mentionClass id="AttrCue">distrust</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43924" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1045" end="1059" />
+        <spannedText>these vaccines</spannedText>
+        <creationDate>Tue Sep 05 19:15:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43948">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43923" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43949">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43922" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43924">
+        <hasSlotMention id="EHOST_Instance_43948" />
+        <hasSlotMention id="EHOST_Instance_43949" />
+        <mentionClass id="AttrContent">these vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43925" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1127" end="1135" />
+        <spannedText>Research</spannedText>
+        <creationDate>Tue Sep 05 19:15:47 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43950">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43925">
+        <hasSlotMention id="EHOST_Instance_43950" />
+        <mentionClass id="AttrSource">Research</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43926" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1146" end="1151" />
+        <spannedText>shows</spannedText>
+        <creationDate>Tue Sep 05 19:15:52 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43926">
+        <mentionClass id="AttrCue">shows</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43927" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1152" end="1215" />
+        <spannedText>that most of our biggest fears about vaccinations are unfounded</spannedText>
+        <creationDate>Tue Sep 05 19:15:55 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43951">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43926" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43952">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43925" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43927">
+        <hasSlotMention id="EHOST_Instance_43951" />
+        <hasSlotMention id="EHOST_Instance_43952" />
+        <mentionClass id="AttrContent">that most of our biggest fears about vaccinations are unfounded</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43928" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1459" end="1470" />
+        <spannedText>The article</spannedText>
+        <creationDate>Tue Sep 05 19:16:14 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43953">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43928">
+        <hasSlotMention id="EHOST_Instance_43953" />
+        <mentionClass id="AttrSource">The article</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43929" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1531" end="1541" />
+        <spannedText>suggesting</spannedText>
+        <creationDate>Tue Sep 05 19:16:21 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43929">
+        <mentionClass id="AttrCue">suggesting</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43930" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1542" end="1630" />
+        <spannedText>that the measles, mumps, rubella (MMR) vaccine was increasing autism in British children</spannedText>
+        <creationDate>Tue Sep 05 19:16:25 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43954">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43929" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43955">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43928" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43930">
+        <hasSlotMention id="EHOST_Instance_43954" />
+        <hasSlotMention id="EHOST_Instance_43955" />
+        <mentionClass id="AttrContent">that the measles, mumps, rubella (MMR) vaccine was increasing autism in British children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43931" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2807" end="2817" />
+        <spannedText>scientists</spannedText>
+        <creationDate>Tue Sep 05 19:17:00 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43956">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43931">
+        <hasSlotMention id="EHOST_Instance_43956" />
+        <mentionClass id="AttrSource">scientists</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43932" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2818" end="2825" />
+        <spannedText>believe</spannedText>
+        <creationDate>Tue Sep 05 19:17:06 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43932">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43933" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2826" end="2861" />
+        <spannedText>this capacity is purely theoretical</spannedText>
+        <creationDate>Tue Sep 05 19:17:08 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43957">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43932" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43958">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43931" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43933">
+        <hasSlotMention id="EHOST_Instance_43957" />
+        <hasSlotMention id="EHOST_Instance_43958" />
+        <mentionClass id="AttrContent">this capacity is purely theoretical</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43934" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4163" end="4175" />
+        <spannedText>according to</spannedText>
+        <creationDate>Tue Sep 05 19:18:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43934">
+        <mentionClass id="AttrCue">according to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43935" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4176" end="4183" />
+        <spannedText>the FDA</spannedText>
+        <creationDate>Tue Sep 05 19:18:13 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43959">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43935">
+        <hasSlotMention id="EHOST_Instance_43959" />
+        <mentionClass id="AttrSource">the FDA</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43936" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4188" end="4195" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Tue Sep 05 19:18:20 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43960">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43936">
+        <hasSlotMention id="EHOST_Instance_43960" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43937" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4197" end="4387" />
+        <spannedText>formaldehyde is produced at higher rates by our own metabolic systems and there is no scientific evidence that the low levels of this chemical, mercury or aluminum in vaccines can be harmful</spannedText>
+        <creationDate>Tue Sep 05 19:18:42 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43961">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43936" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43962">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43935" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43963">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43934" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43937">
+        <hasSlotMention id="EHOST_Instance_43961" />
+        <hasSlotMention id="EHOST_Instance_43962" />
+        <hasSlotMention id="EHOST_Instance_43963" />
+        <mentionClass id="AttrContent">formaldehyde is produced at higher rates by our own metabolic systems and there is no scientific evidence that the low levels of this chemical, mercury or aluminum in vaccines can be harmful</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43938" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7611" end="7648" />
+        <spannedText>the Centers for Disease Control (CDC)</spannedText>
+        <creationDate>Tue Sep 05 19:20:03 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43964">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43938">
+        <hasSlotMention id="EHOST_Instance_43964" />
+        <mentionClass id="AttrSource">the Centers for Disease Control (CDC)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43939" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7649" end="7653" />
+        <spannedText>warn</spannedText>
+        <creationDate>Tue Sep 05 19:20:09 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43939">
+        <mentionClass id="AttrCue">warn</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43940" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7655" end="7776" />
+        <spannedText>international travel is growing quickly, so even if a disease is not a threat in your country, it may be common elsewhere</spannedText>
+        <creationDate>Tue Sep 05 19:20:13 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43965">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43939" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43966">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43938" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43940">
+        <hasSlotMention id="EHOST_Instance_43965" />
+        <hasSlotMention id="EHOST_Instance_43966" />
+        <mentionClass id="AttrContent">international travel is growing quickly, so even if a disease is not a threat in your country, it may be common elsewhere</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43941" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8300" end="8306" />
+        <spannedText>people</spannedText>
+        <creationDate>Sun Sep 10 18:14:41 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43967">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43941">
+        <hasSlotMention id="EHOST_Instance_43967" />
+        <mentionClass id="AttrSource">people</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43942" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8318" end="8324" />
+        <spannedText>forget</spannedText>
+        <creationDate>Sun Sep 10 18:14:50 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43942">
+        <mentionClass id="AttrCue">forget</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43943" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8325" end="8473" />
+        <spannedText>how many deaths and illnesses vaccines have prevented, and how they continue to protect us from potentially devastating forms of infectious disease.</spannedText>
+        <creationDate>Sun Sep 10 18:14:56 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43968">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43942" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43969">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43941" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43943">
+        <hasSlotMention id="EHOST_Instance_43968" />
+        <hasSlotMention id="EHOST_Instance_43969" />
+        <mentionClass id="AttrContent">how many deaths and illnesses vaccines have prevented, and how they continue to protect us from potentially devastating forms of infectious disease.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Vaccine-Impact_20160729T094056.txt">
+    <annotation>
+        <mention id="EHOST_Instance_18424" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3" end="17" />
+        <spannedText>Brian Shilhavy</spannedText>
+        <creationDate>Mon Oct 30 14:55:44 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18471">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18424">
+        <hasSlotMention id="EHOST_Instance_18471" />
+        <mentionClass id="AttrSource">Brian Shilhavy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18425" />
+        <annotator id="01">Sanne</annotator>
+        <span start="343" end="354" />
+        <spannedText>Mr. Bigtree</spannedText>
+        <creationDate>Mon Oct 30 14:55:57 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18472">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18425">
+        <hasSlotMention id="EHOST_Instance_18472" />
+        <mentionClass id="AttrSource">Mr. Bigtree</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18426" />
+        <annotator id="01">Sanne</annotator>
+        <span start="355" end="361" />
+        <spannedText>states</spannedText>
+        <creationDate>Mon Oct 30 14:56:03 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18426">
+        <mentionClass id="AttrCue">states</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18427" />
+        <annotator id="01">Sanne</annotator>
+        <span start="468" end="470" />
+        <spannedText>he</spannedText>
+        <creationDate>Mon Oct 30 14:56:09 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18473">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18427">
+        <hasSlotMention id="EHOST_Instance_18473" />
+        <mentionClass id="AttrSource">he</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18428" />
+        <annotator id="01">Sanne</annotator>
+        <span start="471" end="475" />
+        <spannedText>knew</spannedText>
+        <creationDate>Mon Oct 30 14:56:17 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18428">
+        <mentionClass id="AttrCue">knew</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18429" />
+        <annotator id="01">Sanne</annotator>
+        <span start="476" end="514" />
+        <spannedText>this was the biggest story of his life</spannedText>
+        <creationDate>Mon Oct 30 14:56:20 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18474">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18428" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18475">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18427" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18429">
+        <hasSlotMention id="EHOST_Instance_18474" />
+        <hasSlotMention id="EHOST_Instance_18475" />
+        <mentionClass id="AttrContent">this was the biggest story of his life</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18430" />
+        <annotator id="01">Sanne</annotator>
+        <span start="362" end="558" />
+        <spannedText>that when he learned about the top scientist whistleblower at the Centers for Disease Control (CDC), that he knew this was the biggest story of his life, and that this was “bigger than Watergate.”</spannedText>
+        <creationDate>Mon Oct 30 14:56:29 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18476">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18426" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18477">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18425" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18430">
+        <hasSlotMention id="EHOST_Instance_18476" />
+        <hasSlotMention id="EHOST_Instance_18477" />
+        <mentionClass id="AttrContent">that when he learned about the top scientist whistleblower at the Centers for Disease Control (CDC), that he knew this was the biggest story of his life, and that this was “bigger than Watergate.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18431" />
+        <annotator id="01">Sanne</annotator>
+        <span start="754" end="791" />
+        <spannedText>one of the study’s authors at the CDC</spannedText>
+        <creationDate>Mon Oct 30 14:56:48 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18478">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18431">
+        <hasSlotMention id="EHOST_Instance_18478" />
+        <mentionClass id="AttrSource">one of the study’s authors at the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18432" />
+        <annotator id="01">Sanne</annotator>
+        <span start="796" end="804" />
+        <spannedText>revealed</spannedText>
+        <creationDate>Mon Oct 30 14:56:56 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18432">
+        <mentionClass id="AttrCue">revealed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18433" />
+        <annotator id="01">Sanne</annotator>
+        <span start="805" end="921" />
+        <spannedText>that data was concealed that actually showed there was indeed a link between the vaccine and autism in some children</spannedText>
+        <creationDate>Mon Oct 30 14:57:00 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18479">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18432" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18480">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18431" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18433">
+        <hasSlotMention id="EHOST_Instance_18479" />
+        <hasSlotMention id="EHOST_Instance_18480" />
+        <mentionClass id="AttrContent">that data was concealed that actually showed there was indeed a link between the vaccine and autism in some children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18434" />
+        <annotator id="01">Sanne</annotator>
+        <span start="923" end="934" />
+        <spannedText>Mr. Bigtree</spannedText>
+        <creationDate>Mon Oct 30 14:57:05 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18481">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18434">
+        <hasSlotMention id="EHOST_Instance_18481" />
+        <mentionClass id="AttrSource">Mr. Bigtree</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18435" />
+        <annotator id="01">Sanne</annotator>
+        <span start="935" end="949" />
+        <spannedText>makes it clear</spannedText>
+        <creationDate>Mon Oct 30 14:57:12 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18435">
+        <mentionClass id="AttrCue">makes it clear</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18436" />
+        <annotator id="01">Sanne</annotator>
+        <span start="950" end="1040" />
+        <spannedText>that this is not an anti-vaccine movie, but a movie about government corruption at the CDC</spannedText>
+        <creationDate>Mon Oct 30 14:57:15 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18482">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18435" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18483">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18434" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18436">
+        <hasSlotMention id="EHOST_Instance_18482" />
+        <hasSlotMention id="EHOST_Instance_18483" />
+        <mentionClass id="AttrContent">that this is not an anti-vaccine movie, but a movie about government corruption at the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18437" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1397" end="1407" />
+        <spannedText>encouraged</spannedText>
+        <creationDate>Mon Oct 30 14:57:27 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18437">
+        <mentionClass id="AttrCue">encouraged</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18438" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1417" end="1432" />
+        <spannedText>to see the film</spannedText>
+        <creationDate>Mon Oct 30 14:57:29 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18438">
+        <mentionClass id="AttrContent">to see the film</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18439" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1188" end="1272" />
+        <spannedText>Academy Award winning actor Robert De Niro, co-founder of the Tribeca Film Festival,</spannedText>
+        <creationDate>Mon Oct 30 14:57:33 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18484">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18439">
+        <hasSlotMention id="EHOST_Instance_18484" />
+        <mentionClass id="AttrSource">Academy Award winning actor Robert De Niro, co-founder of the Tribeca Film Festival,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18440" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1649" end="1656" />
+        <spannedText>De Niro</spannedText>
+        <creationDate>Mon Oct 30 15:38:15 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18485">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18440">
+        <hasSlotMention id="EHOST_Instance_18485" />
+        <mentionClass id="AttrSource">De Niro</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18441" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1657" end="1666" />
+        <spannedText>announced</spannedText>
+        <creationDate>Mon Oct 30 15:38:21 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18441">
+        <mentionClass id="AttrCue">announced</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18442" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1677" end="1787" />
+        <spannedText>that he was planning on his own documentary about vaccines, and was teaming up with filmmaker Harvey Weinstein</spannedText>
+        <creationDate>Mon Oct 30 15:38:27 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18486">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18441" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18487">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18440" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18442">
+        <hasSlotMention id="EHOST_Instance_18486" />
+        <hasSlotMention id="EHOST_Instance_18487" />
+        <mentionClass id="AttrContent">that he was planning on his own documentary about vaccines, and was teaming up with filmmaker Harvey Weinstein</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18443" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2378" end="2387" />
+        <spannedText>allegedly</spannedText>
+        <creationDate>Mon Oct 30 15:38:49 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18443">
+        <mentionClass id="AttrCue">allegedly</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18444" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2373" end="2377" />
+        <span start="2388" end="2458" />
+        <spannedText>that ... clearly show fraud within the CDC regarding vaccine studies and autism</spannedText>
+        <creationDate>Mon Oct 30 15:39:03 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18488">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18443" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18444">
+        <hasSlotMention id="EHOST_Instance_18488" />
+        <mentionClass id="AttrContent">that ... clearly show fraud within the CDC regarding vaccine studies and autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18445" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2577" end="2580" />
+        <spannedText>ask</spannedText>
+        <creationDate>Mon Oct 30 15:39:13 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18445">
+        <mentionClass id="AttrCue">ask</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18446" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2586" end="2644" />
+        <spannedText>to view the film VAXXED and attend one of the Q&amp;A sessions</spannedText>
+        <creationDate>Mon Oct 30 15:39:15 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18489">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18445" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18446">
+        <hasSlotMention id="EHOST_Instance_18489" />
+        <mentionClass id="AttrContent">to view the film VAXXED and attend one of the Q&amp;A sessions</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18447" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3241" end="3245" />
+        <spannedText>that</spannedText>
+        <creationDate>Mon Oct 30 15:39:37 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18490">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18447">
+        <hasSlotMention id="EHOST_Instance_18490" />
+        <mentionClass id="AttrSource">that</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18448" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3246" end="3253" />
+        <spannedText>believe</spannedText>
+        <creationDate>Mon Oct 30 15:39:43 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18448">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18449" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3254" end="3346" />
+        <spannedText>that ALL vaccines are safe and effective for ALL people, ALL the time, by force if necessary</spannedText>
+        <creationDate>Mon Oct 30 15:39:47 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18491">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18448" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18492">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18447" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18449">
+        <hasSlotMention id="EHOST_Instance_18491" />
+        <hasSlotMention id="EHOST_Instance_18492" />
+        <mentionClass id="AttrContent">that ALL vaccines are safe and effective for ALL people, ALL the time, by force if necessary</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18450" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3733" end="3736" />
+        <spannedText>who</spannedText>
+        <creationDate>Mon Oct 30 15:40:07 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18493">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18450">
+        <hasSlotMention id="EHOST_Instance_18493" />
+        <mentionClass id="AttrSource">who</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18451" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3737" end="3745" />
+        <spannedText>consider</spannedText>
+        <creationDate>Mon Oct 30 15:40:13 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18451">
+        <mentionClass id="AttrCue">consider</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18452" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3746" end="3771" />
+        <spannedText>themselves “pro-vaccine,”</spannedText>
+        <creationDate>Mon Oct 30 15:40:16 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18494">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18451" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18495">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18450" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18452">
+        <hasSlotMention id="EHOST_Instance_18494" />
+        <hasSlotMention id="EHOST_Instance_18495" />
+        <mentionClass id="AttrContent">themselves “pro-vaccine,”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18453" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3720" end="3771" />
+        <spannedText>Many doctors who consider themselves “pro-vaccine,”</spannedText>
+        <creationDate>Mon Oct 30 15:40:41 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18496">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18453">
+        <hasSlotMention id="EHOST_Instance_18496" />
+        <mentionClass id="AttrSource">Many doctors who consider themselves “pro-vaccine,”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18454" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3792" end="3799" />
+        <spannedText>believe</spannedText>
+        <creationDate>Mon Oct 30 15:40:43 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18454">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18455" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3800" end="3868" />
+        <spannedText>that every single vaccine is appropriate for every single individual</spannedText>
+        <creationDate>Mon Oct 30 15:40:46 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18497">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18454" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18498">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18453" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18455">
+        <hasSlotMention id="EHOST_Instance_18497" />
+        <hasSlotMention id="EHOST_Instance_18498" />
+        <mentionClass id="AttrContent">that every single vaccine is appropriate for every single individual</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18456" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3870" end="3882" />
+        <spannedText>Many doctors</spannedText>
+        <creationDate>Mon Oct 30 15:40:50 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18499">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18456">
+        <hasSlotMention id="EHOST_Instance_18499" />
+        <mentionClass id="AttrSource">Many doctors</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18457" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3883" end="3892" />
+        <spannedText>recommend</spannedText>
+        <creationDate>Mon Oct 30 15:40:58 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18457">
+        <mentionClass id="AttrCue">recommend</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18458" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3893" end="3939" />
+        <spannedText>a “delayed” vaccine schedule for some patients</spannedText>
+        <creationDate>Mon Oct 30 15:41:01 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18500">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18457" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18501">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18456" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18458">
+        <hasSlotMention id="EHOST_Instance_18500" />
+        <hasSlotMention id="EHOST_Instance_18501" />
+        <mentionClass id="AttrContent">a “delayed” vaccine schedule for some patients</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18459" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4014" end="4027" />
+        <spannedText>Other doctors</spannedText>
+        <creationDate>Mon Oct 30 15:41:12 GMT 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_18502">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_18459">
+        <hasSlotMention id="EHOST_Instance_18502" />
+        <mentionClass id="AttrSource">Other doctors</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18460" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4028" end="4034" />
+        <spannedText>choose</spannedText>
+        <creationDate>Mon Oct 30 15:41:23 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18460">
+        <mentionClass id="AttrCue">choose</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18461" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4038" end="4047" />
+        <spannedText>recommend</spannedText>
+        <creationDate>Mon Oct 30 15:41:25 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18461">
+        <mentionClass id="AttrCue">recommend</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18462" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4048" end="4056" />
+        <spannedText>vaccines</spannedText>
+        <creationDate>Mon Oct 30 15:41:58 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18503">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18461" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18462">
+        <hasSlotMention id="EHOST_Instance_18503" />
+        <mentionClass id="AttrContent">vaccines</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18463" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4112" end="4124" />
+        <spannedText>recommending</spannedText>
+        <creationDate>Mon Oct 30 15:42:01 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18463">
+        <mentionClass id="AttrCue">recommending</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18464" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4125" end="4129" />
+        <spannedText>some</spannedText>
+        <creationDate>Mon Oct 30 15:42:02 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18504">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18463" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18464">
+        <hasSlotMention id="EHOST_Instance_18504" />
+        <mentionClass id="AttrContent">some</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18465" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4137" end="4148" />
+        <spannedText>determining</spannedText>
+        <creationDate>Mon Oct 30 15:42:13 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18465">
+        <mentionClass id="AttrCue">determining</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18466" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4149" end="4196" />
+        <spannedText>that others are not worth the risk for children</spannedText>
+        <creationDate>Mon Oct 30 15:42:15 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18505">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18465" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18466">
+        <hasSlotMention id="EHOST_Instance_18505" />
+        <mentionClass id="AttrContent">that others are not worth the risk for children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18467" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4035" end="4235" />
+        <spannedText>to recommend vaccines based on the actual science and merit of each vaccine, recommending some, while determining that others are not worth the risk for children, such as the suspect seasonal flu shot</spannedText>
+        <creationDate>Mon Oct 30 15:42:20 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18506">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18460" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_18507">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18459" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18467">
+        <hasSlotMention id="EHOST_Instance_18506" />
+        <hasSlotMention id="EHOST_Instance_18507" />
+        <mentionClass id="AttrContent">to recommend vaccines based on the actual science and merit of each vaccine, recommending some, while determining that others are not worth the risk for children, such as the suspect seasonal flu shot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18468" />
+        <annotator id="01">Sanne</annotator>
+        <span start="585" end="595" />
+        <spannedText>supposedly</spannedText>
+        <creationDate>Sun Nov 05 11:17:08 GMT 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_18468">
+        <mentionClass id="AttrCue">supposedly</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18469" />
+        <annotator id="01">Sanne</annotator>
+        <span start="580" end="584" />
+        <span start="596" end="655" />
+        <spannedText>that ... proved there was no link between the MMR vaccine and autism</spannedText>
+        <creationDate>Sun Nov 05 11:17:11 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18508">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18468" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18469">
+        <hasSlotMention id="EHOST_Instance_18508" />
+        <mentionClass id="AttrContent">that ... proved there was no link between the MMR vaccine and autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_18470" />
+        <annotator id="01">Sanne</annotator>
+        <span start="46" end="4685" />
+        <spannedText>The controversial film VAXXED, which has been censored at certain film festivals across the United States, recently opened at the Angelika Pop Up theater in Washington, D.C. The film is produced by Del Bigtree, a medical journalist and the past producer of the popular daytime show “The Doctors.” Mr. Bigtree states that when he learned about the top scientist whistleblower at the Centers for Disease Control (CDC), that he knew this was the biggest story of his life, and that this was “bigger than Watergate.” Since the 2004 study that supposedly proved there was no link between the MMR vaccine and autism was published by the CDC, more than one million children have been diagnosed with autism, and now one of the study’s authors at the CDC has revealed that data was concealed that actually showed there was indeed a link between the vaccine and autism in some children. Mr. Bigtree makes it clear that this is not an anti-vaccine movie, but a movie about government corruption at the CDC. He was recently interviewed by Tammi Stefano of The National Safe Child Show in Los Angeles, and you can listen to the interview below. In April, Academy Award winning actor Robert De Niro, co-founder of the Tribeca Film Festival, was pressured to remove the film from its scheduled debut at his New York film festival, but appeared on the Today Show and encouraged everyone to see the film. He was viciously attacked by the mainstream media for standing up for First Amendment rights in the film industry. (See: Robert De Niro Attacked for Asking Questions about Vaccines and Promoting Freedom of Speech.) De Niro announced this week that he was planning on his own documentary about vaccines, and was teaming up with filmmaker Harvey Weinstein. There will be Q&amp;As on Tuesday, May 24th and Wednesday, May 25th following the 5:45pm and 7:45pm shows at the Angelika Pop Up theater in Washington, D.C. with producers Del Bigtree and Polly Tommey and director Dr. Andrew Wakefield available to take questions. This is a perfect opportunity for members of Congress to view the film for themselves, since it has been mostly censored in mainstream media. Congressman Bill Posey has so far been the lone voice in Congress calling for hearings on the CDC whistleblower, scientist William Thompson. He holds thousands of pages of documents that allegedly clearly show fraud within the CDC regarding vaccine studies and autism. (See: Will CDC Whistleblower on Vaccines Testify Before Congress?) Call your representative in the U.S. Congress and ask them to view the film VAXXED and attend one of the Q&amp;A sessions. See Also: One of the biggest myths being propagated in the compliant mainstream media today is that doctors are either pro-vaccine or anti-vaccine, and that the anti-vaccine doctors are all “quacks.” However, nothing could be further from the truth in the vaccine debate. Doctors are not unified at all on their positions regarding “the science” of vaccines, nor are they unified in the position of removing informed consent to a medical procedure like vaccines. The two most extreme positions are those doctors who are 100% against vaccines and do not administer them at all, and those doctors that believe that ALL vaccines are safe and effective for ALL people, ALL the time, by force if necessary. Very few doctors fall into either of these two extremist positions, and yet it is the extreme pro-vaccine position that is presented by the U.S. Government and mainstream media as being the dominant position of the medical field. In between these two extreme views, however, is where the vast majority of doctors practicing today would probably categorize their position. Many doctors who consider themselves “pro-vaccine,” for example, do not believe that every single vaccine is appropriate for every single individual. Many doctors recommend a “delayed” vaccine schedule for some patients, and not always the recommended one-size-fits-all CDC childhood schedule. Other doctors choose to recommend vaccines based on the actual science and merit of each vaccine, recommending some, while determining that others are not worth the risk for children, such as the suspect seasonal flu shot. These doctors who do not hold extreme positions would be opposed to government-mandated vaccinations and the removal of all parental exemptions. In this eBook, I am going to summarize the many doctors today who do not take the most extremist pro-vaccine position, which is probably not held by very many doctors at all, in spite of what the pharmaceutical industry, the federal government, and the mainstream media would like the public to believe.</spannedText>
+        <creationDate>Sun Nov 05 11:18:24 GMT 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_18509">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_18424" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_18470">
+        <hasSlotMention id="EHOST_Instance_18509" />
+        <mentionClass id="AttrContent">The controversial film VAXXED, which has been censored at certain film festivals across the United States, recently opened at the Angelika Pop Up theater in Washington, D.C. The film is produced by Del Bigtree, a medical journalist and the past producer of the popular daytime show “The Doctors.” Mr. Bigtree states that when he learned about the top scientist whistleblower at the Centers for Disease Control (CDC), that he knew this was the biggest story of his life, and that this was “bigger than Watergate.” Since the 2004 study that supposedly proved there was no link between the MMR vaccine and autism was published by the CDC, more than one million children have been diagnosed with autism, and now one of the study’s authors at the CDC has revealed that data was concealed that actually showed there was indeed a link between the vaccine and autism in some children. Mr. Bigtree makes it clear that this is not an anti-vaccine movie, but a movie about government corruption at the CDC. He was recently interviewed by Tammi Stefano of The National Safe Child Show in Los Angeles, and you can listen to the interview below. In April, Academy Award winning actor Robert De Niro, co-founder of the Tribeca Film Festival, was pressured to remove the film from its scheduled debut at his New York film festival, but appeared on the Today Show and encouraged everyone to see the film. He was viciously attacked by the mainstream media for standing up for First Amendment rights in the film industry. (See: Robert De Niro Attacked for Asking Questions about Vaccines and Promoting Freedom of Speech.) De Niro announced this week that he was planning on his own documentary about vaccines, and was teaming up with filmmaker Harvey Weinstein. There will be Q&amp;As on Tuesday, May 24th and Wednesday, May 25th following the 5:45pm and 7:45pm shows at the Angelika Pop Up theater in Washington, D.C. with producers Del Bigtree and Polly Tommey and director Dr. Andrew Wakefield available to take questions. This is a perfect opportunity for members of Congress to view the film for themselves, since it has been mostly censored in mainstream media. Congressman Bill Posey has so far been the lone voice in Congress calling for hearings on the CDC whistleblower, scientist William Thompson. He holds thousands of pages of documents that allegedly clearly show fraud within the CDC regarding vaccine studies and autism. (See: Will CDC Whistleblower on Vaccines Testify Before Congress?) Call your representative in the U.S. Congress and ask them to view the film VAXXED and attend one of the Q&amp;A sessions. See Also: One of the biggest myths being propagated in the compliant mainstream media today is that doctors are either pro-vaccine or anti-vaccine, and that the anti-vaccine doctors are all “quacks.” However, nothing could be further from the truth in the vaccine debate. Doctors are not unified at all on their positions regarding “the science” of vaccines, nor are they unified in the position of removing informed consent to a medical procedure like vaccines. The two most extreme positions are those doctors who are 100% against vaccines and do not administer them at all, and those doctors that believe that ALL vaccines are safe and effective for ALL people, ALL the time, by force if necessary. Very few doctors fall into either of these two extremist positions, and yet it is the extreme pro-vaccine position that is presented by the U.S. Government and mainstream media as being the dominant position of the medical field. In between these two extreme views, however, is where the vast majority of doctors practicing today would probably categorize their position. Many doctors who consider themselves “pro-vaccine,” for example, do not believe that every single vaccine is appropriate for every single individual. Many doctors recommend a “delayed” vaccine schedule for some patients, and not always the recommended one-size-fits-all CDC childhood schedule. Other doctors choose to recommend vaccines based on the actual science and merit of each vaccine, recommending some, while determining that others are not worth the risk for children, such as the suspect seasonal flu shot. These doctors who do not hold extreme positions would be opposed to government-mandated vaccinations and the removal of all parental exemptions. In this eBook, I am going to summarize the many doctors today who do not take the most extremist pro-vaccine position, which is probably not held by very many doctors at all, in spite of what the pharmaceutical industry, the federal government, and the mainstream media would like the public to believe.</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

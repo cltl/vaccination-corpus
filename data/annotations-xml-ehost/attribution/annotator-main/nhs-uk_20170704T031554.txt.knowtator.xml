@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20170704T031554.txt">
+    <annotation>
+        <mention id="EHOST_Instance_40579" />
+        <annotator id="01">Sanne</annotator>
+        <span start="204" end="205" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Aug 23 16:47:36 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40582">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40579">
+        <hasSlotMention id="EHOST_Instance_40582" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40580" />
+        <annotator id="01">Sanne</annotator>
+        <span start="212" end="216" />
+        <spannedText>sure</spannedText>
+        <creationDate>Wed Aug 23 16:47:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40580">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40581" />
+        <annotator id="01">Sanne</annotator>
+        <span start="217" end="247" />
+        <spannedText>if I had chickenpox as a child</spannedText>
+        <creationDate>Wed Aug 23 16:47:46 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40583">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40579" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40584">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40580" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40581">
+        <hasSlotMention id="EHOST_Instance_40583" />
+        <hasSlotMention id="EHOST_Instance_40584" />
+        <mentionClass id="AttrContent">if I had chickenpox as a child</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

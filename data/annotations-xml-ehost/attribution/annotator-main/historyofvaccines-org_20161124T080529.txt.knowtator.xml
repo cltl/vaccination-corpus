@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="historyofvaccines-org_20161124T080529.txt">
+    <annotation>
+        <mention id="EHOST_Instance_25146" />
+        <annotator id="01">Sanne</annotator>
+        <span start="72" end="87" />
+        <spannedText>Donald J. Trump</spannedText>
+        <creationDate>Sun Aug 13 18:22:31 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25178">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25146">
+        <hasSlotMention id="EHOST_Instance_25178" />
+        <mentionClass id="AttrSource">Donald J. Trump</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25147" />
+        <annotator id="01">Sanne</annotator>
+        <span start="103" end="109" />
+        <spannedText>stated</spannedText>
+        <creationDate>Sun Aug 13 18:22:40 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25147">
+        <mentionClass id="AttrCue">stated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25148" />
+        <annotator id="01">Sanne</annotator>
+        <span start="115" end="117" />
+        <spannedText>he</spannedText>
+        <creationDate>Sun Aug 13 18:22:43 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25179">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25148">
+        <hasSlotMention id="EHOST_Instance_25179" />
+        <mentionClass id="AttrSource">he</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25149" />
+        <annotator id="01">Sanne</annotator>
+        <span start="118" end="126" />
+        <spannedText>believes</spannedText>
+        <creationDate>Sun Aug 13 18:22:51 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25149">
+        <mentionClass id="AttrCue">believes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25150" />
+        <annotator id="01">Sanne</annotator>
+        <span start="127" end="157" />
+        <spannedText>that vaccines can cause autism</spannedText>
+        <creationDate>Sun Aug 13 18:22:56 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25180">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25149" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25181">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25148" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25150">
+        <hasSlotMention id="EHOST_Instance_25180" />
+        <hasSlotMention id="EHOST_Instance_25181" />
+        <mentionClass id="AttrContent">that vaccines can cause autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25151" />
+        <annotator id="01">Sanne</annotator>
+        <span start="110" end="157" />
+        <spannedText>that he believes that vaccines can cause autism</spannedText>
+        <creationDate>Sun Aug 13 18:23:05 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25182">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25147" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25183">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25146" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25151">
+        <hasSlotMention id="EHOST_Instance_25182" />
+        <hasSlotMention id="EHOST_Instance_25183" />
+        <mentionClass id="AttrContent">that he believes that vaccines can cause autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25152" />
+        <annotator id="01">Sanne</annotator>
+        <span start="219" end="221" />
+        <spannedText>he</spannedText>
+        <creationDate>Sun Aug 13 18:23:14 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25184">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25152">
+        <hasSlotMention id="EHOST_Instance_25184" />
+        <mentionClass id="AttrSource">he</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25153" />
+        <annotator id="01">Sanne</annotator>
+        <span start="255" end="262" />
+        <spannedText>stating</spannedText>
+        <creationDate>Sun Aug 13 18:23:24 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25153">
+        <mentionClass id="AttrCue">stating</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25154" />
+        <annotator id="01">Sanne</annotator>
+        <span start="264" end="355" />
+        <spannedText>“I am totally in favor of vaccines, but I want smaller doses over a longer period of time.”</spannedText>
+        <creationDate>Sun Aug 13 18:23:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25185">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25153" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25186">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25152" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25154">
+        <hasSlotMention id="EHOST_Instance_25185" />
+        <hasSlotMention id="EHOST_Instance_25186" />
+        <mentionClass id="AttrContent">“I am totally in favor of vaccines, but I want smaller doses over a longer period of time.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25155" />
+        <annotator id="01">Sanne</annotator>
+        <span start="363" end="399" />
+        <spannedText>Tara Haelle, a blogger at Forbes.com</spannedText>
+        <creationDate>Sun Aug 13 18:23:39 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25187">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25155">
+        <hasSlotMention id="EHOST_Instance_25187" />
+        <mentionClass id="AttrSource">Tara Haelle, a blogger at Forbes.com</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25156" />
+        <annotator id="01">Sanne</annotator>
+        <span start="400" end="405" />
+        <spannedText>wrote</spannedText>
+        <creationDate>Sun Aug 13 18:23:46 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25156">
+        <mentionClass id="AttrCue">wrote</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25157" />
+        <annotator id="01">Sanne</annotator>
+        <span start="407" end="981" />
+        <spannedText>“Vaccines are very precisely manufactured to include only what is absolutely necessary to induce enough of an immune response that the body can protect itself against those diseases. So a smaller dose wouldn’t protect a child. It would stick a child with a needle for no reason at all. And spreading out vaccines? That just increases the risks to the children, including leaving them more susceptible to the diseases for a longer period of time. Trump is not ‘totally in favor of vaccines’ if he doesn’t want children protected from the diseases above as early as possible.”</spannedText>
+        <creationDate>Sun Aug 13 18:23:57 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25188">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25156" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25189">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25155" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25157">
+        <hasSlotMention id="EHOST_Instance_25188" />
+        <hasSlotMention id="EHOST_Instance_25189" />
+        <mentionClass id="AttrContent">“Vaccines are very precisely manufactured to include only what is absolutely necessary to induce enough of an immune response that the body can protect itself against those diseases. So a smaller dose wouldn’t protect a child. It would stick a child with a needle for no reason at all. And spreading out vaccines? That just increases the risks to the children, including leaving them more susceptible to the diseases for a longer period of time. Trump is not ‘totally in favor of vaccines’ if he doesn’t want children protected from the diseases above as early as possible.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25158" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1004" end="1019" />
+        <spannedText>Hillary Clinton</spannedText>
+        <creationDate>Sun Aug 13 18:24:12 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25190">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25158">
+        <hasSlotMention id="EHOST_Instance_25190" />
+        <mentionClass id="AttrSource">Hillary Clinton</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25159" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1020" end="1027" />
+        <spannedText>Tweeted</spannedText>
+        <creationDate>Sun Aug 13 18:24:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25159">
+        <mentionClass id="AttrCue">Tweeted</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25160" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1029" end="1159" />
+        <spannedText>“The Science is clear: The earth is round, the sky is blue, and #vaccineswork. Let’s protect all our kids. #GrandmothersKnowBest.”</spannedText>
+        <creationDate>Sun Aug 13 18:24:22 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25191">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25159" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25192">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25158" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25160">
+        <hasSlotMention id="EHOST_Instance_25191" />
+        <hasSlotMention id="EHOST_Instance_25192" />
+        <mentionClass id="AttrContent">“The Science is clear: The earth is round, the sky is blue, and #vaccineswork. Let’s protect all our kids. #GrandmothersKnowBest.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25161" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3184" end="3227" />
+        <spannedText>the Pan American Health Organization (PAHO)</spannedText>
+        <creationDate>Sun Aug 13 18:25:39 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25193">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25161">
+        <hasSlotMention id="EHOST_Instance_25193" />
+        <mentionClass id="AttrSource">the Pan American Health Organization (PAHO)</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25162" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3251" end="3259" />
+        <spannedText>declared</spannedText>
+        <creationDate>Sun Aug 13 18:25:46 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25162">
+        <mentionClass id="AttrCue">declared</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25163" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3260" end="3302" />
+        <spannedText>the Americas to be free of endemic measles</spannedText>
+        <creationDate>Sun Aug 13 18:25:49 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25194">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25161" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25195">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25162" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25163">
+        <hasSlotMention id="EHOST_Instance_25194" />
+        <hasSlotMention id="EHOST_Instance_25195" />
+        <mentionClass id="AttrContent">the Americas to be free of endemic measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25164" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3328" end="3335" />
+        <spannedText>the WHO</spannedText>
+        <creationDate>Sun Aug 13 18:25:58 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25196">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25164">
+        <hasSlotMention id="EHOST_Instance_25196" />
+        <mentionClass id="AttrSource">the WHO</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25165" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3336" end="3345" />
+        <spannedText>estimates</spannedText>
+        <creationDate>Sun Aug 13 18:26:05 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25165">
+        <mentionClass id="AttrCue">estimates</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25166" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3346" end="3404" />
+        <spannedText>that measles killed 2.6 million children per year globally</spannedText>
+        <creationDate>Sun Aug 13 18:26:08 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25197">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25164" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25198">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25165" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25166">
+        <hasSlotMention id="EHOST_Instance_25197" />
+        <hasSlotMention id="EHOST_Instance_25198" />
+        <mentionClass id="AttrContent">that measles killed 2.6 million children per year globally</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25167" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6426" end="6438" />
+        <spannedText>According to</spannedText>
+        <creationDate>Sun Aug 13 18:27:16 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25167">
+        <mentionClass id="AttrCue">According to</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25168" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6439" end="6446" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Sun Aug 13 18:27:20 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25199">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25168">
+        <hasSlotMention id="EHOST_Instance_25199" />
+        <mentionClass id="AttrSource">the CDC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25169" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6448" end="6593" />
+        <spannedText>vaccine effectiveness is “the percent reduction in the frequency of influenza illness among vaccinated people compared to people not vaccinated.”</spannedText>
+        <creationDate>Sun Aug 13 18:27:30 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25200">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25168" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25201">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25167" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25169">
+        <hasSlotMention id="EHOST_Instance_25200" />
+        <hasSlotMention id="EHOST_Instance_25201" />
+        <mentionClass id="AttrContent">vaccine effectiveness is “the percent reduction in the frequency of influenza illness among vaccinated people compared to people not vaccinated.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25170" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6756" end="6765" />
+        <spannedText>recommend</spannedText>
+        <creationDate>Sun Aug 13 18:27:50 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25170">
+        <mentionClass id="AttrCue">recommend</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25171" />
+        <annotator id="01">Sanne</annotator>
+        <span start="6766" end="6822" />
+        <spannedText>the LAIV for young children over the inactivated vaccine</spannedText>
+        <creationDate>Sun Aug 13 18:27:54 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25202">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25170" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25171">
+        <hasSlotMention id="EHOST_Instance_25202" />
+        <mentionClass id="AttrContent">the LAIV for young children over the inactivated vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25172" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7986" end="7989" />
+        <spannedText>her</spannedText>
+        <creationDate>Sun Aug 13 18:28:40 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25203">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25172">
+        <hasSlotMention id="EHOST_Instance_25203" />
+        <mentionClass id="AttrSource">her</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25173" />
+        <annotator id="01">Sanne</annotator>
+        <span start="7990" end="7993" />
+        <spannedText>say</spannedText>
+        <creationDate>Sun Aug 13 18:28:51 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25173">
+        <mentionClass id="AttrCue">say</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25174" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8007" end="8142" />
+        <spannedText>“Oh, I can’t believe Vaxxed is here – it’s this amazing movie that explains how the CDC is hiding evidence that vaccines cause autism.”</spannedText>
+        <creationDate>Sun Aug 13 18:28:56 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_25204">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25172" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_25205">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_25173" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_25174">
+        <hasSlotMention id="EHOST_Instance_25204" />
+        <hasSlotMention id="EHOST_Instance_25205" />
+        <mentionClass id="AttrContent">“Oh, I can’t believe Vaxxed is here – it’s this amazing movie that explains how the CDC is hiding evidence that vaccines cause autism.”</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25175" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8296" end="8401" />
+        <spannedText>Scott C. Weaver, MS, PhD, visiting Philadelphia from the University of Texas Medical Branch at Galveston,</spannedText>
+        <creationDate>Sun Aug 13 18:29:11 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_25206">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_25175">
+        <hasSlotMention id="EHOST_Instance_25206" />
+        <mentionClass id="AttrSource">Scott C. Weaver, MS, PhD, visiting Philadelphia from the University of Texas Medical Branch at Galveston,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25176" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8402" end="8407" />
+        <spannedText>noted</spannedText>
+        <creationDate>Sun Aug 13 18:29:18 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25176">
+        <mentionClass id="AttrCue">noted</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_25177" />
+        <annotator id="01">Sanne</annotator>
+        <span start="8408" end="8494" />
+        <spannedText>that the forest where Zika virus was discovered in the 1940s is actually spelled Ziika</spannedText>
+        <creationDate>Sun Aug 13 18:29:24 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_25177">
+        <mentionClass id="AttrContent">that the forest where Zika virus was discovered in the 1940s is actually spelled Ziika</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

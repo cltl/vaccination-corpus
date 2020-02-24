@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="WebMD_20170628T103153.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31160" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2191" end="2213" />
+        <spannedText>The chickenpox vaccine</spannedText>
+        <creationDate>Mon Sep 18 19:02:48 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31164">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31161" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31160">
+        <hasSlotMention id="EHOST_Instance_31164" />
+        <mentionClass id="AttrContent">The chickenpox vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31161" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2217" end="2228" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Mon Sep 18 19:02:49 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31161">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31162" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2299" end="2310" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Mon Sep 18 19:02:55 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31162">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31163" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2288" end="2290" />
+        <spannedText>It</spannedText>
+        <creationDate>Mon Sep 18 19:02:56 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31165">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31162" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31163">
+        <hasSlotMention id="EHOST_Instance_31165" />
+        <mentionClass id="AttrContent">It</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

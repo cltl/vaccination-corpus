@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Travel-gc-ca_20170612T162447.txt">
+    <annotation>
+        <mention id="EHOST_Instance_32478" />
+        <annotator id="01">Sanne</annotator>
+        <span start="685" end="703" />
+        <spannedText>which vaccinations</spannedText>
+        <creationDate>Mon Sep 11 18:02:52 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_32480">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_32479" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_32478">
+        <hasSlotMention id="EHOST_Instance_32480" />
+        <mentionClass id="AttrContent">which vaccinations</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_32479" />
+        <annotator id="01">Sanne</annotator>
+        <span start="711" end="722" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Mon Sep 11 18:02:57 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_32479">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="WebMD_20161222T195704.txt">
+    <annotation>
+        <mention id="EHOST_Instance_31118" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1233" end="1240" />
+        <spannedText>Studies</spannedText>
+        <creationDate>Mon Sep 18 18:47:52 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31124">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31118">
+        <hasSlotMention id="EHOST_Instance_31124" />
+        <mentionClass id="AttrSource">Studies</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31119" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1246" end="1251" />
+        <spannedText>shown</spannedText>
+        <creationDate>Mon Sep 18 18:47:58 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31119">
+        <mentionClass id="AttrCue">shown</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31120" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1252" end="1396" />
+        <spannedText>that vaccination within three days of exposure is 90% effective at preventing illness; vaccination within five days of exposure is 70% effective</spannedText>
+        <creationDate>Mon Sep 18 18:48:03 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31125">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31118" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31126">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31119" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31120">
+        <hasSlotMention id="EHOST_Instance_31125" />
+        <hasSlotMention id="EHOST_Instance_31126" />
+        <mentionClass id="AttrContent">that vaccination within three days of exposure is 90% effective at preventing illness; vaccination within five days of exposure is 70% effective</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31121" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1774" end="1777" />
+        <spannedText>you</spannedText>
+        <creationDate>Mon Sep 18 18:48:15 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_31127">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_31121">
+        <hasSlotMention id="EHOST_Instance_31127" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31122" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1778" end="1783" />
+        <spannedText>think</spannedText>
+        <creationDate>Mon Sep 18 18:48:24 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_31122">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_31123" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1784" end="1846" />
+        <spannedText>you may be having a serious reaction to the chickenpox vaccine</spannedText>
+        <creationDate>Mon Sep 18 18:48:28 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_31128">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31122" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_31129">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_31121" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_31123">
+        <hasSlotMention id="EHOST_Instance_31128" />
+        <hasSlotMention id="EHOST_Instance_31129" />
+        <mentionClass id="AttrContent">you may be having a serious reaction to the chickenpox vaccine</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

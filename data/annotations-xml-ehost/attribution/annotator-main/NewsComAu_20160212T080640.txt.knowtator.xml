@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="NewsComAu_20160212T080640.txt">
+    <annotation>
+        <mention id="EHOST_Instance_40426" />
+        <annotator id="01">Sanne</annotator>
+        <span start="689" end="701" />
+        <spannedText>a phone call</spannedText>
+        <creationDate>Wed Aug 23 16:33:23 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40473">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40426">
+        <hasSlotMention id="EHOST_Instance_40473" />
+        <mentionClass id="AttrSource">a phone call</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40427" />
+        <annotator id="01">Sanne</annotator>
+        <span start="734" end="743" />
+        <spannedText>informing</spannedText>
+        <creationDate>Wed Aug 23 16:33:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40427">
+        <mentionClass id="AttrCue">informing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40428" />
+        <annotator id="01">Sanne</annotator>
+        <span start="747" end="928" />
+        <spannedText>that Griffin, alongside my mother and I, was potentially exposed to the measles virus while attending a newborn weigh-in appointment at my doctor’s office in Markham on January 27th</spannedText>
+        <creationDate>Wed Aug 23 16:33:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40474">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40426" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40475">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40427" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40428">
+        <hasSlotMention id="EHOST_Instance_40474" />
+        <hasSlotMention id="EHOST_Instance_40475" />
+        <mentionClass id="AttrContent">that Griffin, alongside my mother and I, was potentially exposed to the measles virus while attending a newborn weigh-in appointment at my doctor’s office in Markham on January 27th</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40429" />
+        <annotator id="01">Sanne</annotator>
+        <span start="974" end="982" />
+        <spannedText>informed</spannedText>
+        <creationDate>Wed Aug 23 16:33:58 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40429">
+        <mentionClass id="AttrCue">informed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40430" />
+        <annotator id="01">Sanne</annotator>
+        <span start="983" end="1111" />
+        <spannedText>that someone who later developed measles sat in the doctor’s waiting room between 1 hour before and 30 minutes before we arrived</spannedText>
+        <creationDate>Wed Aug 23 16:34:05 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40476">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40429" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40430">
+        <hasSlotMention id="EHOST_Instance_40476" />
+        <mentionClass id="AttrContent">that someone who later developed measles sat in the doctor’s waiting room between 1 hour before and 30 minutes before we arrived</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40431" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1124" end="1132" />
+        <spannedText>informed</spannedText>
+        <creationDate>Wed Aug 23 16:34:09 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40431">
+        <mentionClass id="AttrCue">informed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40432" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1133" end="1260" />
+        <spannedText>that measles is regarded as “airborne” and can stay in the air and on surfaces up to 2 hours after the infected person has left</spannedText>
+        <creationDate>Wed Aug 23 16:34:14 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40477">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40431" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40432">
+        <hasSlotMention id="EHOST_Instance_40477" />
+        <mentionClass id="AttrContent">that measles is regarded as “airborne” and can stay in the air and on surfaces up to 2 hours after the infected person has left</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40433" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1274" end="1279" />
+        <spannedText>asked</spannedText>
+        <creationDate>Wed Aug 23 16:34:20 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40433">
+        <mentionClass id="AttrCue">asked</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40434" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1280" end="1312" />
+        <spannedText>if I had had the measles vaccine</spannedText>
+        <creationDate>Wed Aug 23 16:34:24 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40478">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40433" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40434">
+        <hasSlotMention id="EHOST_Instance_40478" />
+        <mentionClass id="AttrContent">if I had had the measles vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40435" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1362" end="1369" />
+        <spannedText>advised</spannedText>
+        <creationDate>Wed Aug 23 16:34:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40435">
+        <mentionClass id="AttrCue">advised</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40436" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1370" end="1401" />
+        <spannedText>to not be around small children</spannedText>
+        <creationDate>Wed Aug 23 16:34:32 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40479">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40435" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40436">
+        <hasSlotMention id="EHOST_Instance_40479" />
+        <mentionClass id="AttrContent">to not be around small children</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40437" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2371" end="2372" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Aug 23 16:35:12 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40480">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40437">
+        <hasSlotMention id="EHOST_Instance_40480" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40438" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2376" end="2380" />
+        <spannedText>know</spannedText>
+        <creationDate>Wed Aug 23 16:35:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40438">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40439" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2392" end="2463" />
+        <spannedText>If you have chosen to not vaccinate yourself or your child, I blame you</spannedText>
+        <creationDate>Wed Aug 23 16:35:25 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40481">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40437" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40482">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40438" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40439">
+        <hasSlotMention id="EHOST_Instance_40481" />
+        <hasSlotMention id="EHOST_Instance_40482" />
+        <mentionClass id="AttrContent">If you have chosen to not vaccinate yourself or your child, I blame you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40440" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2701" end="2702" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Aug 23 16:36:08 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40483">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40440">
+        <hasSlotMention id="EHOST_Instance_40483" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40441" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2709" end="2713" />
+        <spannedText>know</spannedText>
+        <creationDate>Wed Aug 23 16:36:15 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40441">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40442" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2714" end="2785" />
+        <spannedText>if my BABY will develop something that has DEATH as a potential outcome</spannedText>
+        <creationDate>Wed Aug 23 16:36:19 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40484">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40440" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40485">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40441" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40442">
+        <hasSlotMention id="EHOST_Instance_40484" />
+        <hasSlotMention id="EHOST_Instance_40485" />
+        <mentionClass id="AttrContent">if my BABY will develop something that has DEATH as a potential outcome</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40443" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2932" end="2935" />
+        <spannedText>You</spannedText>
+        <creationDate>Wed Aug 23 16:36:36 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40486">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40443">
+        <hasSlotMention id="EHOST_Instance_40486" />
+        <mentionClass id="AttrSource">You</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40444" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2936" end="2941" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Aug 23 16:36:42 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40444">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40445" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2942" end="2990" />
+        <spannedText>you are protecting your children from thimerosal</spannedText>
+        <creationDate>Wed Aug 23 16:36:46 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40487">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40444" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40488">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40443" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40445">
+        <hasSlotMention id="EHOST_Instance_40487" />
+        <hasSlotMention id="EHOST_Instance_40488" />
+        <mentionClass id="AttrContent">you are protecting your children from thimerosal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40446" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3031" end="3034" />
+        <spannedText>You</spannedText>
+        <creationDate>Wed Aug 23 16:36:52 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40489">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40446">
+        <hasSlotMention id="EHOST_Instance_40489" />
+        <mentionClass id="AttrSource">You</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40447" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3035" end="3040" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Aug 23 16:36:59 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40447">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40448" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3041" end="3076" />
+        <spannedText>you are protecting them from autism</spannedText>
+        <creationDate>Wed Aug 23 16:37:02 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40490">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40446" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40491">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40447" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40448">
+        <hasSlotMention id="EHOST_Instance_40490" />
+        <hasSlotMention id="EHOST_Instance_40491" />
+        <mentionClass id="AttrContent">you are protecting them from autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40449" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3281" end="3284" />
+        <spannedText>You</spannedText>
+        <creationDate>Wed Aug 23 16:37:10 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40492">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40449">
+        <hasSlotMention id="EHOST_Instance_40492" />
+        <mentionClass id="AttrSource">You</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40450" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3285" end="3290" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Aug 23 16:37:16 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40450">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40451" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3291" end="3433" />
+        <spannedText>you are protecting them through extracts and homeopathy and positive thoughts and Laws of Attraction and dancing by candlelight on a full moon</spannedText>
+        <creationDate>Wed Aug 23 16:37:21 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40493">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40450" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40494">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40449" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40451">
+        <hasSlotMention id="EHOST_Instance_40493" />
+        <hasSlotMention id="EHOST_Instance_40494" />
+        <mentionClass id="AttrContent">you are protecting them through extracts and homeopathy and positive thoughts and Laws of Attraction and dancing by candlelight on a full moon</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40452" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3637" end="3640" />
+        <spannedText>You</spannedText>
+        <creationDate>Wed Aug 23 16:37:31 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40495">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40452">
+        <hasSlotMention id="EHOST_Instance_40495" />
+        <mentionClass id="AttrSource">You</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40453" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3641" end="3646" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Aug 23 16:37:37 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40453">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40454" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3647" end="3760" />
+        <spannedText>you are protecting them by letting them eat their shovel full of dirt and reducing antibiotics and eating organic</spannedText>
+        <creationDate>Wed Aug 23 16:37:42 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40496">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40453" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40497">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40452" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40454">
+        <hasSlotMention id="EHOST_Instance_40496" />
+        <hasSlotMention id="EHOST_Instance_40497" />
+        <mentionClass id="AttrContent">you are protecting them by letting them eat their shovel full of dirt and reducing antibiotics and eating organic</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40455" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4132" end="4135" />
+        <spannedText>You</spannedText>
+        <creationDate>Wed Aug 23 16:38:13 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40498">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40455">
+        <hasSlotMention id="EHOST_Instance_40498" />
+        <mentionClass id="AttrSource">You</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40456" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4208" end="4215" />
+        <spannedText>BEGGING</spannedText>
+        <creationDate>Wed Aug 23 16:38:19 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40456">
+        <mentionClass id="AttrCue">BEGGING</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40457" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4216" end="4261" />
+        <spannedText>to get that vaccine into your precious babies</spannedText>
+        <creationDate>Wed Aug 23 16:38:23 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40499">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40456" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40500">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40455" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40457">
+        <hasSlotMention id="EHOST_Instance_40499" />
+        <hasSlotMention id="EHOST_Instance_40500" />
+        <mentionClass id="AttrContent">to get that vaccine into your precious babies</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40458" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4669" end="4670" />
+        <spannedText>I</spannedText>
+        <creationDate>Wed Aug 23 16:38:48 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40501">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Author" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40458">
+        <hasSlotMention id="EHOST_Instance_40501" />
+        <mentionClass id="AttrSource">I</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40459" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4671" end="4676" />
+        <spannedText>think</spannedText>
+        <creationDate>Wed Aug 23 16:38:54 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40459">
+        <mentionClass id="AttrCue">think</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40460" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4679" end="4727" />
+        <spannedText>what would you have done if your child lay dying</spannedText>
+        <creationDate>Wed Aug 23 16:38:58 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40502">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40459" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40503">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40458" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40460">
+        <hasSlotMention id="EHOST_Instance_40502" />
+        <hasSlotMention id="EHOST_Instance_40503" />
+        <mentionClass id="AttrContent">what would you have done if your child lay dying</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40461" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4862" end="4865" />
+        <spannedText>you</spannedText>
+        <creationDate>Wed Aug 23 16:39:08 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40504">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40461">
+        <hasSlotMention id="EHOST_Instance_40504" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40462" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4879" end="4886" />
+        <spannedText>knowing</spannedText>
+        <creationDate>Wed Aug 23 16:39:16 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40462">
+        <mentionClass id="AttrCue">knowing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40463" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4887" end="4926" />
+        <spannedText>that at least they won’t develop autism</spannedText>
+        <creationDate>Wed Aug 23 16:39:19 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40505">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40461" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40506">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40462" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40463">
+        <hasSlotMention id="EHOST_Instance_40505" />
+        <hasSlotMention id="EHOST_Instance_40506" />
+        <mentionClass id="AttrContent">that at least they won’t develop autism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40464" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5006" end="5010" />
+        <spannedText>tell</spannedText>
+        <creationDate>Wed Aug 23 16:39:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40464">
+        <mentionClass id="AttrCue">tell</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40465" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4997" end="5000" />
+        <spannedText>you</spannedText>
+        <creationDate>Wed Aug 23 16:39:27 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40507">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40465">
+        <hasSlotMention id="EHOST_Instance_40507" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40466" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5014" end="5051" />
+        <spannedText>that you wouldn’t vaccinate them then</spannedText>
+        <creationDate>Wed Aug 23 16:39:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40508">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40465" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40509">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40464" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40466">
+        <hasSlotMention id="EHOST_Instance_40508" />
+        <hasSlotMention id="EHOST_Instance_40509" />
+        <mentionClass id="AttrContent">that you wouldn’t vaccinate them then</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40467" />
+        <annotator id="01">Sanne</annotator>
+        <span start="612" end="5371" />
+        <spannedText>This is my son Griffin, and he may have measles. On February 9th, I received a phone call from York Region Public Health, informing me that Griffin, alongside my mother and I, was potentially exposed to the measles virus while attending a newborn weigh-in appointment at my doctor’s office in Markham on January 27th. Griffin was 15 days old at the time. I was informed that someone who later developed measles sat in the doctor’s waiting room between 1 hour before and 30 minutes before we arrived. I was also informed that measles is regarded as “airborne” and can stay in the air and on surfaces up to 2 hours after the infected person has left. I was then asked if I had had the measles vaccine. I had. Griffin. Griffin had not. Can not. I was advised to not be around small children. If I worked in such an environment I would be written off work. I do work in such an environment; my home. Where I now sit with Griffin and my 3 year old, Aurelia, who has only been able to get one MMR vaccine so far. She is now, technically, exposed too. We are to sit tight and watch for symptoms: fever, cough, runny nose. If we develop any of these we are to call my doctor and arrange to come in under official medical precautions. We are to wait at home, in isolation, until February 17th, after which the 21 days of possible incubation will have passed and we are clear. So, Griffin is now Schrödinger’s baby. Simultaneously with measles, and without it. Until he develops symptoms, or until a further 7 days pass. One or other. And I’m angry. Angry as hell. I won’t get angry at or blame the person in the waiting room. I would have likely done the same thing...you get sick, you go to the doctor. I have no idea what their story is and I will never know. But I do know one thing: If you have chosen to not vaccinate yourself or your child, I blame you. I blame you. You have stood on the shoulders of our collective protection for too long. From that high height, we have given you the PRIVILEGE of our protection, for free. And in return, you gave me this week. A week from hell. Wherein I don’t know if my BABY will develop something that has DEATH as a potential outcome. Now, let’s unpack this shall we. All out on the table. You have NO IDEA what this “potential outcome” means. NO IDEA. I do. Unfortunately, I do. You think you are protecting your children from thimerosal? You aren’t. It’s not in their vaccine. You think you are protecting them from autism? You aren’t. There is no, none, nada, nothing in science that proves this. If you want to use google instead of science to “prove me wrong” then I am happy to call you an imbecile as well as misinformed. You think you are protecting them through extracts and homeopathy and positive thoughts and Laws of Attraction and dancing by candlelight on a full moon? You aren’t. I PROTECT YOUR CHILD. We protect your child. By being concerned world citizens who care about ourselves, our fellow man, and our most vulnerable. So we vaccinate ourselves and our children. You think you are protecting them by letting them eat their shovel full of dirt and reducing antibiotics and eating organic? You aren’t. As an unvaccinated person you are only protected by our good graces. WE LET YOU BE SO PRIVILEGED thanks to our willingness to vaccinate ourselves and our children. You know what vaccines protect your children from? Pain. Suffering. Irreparable harm. Death. And you would be the first to line up if you had an inkling of what the death of a child feels like. You would be crawling through the streets on your hands and knees, begging, BEGGING to get that vaccine into your precious babies because that is what I would have done, if I could, to save my daughter. The fact is, there was no vaccine for her. Not for her illness. And she died. She died at age five and a half, and she is gone. And I watch these arguments trotted out on Facebook and twitter citing false science and long discredited“studies” that just won’t stop and Jenny McCarthy quotes and “it’s MY choice” to not vaccinate...and I think...what would you have done if your child lay dying? Would you give them a scientifically proven, safe and effective vaccine and risk the minuscule likelihood of a side effect? Or would you let them go, knowing that at least they won’t develop autism (which they wouldn’t even develop anyway because SCIENCE)? And don’t you DARE tell me that you wouldn’t vaccinate them then. Don’t you dare. You have no idea what it feels like to go through what we went through. So, look at Griffin. Tell me why he gets to bear the brunt of your stupidity and reckless abuse of our protection? Tell me. Seven more days until I know that my baby is safe. Seven more days. How is your week going, anti-vaxxers?</spannedText>
+        <creationDate>Wed Aug 23 16:40:03 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40510">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40472" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40511">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40471" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40467">
+        <hasSlotMention id="EHOST_Instance_40510" />
+        <hasSlotMention id="EHOST_Instance_40511" />
+        <mentionClass id="AttrContent">This is my son Griffin, and he may have measles. On February 9th, I received a phone call from York Region Public Health, informing me that Griffin, alongside my mother and I, was potentially exposed to the measles virus while attending a newborn weigh-in appointment at my doctor’s office in Markham on January 27th. Griffin was 15 days old at the time. I was informed that someone who later developed measles sat in the doctor’s waiting room between 1 hour before and 30 minutes before we arrived. I was also informed that measles is regarded as “airborne” and can stay in the air and on surfaces up to 2 hours after the infected person has left. I was then asked if I had had the measles vaccine. I had. Griffin. Griffin had not. Can not. I was advised to not be around small children. If I worked in such an environment I would be written off work. I do work in such an environment; my home. Where I now sit with Griffin and my 3 year old, Aurelia, who has only been able to get one MMR vaccine so far. She is now, technically, exposed too. We are to sit tight and watch for symptoms: fever, cough, runny nose. If we develop any of these we are to call my doctor and arrange to come in under official medical precautions. We are to wait at home, in isolation, until February 17th, after which the 21 days of possible incubation will have passed and we are clear. So, Griffin is now Schrödinger’s baby. Simultaneously with measles, and without it. Until he develops symptoms, or until a further 7 days pass. One or other. And I’m angry. Angry as hell. I won’t get angry at or blame the person in the waiting room. I would have likely done the same thing...you get sick, you go to the doctor. I have no idea what their story is and I will never know. But I do know one thing: If you have chosen to not vaccinate yourself or your child, I blame you. I blame you. You have stood on the shoulders of our collective protection for too long. From that high height, we have given you the PRIVILEGE of our protection, for free. And in return, you gave me this week. A week from hell. Wherein I don’t know if my BABY will develop something that has DEATH as a potential outcome. Now, let’s unpack this shall we. All out on the table. You have NO IDEA what this “potential outcome” means. NO IDEA. I do. Unfortunately, I do. You think you are protecting your children from thimerosal? You aren’t. It’s not in their vaccine. You think you are protecting them from autism? You aren’t. There is no, none, nada, nothing in science that proves this. If you want to use google instead of science to “prove me wrong” then I am happy to call you an imbecile as well as misinformed. You think you are protecting them through extracts and homeopathy and positive thoughts and Laws of Attraction and dancing by candlelight on a full moon? You aren’t. I PROTECT YOUR CHILD. We protect your child. By being concerned world citizens who care about ourselves, our fellow man, and our most vulnerable. So we vaccinate ourselves and our children. You think you are protecting them by letting them eat their shovel full of dirt and reducing antibiotics and eating organic? You aren’t. As an unvaccinated person you are only protected by our good graces. WE LET YOU BE SO PRIVILEGED thanks to our willingness to vaccinate ourselves and our children. You know what vaccines protect your children from? Pain. Suffering. Irreparable harm. Death. And you would be the first to line up if you had an inkling of what the death of a child feels like. You would be crawling through the streets on your hands and knees, begging, BEGGING to get that vaccine into your precious babies because that is what I would have done, if I could, to save my daughter. The fact is, there was no vaccine for her. Not for her illness. And she died. She died at age five and a half, and she is gone. And I watch these arguments trotted out on Facebook and twitter citing false science and long discredited“studies” that just won’t stop and Jenny McCarthy quotes and “it’s MY choice” to not vaccinate...and I think...what would you have done if your child lay dying? Would you give them a scientifically proven, safe and effective vaccine and risk the minuscule likelihood of a side effect? Or would you let them go, knowing that at least they won’t develop autism (which they wouldn’t even develop anyway because SCIENCE)? And don’t you DARE tell me that you wouldn’t vaccinate them then. Don’t you dare. You have no idea what it feels like to go through what we went through. So, look at Griffin. Tell me why he gets to bear the brunt of your stupidity and reckless abuse of our protection? Tell me. Seven more days until I know that my baby is safe. Seven more days. How is your week going, anti-vaxxers?</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40468" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5600" end="5602" />
+        <spannedText>It</spannedText>
+        <creationDate>Wed Aug 23 16:40:24 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40512">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40468">
+        <hasSlotMention id="EHOST_Instance_40512" />
+        <mentionClass id="AttrSource">It</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40469" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5603" end="5611" />
+        <spannedText>explains</spannedText>
+        <creationDate>Wed Aug 23 16:40:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40469">
+        <mentionClass id="AttrCue">explains</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40470" />
+        <annotator id="01">Sanne</annotator>
+        <span start="5612" end="5760" />
+        <spannedText>that if you do not provide us with information we have requested from you, we may not be able to provide you with the goods and services you require</spannedText>
+        <creationDate>Wed Aug 23 16:40:37 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_40513">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40468" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_40514">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_40469" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_40470">
+        <hasSlotMention id="EHOST_Instance_40513" />
+        <hasSlotMention id="EHOST_Instance_40514" />
+        <mentionClass id="AttrContent">that if you do not provide us with information we have requested from you, we may not be able to provide you with the goods and services you require</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40471" />
+        <annotator id="01">Sanne</annotator>
+        <span start="584" end="587" />
+        <spannedText>her</spannedText>
+        <creationDate>Sat Aug 26 11:00:01 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_40515">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_40471">
+        <hasSlotMention id="EHOST_Instance_40515" />
+        <mentionClass id="AttrSource">her</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_40472" />
+        <annotator id="01">Sanne</annotator>
+        <span start="597" end="604" />
+        <spannedText>message</spannedText>
+        <creationDate>Sat Aug 26 11:00:08 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_40472">
+        <mentionClass id="AttrCue">message</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

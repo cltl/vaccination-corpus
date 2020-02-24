@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="NY-Daily-News_20160704T092017.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3016" />
+        <annotator id="01">Sanne</annotator>
+        <span start="698" end="753" />
+        <span start="771" end="811" />
+        <spannedText>the U.S. is experiencing a multi-state measles outbreak ... started at Disneyland this past December</spannedText>
+        <creationDate>Tue Apr 10 20:22:31 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3016">
+        <mentionClass id="claim">the U.S. is experiencing a multi-state measles outbreak ... started at Disneyland this past December</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3017" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3118" end="3306" />
+        <spannedText>mixing tourists from countries where vaccination rates are low, with U.S. kids whose parents don't vaccinate them for medical or personal reasons, is a likely cause of the current outbreak</spannedText>
+        <creationDate>Tue Apr 10 20:23:46 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3021">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3018" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3017">
+        <hasSlotMention id="EHOST_Instance_3021" />
+        <mentionClass id="claim">mixing tourists from countries where vaccination rates are low, with U.S. kids whose parents don't vaccinate them for medical or personal reasons, is a likely cause of the current outbreak</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3018" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3308" end="3310" />
+        <spannedText>he</spannedText>
+        <creationDate>Tue Apr 10 20:23:47 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3018">
+        <mentionClass id="source_of_claim">he</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3019" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2573" end="2710" />
+        <spannedText>The timing of the current outbreak, starting during school vacations for many people in the U.S., likely made measles spread more quickly</spannedText>
+        <creationDate>Thu Apr 12 19:27:40 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3022">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3020" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3019">
+        <hasSlotMention id="EHOST_Instance_3022" />
+        <mentionClass id="claim">The timing of the current outbreak, starting during school vacations for many people in the U.S., likely made measles spread more quickly</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3020" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2717" end="2850" />
+        <spannedText>Dr. George Rutherford, vice chair of the department of epidemiology and biostatistics at the University of California, San Francisco,</spannedText>
+        <creationDate>Thu Apr 12 19:27:45 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3020">
+        <mentionClass id="source_of_claim">Dr. George Rutherford, vice chair of the department of epidemiology and biostatistics at the University of California, San Francisco,</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

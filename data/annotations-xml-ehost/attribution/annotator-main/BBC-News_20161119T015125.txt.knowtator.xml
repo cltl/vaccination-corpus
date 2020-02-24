@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="BBC-News_20161119T015125.txt">
+    <annotation>
+        <mention id="EHOST_Instance_4959" />
+        <annotator id="01">Sanne</annotator>
+        <span start="92" end="106" />
+        <spannedText>health experts</spannedText>
+        <creationDate>Tue Jul 25 21:49:14 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4980">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4959">
+        <hasSlotMention id="EHOST_Instance_4980" />
+        <mentionClass id="AttrSource">health experts</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4960" />
+        <annotator id="01">Sanne</annotator>
+        <span start="107" end="110" />
+        <spannedText>say</spannedText>
+        <creationDate>Tue Jul 25 21:49:22 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4960">
+        <mentionClass id="AttrCue">say</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4961" />
+        <annotator id="01">Sanne</annotator>
+        <span start="0" end="90" />
+        <spannedText>Greater effort needs to be put into vaccinating dogs against rabies in order to save lives</spannedText>
+        <creationDate>Tue Jul 25 21:49:26 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_4981">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4959" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_4982">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4960" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4961">
+        <hasSlotMention id="EHOST_Instance_4981" />
+        <hasSlotMention id="EHOST_Instance_4982" />
+        <mentionClass id="AttrContent">Greater effort needs to be put into vaccinating dogs against rabies in order to save lives</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4962" />
+        <annotator id="01">Sanne</annotator>
+        <span start="220" end="258" />
+        <spannedText>The Global Alliance for Rabies Control</spannedText>
+        <creationDate>Tue Jul 25 21:49:37 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4983">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4962">
+        <hasSlotMention id="EHOST_Instance_4983" />
+        <mentionClass id="AttrSource">The Global Alliance for Rabies Control</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4963" />
+        <annotator id="01">Sanne</annotator>
+        <span start="259" end="263" />
+        <spannedText>said</spannedText>
+        <creationDate>Tue Jul 25 21:49:45 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4963">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4964" />
+        <annotator id="01">Sanne</annotator>
+        <span start="264" end="308" />
+        <spannedText>mass vaccination could "make rabies history"</spannedText>
+        <creationDate>Tue Jul 25 21:49:51 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_4984">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4963" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_4985">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4962" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4964">
+        <hasSlotMention id="EHOST_Instance_4984" />
+        <hasSlotMention id="EHOST_Instance_4985" />
+        <mentionClass id="AttrContent">mass vaccination could "make rabies history"</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4965" />
+        <annotator id="01">Sanne</annotator>
+        <span start="310" end="343" />
+        <spannedText>The organisation HealthforAnimals</spannedText>
+        <creationDate>Tue Jul 25 21:50:53 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4986">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4965">
+        <hasSlotMention id="EHOST_Instance_4986" />
+        <mentionClass id="AttrSource">The organisation HealthforAnimals</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4966" />
+        <annotator id="01">Sanne</annotator>
+        <span start="344" end="350" />
+        <spannedText>argued</spannedText>
+        <creationDate>Tue Jul 25 21:50:58 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4966">
+        <mentionClass id="AttrCue">argued</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4967" />
+        <annotator id="01">Sanne</annotator>
+        <span start="351" end="416" />
+        <spannedText>protecting dogs was the most cost-effective way to protect people</spannedText>
+        <creationDate>Tue Jul 25 21:51:06 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_4987">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4965" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_4988">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4966" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4967">
+        <hasSlotMention id="EHOST_Instance_4987" />
+        <hasSlotMention id="EHOST_Instance_4988" />
+        <mentionClass id="AttrContent">protecting dogs was the most cost-effective way to protect people</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4968" />
+        <annotator id="01">Sanne</annotator>
+        <span start="765" end="870" />
+        <spannedText>Carel du Marchie Sarvaas, executive director of the global animal medicines association HealthforAnimals,</spannedText>
+        <creationDate>Tue Jul 25 21:52:33 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4989">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4968">
+        <hasSlotMention id="EHOST_Instance_4989" />
+        <mentionClass id="AttrSource">Carel du Marchie Sarvaas, executive director of the global animal medicines association HealthforAnimals,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4969" />
+        <annotator id="01">Sanne</annotator>
+        <span start="871" end="875" />
+        <span start="883" end="884" />
+        <spannedText>told ... :</spannedText>
+        <creationDate>Tue Jul 25 21:52:41 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4969">
+        <mentionClass id="AttrCue">told ... :</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4970" />
+        <annotator id="01">Sanne</annotator>
+        <span start="885" end="1000" />
+        <spannedText>"I don't know if there's a disease which is so easily preventable for so little money that affects so many people."</spannedText>
+        <creationDate>Tue Jul 25 21:52:53 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_4990">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4968" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_4991">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4969" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4970">
+        <hasSlotMention id="EHOST_Instance_4990" />
+        <hasSlotMention id="EHOST_Instance_4991" />
+        <mentionClass id="AttrContent">"I don't know if there's a disease which is so easily preventable for so little money that affects so many people."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4971" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1001" end="1003" />
+        <spannedText>He</spannedText>
+        <creationDate>Tue Jul 25 21:53:05 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4992">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4971">
+        <hasSlotMention id="EHOST_Instance_4992" />
+        <mentionClass id="AttrSource">He</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4972" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1004" end="1008" />
+        <spannedText>said</spannedText>
+        <creationDate>Tue Jul 25 21:53:17 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4972">
+        <mentionClass id="AttrCue">said</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4973" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1009" end="1075" />
+        <spannedText>vaccines were cheap and £5 ($8) could vaccinate 20 dogs for a year</spannedText>
+        <creationDate>Tue Jul 25 21:53:25 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_4993">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4971" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_4994">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4972" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4973">
+        <hasSlotMention id="EHOST_Instance_4993" />
+        <hasSlotMention id="EHOST_Instance_4994" />
+        <mentionClass id="AttrContent">vaccines were cheap and £5 ($8) could vaccinate 20 dogs for a year</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4974" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1138" end="1159" />
+        <spannedText>Mr du Marchie Sarvaas</spannedText>
+        <creationDate>Tue Jul 25 21:53:38 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4995">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4974">
+        <hasSlotMention id="EHOST_Instance_4995" />
+        <mentionClass id="AttrSource">Mr du Marchie Sarvaas</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4975" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1160" end="1165" />
+        <spannedText>said:</spannedText>
+        <creationDate>Tue Jul 25 21:54:08 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4975">
+        <mentionClass id="AttrCue">said:</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4976" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1166" end="1542" />
+        <spannedText>"If you look at the economic perspective there's a case to be made, from a human point of view a lot of lives being lost are certainly the case. "The most cost-effective and efficient way to do it is to vaccinate dogs, but then you run into barriers - how much money people make available to buy vaccines, the logistics of getting vaccines into certain areas - it's not easy."</spannedText>
+        <creationDate>Tue Jul 25 21:54:26 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_4996">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4974" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_4997">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4975" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4976">
+        <hasSlotMention id="EHOST_Instance_4996" />
+        <hasSlotMention id="EHOST_Instance_4997" />
+        <mentionClass id="AttrContent">"If you look at the economic perspective there's a case to be made, from a human point of view a lot of lives being lost are certainly the case. "The most cost-effective and efficient way to do it is to vaccinate dogs, but then you run into barriers - how much money people make available to buy vaccines, the logistics of getting vaccines into certain areas - it's not easy."</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4977" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1637" end="1714" />
+        <spannedText>Prof Louis Nel, executive director of the Global Alliance for Rabies Control,</spannedText>
+        <creationDate>Tue Jul 25 21:54:39 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_4998">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_4977">
+        <hasSlotMention id="EHOST_Instance_4998" />
+        <mentionClass id="AttrSource">Prof Louis Nel, executive director of the Global Alliance for Rabies Control,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4978" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1715" end="1722" />
+        <spannedText>argued:</spannedText>
+        <creationDate>Tue Jul 25 21:56:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_4978">
+        <mentionClass id="AttrCue">argued:</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_4979" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1723" end="1890" />
+        <spannedText>"We can make rabies history if international institutions invested more in mass canine vaccinations. "We know we can beat canine rabies if we vaccinate 70% of dogs."</spannedText>
+        <creationDate>Tue Jul 25 21:56:31 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_4999">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4977" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_5000">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_4978" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_4979">
+        <hasSlotMention id="EHOST_Instance_4999" />
+        <hasSlotMention id="EHOST_Instance_5000" />
+        <mentionClass id="AttrContent">"We can make rabies history if international institutions invested more in mass canine vaccinations. "We know we can beat canine rabies if we vaccinate 70% of dogs."</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

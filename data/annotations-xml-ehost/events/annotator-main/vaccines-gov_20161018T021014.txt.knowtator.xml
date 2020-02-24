@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="vaccines-gov_20161018T021014.txt">
+    <annotation>
+        <mention id="EHOST_Instance_63281" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="857" end="860" />
+        <spannedText>you</spannedText>
+        <creationDate>Tue Sep 12 18:45:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_63452">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_63281">
+        <hasSlotMention id="EHOST_Instance_63452" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63282" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="869" end="873" />
+        <spannedText>sure</spannedText>
+        <creationDate>Tue Sep 12 18:45:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63282">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63283" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="874" end="910" />
+        <spannedText>if you are protected against rubella</spannedText>
+        <creationDate>Tue Sep 12 18:45:29 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_63453">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_63282" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_63454">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_63281" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_63283">
+        <hasSlotMention id="EHOST_Instance_63453" />
+        <hasSlotMention id="EHOST_Instance_63454" />
+        <mentionClass id="AttrContent">if you are protected against rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63284" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1553" end="1557" />
+        <spannedText>they</spannedText>
+        <creationDate>Sun Sep 17 14:22:38 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_63455">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_63284">
+        <hasSlotMention id="EHOST_Instance_63455" />
+        <mentionClass id="AttrSource">they</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63285" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1565" end="1572" />
+        <spannedText>confirm</spannedText>
+        <creationDate>Sun Sep 17 14:22:44 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63285">
+        <mentionClass id="AttrCue">confirm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63286" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1573" end="1577" />
+        <spannedText>this</spannedText>
+        <creationDate>Sun Sep 17 14:22:45 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_63456">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_63285" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_63457">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_63284" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_63286">
+        <hasSlotMention id="EHOST_Instance_63456" />
+        <hasSlotMention id="EHOST_Instance_63457" />
+        <mentionClass id="AttrContent">this</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63287" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="0" end="7" />
+        <spannedText>Rubella</spannedText>
+        <creationDate>Mon Feb 05 16:55:44 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63287">
+        <mentionClass id="Event">Rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63288" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="13" end="23" />
+        <spannedText>contagious</spannedText>
+        <creationDate>Mon Feb 05 16:55:45 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63288">
+        <mentionClass id="Event">contagious</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63289" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="24" end="31" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 16:55:47 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63289">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63290" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="76" end="83" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 16:55:52 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63290">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63291" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="105" end="110" />
+        <spannedText>fever</spannedText>
+        <creationDate>Mon Feb 05 16:55:54 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63291">
+        <mentionClass id="Event">fever</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63292" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="117" end="121" />
+        <spannedText>rash</spannedText>
+        <creationDate>Mon Feb 05 16:55:55 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63292">
+        <mentionClass id="Event">rash</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63293" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="133" end="141" />
+        <spannedText>pregnant</spannedText>
+        <creationDate>Mon Feb 05 16:55:57 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63293">
+        <mentionClass id="Event">pregnant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63294" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="153" end="161" />
+        <spannedText>infected</spannedText>
+        <creationDate>Mon Feb 05 16:55:59 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63294">
+        <mentionClass id="Event">infected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63295" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="167" end="172" />
+        <spannedText>virus</spannedText>
+        <creationDate>Mon Feb 05 16:56:03 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63295">
+        <mentionClass id="Event">virus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63296" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="197" end="204" />
+        <spannedText>defects</spannedText>
+        <creationDate>Mon Feb 05 16:56:05 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63296">
+        <mentionClass id="Event">defects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63297" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="206" end="213" />
+        <spannedText>Rubella</spannedText>
+        <creationDate>Mon Feb 05 16:56:07 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63297">
+        <mentionClass id="Event">Rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63298" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="221" end="230" />
+        <spannedText>prevented</spannedText>
+        <creationDate>Mon Feb 05 16:56:09 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63298">
+        <mentionClass id="Event">prevented</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63299" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="236" end="247" />
+        <spannedText>vaccination</spannedText>
+        <creationDate>Mon Feb 05 16:56:10 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63299">
+        <mentionClass id="Event">vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63300" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="290" end="297" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:56:13 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63300">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63301" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="315" end="323" />
+        <spannedText>licensed</spannedText>
+        <creationDate>Mon Feb 05 16:56:19 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63301">
+        <mentionClass id="Event">licensed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63302" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="304" end="311" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:56:26 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63302">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63303" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="395" end="402" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:56:28 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63303">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63304" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="416" end="427" />
+        <spannedText>vaccination</spannedText>
+        <creationDate>Mon Feb 05 16:56:36 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63304">
+        <mentionClass id="Event">vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63305" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="458" end="466" />
+        <spannedText>provider</spannedText>
+        <creationDate>Mon Feb 05 16:56:38 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63305">
+        <mentionClass id="Event">provider</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63306" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="471" end="475" />
+        <spannedText>help</spannedText>
+        <creationDate>Mon Feb 05 16:56:39 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63306">
+        <mentionClass id="Event">help</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63307" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="476" end="482" />
+        <spannedText>decide</spannedText>
+        <creationDate>Mon Feb 05 16:56:41 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63307">
+        <mentionClass id="Event">decide</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63308" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="489" end="496" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:56:42 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63308">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63309" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="509" end="516" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:56:45 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63309">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63310" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="534" end="543" />
+        <spannedText>effective</spannedText>
+        <creationDate>Mon Feb 05 16:56:47 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63310">
+        <mentionClass id="Event">effective</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63311" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="549" end="556" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:56:54 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63311">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63312" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="576" end="583" />
+        <spannedText>protect</spannedText>
+        <creationDate>Mon Feb 05 16:56:57 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63312">
+        <mentionClass id="Event">protect</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63313" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="601" end="608" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:56:59 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63313">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63314" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="616" end="623" />
+        <spannedText>prevent</spannedText>
+        <creationDate>Mon Feb 05 16:57:01 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63314">
+        <mentionClass id="Event">prevent</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63315" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="634" end="643" />
+        <spannedText>spreading</spannedText>
+        <creationDate>Mon Feb 05 16:57:03 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63315">
+        <mentionClass id="Event">spreading</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63316" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="648" end="655" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 16:57:05 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63316">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63317" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="659" end="667" />
+        <spannedText>pregnant</spannedText>
+        <creationDate>Mon Feb 05 16:57:07 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63317">
+        <mentionClass id="Event">pregnant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63318" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="751" end="758" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:57:10 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63318">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63319" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="777" end="787" />
+        <spannedText>vaccinated</spannedText>
+        <creationDate>Mon Feb 05 16:57:12 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63319">
+        <mentionClass id="Event">vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63320" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="797" end="804" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:57:13 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63320">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63321" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="845" end="852" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:57:15 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63321">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63322" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="885" end="894" />
+        <spannedText>protected</spannedText>
+        <creationDate>Mon Feb 05 16:57:18 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63322">
+        <mentionClass id="Event">protected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63323" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="903" end="910" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:57:19 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63323">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63324" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="925" end="929" />
+        <spannedText>find</spannedText>
+        <creationDate>Mon Feb 05 16:57:22 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63324">
+        <mentionClass id="Event">find</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63325" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="983" end="991" />
+        <spannedText>immunity</spannedText>
+        <creationDate>Mon Feb 05 16:57:27 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63325">
+        <mentionClass id="Event">immunity</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63326" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="975" end="982" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:57:29 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63326">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63327" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1012" end="1019" />
+        <spannedText>written</spannedText>
+        <creationDate>Mon Feb 05 16:57:31 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63327">
+        <mentionClass id="Event">written</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63328" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1037" end="1044" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:57:33 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63328">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63329" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1045" end="1053" />
+        <spannedText>immunity</spannedText>
+        <creationDate>Mon Feb 05 16:57:34 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63329">
+        <mentionClass id="Event">immunity</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63330" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1074" end="1081" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:57:36 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63330">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63331" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1118" end="1122" />
+        <spannedText>test</spannedText>
+        <creationDate>Mon Feb 05 16:57:38 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63331">
+        <mentionClass id="Event">test</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63332" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1137" end="1146" />
+        <spannedText>determine</spannedText>
+        <creationDate>Mon Feb 05 16:57:40 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63332">
+        <mentionClass id="Event">determine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63333" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1162" end="1168" />
+        <spannedText>immune</spannedText>
+        <creationDate>Mon Feb 05 16:57:42 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63333">
+        <mentionClass id="Event">immune</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63334" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1229" end="1235" />
+        <spannedText>visits</spannedText>
+        <creationDate>Mon Feb 05 16:57:46 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63334">
+        <mentionClass id="Event">visits</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63335" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1249" end="1253" />
+        <spannedText>harm</spannedText>
+        <creationDate>Mon Feb 05 16:57:48 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63335">
+        <mentionClass id="Event">harm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63336" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1285" end="1292" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:57:51 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63336">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63337" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1315" end="1321" />
+        <spannedText>immune</spannedText>
+        <creationDate>Mon Feb 05 16:57:57 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63337">
+        <mentionClass id="Event">immune</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63338" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1325" end="1332" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:57:59 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63338">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63339" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1348" end="1356" />
+        <spannedText>planning</spannedText>
+        <creationDate>Mon Feb 05 16:58:02 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63339">
+        <mentionClass id="Event">planning</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63340" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1367" end="1375" />
+        <spannedText>pregnant</spannedText>
+        <creationDate>Mon Feb 05 16:58:08 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63340">
+        <mentionClass id="Event">pregnant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63341" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1383" end="1392" />
+        <spannedText>make sure</spannedText>
+        <creationDate>Mon Feb 05 16:58:10 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63341">
+        <mentionClass id="Event">make sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63342" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1425" end="1429" />
+        <spannedText>test</spannedText>
+        <creationDate>Mon Feb 05 16:58:14 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63342">
+        <mentionClass id="Event">test</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63343" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1449" end="1455" />
+        <spannedText>immune</spannedText>
+        <creationDate>Mon Feb 05 16:58:15 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63343">
+        <mentionClass id="Event">immune</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63344" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1459" end="1466" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:58:18 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63344">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63345" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1504" end="1514" />
+        <spannedText>vaccinated</spannedText>
+        <creationDate>Mon Feb 05 16:58:20 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63345">
+        <mentionClass id="Event">vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63346" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1617" end="1627" />
+        <spannedText>vaccinated</spannedText>
+        <creationDate>Mon Feb 05 16:58:24 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63346">
+        <mentionClass id="Event">vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63347" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1632" end="1639" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:58:26 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63347">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63348" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1653" end="1658" />
+        <spannedText>avoid</spannedText>
+        <creationDate>Mon Feb 05 16:58:29 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63348">
+        <mentionClass id="Event">avoid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63349" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1668" end="1676" />
+        <spannedText>pregnant</spannedText>
+        <creationDate>Mon Feb 05 16:58:30 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63349">
+        <mentionClass id="Event">pregnant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63350" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1727" end="1734" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:58:33 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63350">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63351" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1764" end="1772" />
+        <spannedText>immunity</spannedText>
+        <creationDate>Mon Feb 05 16:58:35 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63351">
+        <mentionClass id="Event">immunity</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63352" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1776" end="1785" />
+        <spannedText>confirmed</spannedText>
+        <creationDate>Mon Feb 05 16:58:37 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63352">
+        <mentionClass id="Event">confirmed</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63353" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1797" end="1801" />
+        <spannedText>test</spannedText>
+        <creationDate>Mon Feb 05 16:58:39 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63353">
+        <mentionClass id="Event">test</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63354" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1803" end="1811" />
+        <spannedText>Pregnant</spannedText>
+        <creationDate>Mon Feb 05 16:58:41 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63354">
+        <mentionClass id="Event">Pregnant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63355" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1830" end="1839" />
+        <spannedText>protected</spannedText>
+        <creationDate>Mon Feb 05 16:58:44 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63355">
+        <mentionClass id="Event">protected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63356" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1848" end="1855" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:58:46 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63356">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63357" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1863" end="1867" />
+        <spannedText>wait</spannedText>
+        <creationDate>Mon Feb 05 16:58:48 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63357">
+        <mentionClass id="Event">wait</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63358" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1890" end="1901" />
+        <spannedText>given birth</spannedText>
+        <creationDate>Mon Feb 05 16:58:57 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63358">
+        <mentionClass id="Event">given birth</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63359" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1913" end="1920" />
+        <spannedText>vaccine</spannedText>
+        <creationDate>Mon Feb 05 16:59:10 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63359">
+        <mentionClass id="Event">vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63360" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1922" end="1929" />
+        <spannedText>Rubella</spannedText>
+        <creationDate>Mon Feb 05 16:59:12 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63360">
+        <mentionClass id="Event">Rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63361" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1936" end="1946" />
+        <spannedText>infectious</spannedText>
+        <creationDate>Mon Feb 05 16:59:20 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63361">
+        <mentionClass id="Event">infectious</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63362" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1947" end="1954" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 16:59:21 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63362">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63363" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1994" end="2008" />
+        <spannedText>German measles</spannedText>
+        <creationDate>Mon Feb 05 16:59:26 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63363">
+        <mentionClass id="Event">German measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63364" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2012" end="2029" />
+        <spannedText>three-day measles</spannedText>
+        <creationDate>Mon Feb 05 16:59:37 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63364">
+        <mentionClass id="Event">three-day measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63365" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2054" end="2061" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 16:59:40 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63365">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63366" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2065" end="2072" />
+        <spannedText>measles</spannedText>
+        <creationDate>Mon Feb 05 16:59:41 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63366">
+        <mentionClass id="Event">measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63367" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2097" end="2104" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 16:59:43 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63367">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63368" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2125" end="2132" />
+        <spannedText>illness</spannedText>
+        <creationDate>Mon Feb 05 16:59:45 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63368">
+        <mentionClass id="Event">illness</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63369" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2139" end="2147" />
+        <spannedText>symptoms</spannedText>
+        <creationDate>Mon Feb 05 16:59:47 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63369">
+        <mentionClass id="Event">symptoms</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63370" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2177" end="2182" />
+        <spannedText>fever</spannedText>
+        <creationDate>Mon Feb 05 16:59:49 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63370">
+        <mentionClass id="Event">fever</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63371" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2184" end="2188" />
+        <spannedText>sore</spannedText>
+        <creationDate>Mon Feb 05 16:59:50 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63371">
+        <mentionClass id="Event">sore</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63372" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2203" end="2207" />
+        <spannedText>rash</spannedText>
+        <creationDate>Mon Feb 05 16:59:52 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63372">
+        <mentionClass id="Event">rash</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63373" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2236" end="2243" />
+        <spannedText>spreads</spannedText>
+        <creationDate>Mon Feb 05 16:59:54 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63373">
+        <mentionClass id="Event">spreads</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63374" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2321" end="2329" />
+        <spannedText>headache</spannedText>
+        <creationDate>Mon Feb 05 16:59:57 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63374">
+        <mentionClass id="Event">headache</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63375" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2331" end="2335" />
+        <spannedText>pink</spannedText>
+        <creationDate>Mon Feb 05 16:59:59 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63375">
+        <mentionClass id="Event">pink</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63376" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2353" end="2363" />
+        <spannedText>discomfort</spannedText>
+        <creationDate>Mon Feb 05 17:00:02 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63376">
+        <mentionClass id="Event">discomfort</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63377" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2375" end="2379" />
+        <spannedText>rash</spannedText>
+        <creationDate>Mon Feb 05 17:00:03 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63377">
+        <mentionClass id="Event">rash</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63378" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2389" end="2396" />
+        <spannedText>Rubella</spannedText>
+        <creationDate>Mon Feb 05 17:00:05 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63378">
+        <mentionClass id="Event">Rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63379" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2408" end="2414" />
+        <spannedText>spread</spannedText>
+        <creationDate>Mon Feb 05 17:00:08 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63379">
+        <mentionClass id="Event">spread</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63380" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2433" end="2441" />
+        <spannedText>sneezing</spannedText>
+        <creationDate>Mon Feb 05 17:00:10 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63380">
+        <mentionClass id="Event">sneezing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63381" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2445" end="2453" />
+        <spannedText>coughing</spannedText>
+        <creationDate>Mon Feb 05 17:00:11 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63381">
+        <mentionClass id="Event">coughing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63382" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2474" end="2481" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:00:13 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63382">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63383" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2504" end="2512" />
+        <spannedText>symptoms</spannedText>
+        <creationDate>Mon Feb 05 17:00:16 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63383">
+        <mentionClass id="Event">symptoms</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63384" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2538" end="2543" />
+        <spannedText>fever</spannedText>
+        <creationDate>Mon Feb 05 17:00:18 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63384">
+        <mentionClass id="Event">fever</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63385" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2545" end="2549" />
+        <spannedText>sore</spannedText>
+        <creationDate>Mon Feb 05 17:00:19 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63385">
+        <mentionClass id="Event">sore</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63386" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2564" end="2568" />
+        <spannedText>rash</spannedText>
+        <creationDate>Mon Feb 05 17:00:21 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63386">
+        <mentionClass id="Event">rash</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63387" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2597" end="2604" />
+        <spannedText>spreads</spannedText>
+        <creationDate>Mon Feb 05 17:00:23 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63387">
+        <mentionClass id="Event">spreads</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63388" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2686" end="2694" />
+        <spannedText>headache</spannedText>
+        <creationDate>Mon Feb 05 17:00:27 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63388">
+        <mentionClass id="Event">headache</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63389" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2696" end="2700" />
+        <spannedText>pink</spannedText>
+        <creationDate>Mon Feb 05 17:00:30 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63389">
+        <mentionClass id="Event">pink</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63390" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2718" end="2728" />
+        <spannedText>discomfort</spannedText>
+        <creationDate>Mon Feb 05 17:00:33 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63390">
+        <mentionClass id="Event">discomfort</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63391" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2740" end="2744" />
+        <spannedText>rash</spannedText>
+        <creationDate>Mon Feb 05 17:00:36 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63391">
+        <mentionClass id="Event">rash</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63392" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2754" end="2760" />
+        <spannedText>Aching</spannedText>
+        <creationDate>Mon Feb 05 17:00:38 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63392">
+        <mentionClass id="Event">Aching</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63393" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2836" end="2848" />
+        <spannedText>complication</spannedText>
+        <creationDate>Mon Feb 05 17:00:43 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63393">
+        <mentionClass id="Event">complication</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63394" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2854" end="2861" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:00:45 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63394">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63395" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2862" end="2871" />
+        <spannedText>infection</spannedText>
+        <creationDate>Mon Feb 05 17:00:48 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63395">
+        <mentionClass id="Event">infection</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63396" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2879" end="2883" />
+        <spannedText>harm</spannedText>
+        <creationDate>Mon Feb 05 17:00:50 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63396">
+        <mentionClass id="Event">harm</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63397" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2902" end="2910" />
+        <spannedText>pregnant</spannedText>
+        <creationDate>Mon Feb 05 17:00:52 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63397">
+        <mentionClass id="Event">pregnant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63398" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2950" end="2956" />
+        <spannedText>immune</spannedText>
+        <creationDate>Mon Feb 05 17:00:55 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63398">
+        <mentionClass id="Event">immune</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63399" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2978" end="2985" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:00:57 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63399">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63400" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2986" end="2995" />
+        <spannedText>infection</spannedText>
+        <creationDate>Mon Feb 05 17:00:59 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63400">
+        <mentionClass id="Event">infection</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63401" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3004" end="3015" />
+        <spannedText>vaccination</spannedText>
+        <creationDate>Mon Feb 05 17:01:01 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63401">
+        <mentionClass id="Event">vaccination</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63402" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3024" end="3031" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:01:03 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63402">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63403" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3039" end="3046" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:01:05 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63403">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63404" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3051" end="3059" />
+        <spannedText>declared</spannedText>
+        <creationDate>Mon Feb 05 17:01:07 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63404">
+        <mentionClass id="Event">declared</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63405" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3061" end="3071" />
+        <spannedText>eliminated</spannedText>
+        <creationDate>Mon Feb 05 17:01:09 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63405">
+        <mentionClass id="Event">eliminated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63406" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3108" end="3115" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 17:01:11 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63406">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63407" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3160" end="3172" />
+        <spannedText>unvaccinated</spannedText>
+        <creationDate>Mon Feb 05 17:01:14 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63407">
+        <mentionClass id="Event">unvaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63408" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3188" end="3195" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:01:16 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63408">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63409" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3223" end="3230" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 17:01:18 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63409">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63410" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3258" end="3264" />
+        <spannedText>spread</spannedText>
+        <creationDate>Mon Feb 05 17:01:21 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63410">
+        <mentionClass id="Event">spread</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63411" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3285" end="3297" />
+        <spannedText>unvaccinated</spannedText>
+        <creationDate>Mon Feb 05 17:01:24 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63411">
+        <mentionClass id="Event">unvaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63412" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3298" end="3306" />
+        <spannedText>pregnant</spannedText>
+        <creationDate>Mon Feb 05 17:01:25 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63412">
+        <mentionClass id="Event">pregnant</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63413" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3318" end="3326" />
+        <spannedText>infected</spannedText>
+        <creationDate>Mon Feb 05 17:01:31 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63413">
+        <mentionClass id="Event">infected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63414" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3332" end="3339" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:01:33 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63414">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63415" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3340" end="3345" />
+        <spannedText>virus</spannedText>
+        <creationDate>Mon Feb 05 17:01:34 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63415">
+        <mentionClass id="Event">virus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63416" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3361" end="3372" />
+        <spannedText>miscarriage</spannedText>
+        <creationDate>Mon Feb 05 17:01:46 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63416">
+        <mentionClass id="Event">miscarriage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63417" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3390" end="3393" />
+        <spannedText>die</spannedText>
+        <creationDate>Mon Feb 05 17:01:55 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63417">
+        <mentionClass id="Event">die</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63418" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3436" end="3440" />
+        <spannedText>pass</spannedText>
+        <creationDate>Mon Feb 05 17:01:59 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63418">
+        <mentionClass id="Event">pass</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63419" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3478" end="3485" />
+        <spannedText>develop</spannedText>
+        <creationDate>Mon Feb 05 17:02:01 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63419">
+        <mentionClass id="Event">develop</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63420" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3500" end="3507" />
+        <spannedText>defects</spannedText>
+        <creationDate>Mon Feb 05 17:02:04 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63420">
+        <mentionClass id="Event">defects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63421" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3523" end="3531" />
+        <spannedText>problems</spannedText>
+        <creationDate>Mon Feb 05 17:02:07 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63421">
+        <mentionClass id="Event">problems</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63422" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3533" end="3537" />
+        <spannedText>loss</spannedText>
+        <creationDate>Mon Feb 05 17:02:08 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63422">
+        <mentionClass id="Event">loss</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63423" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3576" end="3586" />
+        <spannedText>disability</spannedText>
+        <creationDate>Mon Feb 05 17:02:14 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63423">
+        <mentionClass id="Event">disability</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63424" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3608" end="3614" />
+        <spannedText>damage</spannedText>
+        <creationDate>Mon Feb 05 17:02:20 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63424">
+        <mentionClass id="Event">damage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63425" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3630" end="3637" />
+        <spannedText>defects</spannedText>
+        <creationDate>Mon Feb 05 17:02:22 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63425">
+        <mentionClass id="Event">defects</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63426" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3668" end="3676" />
+        <spannedText>infected</spannedText>
+        <creationDate>Mon Feb 05 17:02:24 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63426">
+        <mentionClass id="Event">infected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63427" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3690" end="3699" />
+        <spannedText>pregnancy</spannedText>
+        <creationDate>Mon Feb 05 17:02:26 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63427">
+        <mentionClass id="Event">pregnancy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63428" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3750" end="3758" />
+        <spannedText>infected</spannedText>
+        <creationDate>Mon Feb 05 17:02:29 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63428">
+        <mentionClass id="Event">infected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63429" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3764" end="3771" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:02:31 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63429">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63430" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3781" end="3790" />
+        <spannedText>pregnancy</spannedText>
+        <creationDate>Mon Feb 05 17:02:33 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63430">
+        <mentionClass id="Event">pregnancy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63431" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3822" end="3830" />
+        <spannedText>problems</spannedText>
+        <creationDate>Mon Feb 05 17:02:36 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63431">
+        <mentionClass id="Event">problems</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63432" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3840" end="3849" />
+        <spannedText>pregnancy</spannedText>
+        <creationDate>Mon Feb 05 17:02:38 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63432">
+        <mentionClass id="Event">pregnancy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63433" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3851" end="3858" />
+        <spannedText>Measles</spannedText>
+        <creationDate>Mon Feb 05 17:02:40 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63433">
+        <mentionClass id="Event">Measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63434" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3862" end="3872" />
+        <spannedText>contagious</spannedText>
+        <creationDate>Mon Feb 05 17:02:42 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63434">
+        <mentionClass id="Event">contagious</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63435" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3879" end="3886" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 17:02:44 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63435">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63436" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3901" end="3909" />
+        <spannedText>eruption</spannedText>
+        <creationDate>Mon Feb 05 17:02:46 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63436">
+        <mentionClass id="Event">eruption</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63437" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3945" end="3950" />
+        <spannedText>Mumps</spannedText>
+        <creationDate>Mon Feb 05 17:02:49 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63437">
+        <mentionClass id="Event">Mumps</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63438" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3958" end="3968" />
+        <spannedText>contagious</spannedText>
+        <creationDate>Mon Feb 05 17:02:50 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63438">
+        <mentionClass id="Event">contagious</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63439" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3975" end="3982" />
+        <spannedText>illness</spannedText>
+        <creationDate>Mon Feb 05 17:02:52 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63439">
+        <mentionClass id="Event">illness</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63440" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3993" end="4001" />
+        <spannedText>swelling</spannedText>
+        <creationDate>Mon Feb 05 17:02:54 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63440">
+        <mentionClass id="Event">swelling</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63441" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4100" end="4107" />
+        <spannedText>disease</spannedText>
+        <creationDate>Mon Feb 05 17:03:00 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63441">
+        <mentionClass id="Event">disease</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63442" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4116" end="4126" />
+        <spannedText>chickenpox</spannedText>
+        <creationDate>Mon Feb 05 17:03:02 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63442">
+        <mentionClass id="Event">chickenpox</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63443" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4128" end="4135" />
+        <spannedText>measles</spannedText>
+        <creationDate>Mon Feb 05 17:03:04 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63443">
+        <mentionClass id="Event">measles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63444" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4137" end="4142" />
+        <spannedText>mumps</spannedText>
+        <creationDate>Mon Feb 05 17:03:06 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63444">
+        <mentionClass id="Event">mumps</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63445" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4144" end="4151" />
+        <spannedText>rubella</spannedText>
+        <creationDate>Mon Feb 05 17:03:08 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63445">
+        <mentionClass id="Event">rubella</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63446" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4153" end="4162" />
+        <spannedText>pertussis</spannedText>
+        <creationDate>Mon Feb 05 17:03:10 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63446">
+        <mentionClass id="Event">pertussis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63447" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4167" end="4176" />
+        <spannedText>hepatitis</spannedText>
+        <creationDate>Mon Feb 05 17:03:12 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63447">
+        <mentionClass id="Event">hepatitis</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63448" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4194" end="4202" />
+        <spannedText>affected</spannedText>
+        <creationDate>Mon Feb 05 17:03:14 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63448">
+        <mentionClass id="Event">affected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63449" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4237" end="4241" />
+        <spannedText>kill</spannedText>
+        <creationDate>Mon Feb 05 17:03:19 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63449">
+        <mentionClass id="Event">kill</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63450" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4223" end="4228" />
+        <spannedText>drugs</spannedText>
+        <creationDate>Mon Feb 05 17:03:21 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63450">
+        <mentionClass id="Event">drugs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_63451" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="935" end="946" />
+        <spannedText>vaccination</spannedText>
+        <creationDate>Wed Feb 14 19:46:07 CET 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_63451">
+        <mentionClass id="Event">vaccination</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

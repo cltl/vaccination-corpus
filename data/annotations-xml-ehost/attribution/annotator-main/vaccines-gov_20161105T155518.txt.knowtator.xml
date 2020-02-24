@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="vaccines-gov_20161105T155518.txt">
+    <annotation>
+        <mention id="EHOST_Instance_33076" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1049" end="1078" />
+        <spannedText>periodic testing for immunity</spannedText>
+        <creationDate>Tue Sep 12 18:46:46 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_33083">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33077" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_33076">
+        <hasSlotMention id="EHOST_Instance_33083" />
+        <mentionClass id="AttrContent">periodic testing for immunity</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33077" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1082" end="1093" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Tue Sep 12 18:46:48 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_33077">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33078" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1140" end="1164" />
+        <spannedText>Testing or booster doses</spannedText>
+        <creationDate>Tue Sep 12 18:46:56 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_33084">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33079" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_33078">
+        <hasSlotMention id="EHOST_Instance_33084" />
+        <mentionClass id="AttrContent">Testing or booster doses</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33079" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1173" end="1184" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Tue Sep 12 18:46:58 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_33079">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33080" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1373" end="1383" />
+        <spannedText>The doctor</spannedText>
+        <creationDate>Tue Sep 12 18:47:34 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_33085">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_33080">
+        <hasSlotMention id="EHOST_Instance_33085" />
+        <mentionClass id="AttrSource">The doctor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33081" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1389" end="1398" />
+        <spannedText>determine</spannedText>
+        <creationDate>Tue Sep 12 18:47:40 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_33081">
+        <mentionClass id="AttrCue">determine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_33082" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1399" end="1428" />
+        <spannedText>if they need to be vaccinated</spannedText>
+        <creationDate>Tue Sep 12 18:47:43 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_33086">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33081" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_33087">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_33080" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_33082">
+        <hasSlotMention id="EHOST_Instance_33086" />
+        <hasSlotMention id="EHOST_Instance_33087" />
+        <mentionClass id="AttrContent">if they need to be vaccinated</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

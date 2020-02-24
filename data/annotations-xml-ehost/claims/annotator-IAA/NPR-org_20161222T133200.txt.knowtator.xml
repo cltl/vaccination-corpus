@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="NPR-org_20161222T133200.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3662" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1427" end="1456" />
+        <spannedText>Measles is a terrific vaccine</spannedText>
+        <creationDate>Wed Apr 11 20:50:39 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3668">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3665" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3662">
+        <hasSlotMention id="EHOST_Instance_3668" />
+        <mentionClass id="claim">Measles is a terrific vaccine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3663" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1681" end="1733" />
+        <spannedText>The mumps vaccine, on the other hand, is not so good</spannedText>
+        <creationDate>Wed Apr 11 20:50:48 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3669">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3665" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3663">
+        <hasSlotMention id="EHOST_Instance_3669" />
+        <mentionClass id="claim">The mumps vaccine, on the other hand, is not so good</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3664" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3173" end="3219" />
+        <spannedText>it's failure to vaccinate, not vaccine failure</spannedText>
+        <creationDate>Wed Apr 11 20:51:42 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3670">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3665" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3664">
+        <hasSlotMention id="EHOST_Instance_3670" />
+        <mentionClass id="claim">it's failure to vaccinate, not vaccine failure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3665" />
+        <annotator id="01">Sanne</annotator>
+        <span start="1238" end="1297" />
+        <spannedText>Dr. William Schaffner at Vanderbilt University in Nashville</spannedText>
+        <creationDate>Wed Apr 11 20:51:53 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3665">
+        <mentionClass id="source_of_claim">Dr. William Schaffner at Vanderbilt University in Nashville</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3666" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3899" end="3956" />
+        <spannedText>the No. 1 priority is to make sure everyone is vaccinated</spannedText>
+        <creationDate>Wed Apr 11 20:52:25 CEST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_3671">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_3665" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_3666">
+        <hasSlotMention id="EHOST_Instance_3671" />
+        <mentionClass id="claim">the No. 1 priority is to make sure everyone is vaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3667" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3078" end="3168" />
+        <spannedText>What drives these outbreaks in the U.S. are children that have been withheld from vaccines</spannedText>
+        <creationDate>Mon Apr 23 18:25:44 CEST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3667">
+        <mentionClass id="claim">What drives these outbreaks in the U.S. are children that have been withheld from vaccines</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

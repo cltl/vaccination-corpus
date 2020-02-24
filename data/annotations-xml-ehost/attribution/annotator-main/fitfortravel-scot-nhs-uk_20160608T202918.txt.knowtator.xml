@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="fitfortravel-scot-nhs-uk_20160608T202918.txt">
+    <annotation>
+        <mention id="EHOST_Instance_23495" />
+        <annotator id="01">Sanne</annotator>
+        <span start="197" end="208" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 17:59:54 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23495">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23496" />
+        <annotator id="01">Sanne</annotator>
+        <span start="209" end="305" />
+        <spannedText>that you consult with your General Practitioner or Practice Nurse 6-8 weeks in advance of travel</spannedText>
+        <creationDate>Fri Aug 11 18:00:01 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23514">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23495" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23496">
+        <hasSlotMention id="EHOST_Instance_23514" />
+        <mentionClass id="AttrContent">that you consult with your General Practitioner or Practice Nurse 6-8 weeks in advance of travel</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23497" />
+        <annotator id="01">Sanne</annotator>
+        <span start="307" end="311" />
+        <spannedText>They</spannedText>
+        <creationDate>Fri Aug 11 18:00:06 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23515">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23497">
+        <hasSlotMention id="EHOST_Instance_23515" />
+        <mentionClass id="AttrSource">They</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23498" />
+        <annotator id="01">Sanne</annotator>
+        <span start="360" end="372" />
+        <spannedText>recommending</spannedText>
+        <creationDate>Fri Aug 11 18:00:13 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23498">
+        <mentionClass id="AttrCue">recommending</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23499" />
+        <annotator id="01">Sanne</annotator>
+        <span start="373" end="410" />
+        <spannedText>vaccines and /or antimalarial tablets</spannedText>
+        <creationDate>Fri Aug 11 18:00:16 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23516">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23497" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_23517">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23498" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23499">
+        <hasSlotMention id="EHOST_Instance_23516" />
+        <hasSlotMention id="EHOST_Instance_23517" />
+        <mentionClass id="AttrContent">vaccines and /or antimalarial tablets</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23500" />
+        <annotator id="01">Sanne</annotator>
+        <span start="447" end="454" />
+        <spannedText>discuss</spannedText>
+        <creationDate>Fri Aug 11 18:00:22 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23500">
+        <mentionClass id="AttrCue">discuss</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23501" />
+        <annotator id="01">Sanne</annotator>
+        <span start="455" end="557" />
+        <spannedText>important travel health issues including safe food and water, accidents, sun exposure and insect bites</spannedText>
+        <creationDate>Fri Aug 11 18:00:26 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23518">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23500" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23501">
+        <hasSlotMention id="EHOST_Instance_23518" />
+        <mentionClass id="AttrContent">important travel health issues including safe food and water, accidents, sun exposure and insect bites</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23502" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2811" end="2822" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:01:12 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23502">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23503" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2769" end="2806" />
+        <span start="2823" end="2841" />
+        <spannedText>A total of 5 doses of tetanus vaccine ... for life in the UK</spannedText>
+        <creationDate>Fri Aug 11 18:01:16 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23519">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23502" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23503">
+        <hasSlotMention id="EHOST_Instance_23519" />
+        <mentionClass id="AttrContent">A total of 5 doses of tetanus vaccine ... for life in the UK</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23504" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2864" end="2875" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:01:30 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23504">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23505" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2843" end="2851" />
+        <span start="2876" end="2971" />
+        <spannedText>Boosters ... in a country or situation where the correct treatment of an injury may not be readily available</spannedText>
+        <creationDate>Fri Aug 11 18:01:35 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23520">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23504" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23505">
+        <hasSlotMention id="EHOST_Instance_23520" />
+        <mentionClass id="AttrContent">Boosters ... in a country or situation where the correct treatment of an injury may not be readily available</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23506" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4354" end="4365" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Fri Aug 11 18:02:35 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23506">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23507" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4310" end="4345" />
+        <span start="4366" end="4376" />
+        <spannedText>Adult boosters of pertussis vaccine ... for the UK</spannedText>
+        <creationDate>Fri Aug 11 18:02:39 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23521">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23506" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23507">
+        <hasSlotMention id="EHOST_Instance_23521" />
+        <mentionClass id="AttrContent">Adult boosters of pertussis vaccine ... for the UK</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23508" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4467" end="4475" />
+        <spannedText>evidence</spannedText>
+        <creationDate>Fri Aug 11 18:02:50 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23522">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23508">
+        <hasSlotMention id="EHOST_Instance_23522" />
+        <mentionClass id="AttrSource">evidence</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23509" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4476" end="4481" />
+        <spannedText>shows</spannedText>
+        <creationDate>Fri Aug 11 18:03:01 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23509">
+        <mentionClass id="AttrCue">shows</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23510" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4482" end="4537" />
+        <spannedText>that this is the best way to protect very young infants</spannedText>
+        <creationDate>Fri Aug 11 18:03:05 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23523">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23509" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_23524">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23508" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23510">
+        <hasSlotMention id="EHOST_Instance_23523" />
+        <hasSlotMention id="EHOST_Instance_23524" />
+        <mentionClass id="AttrContent">that this is the best way to protect very young infants</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23511" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4780" end="4790" />
+        <spannedText>Travellers</spannedText>
+        <creationDate>Fri Aug 11 18:03:18 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_23525">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_23511">
+        <hasSlotMention id="EHOST_Instance_23525" />
+        <mentionClass id="AttrSource">Travellers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23512" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4791" end="4798" />
+        <spannedText>wishing</spannedText>
+        <creationDate>Fri Aug 11 18:03:25 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_23512">
+        <mentionClass id="AttrCue">wishing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_23513" />
+        <annotator id="01">Sanne</annotator>
+        <span start="4799" end="4832" />
+        <spannedText>to be immunised against pertussis</spannedText>
+        <creationDate>Fri Aug 11 18:03:31 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_23526">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23511" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_23527">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_23512" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_23513">
+        <hasSlotMention id="EHOST_Instance_23526" />
+        <hasSlotMention id="EHOST_Instance_23527" />
+        <mentionClass id="AttrContent">to be immunised against pertussis</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="petmd-com_20170209T130913.txt">
+    <annotation>
+        <mention id="EHOST_Instance_43596" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2401" end="2418" />
+        <spannedText>your veterinarian</spannedText>
+        <creationDate>Mon Sep 04 18:29:37 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43608">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43596">
+        <hasSlotMention id="EHOST_Instance_43608" />
+        <mentionClass id="AttrSource">your veterinarian</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43597" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2422" end="2431" />
+        <spannedText>confident</spannedText>
+        <creationDate>Mon Sep 04 18:29:43 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43597">
+        <mentionClass id="AttrCue">confident</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43598" />
+        <annotator id="01">Sanne</annotator>
+        <span start="2432" end="2457" />
+        <spannedText>that it was done properly</spannedText>
+        <creationDate>Mon Sep 04 18:29:46 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43609">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43596" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43610">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43597" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43598">
+        <hasSlotMention id="EHOST_Instance_43609" />
+        <hasSlotMention id="EHOST_Instance_43610" />
+        <mentionClass id="AttrContent">that it was done properly</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43599" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3485" end="3503" />
+        <spannedText>Many veterinarians</spannedText>
+        <creationDate>Mon Sep 04 18:30:07 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43611">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Generic" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43599">
+        <hasSlotMention id="EHOST_Instance_43611" />
+        <mentionClass id="AttrSource">Many veterinarians</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43600" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3504" end="3511" />
+        <spannedText>believe</spannedText>
+        <creationDate>Mon Sep 04 18:30:13 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43600">
+        <mentionClass id="AttrCue">believe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43601" />
+        <annotator id="01">Sanne</annotator>
+        <span start="3512" end="3649" />
+        <spannedText>some breeds, such as Rottweilers and Dobermans, should have at least two Parvo vaccines with the last one being given at 20 weeks of age.</spannedText>
+        <creationDate>Mon Sep 04 18:30:16 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43612">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43600" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43613">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43599" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43601">
+        <hasSlotMention id="EHOST_Instance_43612" />
+        <hasSlotMention id="EHOST_Instance_43613" />
+        <mentionClass id="AttrContent">some breeds, such as Rottweilers and Dobermans, should have at least two Parvo vaccines with the last one being given at 20 weeks of age.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43602" />
+        <annotator id="01">Sanne</annotator>
+        <span start="266" end="269" />
+        <spannedText>You</spannedText>
+        <creationDate>Sun Sep 10 16:45:40 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43614">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43602">
+        <hasSlotMention id="EHOST_Instance_43614" />
+        <mentionClass id="AttrSource">You</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43603" />
+        <annotator id="01">Sanne</annotator>
+        <span start="276" end="280" />
+        <spannedText>know</spannedText>
+        <creationDate>Sun Sep 10 16:45:47 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43603">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43604" />
+        <annotator id="01">Sanne</annotator>
+        <span start="281" end="317" />
+        <spannedText>that chocolate can be deadly to dogs</spannedText>
+        <creationDate>Sun Sep 10 16:45:49 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43615">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43603" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43616">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43602" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43604">
+        <hasSlotMention id="EHOST_Instance_43615" />
+        <hasSlotMention id="EHOST_Instance_43616" />
+        <mentionClass id="AttrContent">that chocolate can be deadly to dogs</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43605" />
+        <annotator id="01">Sanne</annotator>
+        <span start="326" end="329" />
+        <spannedText>you</spannedText>
+        <creationDate>Sun Sep 10 16:45:55 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_43617">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_43605">
+        <hasSlotMention id="EHOST_Instance_43617" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43606" />
+        <annotator id="01">Sanne</annotator>
+        <span start="330" end="334" />
+        <spannedText>know</spannedText>
+        <creationDate>Sun Sep 10 16:46:00 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_43606">
+        <mentionClass id="AttrCue">know</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_43607" />
+        <annotator id="01">Sanne</annotator>
+        <span start="335" end="367" />
+        <spannedText>which type is the worst offender</spannedText>
+        <creationDate>Sun Sep 10 16:46:03 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_43618">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43606" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_43619">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_43605" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_43607">
+        <hasSlotMention id="EHOST_Instance_43618" />
+        <hasSlotMention id="EHOST_Instance_43619" />
+        <mentionClass id="AttrContent">which type is the worst offender</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

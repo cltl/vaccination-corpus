@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Banning-Beaumont,-CA-Patch_20150812T082915.txt">
+    <annotation>
+        <mention id="EHOST_Instance_6911" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="165" end="268" />
+        <spannedText>The anti-vaccination movement is likely to blame for the recent measles outbreak linked to a Disneyland</spannedText>
+        <creationDate>Wed Feb 14 08:55:34 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_6917">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_6912" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6911">
+        <hasSlotMention id="EHOST_Instance_6917" />
+        <mentionClass id="claim">The anti-vaccination movement is likely to blame for the recent measles outbreak linked to a Disneyland</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6912" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="283" end="291" />
+        <spannedText>research</spannedText>
+        <creationDate>Wed Feb 14 08:55:45 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6912">
+        <mentionClass id="source_of_claim">research</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6913" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1283" end="1426" />
+        <spannedText>The low vaccination rates are “placing the greater population at risk as well” as those who come into immediate contact with an infected person</spannedText>
+        <creationDate>Wed Feb 14 08:56:47 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_6918">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_6914" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6913">
+        <hasSlotMention id="EHOST_Instance_6918" />
+        <mentionClass id="claim">The low vaccination rates are “placing the greater population at risk as well” as those who come into immediate contact with an infected person</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6914" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="1441" end="1456" />
+        <spannedText>the researchers</spannedText>
+        <creationDate>Wed Feb 14 08:56:53 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6914">
+        <mentionClass id="source_of_claim">the researchers</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6915" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3206" end="3250" />
+        <spannedText>In most cases, the victims were unvaccinated</spannedText>
+        <creationDate>Wed Feb 14 08:59:17 MST 2018</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_6919">
+        <mentionSlot id="has_source" />
+        <complexSlotMentionValue value="EHOST_Instance_6916" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_6915">
+        <hasSlotMention id="EHOST_Instance_6919" />
+        <mentionClass id="claim">In most cases, the victims were unvaccinated</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_6916" />
+        <annotator id="eHOST_2010">Benedetta</annotator>
+        <span start="3265" end="3272" />
+        <spannedText>the CDC</spannedText>
+        <creationDate>Wed Feb 14 08:59:20 MST 2018</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_6916">
+        <mentionClass id="source_of_claim">the CDC</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20170706T141838.txt">
+    <annotation>
+        <mention id="EHOST_Instance_11886" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1499" end="1510" />
+        <spannedText>your doctor</spannedText>
+        <creationDate>Thu Aug 31 11:23:19 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11896">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_11886">
+        <hasSlotMention id="EHOST_Instance_11896" />
+        <mentionClass id="AttrSource">your doctor</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11887" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1511" end="1517" />
+        <spannedText>thinks</spannedText>
+        <creationDate>Thu Aug 31 11:23:27 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11887">
+        <mentionClass id="AttrCue">thinks</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11888" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1518" end="1543" />
+        <spannedText>you could develop tetanus</spannedText>
+        <creationDate>Sun Sep 03 10:53:59 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_11897">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11887" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_11898">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11886" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11888">
+        <hasSlotMention id="EHOST_Instance_11897" />
+        <hasSlotMention id="EHOST_Instance_11898" />
+        <mentionClass id="AttrContent">you could develop tetanus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11889" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2678" end="2681" />
+        <spannedText>you</spannedText>
+        <creationDate>Thu Aug 31 11:24:33 CEST 2017</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_11899">
+        <mentionSlot id="Source_type" />
+        <stringSlotMentionValue value="Explicit" />
+    </stringSlotMention>
+    <classMention id="EHOST_Instance_11889">
+        <hasSlotMention id="EHOST_Instance_11899" />
+        <mentionClass id="AttrSource">you</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11890" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2689" end="2693" />
+        <spannedText>sure</spannedText>
+        <creationDate>Thu Aug 31 11:24:41 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11890">
+        <mentionClass id="AttrCue">sure</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11891" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2694" end="2740" />
+        <spannedText>whether you've had the full vaccination course</spannedText>
+        <creationDate>Thu Aug 31 11:24:45 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_11900">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11890" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_11901">
+        <mentionSlot id="Content_Source_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11889" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11891">
+        <hasSlotMention id="EHOST_Instance_11900" />
+        <hasSlotMention id="EHOST_Instance_11901" />
+        <mentionClass id="AttrContent">whether you've had the full vaccination course</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11892" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3306" end="3313" />
+        <spannedText>advised</spannedText>
+        <creationDate>Thu Aug 31 11:25:04 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11892">
+        <mentionClass id="AttrCue">advised</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11893" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3314" end="3496" />
+        <spannedText>to have as many of the three initial doses of the vaccine as possible before you leave (there should be one-month gaps between each dose) and complete the full course when you return</spannedText>
+        <creationDate>Thu Aug 31 11:25:12 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_11902">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11892" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11893">
+        <hasSlotMention id="EHOST_Instance_11902" />
+        <mentionClass id="AttrContent">to have as many of the three initial doses of the vaccine as possible before you leave (there should be one-month gaps between each dose) and complete the full course when you return</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11894" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3541" end="3555" />
+        <spannedText>a tetanus shot</spannedText>
+        <creationDate>Thu Aug 31 11:25:24 CEST 2017</creationDate>
+    </annotation>
+    <complexSlotMention id="EHOST_Instance_11903">
+        <mentionSlot id="Content_Cue_Link" />
+        <complexSlotMentionValue value="EHOST_Instance_11895" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_11894">
+        <hasSlotMention id="EHOST_Instance_11903" />
+        <mentionClass id="AttrContent">a tetanus shot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_11895" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3573" end="3584" />
+        <spannedText>recommended</spannedText>
+        <creationDate>Thu Aug 31 11:25:26 CEST 2017</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_11895">
+        <mentionClass id="AttrCue">recommended</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
