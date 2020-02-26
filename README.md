@@ -2,17 +2,17 @@
 
 This repository contains the annotations on the Vaccination Corpus, a corpus of texts related to the online vaccination debate that has been annotated with:
 
-  Three layers of annotations about perspectives: attribution, claims and opinions. 
+    Three layers of annotations about perspectives: attribution, claims and opinions. 
   
-  Events related to the vaccination debate.
+    Events related to the vaccination debate.
   
-  Senses of modal verbs (50 files)
+    Senses of modal verbs (50 files)
 
 Directories:
 
-  /docs: contains the annotation guidelines
+    /docs: contains the annotation guidelines
   
-  /data: contains the annotations
+    /data: contains the annotations
 
       annotation-xml-ehost: annotations in xml format (events claims, attributions, opinions, modal senses)
       
