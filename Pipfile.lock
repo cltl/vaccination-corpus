@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "32bd41bbcefb11e3ff14fe0bbc3ebffcbefc56aa0f06f3b20ec1532dac6cc745"
+            "sha256": "fedaf9d0b636a30775d61e47e63029141bd0d578424901bb0db457cbe03afdf3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,7 +21,7 @@
                 "sha256:5b26757dc6f79a3b7dc9fab95359328d5747fcb2409d331ea66d0272b90ab2a0",
                 "sha256:8b995ffe925347a2138d7ac0fe77155e4311a0ea6d6da4f5128fe4b3cbe5ed71"
             ],
-            "markers": "platform_system == 'Darwin'",
+            "markers": "sys_platform == 'darwin'",
             "version": "==0.1.0"
         },
         "attrs": {
@@ -168,6 +168,14 @@
                 "sha256:cc15f2a9850899d108a3c22743a86edcd3b42791a6c88b6e5b558d021d14d065"
             ],
             "version": "==0.1.0"
+        },
+        "loguru": {
+            "hashes": [
+                "sha256:074b3caa6748452c1e4f2b302093c94b65d5a4c5a4d7743636b4121e06437b0e",
+                "sha256:a6101fd435ac89ba5205a105a26a6ede9e4ddbb4408a6e167852efca47806d11"
+            ],
+            "index": "pypi",
+            "version": "==0.4.1"
         },
         "markupsafe": {
             "hashes": [
