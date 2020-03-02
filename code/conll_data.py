@@ -75,15 +75,11 @@ class Span:
     """Dataclass for a Span of Tokens"""
 
     tokens: List[Token]
-    token_ids: List[str] = dc.field(init=False)
-    sent_token_ids: List[Tuple[str, str]] = dc.field(init=False)
     words: List[str] = dc.field(init=False)
     lemmas: List[str] = dc.field(init=False)
     text: str = dc.field(init=False)
 
     def __post_init__(self) -> None:
-        self.token_ids = [token.token_id for token in self.tokens]
-        self.sent_token_ids = [(token.sent_id, token.token_id) for token in self.tokens]
         self.words = [token.word for token in self.tokens]
         self.lemmas = [token.lemma for token in self.tokens]
         self.text = " ".join(token.word for token in self.tokens)
@@ -242,7 +238,7 @@ class Document(Span):
         for token in self.tokens:
             sent_id = token.sent_id
             if sent_id != current_sent_id:
-                s = Sentence(tokens=sentence, sent_id=current_sent_id, document=self)
+                s = Sentence(tokens=sentence, id=f"{self.id}_{current_sent_id}",)
                 sentences.append(s)
                 # define new sentence
                 current_sent_id = sent_id
@@ -251,7 +247,7 @@ class Document(Span):
                 sentence.append(token)
         # append last sentence
         if sentence not in sentences:
-            s = Sentence(tokens=sentence, sent_id=current_sent_id, document=self)
+            s = Sentence(tokens=sentence, id=f"{self.id}_{current_sent_id}",)
             sentences.append(s)
         return sentences
 
@@ -432,15 +428,14 @@ class Document(Span):
 @dc.dataclass
 class Sentence(Span):
 
-    sent_id: str
-    document: Document
-    id: str = dc.field(init=False)
     propositions: List[Proposition] = dc.field(init=False)
+    id: Optional[str] = None
 
     def __post_init__(self):
         Span.__post_init__(self)
-        self.id = self.document.id + "_" + self.sent_id
         self.propositions = self._get_propositions()
+        if self.id is None:
+            self.id = self.tokens[0].sent_id
 
     def _get_semroles(self, apred_key: str) -> List[SemanticRole]:
         """
@@ -503,7 +498,9 @@ class Sentence(Span):
             # actually have semantic roles)
             if semroles:
                 proposition = Proposition(
-                    predicate=predicate, semroles=semroles, sentence=self,
+                    predicate=predicate,
+                    semroles=semroles,
+                    id=f"{self.id}_{predicate.token_id}",
                 )
                 propositions.append(proposition)
 
@@ -638,20 +635,20 @@ class Proposition:
 
     predicate: Token
     semroles: List[SemanticRole]
-    sentence: Optional[Span] = None
     pred_roleset: Optional[str] = None
-    id: str = dc.field(init=False)
+    id: Optional[str] = None
     negated: bool = dc.field(init=False)
     modal: bool = dc.field(init=False)
     passive: bool = dc.field(init=False)
     copular: bool = dc.field(init=False)
 
     def __post_init__(self):
-        self.id = self.sentence.id + "_" + self.predicate.token_id
         self.negated = self._contains_negation()
         self.modal = self._contains_modality()
         self.copular = self._is_copular()
         self.passive = self._is_passive()
+        if self.id is None:
+            self.id = self.predicate.token_id
 
     def _is_passive(self) -> bool:
         """Checks if the predicate is passive verb"""
