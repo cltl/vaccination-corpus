@@ -16,20 +16,24 @@ Directories:
   
     /data: contains the annotations
 
-      annotation-xml-ehost: annotations in xml format (events claims, attributions, opinions, modal senses)
+      /annotation-xml-ehost: annotations in xml format (events claims, attributions, opinions, modal senses)
       
-      annotations-conll-opinions: annotations in conll format of opinions
+      /annotations-conll-opinions: annotations in conll format of opinions
       
-      annotations-conll-claims-events-attribution: annotations in conll format of claims, events and attributions
+      /annotations-conll-claims-events-attribution: annotations in conll format of claims, events and attributions
+
+      /annotations-pickle: annotations as pickle objects of claims, events and attributions
+    
+    /code: contains some code to load the annotations in Python
       
   
 The corpus is described in the following paper:
 
-  Morante, R., C. van Son, I. Maks and P. Vossen (2020), Annotating Perspectives on Vaccination, Proceedings of LREC2020, Marseille.
+  > Morante, R., C. van Son, I. Maks and P. Vossen (2020), Annotating Perspectives on Vaccination, Proceedings of LREC2020, Marseille.
 
-The annotations of modal senses are described in the following paper"
+The annotations of modal senses are described in the following paper:
 
-  Liza King and Roser Morante (2020) Must Children be Vaccinated or not? Annotating Modal Verbs in the Vaccination Debate. Proceedings of LREC 2020, Marseille, France.
+  > Liza King and Roser Morante (2020) Must Children be Vaccinated or not? Annotating Modal Verbs in the Vaccination Debate. Proceedings of LREC 2020, Marseille, France.
 
 
 
