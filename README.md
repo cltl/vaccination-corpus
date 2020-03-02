@@ -1,5 +1,7 @@
 # Vaccination Corpus
 
+*Note: before cloning this repository, please read our [Terms and Conditions](https://github.com/cltl/VaccinationCorpus#terms-and-conditions).*
+
 This repository contains the annotations on the Vaccination Corpus, a corpus of texts related to the online vaccination debate that has been annotated with:
 
     Three layers of annotations about perspectives: attribution, claims and opinions. 
